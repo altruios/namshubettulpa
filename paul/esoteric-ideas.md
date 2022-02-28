@@ -1,6 +1,6 @@
 # ESOTERIC IDEAS (about programming)
 
-[do-computers-think?](do-computers-think?.md)
+[do-computers-think](do-computers-think.md)
 [computation-not-on-silicon](computation-not-on-silicon.md)
 [lab-grown-brain-vs-tilable-computers](lab-grown-brain-vs-tilable-computers.md)
 [machine-learning-and-consiousness](machine-learning-and-consiousness.md)
