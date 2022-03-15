@@ -1,5 +1,5 @@
-paul's wiki
-[programming](programming.md)
+# Paul's wiki
+[programming](programming/index.md)
 [writing](writing.md)
 [art](art.md)
 [music](music.md)
