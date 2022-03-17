@@ -40,7 +40,7 @@ async function transform_to_md(cwd,callback){
             const replace = `<a href="${m1}">${m2}</a>`
             data=data.replace(match,replace)
         });
-        const paragraphs = data.split("\r\n").filter(x=>x!=''&&x[1]!='h'&&x[0]!="<");
+        const paragraphs = data.split("\r\n").filter(x=>x!=''&& !(x[1]=='h'&&x[0]=="<"));
         console.log(paragraphs,"are paragraphs");
 
         paragraphs.forEach(para=>{
