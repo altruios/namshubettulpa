@@ -1,1 +1,0 @@
-{"scripts":{"start":"nodemon index.js"},"dependencies":{"express":"^4.17.3","markdown-serve":"^0.8.0","nodemon":"^2.0.15","pug":"^3.0.2"}}
