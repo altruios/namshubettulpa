@@ -5,3 +5,5 @@
 [music](music.md)
 [projects](projects.md)
 [film-stage](film-stage.md)
+[journal](journal.md)
+
