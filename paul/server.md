@@ -1,1 +1,8 @@
 # SERVER
+
+## PI-HOLE
+
+## JEEVES-BIRTHDAY-REMINDER
+
+## PLEX
+

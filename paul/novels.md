@@ -1,6 +1,6 @@
 # NOVELS
 
-## [namshub-et-tuple](namshub-et-tuple.md)
+## [namshub-et-tuple](../namshubettuple/index.md)
 
 a grocer awakens to find another entity in her head, a shallow copy of the ecentric hidden billionair she seems to have killed - to find it has given her an in to a secret world of programming and magic.
 
