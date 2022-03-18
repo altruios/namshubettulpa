@@ -20,7 +20,9 @@ async function transform_to_md(cwd,callback){
             return;
         }
         const matches = data?.match(/(\[(.*?)\]\(.*?\))/g) ||[]
-        const headers = data?.match(/((?<atxlayer>#+)\s*(?<atxname>.+))|((?<setexname>[\w|\d|\s|-]+)\n(?<setexLayer>[-|=]{2,}))/g)||[];
+        const headers = data?.match(/((?<atxlayer>#+)\s*(?<atxname>.+))|((?<setexname>[\w|\d|\s|-]+)\n(?<setexLayer>[-|=]{2,}))/g)||[]; // matches lines with # at start
+        const quotes = data?.match(/((?<atxlayer>>+)\s*(?<atxname>.+))|((?<setexname>[\w|\d|\s|-]+)\n(?<setexLayer>[-|=]{2,}))/g)||[]; // matches lines with> at start?
+        console.log("quotes",quotes);
      //   console.log("headers are:",headers);
         headers.forEach(head=>{
             const count = head.match(/^#+/)[0].length;
@@ -41,7 +43,7 @@ async function transform_to_md(cwd,callback){
             data=data.replace(match,replace)
         });
         const paragraphs = data.split("\r\n").filter(x=>x!=''&& !(x[1]=='h'&&x[0]=="<"));
-        console.log(paragraphs,"are paragraphs");
+  //      console.log(paragraphs,"are paragraphs");
 
         paragraphs.forEach(para=>{
             data=data.replace(para, `<p>${para}</p>`);
