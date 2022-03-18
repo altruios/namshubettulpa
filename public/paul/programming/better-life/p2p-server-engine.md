@@ -14,6 +14,8 @@ players require a fast blockchain - that's localizable. meaning - once players a
 oct-tree seach... in fact - maybe that's how the ledger should work? a distributed oct-tree? doesn't that need to be rebuilt eachtime? can it just be rebuilt locally?
 
 [player-blockchain](player-blockchain.md)
+
 [object-blockchain](object-blockchain.md)
+
 [ownership-blockchain](ownership-blockchain.md)
 

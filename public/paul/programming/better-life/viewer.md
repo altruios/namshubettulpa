@@ -7,4 +7,14 @@ the viewer / validator for the blockchain stacks. actions are validated by other
 
 a client viewer may for example try to issue to the network a block where the player movement is double speed, or malicious code injection - the honest clients reject the block as invalid - and the originator client's view is converted to the majority's view.
 
+## components
+
+[viewer-top-bar](viewer-top-bar.md)
+
+[viewer-window](viewer-window.md)
+
+[window-side-bar](window-side-bar.md)
+
+[chat-window](chat-window.md)
+
 
