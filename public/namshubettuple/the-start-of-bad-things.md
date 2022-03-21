@@ -4,7 +4,7 @@
 'If you have near unlimited power, what do you do with your spare time? 
 Do you feed the hungry, house the homeless? 
 See, power isn’t unlimited, no matter how vaste, and' 
-`(the power to shape wills is an ocean in one mind || a bucket in everyones)=> 
+`(~the power to shape wills is an ocean in one mind || a bucket in everyones~)=> 
 {
 ~washing every direction such that nothing gets done~ 
 	: 

@@ -5,7 +5,7 @@ const path = require('path');
 const util =require('util');
 const {readFile } = require('fs')
 const {EOL} = require('os');
-const { parse } = require('path');
+const mdx_parser = require("./mdx_parser");
 
 const BASE_DIR = path.join(__dirname, 'public');;
 let cwd = BASE_DIR;
@@ -37,13 +37,13 @@ async function transform_to_md(cwd,callback){
             data=data.replace(link,replace)
         });
  
-        const blocks =mdx_parser(get_mdx_data(data))
+        const blocks =mdx_parser(data)
         if(blocks){
             console.log("Block is true!");
             const start=data.indexOf("{");
             const end = data.lastIndexOf("}");
             const start_str = data.slice(0,start);
-            const end_str = data.slice(end);
+            const end_str = data.slice(end+1);
             data= start_str+blocks+end_str
         }else{
             console.log("block is false");
@@ -84,41 +84,3 @@ app.get("/*",(req,res)=>{
 app.listen(port, () => {
     console.log(`Example app listening on port ${port}`)
   })
-const get_mdx_data=(text)=>{
-    const blockstart = text.indexOf("{");
-    const blockend = text.lastIndexOf("}");
-    const block = text.slice(blockstart,blockend);
-    return block;
-}
-const mdx_parser = (block)=>{
-    const pw = block.match(/\`([^`]*)\`/gm)||[];
-    const sw = block.match(/\"([^"]*)\"/gm)||[];
-    const tw = block.match(/\'([^']*)\'/gm)||[];
-    const aw = block.match(/\*([^*]*)\*/gm)||[];
-    const dw = block.match(/\~([^~]*)\~/gm)||[];
-    const cut_delimiters=["~","`","*"];
-    const stylemap = {
-        "\"":`#ff00ff`,
-        "'":`#ff0000`,
-        "\~":`#4477ff`,
-        "*":`#00ffff`,
-        "`":`#00ff00`
-    }
-    console.log("stuff", pw.length);
-    const lines_types = [...pw,...sw,...tw,...aw,...dw];
-    const transforms = lines_types.map(x=>{
-        return {
-            o:x,
-            t:`<text style="color:${stylemap[x[0]]}">${cut_delimiters.includes(x[0])?x.slice(1,x.length-1):x}</text>`}
-    })
-    console.log("transforms length,",transforms.length)
-    transforms.forEach(t=>{
-
-       console.log(t,"replaceing\n\n",t.o,"\n\nwitih,\n\n",t.t);
-
-        block=block.replace(t.o,t.t)
-    });
-   // console.log("transofmred block,",block);
-    console.log("was tranformed block")
-    return block;
-}
