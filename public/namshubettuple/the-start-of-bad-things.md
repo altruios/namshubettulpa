@@ -108,3 +108,4 @@ perhaps his reality on the boat was a delusion, but that thought always came up 
 'or he could mold a pawn...'
 'stop it Felix, you’re doing it again, just mentoring, that shouldn’t be a problem.'
 }
+[where-things-go-wrong](where-things-go-wrong.md)
