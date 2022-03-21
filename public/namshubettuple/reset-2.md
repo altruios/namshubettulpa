@@ -3,8 +3,8 @@
 {
 ~the fuzzy carpet broke into a kaleidoscope of color in between the resounding pain.~
 *Martha opened her eyes, aware vaguely that she was on the floor.*
-~The pain came in totality, erasing her vision, her hearing.~
-~And it replaced both with a ringing, a sharp oscillation between feeling nothing and feeling everything at once, at a universal frequency she detachedly thought of as the universal frequency of pain.
+~The pain came in totality, erasing her vision, her hearing.
+And it replaced both with a ringing, a sharp oscillation between feeling nothing and feeling everything at once, at a universal frequency she detachedly thought of as the universal frequency of pain.
 If she could scream, she would...maybe she was: if she could find her voice among the ringing, she wasn’t sure. 
 Time ceased. 
 With the only hints of it passing being the oscillation. 
@@ -21,7 +21,7 @@ The carpet was still multicolored and sharp, as if she saw the edge of each indi
 In time the carpet returned to a bland silvery wool.~
 *It was fuzzy under her hand as she lifted herself up.*
 ~Everything was either grey or white in the room she was in - a crystal chandelier overhung what appeared to be the entrance off to her left, under a marble staircase casting dark shadows through the moonlight. 
-A beam of yellow light emanating from her right, blinding her when she turned her head that way, her eyes had trouble adjusting at first. 
+A beam of yellow light emanating from her right, blinding her ~* when she turned her head that way*,~ her eyes had trouble adjusting at first. 
 When they cleared she saw a man sitting at a table in what looked to be a small alcove area next to the kitchen.~
 "Okay, so this is a bit much to explain,"
 *Rossin’s hand trembled a bit as he took a sip of the liquid, dripping down his fingers, gleaming like rubies against the warm, amber kitchen light. 
