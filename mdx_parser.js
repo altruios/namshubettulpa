@@ -18,38 +18,29 @@ const seprate_blocks=(data)=>{
     const delimiters="\"\'\~\`\*";
     const delimiters_stack =[];
     blocks = data.split("").reduce((acc,char,i)=>{
-        console.log("char",char,i,"last was?");
         if(char=="}"){
             if(delimiters_stack.length==0){
-                console.log("pushing block",token_maker.slice(0,20));
                 acc.push(token_maker);
                 token_maker="";
             }else{
-                console.log(delimiters_stack.length,"not empty", char,i)
-                console.log(delimiters_stack,"is delim stack");
                 token_maker=token_maker+String(char)
             }
         }else if(char == "{" && delimiters_stack.length==0){
 
         }else if(delimiters.includes(char)){
             if(char ==delimiters_stack[delimiters_stack.length-1] &&delimiters_stack.length==1){
-                console.log("delim pop");
                 delimiters_stack.pop()
             }else if(delimiters_stack.length==0){
-                console.log("delim push");
 
                 delimiters_stack.push(char);
             }
-            console.log("add to block the delim");
             token_maker=token_maker+String(char);
         }else{
-            console.log("add to block");
             token_maker=token_maker+String(char);
         }
         
         return acc
     },[])
-    console.log("blocks", blocks.length,blocks[4]);
     return blocks;
 }
 
