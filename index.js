@@ -15,7 +15,8 @@ async function transform_to_md(cwd,callback){
     var re = /\[(.*?)\]/g
     var re2 = /\((.*?)\)/g
     return  await readFile(cwd,"utf-8",(err,data)=>{
-        if(data==undefined){
+        if(data==undefined||err){
+            console.log(err,"is error, null is no file");
             callback("<h1>there is no file here</h1>",null);
             return;
         }
@@ -26,7 +27,7 @@ async function transform_to_md(cwd,callback){
         headers.forEach(head=>{
             const count = head.match(/^#+/)[0].length;
             const htext = head.replace(/^#+/,"");
-            const replace = `<h${count}>${htext}</h${count}>`
+            const replace = `<h${count} style="text-align: center;">${htext}</h${count}>`
             data=data.replace(head,replace);
         })
 
@@ -59,26 +60,11 @@ async function transform_to_md(cwd,callback){
     })        
 }
 app.get("/*",(req,res)=>{
-  //  console.log(req);
-    console.log(req.params[0])
     const file_request = req.params[0];
     const is_md_file =file_request.includes(".md");
-    console.log("ismd file",is_md_file)
-    cwd = is_md_file?path.join(BASE_DIR,req.params[0])
-        :path.join(BASE_DIR,req.params[0],"index.md");
-    console.log("CWD",cwd)
-    console.log("transforming data");
-    transform_to_md(cwd,(err,r)=>{
-        if(err) res.send(err);
-        else{
-        //console.log(r,"is transform responce");
-        console.log("sending r");
-
-        res.send(r);
-        }
-        console.log("sent");
-    })
-  
+    cwd = is_md_file ?  path.join(BASE_DIR,req.params[0]) :
+                        path.join(BASE_DIR,req.params[0],"index.md");
+    transform_to_md(cwd,(err,r)=>err?res.send(err):res.send(r))
 })
 
 app.listen(port, () => {

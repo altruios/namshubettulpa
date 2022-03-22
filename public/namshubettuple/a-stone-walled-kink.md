@@ -3,9 +3,11 @@
 ~Detective Kent Barbado watched the interrogation.~ 
 ~It was hilarious to him that Albert - normally so reserved - was getting as frustrated as he was with someone who wouldn’t talk back.~ 
 *Kent watched Albert rise up, and lean over the table -*~ a feat by the measure of his belly pressed against the table...~ 
-if Kent’s crux was coffee, Albert’s was sugar - and carbohydrates in the form of croissants.~ 
+~if Kent’s crux was coffee, Albert’s was sugar - and carbohydrates in the form of croissants.~ 
 *He sipped his coffee -* ~it was after 4am and he was on overtime...~
 'double time actually' ~he thought as he looked at the clock seeing it half past the hour.~
+}
+{
 *He scratched the matted back part of his hair, a nervous habit as he ran through the events as he sipped.* 
 ~A phone call alerted them to the dead body.~
 ~He had been there, dead body by the center of the couch, no obvious markings, and sobbing relative, recently returning from a bar, and a catatonic neighbor with a bloody shirt on.~ 
@@ -20,8 +22,11 @@ if Kent’s crux was coffee, Albert’s was sugar - and carbohydrates in the for
 ~Pupils pulled in, as he scanned it across her face.~ 
 "Good pupil response..." 
 *he put it away.* 
-"Are you in there?" ~She did not respond.~ 
+"Are you in there?" 
+~She did not respond.~ 
 *Kent sighed and considered: he pulled out his notebook from his overcoat’s breast pocket and a pencil from the other.* 
+}
+{
 ~A thought crossed his mind.~ 
 *Tapping his pencil across the book he considered - he took the pencil and pointed it directly at Martha’s eye and pushed it forward, like a slow homing dart..* 'god let me be right about this,' *he thought as he inched it closer *~- letting the shape of things to come sink in her head.~ 
 ~He would stop it right before her eye, but would keep it moving at an even pace...~ 
@@ -36,37 +41,56 @@ if Kent’s crux was coffee, Albert’s was sugar - and carbohydrates in the for
 *She blinked in rapid succession and wobbled her head, slowly coming to focus on the desk, then around her - then at him.* 
 *She tried to back away but was stopped by the handcuffs through the loop at the center of her edge of the table.*
 "Awake now are we?" *he started writing down in his notebook...*
-~Well: Doodling actually.~ 
+~Well: Doodling actually.~
 "Martha?"
-*Martha looked around,*~she wasn’t focused on him,~ 
-"well I’ve been… I don’t know where I was."
+}
+{
+*Martha looked around, *~she wasn’t focused on him,~ 
+"well I’ve been... 
+I don’t know where I was."
+}
+{
 *Kent leaned in, drawing her to look at him,* 
-"Do you know where you are now?" *She turned to him, Then looked at the mirror behind him.*
+"Do you know where you are now?" 
+}
+{
+*She turned to him, Then looked at the mirror behind him.*
 "Police station and I don’t know how to do that... 
 Well deal with it," *she had turned her face away from him.*
+}
+{
 'Okay, so if the catatonic state was just any indicator, she wasn’t all there.' 
 ~He wondered what the tox report would come back as.~ 
 "Martha, I’m detective Kent, do you know why you’re here?"
 *Martha paused, then shifted her weight,*
-"I… well, I wasn’t moving, and you found my neighbor"
+}
+{
+"I... 
+well, I wasn’t moving, and you found my neighbor"
 "Can you tell me anything about what happened?"
 *Martha barked a stifled laugh, *"You wouldn’t believe me"
 *Kent took a sip from his coffee.* 
-"I see a lot of weird shit, it’s 4am, how about you just tell me… in your own words."
+"I see a lot of weird shit, it’s 4am, how about you just tell me... 
+in your own words."
 *Martha paused.*
-* Her eyes darted to the side.* "No I won’t do that." 
-"Well." *Kent started.* 
+*Her eyes darted to the side.* 
+"No I won’t do that." 
+*kent shifted forward*
+"Well if you aren't..." 
 "I mean - I’ll tell you, just give me a minute"
 *Kent waited - Martha sighed.*
 "Okay. I have had a long night, a long weekend actually. 
 I’m not sure exactly where to start... 
 I’ll just... 
-look - this is going to make sense... 
-It doesn’t really make sense to me"
-~A tapping came at the door,~ *Kent looked up.* 
-~Another set of tapping...~ 
+look - this is not"
+}
+{
+*A tapping came at the door, Kent looked up.* 
+*Another set of tapping...* 
 ~A rhythmic knock he knew too well.~
 "I’ll be back, apparently there’s something important"
+}
+{
 *Kent walked out of the room and closed the door, Tom was standing there.* 
 "I have the reports back" 
 *Kent groaned,* "I told you, I don’t need special -"
@@ -79,8 +103,12 @@ It doesn’t really make sense to me"
 "Right, is that it?"
 *Tom nodded and walked away, turning his head over his shoulder,* 
 "I’m not doing special favors for you..."
-*Kent stood there, holding the folder, giving a small grunt as acknowledgement - he opened and read it while he walked back in the room.*
-*Kent noticed Martha darted her head toward him, eyes showing a flash of panic which subsided, her mouth was half open.* 
+*Kent stood there, holding the folder.* 
+*giving a small grunt as acknowledgement - he opened and read it while he walked back in the room.*
+}
+{
+*Kent noticed Martha darted her head toward him.* 
+~Her eyes showing a flash of panic which subsided, her mouth was half open.~ 
 *Kent sat down, the folder open on the desk.* 
 *He leaned forward.*
 "Tox report says clean," 
@@ -98,6 +126,8 @@ It doesn’t really make sense to me"
 "So what happened"
 "I well. 
 Will you just?" 
+}
+{
 ~Martha stopped talking and looked back to Kent.~ 
 "I went over there to talk, they invited me in - then just... fell"
 "Talk about what?"
@@ -107,6 +137,8 @@ fell over?"
 *Martha nodded.*
 *Kent paused.* "What’s so weird about that?"
 *Martha’s eyes darted to the left again.* 
+}
+{
 *And she sighed.* 
 "Fine"
 ~Kent waited and eventually Martha started talking - he couldn’t quite hear the words - they weren’t loud enough, but he couldn’t make them out...~
@@ -119,6 +151,8 @@ I don’t-"
 "Martha, what are you doing?"
 *She tapped her finger against her desk rapidly.* 
 *And she shuddered suddenly and the finger tapping stopped.*
+}
+{
 "Martha?"
 *She paused her head tilted to the left.* 
 "You don’t watch a lot of TV, do you?"
@@ -136,10 +170,13 @@ No hooks in you"
 I’m not addicted to anything"
 "That’s not what I mean" 
 *Martha breathed out...*
+
 "I mean literal... 
 well... 
 Not literal - figurative... 
 no they really exist, just not a literal hook - you don’t have any" 
+}
+{
 *martha paused again and looked to her left.*
 "Okay you keep doing that"
 "What?"
@@ -148,8 +185,10 @@ no they really exist, just not a literal hook - you don’t have any"
 "There’s nothing there"
 *Martha laughed.* 
 "Not for you."
-*Kent tilted his head.* 
-*Martha breathed out.* 
+*Kent tilted his head.*
+}
+{ 
+*Martha sighed.* 
 "I’m sorry, I don’t find this situation funny... 
 Not ha ha funny... 
 Just type 2 funny."
@@ -172,6 +211,8 @@ Type 2 fun is fun after the fact, when you’re safe - like after running from a
 That’s why type 2 is fun at all" 
 *she breathed again,* 
 "that’s what my mother said, at least"
+}
+{
 ~Kent sighed. ~
 "Okay, I’m going to ask you point blank, did you kill her?"
 *Martha shifted in her seat.* 
@@ -181,12 +222,14 @@ I don’t quite know how to answer that"
 "I broke the connection, I’m responsible... 
 But I don’t think I killed her, not exactly"
 ~Kent waited, but Martha said nothing further ~ 
-*Her head tilted slightly to the side...~
+*Her head tilted slightly to the side...*
 ~he watched her, her eyes were following something...~ 
 ~back and forth.~
 "Connection?"
 "You don’t have any hooks, she did"
-*Kent raised his hand to support his head, his fingers reaching back to scratch the back.* 
+}
+{
+*Kent raised his hand to support his head, his fingers reaching back to scratch the back.*
 ~the coffee was weak, and it was late, he felt his patience running thin.~ 
 "You want to make that make a little more sense to me?"
 "I’m not sure I can"
@@ -194,7 +237,7 @@ But I don’t think I killed her, not exactly"
 "I can’t really explain it...
  I don’t really know myself"
 ~Kent turned the words said back in his mind.~ 
-"When you said you had a rough weekend, what did you mean?"”"
+"When you said you had a rough weekend, what did you mean?"
 "I...
 I think I want to talk to a lawyer"
 "Fine. just... 
@@ -205,3 +248,5 @@ That alright with you?"
 "I’ll get someone for those cuffs, just stay there" 
 ~picking up on the ironic tone:~ *Martha sardonically jazz hands’ed causing the metal chains to jiggle.*
 }
+}
+[enter-the-den](enter-the-den.md)

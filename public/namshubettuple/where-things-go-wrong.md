@@ -331,5 +331,5 @@ But it could be worse"
 ~Matha could see him, some part of her registered him.~ 
 ~he was saying something: empty assurances.~ 
 ~He was saying things - she was sure of it - she couldn’t bring herself to care.~
-}
+}}
 [a-stone-walled-kink](a-stone-walled-kink.md)

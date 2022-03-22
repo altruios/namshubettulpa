@@ -2,27 +2,26 @@ const mdx_parser=(text)=>{
     const data = get_mdx_data(text);
     if(data.length<100) return null;
     const blocks = seprate_blocks(data);
-
-    let blockstr="";
+    console.log("blocks length",blocks.length);
+    let blockstr=""
     blocks.forEach(block=>blockstr+=mdx_block_parser(block));
-    blockstr='<div style="background:#3f3f3f">'+blockstr+'</div>'
     return blockstr;
 }
 const get_mdx_data=(text)=>{
     const blockstart = text.indexOf("{");
     const blockend = text.lastIndexOf("}");
-    const block = text.slice(blockstart,blockend);
+    const block = text.slice(blockstart,blockend+1);
     return block;
 }
 const seprate_blocks=(data)=>{
-    if(!data||data.length<100) return [];
     let token_maker = "";
-    const delimiters="\"'~`*";
+    const delimiters="\"\'\~\`\*";
     const delimiters_stack =[];
     blocks = data.split("").reduce((acc,char,i)=>{
+        console.log("char",char,i,"last was?");
         if(char=="}"){
             if(delimiters_stack.length==0){
-                console.log("pushing token");
+                console.log("pushing block",token_maker.slice(0,20));
                 acc.push(token_maker);
                 token_maker="";
             }else{
@@ -33,13 +32,18 @@ const seprate_blocks=(data)=>{
         }else if(char == "{" && delimiters_stack.length==0){
 
         }else if(delimiters.includes(char)){
-            if(char ==delimiters_stack[delimiters_stack.length-1]){
+            if(char ==delimiters_stack[delimiters_stack.length-1] &&delimiters_stack.length==1){
+                console.log("delim pop");
                 delimiters_stack.pop()
             }else if(delimiters_stack.length==0){
+                console.log("delim push");
+
                 delimiters_stack.push(char);
             }
+            console.log("add to block the delim");
             token_maker=token_maker+String(char);
         }else{
+            console.log("add to block");
             token_maker=token_maker+String(char);
         }
         
@@ -56,18 +60,19 @@ const mdx_block_parser = (block)=>{
     aw.forEach(r=>ref=ref.replace(r,""))
     const dw = ref.match(/\~([^~]*)\~/gm)||[];
     dw.forEach(r=>ref=ref.replace(r,""))
-    const pw = ref.match(/\`([^`]*)\`/gm)||[];
-    pw.forEach(r=>ref=ref.replace(r,""))
     const sw = ref.match(/\"([^"]*)\"/gm)||[];
     sw.forEach(r=>ref=ref.replace(r,""))
     const tw = ref.match(/\'([^']*)\'/gm)||[];
+
+    const pw = ref.match(/\`([^`]*)\`/gm)||[];
+    pw.forEach(r=>ref=ref.replace(r,""))
+
     const cut_delimiters=["~","`","*"];
-    const flag_delimiters =["\"","`"];
     const stylemap = {
         "\"":`#ff00ff`,
         "'":`#ff0000`,
-        "\~":`#4477ff`,
-        "*":`#00ffff`,
+        "\~":`#ff7744`,
+        "*":`#66aaff`,
         "`":`#00ff00`
     }
     const lines_types = [...pw,...sw,...tw,...aw,...dw];
