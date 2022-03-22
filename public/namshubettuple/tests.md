@@ -232,7 +232,7 @@ they’re just standing in front of walls."
 "They’re facing the wall...
 right next to it...
 like - millimeters away."
-"Facing the wall."
+"Facing the wall?"
 ~Tom confirmed.~
 "Facing the wall."
 ~Kent took a moment to digest that information.~
