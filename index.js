@@ -40,6 +40,7 @@ async function transform_to_md(cwd,callback){
  
         const blocks =mdx_parser(data)
         if(blocks){
+
             console.log("Block is true!");
             const start=data.indexOf("{");
             const end = data.lastIndexOf("}");
