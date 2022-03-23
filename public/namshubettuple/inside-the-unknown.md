@@ -68,42 +68,42 @@
 *she turned her head and saw the deck of the ship more clearly.* 
 ~a figure in white, a captain’s jacket stood there.~
 ~her hair was shoulder length and blond.~
-“You’ve had a rough time”.
+"You’ve had a rough time".
 ~She said, consolingly with her hand outstretched.~
-“Where am I?”
+"Where am I?"
 "We are at the edge of all things, at the end of all things." 
 ~she said formally.~
-“we’re here to help”
+"we’re here to help"
 *Martha took her hand - and got to her feet.*
 ~She was near the edge of the bow.~
 ~she saw, looking to her left, the storm spread down below the ship.~
 ~The ship was flying inside this place.~
 ~Protected all around by the thin shield.~
-“You’ll learn how to do this too, in time”
+"You’ll learn how to do this too, in time"
 ~the captain said.~
-“Who are you?”
-“Captain Alacira, again - we’re here to help”
-“With?” 
-“Where you were just now. 
-Do you know what was following you?”
+"Who are you?"
+"Captain Alacira, again - we’re here to help"
+"With?" 
+"Where you were just now. 
+Do you know what was following you?"
 ~Martha nodded.~
-“Jason vorheeves”
-“That’s from a movie. 
+"Jason vorheeves"
+"That’s from a movie. 
 That’s a representation, a social icon. 
 it’s wearing it like a mask, like Jason.  
-so you can’t get a good look at it, so you can’t ’know’ it”
-“What is it?”
-“That’s a bit of a story.” 
+so you can’t get a good look at it, so you can’t ’know’ it"
+"What is it?"
+"That’s a bit of a story." 
 *She walked, and turned back with an expectant look for Martha to follow.* 
 ~Martha did.~
-“It’s a curse, ancient... 
+"It’s a curse, ancient... 
 it wears the skin of a man. 
 it hunts you in your dreams - where it can kill you. 
-become you” 
+become you" 
 ~Captain Alacira said, ~
-“it first appeared in egypt, when Merneptah killed his brother: Khaemwaset. 
+"it first appeared in egypt, when Merneptah killed his brother: Khaemwaset. 
 it’s spread since then - being used like a weapon, a tool of sorts. 
-We’re here to stop it.”
+We’re here to stop it."
 *Martha followed her to the center tower of this ship...*
 ~it resembled a ship at sea but the center tower was incredibly tall.~
 ~it looked a little bit like an airplane wing - just turned 90 degrees.~ 
@@ -113,63 +113,63 @@ We’re here to stop it.”
 ~Some distance away was an elevator at the end of the hall...~
 ~which stretched much farther inward than the outside of the tower would suggest.~
 ~It appeared bigger on the inside.~
-“Well. 
+"Well. 
 actually, we’re here to help you stop it.  
 we’ve only a few moments to explain: so excuse our brevity.
 we’ve pulled you out - and will send you somewhere where you can get information to kill it. 
-Gerald!” 
+Gerald!" 
 *She suddenly barked the name.* 
 ~Martha heard a noise from the last room before the elevator~ 
 ~a short balding man in a mostly fitted uniform with a clipboard~*stepped out.*
 ~He waited as they approached.~
 ~The captain motioned for him to speak and she pressed the button for floor 133.~
-“Which one is this?”
-“The first one,” 
+"Which one is this?"
+"The first one," 
 ~the captain said.~
-“Right,” 
+"Right," 
 *he cleared his throat, *
-“so you’ll be going to a monastery in italy - 1450, december 13th, 4:23pm. 
-you’ll be a few feet from the tower right before the fire.”
-“Fire?” 
+"so you’ll be going to a monastery in italy - 1450, december 13th, 4:23pm. 
+you’ll be a few feet from the tower right before the fire."
+"Fire?" 
 *Martha interjected.*
 ~Her brain was still processing this...~
 `['did they say it was a dream...',
 'am I in a dream now?']`
-“We’re connected by every point through great tragedy, yes, fire.  
-You’ll have a minute or two before it starts, and a few minutes during”
+"We’re connected by every point through great tragedy, yes, fire.  
+You’ll have a minute or two before it starts, and a few minutes during"
 *Martha blinked, *
-“to do what?” 
+"to do what?" 
 ~captain Alacira watched the numbers climb.~
 ~they were going up in to the decimal place.~
 ~flashing known irrational constants like e and pi, in the process.~
 ~Around 23 she saw e to the pi.~
-“To get the information you need. 
+"To get the information you need. 
 we’re connected there - moments where no one else would look.  
-right at the destruction.”
-“What information do I need?” 
+right at the destruction."
+"What information do I need?" 
 ~Martha felt like she was obeying a script.~
 ~a feeling of still being in a dream - unable to control or wake from it.~
 ~but aware of it nonetheless.~
-“It’s in a book - somewhere at the top floor. 
+"It’s in a book - somewhere at the top floor. 
 I’m afraid we don’t know more than that... 
-once we go there, that moment passes, and it burns.”
+once we go there, that moment passes, and it burns."
 ~Martha watched the numbers tick by, they were in the 50’s now.~
-“Why not connect earlier in time.”
+"Why not connect earlier in time."
 *Captain Alacira shook her head, *
-“every other moment is taken - we were first to every last spot... 
-it’s not even there before that moment.”
-“So I only get one shot at this?” 
+"every other moment is taken - we were first to every last spot... 
+it’s not even there before that moment."
+"So I only get one shot at this?" 
 ~Martha asked.~
 *The captain nodded.*
-“What exactly am I looking for...?”
+"What exactly am I looking for...?"
 *The man with the clipboard spoke, *
-“it’ll be a book, or some paper, or something written somewhere... 
+"it’ll be a book, or some paper, or something written somewhere... 
 it won’t fit in with place, it will stand out in some way. 
 out of time... 
-you need to bring it back with you”
-“Wait... 
+you need to bring it back with you"
+"Wait... 
 I’m really going to the past? 
-Like, Actual time travel?”
+Like, Actual time travel?"
 *The captain again shook her head, *
 "it’s still through the link - we aren’t the walkers. 
 but these are some of the last solid places left... 
@@ -183,42 +183,42 @@ It's as solid as a fresh dream."
 ~This hallway was missing those old-timey lamps.~
 ~and the corners held shadows.~ 
 ~Shadows thick enough to stick to you.~
-“The number 132, it’s on our right,” 
+"The number 132, it’s on our right," 
 *the man said, inspecting his clipboard.*
 *The captain walked out at a brisk pace - urgent.*
 *She took out a golden pocket watch from her breast pocket.*  
 *Then inspected it breifly before neatly tucking it away.*
-“Come now, we need to hurry - you’ll slip back soon if you don’t move”
-“Slip back?” 
+"Come now, we need to hurry - you’ll slip back soon if you don’t move"
+"Slip back?" 
 *Martha asked as she stepped in line slightly behind the captain.* 
 *the man with the clipboard gave a slight cough and spoke up*
-“She means back to your dream - you’re still dreaming...
+"She means back to your dream - you’re still dreaming...
 sort of... 
 more like we’re dreaming for you... 
-with you...”
+with you..."
 *The captain raised her hand, and the man fell silent.*
-“Details like that aren’t important - where we are, where this ship is... 
-isn’t your concern - don’t try to find us, we’ll find you”
+"Details like that aren’t important - where we are, where this ship is... 
+isn’t your concern - don’t try to find us, we’ll find you"
 *Martha turned to the man with the clipboard, *
-“what’s your name?”
+"what’s your name?"
 *He pushed his glasses back up to his nose.*
-“Gerald Whitewater, nice to meet you” 
+"Gerald Whitewater, nice to meet you" 
 *he shook her hand.*
 *Abruptly the captain stopped, and faced to her right.*
 ~Below her was a golden placard inlaid into the floor, reading CXXXII.~
-“Alright - here it is.” 
+"Alright - here it is." 
 *She stepped to the side and Martha got a good look.*
 ~it was near sunset through the portal.~
 ~it showed a picture of a single moment.~
 ~monks were about - some in the middle of gardening - some walking.~
 ~one was stacking hay next to a tower.~
 ~The color emanating from the portal was a deep orange, it matched the sunset.~
-“We’ll be watching - and pull you out if things go south... 
-more south than they should, that is.”
+"We’ll be watching - and pull you out if things go south... 
+more south than they should, that is."
 ~A kind of heat radiated from the portal, it prickeled her skin.~
 ~she could feel it in exacting detail - this dream was more than surreal.~
 ~it felt like she was just about there.~
-“In you go, before you slip” 
+"In you go, before you slip" 
 *the captain said as she pushed Martha through the portal.*
 *Martha stumbled at the edge falling in face first.*
 ~The rush of heat was overwhelming - and then: there she was and time moved normally.~
@@ -243,7 +243,7 @@ more south than they should, that is.”
 ~A lot.~
 *She grabbed it where she scraped it against the rough stone surface.*
 ~Her fingers moist with the wet of blood.~
-“I’m in a dream, nothing can hurt me” 
+"I’m in a dream, nothing can hurt me" 
 *she said quietly to herself.*
 'but who’s dream?' 
 ~was it her’s still or had what those people on the ship said been true?~
@@ -268,7 +268,7 @@ It stung her nose - an acrid smell, faint but detectable...~
 *She banged on the doors*  
 ~maybe someone would hear her - or they would break... ~
 *she inspected them:* ~they were solid.~
-“Fuck!” 
+"Fuck!" 
 *She screamed.*
 *And she slammed her shoulder into the center.*
 ~She succeeded in injuring her shoulder, but failed at opening the door.~
@@ -293,15 +293,15 @@ It stung her nose - an acrid smell, faint but detectable...~
 ~Kent stood in the media room.~
 ~He was overlooking the shoulder of their tech - who was scrolling through the footage.~
 *Tom walked in, handing Kent coffee.*	
-“Thanks,” 
+"Thanks," 
 *he grumbled.*
 *Tom nodded and turned to watch the footage also, sipping at his own coffee.*
 ~Kent saw the people in the cell get up and stand at the bars,~
-“stop there, play it back.” 
+"stop there, play it back." 
 ~The tech did so.~
-“And turn it up.”  
+"And turn it up."  
 ~The people in the cell block turned and faced the wall.~
-“Rewind a few seconds” 
+"Rewind a few seconds" 
 *the tech obliged, rewound the tape and hit play.*
 *He knocked over some pens in the process and bent underneath the desk to pick them up.* 
 ~The tape played from a few moments prior.~
@@ -318,7 +318,7 @@ It stung her nose - an acrid smell, faint but detectable...~
 ~He tried to make out anything - but he could not.~
 ~The screen went dark.~ 
 *Kent saw the tech's hand waiting for the tape to eject*
-“Hey, what are you doing?” 
+"Hey, what are you doing?" 
 ~The tech ignored him.~
 *he took the tape in both hands and violently smashed it into the counter*
 *once, twice...*
@@ -326,7 +326,7 @@ It stung her nose - an acrid smell, faint but detectable...~
 *The tech was pulling out the magnetic film strip and tearing it apart.*
 *Kent grabbed for it - but the tech ran away - leaving the remains  behind.*
 *The Tech pushed past Tom who just stood there. *
-“Why are you just standing there?”
+"Why are you just standing there?"
 *Tom tilted his head, Kent moved past him and ran to the tech. *
 ~he never did learn his name, and it was years working with him. ~
 'to late to ask now' 
@@ -335,7 +335,7 @@ It stung her nose - an acrid smell, faint but detectable...~
 *he pulled out one folder and held a lighter to it.*
 *when it caught he dropped it in the trash bin.*
 *Kent reached him, as he spinning tech away from his desk.*
-“What are you doing?!” 
+"What are you doing?!" 
 *The tech shook out of his grip - tackling him -  knocking him to the ground.*
 *he stepped over Kent's crumpled form towards the media room.*
 *Kent got up, rubbing at his head.*
@@ -348,24 +348,24 @@ It stung her nose - an acrid smell, faint but detectable...~
 *Kent banged on the glass.*
 *Tom looked up at him, he had a glassy stare.*
 'What was he doing?'
-“Someone get a key!” 
+"Someone get a key!" 
 ~The station was abuzz like a hive, shouts and some hustling later keys made their way into his hand.~
 ~Inside they had lit a pile of papers. ~
 ~the tapes on top - a bonfire. ~
 ~Tom was reaching up and covering the fire sensor with his jacket.~ 
 *Kent put the keys in to the door,*
-“I’m too fucking tired for this shit!”
+"I’m too fucking tired for this shit!"
 ~The tech rushed at the door, pushing back on it.~
 *Kent struggled against the extra weight.* 
 *Tom stepped down from the chair and helped brace the door as well.* 
 ~Kent couldn’t get a good purchase with his feet. ~
 ~They however had the desk to brace against,~
-“Someone give me a hand.”
+"Someone give me a hand."
 ~Smoke started to fill the room - the tapes melting.~
 ~The fire spread on the desk.~
 ~Part of it was on the wall.~
 ~Water was trickling down in the center of the room - blocked by Tom’s jacket.~
-“Open the goddamn door, Tom!” 
+"Open the goddamn door, Tom!" 
 *Kent pounded on the window.*
 ~He saw them coughing.~
 *He pushed harder.*
@@ -385,8 +385,8 @@ It stung her nose - an acrid smell, faint but detectable...~
 ~Tom’s pants as well.~
 ~Someone skinny narrowed their way through the door.~  
 ~holding a fire extinguisher that could not fit though the door.~ 
-“Someone get the fire department here... 
-ambulance too” 
+"Someone get the fire department here... 
+ambulance too" 
 ~a voice in the crowd next to the door shouted~
 "Open the door some more"
 *he shouted into the crowd of officers.*
@@ -420,8 +420,9 @@ ambulance too”
 ~She heard footsteps racing up the stairwell.~
 *around the bend a figure ran up the stairs - a monk.*
 *He moved through Martha and pounded on the door.*
-*She could see him mouthing the words for fire in italian, as he banged.*
-~but she couldn’t hear him.~
+*She could see him mouthing words as he banged*
+`>>--T(fuoco:Italian) fire`
+~but she couldn’t hear him, but she still understood.~
 }
 {	
 *Down below another figure approached.*
@@ -509,7 +510,7 @@ ambulance too”
 ~it swung open.~
 ~Jason was on fire.~
 ~a halo covering his clothes - which didn’t blacken and burn like they should.~
-“Get me the fuck out of here!” 
+"Get me the fuck out of here!" 
 *Martha screamed. *
 *Jason walked in, the the monk threw himself against against him.*  
 *Jason looked down toward the old man.*
@@ -523,7 +524,7 @@ ambulance too”
 *She gulped.*
 *Jason started toward her: but was held back by that old man.*
 *The monk mouthed the words* 
-`>>--T(fuir:french) flee `
+`>>--T(fuggire:Italian) flee`
 *Jason finished his work by casually slicing at the monk’s neck.*
 *The monk fell to his side in a silent gurgleing gasping.*
 *Jason marched onward at a steady pace.*
@@ -541,7 +542,7 @@ ambulance too”
 ~The film barrier rushed away from as she fell~ 
 ~A moment later she was on the deck of the ship.~
 ~Captain Alacira was standing over her.~
-“Good fucking job” 
+"Good fucking job" 
 *she said, holding out her hand.*
 *Martha grabbed it - getting to her feet.*
 ~Martha saw a post with a lever on top.~
@@ -550,7 +551,7 @@ ambulance too”
 ~Martha had the book still - clutched under her arm.~
 *Hesitantly Martha handed the book to her.*
 *The Captain inspected it and said.*
-“We’ll talk soon - don’t die” 
+"We’ll talk soon - don’t die" 
 *The Captain pushed the lever forward.* 
 *A metal spatula swang up from the floor. *
 *In a sudden loud thawp: it stopped just before hitting Martha in the face.*
