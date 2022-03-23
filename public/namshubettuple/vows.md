@@ -1,24 +1,28 @@
 # VOWS
 {
-Kent sat in the waiting room, nurses bustling about and a chorus of beeps from machines in the distance beyond a set of double doors.
-Above him an angry news anchor complaining about something he didn’t care about or listen to.
-A chorus of low murmurs and coughs filled out the white noise.
-His eyes were heavy, and he held his head in his hands, resting them.
-He found a ledge for his head to lean back - and drifted off to sleep.
-He awoke suddenly to his name being called.
-A nurse at the double doors looked at him expectantly.
-A yawn later he was up, and following the nurse a few paces behind.
-He looked at the clock they passed.
-A few minutes of sleep was worse than none, but he had been here for hours already.
+~Kent sat in the waiting room.~ 
+~nurses bustling about~ 
+~A chorus of beeps from machines lay in the distance beyond a set of doors.~
+~Above him an angry news anchor~ 
+~complaining about something kent didn’t care about or listen to.~
+~A chorus of low murmurs and coughs filled out the white noise.~
+~His eyes were heavy, and he held his head in his hands, resting them.
+~He found a ledge for his head to lean back - and drifted off to sleep.
+~He awoke suddenly to his name being called.
+~A nurse at the double doors looked at him expectantly.
+*A yawn later he was up, and followed the nurse a few paces behind.*
+*He looked at the clock they passed.*
+'A few minutes of sleep was worse than none,' 
+~but he had been here for hours already.~
 "You can see him, but he’s not awake yet."
-The nurse turned a corner.
+*The nurse turned a corner.*
 "How bad was it?"
 "He got skin grafts, on his right side - his lungs are fine - minimal smoke damage.
 A contusion on the back of his head and a broken finger: from when he fell - he’s stable but unconscious."
-Kent nodded and the nurse stopped in front of a sliding glass door with curtains beyond.
+*Kent nodded and the nurse stopped in front of a sliding glass door with curtains beyond.*
 "When do you think he’ll wake?"
 "Hard to say."
-the nurse slid open the door.
+*the nurse slid open the door.*
 "He’s not in a coma - just...
 asleep."
 "What’s the difference?"
@@ -27,80 +31,115 @@ He’s got rapid eye movement - means he’s dreaming...
 means he should be able to wake up."
 }
 {
-Kent walked into the room and Tom was wrapped in bandages, his head exposed, his left hand in a small device to keep the fingers straight.
-
-Wires connected him to a machine on his right - monitoring a heart rate and other things.
+*Kent walked in.* 
+~Tom was wrapped in bandages, his head exposed.~ 
+~his left hand in a small device to keep the fingers straight.~
+~Wires connected him to a machine on his right~ 
+~They monitoring a heart rate and other things.~
 "So he’s stable?"
 "He’s not going to die, not today at least."
-Kent swallowed, even with the bandages there Kent saw the black and red flesh beneath...
-he reminded himself that it was covered in fake skin below that bandage and his imagination ran wild with lizard skin imagery.
-He suppressed a gag.
+*Kent swallowed.* 
+~even with the bandages there Kent saw the black and red flesh beneath...~
+~he reminded himself that it was covered in fake skin below that bandage~ 
+~And then his imagination ran wild with lizard skin imagery.~
+~He suppressed a gag.~
 "And the other one?"
 "We couldn’t revive him.
 He died in the ambulance."
-Kent nodded, then looked back to Tom.
+*Kent nodded, then looked back to Tom.*
 }
 {
 "Hey Bozo: you ready to wake up?"
-The reaction was immediate - the heart rate spiking and Tom’s eyes fluttered open.
-The nurse went to his bedside when he started writhing in pain.
-They pressed some buttons on the machine and a hiss escaped.
-Some liquid pumped into Tom’s IV and the effect was immediate - Tom stopped struggling, his heart rate decreasing.
-Kent only watched.
+~The reaction was immediate - the heart monitor rate spiked.~
+*Tom’s eyes fluttered open.*
+*The nurse went to his bedside when he started writhing in pain.*
+*They pressed some buttons on the machine and a hiss escaped.*
+~Some liquid pumped into Tom’s IV and Tom stopped struggling.~
+~his heart rate decreasing.~
+~Kent only watched.~
 "It's so warm,"
-Tom said, his voice a little raspy.
+~Tom said, his voice a little raspy.~
 "You burned yourself pretty bad, what were you doing?"
 "Burned?"
-Tom tried to sit up, only to realize that was a bad idea.
+*Tom tried to sit up* 
+~tried.~
 }
 {
-The drugs they pumped him with were allowing him to not be in agonizing pain but not to move.
+~The drugs they pumped him with dulled the pain, partially...~
 "How did I get here...
 what happened?"
-His eyes were glassy now - not fully able to focus on kent.
-"You were in that room, with the tech - you lit the tapes on fire - you covered the emergency sprinkler with your jacket, you nearly burned the station down.
-Tom started scratching at his arm - where the IV was.
+~His eyes were glassy now - not fully able to focus on kent.~
+"You were in that room. 
+with the tech - you lit the tapes on fire.  
+you covered the emergency sprinkler with your jacket 
+you nearly burned the station down."
+*Tom started scratching at his arm - where the IV was.*
 "I did?"
-he paused.
+~he paused.~
 "No I didn’t...
 Why would I do that? That’s crazy."
 "I saw you do it, the whole station saw you do it.
 I want to know why?"
 "I just brought you coffee - and now I’m here."
-Tom said.
+~Tom said.~
 }
 {
-Tom moved his arm, the one connected to the IV, toward the nurse.
+*Tom moved his arm, the one connected to the IV, toward the nurse.*
 "Should this itch?"
-the nurse shook her head.
+*the nurse shook her head.*
 "It really itches"
-Tom started wheezing - and the beeping of the machine grew more frequent.
-The nurse pushed a button on the side.
+*Tom started wheezing.*  
+~The beeping of the machine grew more frequent.~
+*The nurse pushed a button on the side.*
 }
 {
 "Sir, you’re going to have to leave?"
 "What’s going on?"
 "Allergic reaction maybe - I just called the doctor."
-and no sooner than she said it - A few people came in, with other machinery Kent assumed to be a crash cart...Tom’s wheezing grew louder as the beeping grew more frequent.
+~and no sooner than she said it several people filled the room.~
+~they carried other machinery. ~
+~Kent assumed one to be a crash cart...~
+~The other's he didn't recognize.~
+*Tom’s wheezing grew louder as the beeping grew more frequent.*
 }
 {
-Kent backed out of the room followed by the nurse before they shut the door - then guided him to the waiting room again.
-Kent sat back down in the chair he was in before, listening to the drone of mumbles and whispers from the other people in the room.
-He closed his eyes, and tried to relax to find sleep.
-He could not.
-His mind replayed the event over and over, not perfectly - charred black and red skin intermixed between the images - he tried to filter those out but found he could not.
+*Kent backed out of the room followed by the nurse before they shut the door.*
+~they then  guided him to the waiting room, to wait...~
+~...again.~
+*Kent sat back down in the chair he was in before.* 
+~He listened to the drone of mumbles and whispers from the others in the room.~
+*He closed his eyes,*~ and tried to relax to find sleep.~
+~He could not.~
+~His mind replayed the event over and over, not perfectly.~ 
+~the charred black and red skin intermixed between the images.~
+~he tried to filter those out but found he could not.~
 }
 {
-The last moment was the woman, Martha, speaking that strange language.
-Had she done this somehow? If so....
-How? He struggled for a reason, any reason Tom might help the tech destroy those tapes - or why the tech ran and grabbed Martha’s file.
-It was as if he was hypnotised - but that was nonsense.
-Hypnosis wasn’t real - something for stage shows and bad TV, neither of which he’s seen personally, but everyone loved to talk about bad TV.
-he repeatedly scratched at the back of his head, his fingers going back over the bump.
-Tom would be fine - he was in a hospital, and he had been stable, and they knew exactly what they put into him, so they’d be able to fix it...
-he told himself that - but the nurse’s sudden concern juxtaposed against that thought.
-He tried to focus on something, anything else, and there wasn’t a better distraction than his job.
-He held his head in his hands, his arms braced against the chair - he was so tired, too much had happened in one day, he replayed the events leading up to the fire.
+~The last moment was the woman,~ 
+'Martha,' 
+~speaking that strange language.~
+'Had she done this somehow?' 
+'If so...'
+'How?' 
+~He struggled for a reason, any reason Tom might help the tech destroy those tapes.~ 
+~or why the tech ran and grabbed Martha’s file.~
+'It was as if he was hypnotised - but that was nonsense.'
+'Hypnosis wasn’t real - something for stage shows and bad TV.' 
+~neither of which he’s seen personally...~ 
+~but everyone loved to talk about bad TV.~
+*he repeatedly scratched at the back of his head.* 
+*His fingers going back over the bump.*
+'Tom would be fine...' 
+'he was in a hospital...' 
+'and he had been stable' 
+'and they knew exactly what they put into him, so they’d be able to fix it...'
+~he told himself that - but the nurse’s eyes.~
+~the sudden concern in those eyes juxtaposed against that last thought.~
+~He tried to focus on something, anything else.~ 
+~...And there wasn’t a better distraction than his job.~
+~He held his head in his hands, his arms braced against the chair~ 
+~he was so tired, too much had happened in one day.~ 
+~he replayed the events leading up to the fire.~
 }
 {
 He couldn’t shake the thought that something in that tape they watched caused this - something Martha had done...
