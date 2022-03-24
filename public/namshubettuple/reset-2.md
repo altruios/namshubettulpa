@@ -123,14 +123,38 @@ People who understand that language is a tool to shape how other people express 
 "how much do you remember,"
 *looking to the left he nodded,*
 "I’ll explain."
-`self.defence=>(status:~failed~,state:*error*);`
+`self.defence=>(status:~failed~,state:*error*)^;`
 "Yeah, I don’t think I heard that quite right.
 That’s not english?"
-~But she understood… he wasn’t speaking english. 
-it was as if, she realized, he was speaking to the lizard part of her brain. 
+~But she understood...~ 
+~he wasn’t speaking english.~ 
+~it was as if, she realized, he was speaking to the lizard part of her brain. 
 As her english teacher would put it, the part that instinctively knows things.~
-"No, it's an assignment of state, it doesn’t have a pronunciation."
-"But I heard a sound, that’s a word associated with it!"
+*^A part of her shoulder twiched*
+~Pain shot up her neck starting at the spasm and ending at her eye~
+"fuck"
+*she said, as she pressed her palm into her eye*
+"what was that"
+*Rossin's brow furrowed*
+
+"It's an assignment of state.
+well, it's supposed to be - I need to do some self diagnostics.
+It shouldn't hurt - there's somethign wrong.
+I don't know what."
+"my shoulder"
+"I'm sorry, can't say it won't happen again, just not on purpous."
+"so what exactly happened?"
+"I spoke a language - you heard it - and your brain changed.
+A new associative link between a object or subject and its definition.
+A new memory"
+"you didn't say anthing in english..."
+"no, I didn't"
+~Martha considered for a moment.~
+"so the pronunciation of..."
+"it doesn’t have a pronunciation, not in your language anyway."
+"But I heard a sound, that’s a word associated with it!
+Well, you can make that sound into a word...
+That's how languages are made."
 "Look, I’m not exactly designed to explain things. 
 Strictly speaking I shouldn’t even be here, I was a backup plan. 
 I’m trying to make something out of a really bad situation."

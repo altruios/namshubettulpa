@@ -62,7 +62,7 @@ const mdx_block_parser = (block)=>{
         console.log(txt[0],"are txt 0 values");
         console.log(txt.slice(0,20),"is sample");
         switch(txt[0]){
-            case "\"": return `<span style="background-color:inherit; color:#af00af">${txt}</span>${nlflag?`<br/>`:''}`;
+            case "\"": return `<span style="background-color:inherit; color:#df80af">${txt}</span>${nlflag?`<br/>`:''}`;
             case "\'": return `<span style="background-color:inherit; color:#af0000">${txt}</span>${nlflag?`<br/>`:''}`;
             case "\~": return `<span style="background-color:inherit; color:#afaf00">${txt}</span>${nlflag?`<br/>`:''}`;
             case "\*": return `<span style="background-color:inherit; color:#44aaff">${txt}</span>${nlflag?`<br/>`:''}`;
@@ -102,9 +102,12 @@ const mdx_block_parser = (block)=>{
             obj.t=obj.t.replaceAll(match,scp(match))
         })    
         obj.t=obj.t.replaceAll(/([t][r][u][e]|[f][a][l][s][e])/gm,`<span style="color:#9953e0">$1</span>`)
-        obj.t=obj.t.replaceAll(/([=][>]|[<][=]|[e][x][e])/gm,`<span style="color:#aa0000">$1</span>`)
+        obj.t=obj.t.replaceAll(/([=][>]|[<][=]|[e][x][e]|[|][|])/gm,`<span style="color:#aa0000">$1</span>`)
         obj.t=obj.t.replaceAll(/([\s][-][\w]+)/gm,`<span style="color:#ff6f00">$1</span>`)
-        obj.t=obj.t.replaceAll(/([-][-][\w]+)/gm,`<span style="color:#ff4499">$1</span>`)
+        obj.t=obj.t.replaceAll(/([-][-][\w][\w-]*)/gm,`<span style="color:#ff4499">$1</span>`)
+        obj.t=obj.t.replaceAll(/([.][\w]+)/gm,`<span style="color:#ca7922">$1</span>`)
+        
+
         return obj;
     })
 
@@ -130,6 +133,8 @@ const mdx_block_parser = (block)=>{
     
    // console.log("transofmred block,",block);
    block=block.replaceAll(/([\<][\p][\>][\<][\/][\p][\>])/gm, "")
+   block=block.replaceAll(/([\^]+)/gm,`<span style="background-color:#fa00a0;color:#000000">$1</span>`)
+
     return block;
 }
 module.exports=mdx_parser;
