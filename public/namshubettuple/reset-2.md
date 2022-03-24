@@ -451,7 +451,7 @@ which will then kill itself and thus me?"
 "...Basically."
 "Anything else? If I'm going insane, I might as well know what I’m in for."
 "I can teach you, we’ll start with"
-` .hooks=>(~definitions~)`
+`hooks=>(~reaction definitions~)`
 "and a few other basics, some history, and if you are exposed to a different"
 `namshub=>(~pieces of language that program~)`
 "I can catch it, but it’s destructive in nature... 
