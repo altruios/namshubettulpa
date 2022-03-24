@@ -30,7 +30,7 @@
         --uv(
             --ir(~night~).hook=>(~delight~)
             --af().hooks=>(
-                ~deadly things~=>(*distΔ+%10*~~)||
+                ~deadly things~=>(*distΔ+%10*)||
                 ~limbs~=>(*distΔ+%10*)
                 )
         )
@@ -45,7 +45,7 @@
         --reprofile(false)
         --o(true, ~disapointment~)
        )
-    --default-options(~remaining options~).
+    --default(~remaining options~).
     )`    
 }
 {
