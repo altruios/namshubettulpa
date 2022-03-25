@@ -1,31 +1,31 @@
 # LIXIN(MERPH)
 {
-~Felix awoke to his face staring back at him in the mirrored ceiling.~ 
+~Felix awoke to his face staring back at him in the mirrored ceiling.~
 ~the original owners still kneeling at the foot of a king size bed.~
-*He yawned - stretched himself awake* 
-*then shifted through clothing of the man’s walk-in closet* 
+*He yawned - stretched himself awake*
+*then shifted through clothing of the man’s walk-in closet*
 ~he was roughly the same size.~
 "Go make us some breakfast - some eggs, and waffles"
 ~Felix said without turning back.~
 ~Inside the closet was a mirror. ~
 ~Inside of which several drawers for cufflinks. ~
 ~To his left were suits - from white, to black and most colors in between.~
-~He felt like standing out today.~ 
-'a nice red suit' 
+~He felt like standing out today.~
+'a nice red suit'
 ~something to catch the eyes.~
-~He was back in the city:~ 
+~He was back in the city:~
 'might as well be seen.'
 ~Felix inspected the dress shirt.~
-~yes he was almost exactly the same size as Felix.~ 
+~yes he was almost exactly the same size as Felix.~
 *he rolled the cufflinks in his fingers, shifting them into place.*
 }
 {
 ~He brought the girl down the stairs~
-~she was much younger than the man he sent to the kitchen~ 
+~she was much younger than the man he sent to the kitchen~
 ~The man was over the stove, watching the eggs.~
 "Scambled,"
 *Felix said, and the man started fixing the eggs. *
-~the waffle iron beeped.~ 
+~the waffle iron beeped.~
 ~And moments later Felix was presented with a hearty meal.~
 ~complete with milk.~
 *He tipped the glass at the man, then to the woman.*
@@ -33,27 +33,27 @@
 *he nodded - then drank.*
 ~He suspected they were in fact: horrible people.~
 ~considering the house they lived in...~
-'no one had this much money and got it by being kind or nice,' 
+'no one had this much money and got it by being kind or nice,'
 *he thought while scarfing down the food.*
 *Felix handed them the plate.*
 *Then he took out his phone and started fiddling with it.*
-*He typed a long while, eventually he pressed one button* 
+*He typed a long while, eventually he pressed one button*
 *and held the phone out in front of their faces.*
 ~Their eye’s twitch - a sign the namshub was taking.~
 ~He wrote them to be philanthropists.~
 ~Fundraisers for the poor.~
-'that was a good thing'  
-~he told himself,~ 
+'that was a good thing'
+~he told himself,~
 'they were probably horrible people - why not make them better.'
 }
 {
-*He left them, taking the keys to their large SUV,* 
-~the really expensive brand only douches drove.~  
+*He left them, taking the keys to their large SUV,*
+~the really expensive brand only douches drove.~
 ~he always wondered what the appeal was - now was his turn.~
 ~He should check that Martha was listening - that she found somewhere safe.~
 ~He accessed the back of the mind - searching - only to not find her.~
-*He nodded to himself.* 
-~he did not know how she hid from the ping,~ 
+*He nodded to himself.*
+~he did not know how she hid from the ping,~
 ~but that she was clearly holding back...~
 ~what was her game?~
 }
@@ -64,7 +64,7 @@
 ~so far he hadn’t caused any traffic.~
 ~In the rear view mirror - he saw flashing blue lights.~
 *He sighed and calmly pulled over.*
-~He waited for the motorcycle cop to knock on his window.~ 
+~He waited for the motorcycle cop to knock on his window.~
 *he rolled it down.*
 "Do you know why I pulled you over?"
 "Probably because I was driving like a reckless jackass, I suspect."
@@ -78,7 +78,7 @@
 "I am, sir."
 "Now, go back to your little bike back there - and forget all about me"
 *the officer retreated back to the bike.*
-*Felix sighed.*  
+*Felix sighed.*
 ~sometimes it wasn’t any fun to have to tell them exactly what to say...~
 }
 {
@@ -92,16 +92,16 @@
 ****
 }
 {
-~Light danced across the white cloth table.~ 
-*Martha ideally played with the curtain drawstring of the window next to her.*  
+~Light danced across the white cloth table.~
+*Martha ideally played with the curtain drawstring of the window next to her.*
 ~Rossin sitting across from her, he only had to switch to allow them in.~
 ~he insisted on only the most expensive place to eat.~
-~he clained that there was a higher quality to the food.~ 
+~he clained that there was a higher quality to the food.~
 ~and that she would need it.~
 ~The other patrons wore fancy clothes.~
 *they stole small snapshots from fancy phones*
 ~the pictures were of her bloody shirt.~
-~She watched them.~ 
+~She watched them.~
 ~most fiddled with phones, other’s stiffled laugher.~
 "Rossin, would you mind..."
 }
@@ -114,7 +114,7 @@
 "Martha, before you switch back..."
 *She nodded,*
 "what is it?"
-*a server passed though her - she reacted only slightly.* 
+*a server passed though her - she reacted only slightly.*
 ~she felt nothing - but still had braced for a crash.~
 "I would like to taste some of the food, if that’s alright."
 *She nodded.*
@@ -173,18 +173,18 @@ Do you see the board any easier - why don’t you try writing on it"
 ~a sudden onslaught of umami and salt and sweetness... ~
 ~in the perfect combination. ~
 ~she sat there just enjoying the sensations.~
-*She shook her hand until her fingers felt normal...* 
+*She shook her hand until her fingers felt normal...*
 ~It seemed like it took longer this time than it had before.~
 *Rossin noticed her shaking hand.*
 "Like I said - it does just a little bit of damage each time we do that...
 that will only get worse. 
 which is why you need to learn to write on that board yourself."
-*Martha nodded digging into the meal herself.* 
+*Martha nodded digging into the meal herself.*
 ~the flavor in her mouth started to expire.~
 ~Her stomach was near full, which did little to stop her hunger.~
 }
 {
-*Rossin looked over his shoulder.* 
+*Rossin looked over his shoulder.*
 ~he saw something Martha herself caught in the corner of her eye.~
 *Rossin tensed as Felix sat down to join her.*
 "Lovely place you found here,"
@@ -217,7 +217,7 @@ nice stroke of luck."
 {
 *Felix leaned back and caught the server by the arm.*
 *he showed him the phone screen. *
-*the server’s eye started twitching.* 
+*the server’s eye started twitching.*
 "go fetch me what she’s having, from anywhere."
 *the server nodded and scurried off to the kitchen.*
 }
@@ -252,7 +252,7 @@ felt like it..."
 {
 "Rank?"
 ~felix asked, ~
-"you think this is like a school where you have defined grades" 
+"you think this is like a school where you have defined grades"
 "You said there was a school."
 "Yes, it’s more like - a collection of students with a private teacher."
 "That’s a school"
@@ -293,10 +293,10 @@ I missed this."
 "I’ve never been"
 "Fiji?"
 "Or New York."
-*He nodded.* 
+*He nodded.*
 ~she had never seen someone eat so fast.~
 "You know, the experience is better when you make it last."
-*he tilted his head, then nodded.* 
+*he tilted his head, then nodded.*
 ~He was slowing down soon - but not by much.~
 }
 {
@@ -310,15 +310,15 @@ And I’ve removed most of my hooks myself."
 ~Felix paused.~
 ~Studying her.~
 "Yourself, you got them out: yourself."
- *Martha nodded.*
+*Martha nodded.*
 "Color me impressed."
 }
 {
-~Martha finished the last bits of her meal~  
-~her stomach was rebelling~ 
-~kept under control by her unsatiated brain~  
-~she could eat again~ 
-'soon,' 
+~Martha finished the last bits of her meal~
+~her stomach was rebelling~
+~kept under control by her unsatiated brain~
+~she could eat again~
+'soon,'
 ~she realized.~
 *Rossin was still pacing in the back of the room.*
 ~He fed her more words.~
@@ -358,7 +358,7 @@ out there."
 *Martha said, sipping her water.*
 ~Rossin gave words of encouragement. ~
 `['clearly he\'s happy with the way things are going.']`
-~She was relaxing knowing Rossin would be able to navigate the rough spots~ 
+~She was relaxing knowing Rossin would be able to navigate the rough spots~
 "Like algera, or the Walkers.  
 He thinks there’s people that are more powerful than the Awakened. 
 People behind the scenes controlling the awakened... 
@@ -384,7 +384,7 @@ everyone."
 "He seems like an out-there kind of guy, would love to meet him."
 ~Martha said.~
 "You will: just be patient."
-*Felix took a sip of water.* 
+*Felix took a sip of water.*
 ~he let it dribble down his chin.~
 "Are you?"
 "Am i what?"
@@ -415,7 +415,7 @@ until then:"
 You’ll be in New York for a long while."
 }
 {
-*Martha set down her empty plate.* 
+*Martha set down her empty plate.*
 *then took a bit of artichoke from his.*
 *She ate it while Felix watched.*
 "Have a good meal, I have things to do then."

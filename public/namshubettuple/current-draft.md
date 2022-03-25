@@ -22,7 +22,7 @@ date:3/18/22
 
 [vows](vows.md)
 
-[lixin(merph)](lixin(merph).md)
+[lixin-merph](lixin-merph.md)
 
 [errors](errors.md)
 
