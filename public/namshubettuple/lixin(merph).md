@@ -1,4 +1,4 @@
-# LIXIN{MERPH}
+# LIXIN(MERPH)
 {
 ~Felix awoke to his face staring back at him in the mirrored ceiling.~ 
 ~the original owners still kneeling at the foot of a king size bed.~
@@ -278,7 +278,7 @@ a pass/fail system I guess"
 "Good job, what did you do?"
 }
 {
-['Those lists: I can just put them up here']
+`['Those lists: I can just put them up here']`
 "That’s a start,"
 ~Rossin said.~
 "But you should also just be able to place thoughts there the same way. 

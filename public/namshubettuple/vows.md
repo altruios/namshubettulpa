@@ -505,7 +505,7 @@ I’m not exactly designed to teach - I’m doing the best I can here."
 }
 {
 "We’ve been at this long enough, and we have places to be yet."
-~Martha’s stomach growled.*
+*Martha’s stomach growled.*
 ~she had been ignoring that - everything taking a higher priority.~
 "I need to eat."
 "When was the...
@@ -530,4 +530,4 @@ just off to the right of her mind.~
 "But food first."
 ~Rossin waited at the door.~
 }
-[lixin{merph}](lixin{merph}.md)
+[lixin(merph)](lixin(merph).md)
