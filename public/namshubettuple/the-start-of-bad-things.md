@@ -97,7 +97,7 @@ perhaps his reality on the boat was a delusion, but that thought always came up 
 ~Felix was thankful he started off in New York.~
 }
 {
-`[Should I mentor her?]`
+`['Should I mentor her?']`
 ~The thought jumped out, shot above these others.~ 
 ~He quite liked the idea of taking someone under his wing.~ 
 ~Showing them the importance of all they do.~ 

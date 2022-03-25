@@ -421,7 +421,7 @@ ambulance too"
 *around the bend a figure ran up the stairs - a monk.*
 *He moved through Martha and pounded on the door.*
 *She could see him mouthing words as he banged*
-`>>--T(fuoco:Italian) fire`
+`>>--T("fuoco":Italian) "fire"`
 ~but she couldn’t hear him, but she still understood.~
 }
 {	
@@ -524,7 +524,7 @@ ambulance too"
 *She gulped.*
 *Jason started toward her: but was held back by that old man.*
 *The monk mouthed the words* 
-`>>--T(fuggire:Italian) flee`
+`>>--T("fuggire":Italian) "flee"`
 *Jason finished his work by casually slicing at the monk’s neck.*
 *The monk fell to his side in a silent gurgleing gasping.*
 *Jason marched onward at a steady pace.*

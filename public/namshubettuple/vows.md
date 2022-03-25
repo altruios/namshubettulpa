@@ -17,9 +17,13 @@
 "You can see him, but he’s not awake yet."
 *The nurse turned a corner.*
 "How bad was it?"
-"He got skin grafts, on his right side - his lungs are fine - minimal smoke damage.
-A contusion on the back of his head and a broken finger: from when he fell - he’s stable but unconscious."
-*Kent nodded and the nurse stopped in front of a sliding glass door with curtains beyond.*
+"He got skin grafts, on his right side...  
+his lungs are fine - minimal smoke damage.
+A contusion on the back of his head... 
+and a broken finger: from when he fell. 
+he’s stable but unconscious."
+*Kent nodded and the nurse stopped* 
+~they stood in front of a sliding glass door with curtains beyond.~
 "When do you think he’ll wake?"
 "Hard to say."
 *the nurse slid open the door.*
@@ -121,7 +125,8 @@ I want to know why?"
 'Had she done this somehow?'
 'If so...'
 'How?'
-~He struggled for a reason, any reason Tom might help the tech destroy those tapes.~
+~He struggled for a reason...~ 
+~any reason Tom might help the tech destroy those tapes.~
 ~or why the tech ran and grabbed Martha’s file.~
 'It was as if he was hypnotised - but that was nonsense.'
 'Hypnosis wasn’t real - something for stage shows and bad TV.'
@@ -142,7 +147,8 @@ I want to know why?"
 ~he replayed the events leading up to the fire.~
 }
 {
-~He couldn’t shake the thought that something in that tape they watched caused this.~
+~He couldn’t shake the thought.~ 
+'something in that tape they watched caused this.'
 ~something Martha had done...~
 ~and she was missing.~
 'And those other people in the cell with her were...'
@@ -156,7 +162,8 @@ I want to know why?"
 did it?
 How would I even know one way or the other?'
 *He flexed his hands...*
-~he felt like he was in control - but some small part of him couldn’t help but doubt.~
+~he felt like he was in control~
+~Some small part of him couldn’t help but doubt.~
 *His eyes twitched with a rapid double vision, he tried to focus them again.*
 ~His sleep deprivation, maybe that was adding to his paranoia.~
 ~He couldn’t explain what had happened.~
@@ -188,8 +195,9 @@ How would I even know one way or the other?'
 'was it...
 from the dream?'
 ~she wondered.~
-~Bits more came back to her and she recoiled at the thought of going back to sleep. ~
-~as tired as she was, she was worried she would have another nightmare like that last one.~
+~Bits more came back to her.~
+~she recoiled at the thought of going back to sleep. ~
+~as tired as she was, she was worried she would have another nightmare.~
 'What exactly happened?'
 ~She remembered Jason Vorheeves, the ship...~
 ~and the book.~
@@ -203,7 +211,8 @@ from the dream?'
 ~Every detail of that twisting pattern burned in her mind.~
 *She drank some water to try and help with the headache.*
 ~Either it was lack of sleep or it was that image, she couldn’t tell.~
-*She looked up at the mirror in front of her and Rossin stood behind her, she whirled.*
+*She looked up at the mirror in front of her* 
+*Rossin stood behind her, she whirled.*
 "Where were you?"
 "Asleep it would seem"
 *Rossin looked around the room.*
@@ -239,9 +248,12 @@ I can’t read your mind, remember?"
 *Rossin said as he walked off.*
 "I’ll be over here when you’re ready"
 "Ready?"
-"I assume you want to take a shower, or the like - you should, you kind of look like shit, like you’ve been up all night and dramatized by a whole lot.
-Go relax in a tub."
-~She did need a bath, but she really hadn’t considered what that would be like with a...~
+"I assume you want to take a shower - you should. 
+you kind of look like shit... 
+like you’ve been up all night and dramatized by a whole lot.
+Go relax with some hot water."
+~She did need a bath...~ 
+~but she really hadn’t considered what that would be like with a...~
 'sentient brain she couldn’t really get rid of...'
 ~martha thought, he was in her head, so...~
 `['was he bathing with her?',
@@ -251,7 +263,8 @@ Go relax in a tub."
 "Won’t look in, I’m not interested in that, just don’t be too long."
 *Rossin walked out of the bathroom and she shut the door.*
 *She turned on the faucet to the tub.*
-~For a moment she watched the water rushing out, swirling into the tub in chaotic waves.~
+~For a moment she watched the water rushing out~ 
+~swirling into the tub in chaotic waves.~
 }
 {
 *She closed her eyes.*
@@ -264,14 +277,16 @@ Go relax in a tub."
 'kill that thing in my brain’, ‘have a good fucking meal', 
 'fix the world']`
 ~She paused.~
-~The ordering of her thoughts startled her, clear as day despite how tired she still was.~
+~The ordering of her thoughts startled her.~
+~clear as day despite how tired she still was.~
 ~Normally she had trouble focusing, but it was easy now.~
 ~Simply a list - one that she realized - would remain easily recallable.~
 'That’s handy - grocery shopping would be easy...'
 ~she wondered how far she could stretch that?~
 ~How would she test that?~
 *when the water was half full she moved back to the room.*
-*Rossin sat on the bed, his head turned quizzically when she reached in the drawer beside her.*
+*Rossin sat on the bed.*
+*his head turned quizzically when she reached in the drawer beside her.*
 'Yep.'
 ~there was a bible - even in a seedy motel.~
 "Some light bath reading?"
@@ -281,19 +296,22 @@ so you have lists?"
 ~Martha paused, considering.~
 "That’s probably it"
 *Rossin nodded.*
-"You don’t have infinite space, infinite resources in your brain - don’t fill too much with random data."
+"You don’t have infinite space, infinite resources in your brain. 
+don’t fill too much with junk."
 *Martha nodded.*
 *Walking back into the restroom before closing the door.*
 *She turned off the water and disrobed, she hadn’t any other clothes, so...*
 'eh, close enough'
 ~at least she could clean herself.~
-*Dipping in the bath she opened the bible to random pages, glancing at a few passages.*
+*Dipping in the bath she opened the bible to random pages* 
+~she glanced at a few passages.~
 ~Each stuck in her mind - added to a list.~
 *She did this for a few minutes and then closed the book - then her eyes.*
 *Holding her nose she dipped below the water.*
 ~When she was done - dried and clothed again, she recalled the list.~
 ~Each item was perfectly remembered - or so she thought~
-*she moved out into the other room, and grabbed a small pencil and notepad by the phone.*
+*she moved out into the other room* 
+*Martha grabbed a small pencil and notepad by the phone.*
 *She wrote out passages - word for word.*
 ~When she was done - she compared them to the book - all perfectly remembered.~
 "So what, I have a perfect memory?"
@@ -310,14 +328,15 @@ A bit of house keeping"
 "Well, there’s some...
 rewiring I did...
 things it would take years to learn - you would just need to learn how to do. 
-you wouldn’t need to train for years to prepare your mind, you have a mind prepared to learn."
+you wouldn’t need to train for years to prepare your mind. 
+you have a mind prepared to learn."
 "I see, what exactly did you do, to my brain?"
 "Well, I took a lot of the hooks, I can’t know if I got all of them. 
 I wired in some senses to emotions. 
 I also freed a bit of space - sort of a sandbox for you to write into..."
 "I got the first part, but...
 what do you mean about senses to emotions?"
-"Okay, so when you have a strong emotional reaction you have some other sense increased as well.
+"Okay, so a strong emotional reactions increased some other sense as well.
 Anger is vision, loneliness is taste, joy is touch. 
 fear is your perception of time - your thoughts run faster.
 you can’t move any faster but you can think way faster. 
@@ -336,7 +355,8 @@ So you can learn the language"
 "The language!"
 ~Rossin exclaimed, ~
 "the one behind all other languages. 
-the one we all think as an infant before we learn what words are or the language our parents taught us.
+the one we all think as an infant. 
+before we learn what words are or the language our parents taught us.
 the one you thought in before you learned how to speak."
 "So baby talk?"
 "Don’t be daft, babies think it, but can’t speak it"
@@ -352,7 +372,8 @@ so - imagine your vision is in front of you,"
 "It is in front of me"
 "I mean like a screen, imagine you are looking at a screen, right"
 "And it's in front of me,"
-"Aye, your field of vision, imagine you are a little dot - looking at that screen. 
+"Aye, your field of vision. 
+imagine you are a little dot - looking at that screen. 
 right now it’s black - that’s all you can see."
 ~Rossin sighed.~
 "This isn’t very easy to explain, you are going to look to your left. 
@@ -365,9 +386,14 @@ shift your focus to the left of your vision - it’ll be a blank wall."
 *Rossin gestured for her to close her eyes.*
 *She did.*
 "It’ll be apparent - just relax and focus.
-Your vision is just part of your brain lighting up from some chemical signals from your eyes, you are focused on that when you see, just - with your eyes close, focus to your left, pivot your attention away from where you see."
+Your vision is just part of your brain. 
+lighting up from some chemical signals from your eyes. 
+you are focused on that when you see. 
+just - with your eyes close: focus to your left. 
+pivot your attention away from where you see."
 ~Martha tried for a bit.~
-~A few minutes passed and she was pretty sure she was just trying to look left with her eyes.~
+~A few minutes passed~  
+~she was pretty sure she was just trying to look left with her eyes.~
 ~No matter how she tried she wasn’t able to just...~
 ~turn her brain like that, was that the best phrase, she wondered.~
 'Turn my brain....'
@@ -375,7 +401,8 @@ Your vision is just part of your brain lighting up from some chemical signals fr
 ~she was in a motel room trying to look left and...~
 ~A flash of white appeared, and was gone.~
 ~Just a hair bit out of her vision.~
-~it wasn’t in front of her eyes but to the left side of her head and she could see it.~
+~it wasn’t in front of her eyes but to the left side of her head...~ 
+~and she could see it.~
 ~A blinking, white light, rectangular in shape, pulsing evenly.~
 "I think I found something?"
 }
@@ -387,13 +414,14 @@ Your vision is just part of your brain lighting up from some chemical signals fr
 ~It continued to the right, then shifted to a new line.~
 }
 {
-`Hello Martha, say apple`
+`"Hello Martha, say apple"`
 "It’s telling me to say apple?"
 "I can write on it. 
-Martha - if we need to communicate silently - think of this as a message board. 
+Martha - think of this as a message board. 
 We’re both able to read it."
 *Martha opened her eyes.*
-~her consciousness shifted to the right in a sudden lurch and she saw the motel room again.~
+~her consciousness shifted to the right in a sudden lurch~ 
+~she saw the motel room again.~
 ~the light hurt her eyes, how long had they been closed.~
 *She squinted.*
 "It’s alright, you’re alright."
@@ -403,19 +431,22 @@ We’re both able to read it."
 ~A headache, sudden and painful, Martha held her head.~
 "It’ll pass, soon."
 ~and as suddenly as it had come, Martha was fine.~
-"You'll better at moving your focus point internally, you’ll be able to do that with your eyes open just fine. 
+"You'll better at moving your focus point internally. 
+you’ll be able to do that with your eyes open just fine. 
 for now though, keep your eyes closed - and the same way you turned, just...
 turn back the other way."
 }
 {
-~For the next hour that’s all Martha did: look back and forth between her vision, and that text to her left.~
+~For the next hour that’s all Martha did.~ 
+~she looked back and forth between her vision, and that text to her left.~
 `['Was look even the right word if she wasn’t using her eyes?',
 'Was there a right word?']`
 "Rossin, is there a...
 word for this - what i’m doing.
 I’m not looking to my left - I’m not using my eyes"
 "Inter-seeing, is the definition. 
-there are other places you can look - there’s not much there - and I wouldn’t go poking around...
+there are other places you can look. 
+there’s not much there - and I wouldn’t go poking around...
 you still have...
 that thing inside you, what’s left of it anyway...
 best not to accidentally look at it."
@@ -424,7 +455,8 @@ best not to accidentally look at it."
 Fancy, no?"
 "It’s just text"
 *Rossin waved dismissively*
-"You wouldn’t yet understand, it’s in your language - access to your brain, in your own language. 
+"You wouldn’t yet understand, it’s in your language. 
+access to your brain, in your own language. 
 not the brain's language, yours...
 that’s fancy"
 "It’s fancy - not colorful, decorative, or initially impressive...
@@ -435,7 +467,8 @@ but fancy I’ll grant you"
 "Well, we need another human - and you’re not ready for that yet...
 but..."
 ~he sighed.~
-"Might as well tell you now - you can write hooks on that board, execute them - and then your brain will just...
+"Might as well tell you now - you can write hooks on that board. 
+execute them - and then your brain will just...
 do them for you, baby steps in actually learning how to speak hooks yourself...
 without the aid of that translator - that’s what it is, a fancy translator"
 }
@@ -443,10 +476,11 @@ without the aid of that translator - that’s what it is, a fancy translator"
 "So I can...
 just write anything"
 "Anything yes...
-as long as you spell it out exactly you can write what you want down - as long as it makes sense to you. 
+as long as you spell it out exactly you can write what you want down. 
+as long as it makes sense to you. 
 and it means exactly one thing...
 no wiggle room...
-the closer it is to exactly what your brain wants - the less likely something is to...
+the closer it is to what your brain wants: the less likely something is to...
 go wrong - or be misinterpreted"
 "Right.
 That’s...
@@ -454,7 +488,7 @@ useful - and I think impressive - I don’t really have a frame of reference"
 }
 {
 *Rossin sighed, *
-"you know how Felix had that phone - flashing in front of your neighbor’s face? 
+"you know how Felix had that phone: flashing in front of your neighbor’s face? 
 That’s how most of the Awakened use hooks. 
 They have a special image that hooks them into doing what they want.
 he had a general ‘follow my verbal commands one’ on his phone. 
@@ -471,24 +505,27 @@ I’m not exactly designed to teach - I’m doing the best I can here."
 }
 {
 "We’ve been at this long enough, and we have places to be yet."
-~Martha’s stomach growled, she had been ignoring that - everything taking a higher priority.~
+~Martha’s stomach growled.*
+~she had been ignoring that - everything taking a higher priority.~
 "I need to eat."
 "When was the...
 right - you haven’t eaten since I was here...
 so...
 aye - good time to mention you’re going to need more calories...
-your brain is using more calories than usual - will be using more calories overall...
+your brain is using more calories than usual... 
+will be using more calories overall...
 you should get used to eating...
 a fair bit more"
 "What’s a fair bit more?"
 "An extra couple of meals a day...
 good big meals."
 ~Rossin said.~
-"After we get you fed we should go take care of those old cellmates of yours, yes?"
+"After we get you fed we should go take care of those cellmates of yours, yes?"
 }
 {
 *Martha nodded.*
-~She hadn’t forgotten - the list of things to do was always there, just off to the right of her mind.~
+~She hadn’t forgotten - the list of things to do was always there. 
+just off to the right of her mind.~
 ~cataloged with others, like a rolodex - indexable.~
 "But food first."
 ~Rossin waited at the door.~
