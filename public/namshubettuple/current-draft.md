@@ -1,7 +1,4 @@
-# DRAFT
-date:3/18/22
-## NOTES
-
+# CURRENT DRAFT
 ## CHAPTERS
 
 [reset-2](reset-2.md)
@@ -31,3 +28,4 @@ date:3/18/22
 [the-undernet](the-undernet.md)
 
 
+date:3/25/22

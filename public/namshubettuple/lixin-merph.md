@@ -1,4 +1,4 @@
-# LIXIN(MERPH)
+# LIXIN-MERPH
 {
 ~Felix awoke to his face staring back at him in the mirrored ceiling.~
 ~the original owners still kneeling at the foot of a king size bed.~
