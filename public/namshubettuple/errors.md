@@ -25,7 +25,11 @@ probably in the holding cell."
 "Well, let’s start there - let me switch."
 ~she obliged.~
 *once they were done trading places, rossin turned toward the front desk again.*
-`hooks.lead=>{~self~.to(~holding cell~)}||return(~position~.(~last~))||break`
+`WITH(
+    (hooks)
+    .go(~location of the prisoners faceing the wall~)
+    .break("thank you")
+    )`
 *The man behind the desk got up, and ushered them to follow.*
 *They passed the burnt out room.*
 ~a large portion of the walls were black.~
@@ -39,11 +43,13 @@ probably in the holding cell."
 *Rossin entered the room with the holding cell.*
 ~three people stood facing the back wall.~
 *once they had entered the room, the officer turned and left.*
-`hooks.unsetall||break`
-~And they returned to normal, looking around the room.~
+"thank you"
+*The officer shook and returned to normal*
+~he looked around the room.~
 "That’s all it took?"
 *Rossin nodded,*
-"and I can switch back now,"
+"and I can switch back now?"
+~Martha wasn't going to make the same mistake again~
 *he nodded his head again: so she flipped the switch.*
 }
 {

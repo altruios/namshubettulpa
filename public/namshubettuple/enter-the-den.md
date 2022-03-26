@@ -61,7 +61,12 @@ Just don’t rip control from me while I’m connected and we’ll be fine"
 ~The tone had an undercurrent of aggression - one that expected an answer.~
 *Martha nodded, and switched the flip in her brain.* 
 ~Before she knew it she was outside herself in that shadowy perspective.~
-`Hooks.turn=>{"wall"} | Hooks.ignore=>{"self"} | static | break.`
+`WITH(
+    (hooks)
+        .turn=>(~wall~)
+        .ignore=>(~self~=>(!"stop"))
+        .end=>(~self~=>("stop"))
+ ).`
 *Her three cellmates stood up, and walked to the front bars.* 
 ~each standing in a row - facing outwards.~
 "You can take back control now, they’ll stay like that until we say otherwise."
@@ -72,7 +77,28 @@ Just don’t rip control from me while I’m connected and we’ll be fine"
 "what about cameras?"
 *Rossin sighed.* "Again, it really doesn’t matter, but..." 
 *rossin turn toward the camera*
-`Hooks.remove_all=>{sequential(["images","audio","memory"].containing("self"))}`
+`
+
+EVENTS = ~self~=>hooks.memory(~visual~,~audio~).located(~here~)
+WITH(
+    (hooks)
+        .temp_set_mem(EVENTS)
+        WHILE(.knowing(~existance~=>(EVENTS)))(
+            .remove_all=>(
+                ~reminders~,
+                ~evidence~,
+                ~memory~
+                )
+            TRY(
+                .propogate(~this~=>(~human~))
+            )CATCH(
+                .sleep(10)
+                .repeate(~this~);
+            )
+        )
+    )
+        
+        `
 *Rossin looked back to her* 
 "anyone who sees this will forget they saw you, and also destroy any tapes or recordings. 
 We would do that on our way out anyway." 

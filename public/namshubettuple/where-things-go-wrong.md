@@ -51,10 +51,8 @@ I took care of some things otherwise Felix was going to come kill you"
 "I mean that thing was going to make me? 
 So why send Felix?"
 "If you..." 
-`Awoke=>
-{
-aware of cognitive processing, conscious of linked-mind information processing
-}
+`Awoke=>(~aware of linked-cognitive processing~,
+~able to transmit and receivee data along the link~)
 `
 "So linked-mind information processing… like psychics?"
 "Think like mind melding on star trek, but at any range"
@@ -205,7 +203,7 @@ imagining yourself into existence from your own imagination which you put yourse
 *Martha knocked on the door and flipped the switch.*
 ~After the ripping sensation subsided and Martha was again looking at Rossin in her body.~ 
 *The door opened and Rossin spoke without words* 
-`hooks.follow=>{self}` 
+`hooks.follow=>{~self~}` 
 *And proceeded to walk inside.* 
 *Martha as an ethereal entity followed.* 
 "What was that?"

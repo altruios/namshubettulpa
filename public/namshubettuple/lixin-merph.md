@@ -357,7 +357,7 @@ out there."
 "Like?"
 *Martha said, sipping her water.*
 ~Rossin gave words of encouragement. ~
-`['clearly he\'s happy with the way things are going.']`
+`['Well clearly he is happy with the way things are going.']`
 ~She was relaxing knowing Rossin would be able to navigate the rough spots~
 "Like algera, or the Walkers.  
 He thinks there’s people that are more powerful than the Awakened. 
