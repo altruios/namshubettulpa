@@ -154,7 +154,7 @@ Sleep deprivation is terrible and I live here now too, you know"
 ~she thought as she stared at the beige wall, waiting for sleep.~
 }
 {
-****
+%%%%
 }
 {
 ~Kent heard a ringing by his ear.~

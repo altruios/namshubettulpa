@@ -99,7 +99,7 @@ const mdx_block_parser = (block)=>{
             },[])
 
         internal_data_matches_unique.forEach(match=>{
-            obj.t=obj.t.replace(match,scp(match))
+            obj.t=obj.t.replaceAll(match,scp(match))
         })    
         obj.t=obj.t.replace(/([t][r][u][e]|[f][a][l][s][e])/gm,`<span style="color:#9953e0">$1</span>`)
         obj.t=obj.t.replace(/([=][>]|[<][=]|[e][x][e]|[|][|])/gm,`<span style="color:#aa0000">$1</span>`)
@@ -132,9 +132,9 @@ const mdx_block_parser = (block)=>{
     })
     
    // console.log("transofmred block,",block);
-   block=block.replace(/([\<][\p][\>][\<][\/][\p][\>])/gm, "")
-   block=block.replace(/([\^]+)/gm,`<span style="background-color:#fa00a0;color:#000000">$1</span>`)
-
+    block=block.replaceAll(/([\<][\p][\>][\<][\/][\p][\>])/gm, "")
+    block=block.replaceAll(/([\^]+)/gm,`<span style="background-color:#fa00a0;color:#000000">$1</span>`)
+    block=block.replaceAll(/([%][%][%][%])/gm,`<br /><div style="text-align: center">%%%%</div><br /><br />`);
     return block;
 }
 module.exports=mdx_parser;

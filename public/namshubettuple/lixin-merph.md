@@ -89,7 +89,7 @@
 ~but he would find something.~
 }
 {
-****
+%%%%
 }
 {
 ~Light danced across the white cloth table.~

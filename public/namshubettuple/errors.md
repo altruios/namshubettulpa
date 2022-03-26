@@ -73,7 +73,7 @@ we’ll grab some calories wherever we get the shirt"
 ~they walked into the falling sun, not at sunset - but still turning orange.~
 }
 {
-****
+%%%%
 }
 {
 ~Kent was at Martha's house - the police tape had been cleared.~
@@ -153,7 +153,7 @@ Rogers, what are you playing at?"
 ~just minutes before Martha herself arrived.~
 }
 {
-****
+%%%%
 }
 {
 ~Kent’s first question at the police station was the location of Rogers.~
@@ -198,7 +198,7 @@ never mind"
 ~Not unless...~
 }
 {
-****
+%%%%
 }
 {
 ~7:15pm.~

@@ -137,7 +137,7 @@ this was desert, were you waiting all this time?"
 *he held out his arm Martha linked with it.*
 }
 {
-****
+%%%%
 }
 {
 ~Behind them Kent watched them link arms.~
@@ -176,7 +176,7 @@ this was desert, were you waiting all this time?"
 'he was getting to tired for this shit'
 }
 {
-****
+%%%%
 }
 {
 "Wait here,"

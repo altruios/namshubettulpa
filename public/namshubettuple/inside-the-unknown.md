@@ -125,7 +125,7 @@ Gerald!"
 ~The captain motioned for him to speak and she pressed the button for floor 133.~
 "Which one is this?"
 "The first one," 
-~the captain said.~
+~the captain's gaze fell across Martha, assessing her.~
 "Right," 
 *he cleared his throat, *
 "so you’ll be going to a monastery in italy - 1450, december 13th, 4:23pm. 
@@ -287,7 +287,7 @@ It stung her nose - an acrid smell, faint but detectable...~
 ~As the figure drew closer - she saw it was in fact, a hockey mask.~
 }
 {
-****
+    %%%%
 }
 {
 ~Kent stood in the media room.~
@@ -411,7 +411,7 @@ ambulance too"
 ~In the distance he heard the sound of sirens growing closer.~
 }
 {
-****
+%%%%
 }
 {
 *Martha pounded on the door, shoved it - nothing.*

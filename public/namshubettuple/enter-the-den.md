@@ -96,7 +96,7 @@ There’s a threshold, a barrier - one you have to have some..."
 "Momentum to make it though... 
 otherwise you get lost in the weeds of your mind"
 "But I’m here now."
-*Rossin nodded.* 
+*Rossin nodded then spread out his hands.* 
 "I couldn’t do anything to bring you back. 
 It took something physically frightening enough, to trigger an automatic response... 
 a base instinct for self-preservation. 
@@ -162,7 +162,8 @@ You know you can bring them back right?"
 "I tried to tell you... 
 but you stopped listening to me..."
 "How?" 
-~Martha asked.~ 
+~Martha asked, she tried to remain calm...~
+~but her chest hollowed, an on mix of terror and relief~ 
 *Rossin smacked his head as Felix tilted his head.*
 "They’re in the back of the mind, somewhere - you just need a...
 vessel - to house them."

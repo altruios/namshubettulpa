@@ -181,7 +181,7 @@ How would I even know one way or the other?'
 *He got up - and followed her back through the double doors.*
 }
 {
-****
+%%%%
 }
 {
 ~martha held on to the dream as best she could.~

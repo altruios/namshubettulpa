@@ -206,7 +206,7 @@ are less out of place there..."
 ~was the last she heard before a feeling of cold ice permeated her skin.~
 }
 {
-****
+%%%%
 }
 {
 ~Kent watched the evening’s flight unfold.~
@@ -291,7 +291,7 @@ are less out of place there..."
 ~or at least the ability to make coffee in the back of the plane.~
 }
 {
-****
+%%%%
 }
 {
 *Martha landed in the center of a golden metal gear.*
