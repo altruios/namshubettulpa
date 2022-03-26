@@ -55,7 +55,10 @@ async function transform_to_md(cwd,callback){
             })
         }
         data=`<html><body ${blocks? 'style="background-color:#6f6f6f"':''} >${data}</body></html>`
-        data=data.replaceAll(/([\<][\p][\>][\<][\/][\p][\>])/gm, "")
+        const empty_para = "/([\<][\p][\>][\<][\/][\p][\>]/gm"
+        while(data.match(empty_para)){
+            data=data.replace(empty_para, "")
+        }
         console.log(data);
         console.log("cwd",cwd);
         callback(null,data);
