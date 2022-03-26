@@ -6,6 +6,7 @@ const util =require('util');
 const {readFile } = require('fs')
 const {EOL} = require('os');
 const mdx_parser = require("./mdx_parser");
+const { isExternal } = require('util/types');
 
 const BASE_DIR = path.join(__dirname, 'public');;
 let cwd = BASE_DIR;
@@ -55,10 +56,7 @@ async function transform_to_md(cwd,callback){
             })
         }
         data=`<html><body ${blocks? 'style="background-color:#6f6f6f"':''} >${data}</body></html>`
-        const empty_para = "/([\<][\p][\>][\<][\/][\p][\>]/gm"
-        while(data.match(empty_para)){
-            data=data.replace(empty_para, "")
-        }
+        data=data.replaceAll(/([\<][\p][\>][\<][\/][\p][\>])/gm, "")
         console.log(data);
         console.log("cwd",cwd);
         callback(null,data);
