@@ -54,7 +54,7 @@ async function transform_to_md(cwd,callback){
             })
         }
         data=`<html><body ${blocks? 'style="background-color:#6f6f6f"':''} >${data}</body></html>`
-        data=data.replaceAll(/([\<][\p][\>][\<][\/][\p][\>])/gm, "")
+        data=data.replace(/([\<][\p][\>][\<][\/][\p][\>])/gm, "")
         console.log(data);
         console.log("cwd",cwd);
         callback(null,data);
