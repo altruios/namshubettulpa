@@ -433,4 +433,4 @@ but I don’t know what"
 ~the sun was much too bright - or that restaurant was much too dark.~
 ~she couldn’t tell.~
 }
-[errors](errors.md)
+## [errors](errors.md)

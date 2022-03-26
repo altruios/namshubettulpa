@@ -292,8 +292,10 @@ really gone...GET OUT OF MY HEAD"
 *he screamed suddenly, a piercing howl.*
 ~And there was a thumping on the inside of the closet.~
 ~so violent it almost shook the structure.~
-"Martha - you should back away.""I’m going to get you out of there.
-Into safety.""There is none.
+"Martha - you should back away."
+"I’m going to get you out of there.
+Into safety."
+"There is none.
 Don’t you understand - it’s in me.
 I’m dead...
 worse than dead."
@@ -366,11 +368,11 @@ and I don’t think that i would be able to do anything to him anyway"
 ~Kent continued to wait.~
 "Are you going to...
 fill me in?"
-~he asked.~
+~he asked, as he inspected his borrowed gun.~
 "Do you want to tell me why you’re following me..."
 "Well, you broke out of the holding cell. 
 no one remembers you, and oh yeah, my friend is dead."
-*She turned to Rossin,*
+*Kent looked up at her as she turned to Rossin,*
 "I told you, we shouldn’t have left yet."
 *Rossin shrugged,*
 "we can bring him..."
@@ -384,11 +386,11 @@ do you have..."
 *Rossin went up to Kent, studying him.*
 "No...
 I’m not, and I don’t"
-~Martha said.~
+~Martha said. nearly laughing at the absurdity...~
 "Who are you talking to?"
 "Well, his name’s Rossin, he’s a non-physical person"
 "I like that,"
-~Rossin said,~
+~Rossin muttered,~
 "right to the point."
 "Non-physical...
 So a ghost?"
@@ -495,9 +497,9 @@ there’s a bunch of dead people in the other room."
 ~Felix’s face froze.~
 *He backed away, and closed the door himself.*
 "We should leave, right the fuck now."
-*he made is way back toward the elevator, *"
-come on!"
-~he said.~
+*he made is way back toward the elevator, *
+"come on!"
+~he yelled.~
 "What’s going on?"
 *Felix pressed the button on the elevator panel: down.*
 ~At his feet was the person Kent shot.~
@@ -520,8 +522,8 @@ you can’t fix that."
 *The elevator door opened.*
 *They stepped inside.*
 ~After a moment’s pause.~
-"What’s the undernet?"
-~Martha asked.~
+"The undernet?"
+~Martha considered the word.~
 *Felix turned to her, then faced forward toward the elevator doors.*
 "People that think they’re Awakened - a honeypot for those that..."
 *he glanced back at her,*
@@ -536,11 +538,11 @@ He's considering if you’re with them, infiltrating"
 *Rossin continued to pace and Martha fiddled around with the gun.*
 *locating and making sure the safety was on, she tucking it behind her pants.*
 "So what now?"
-~she asked.~
+*she asked, tucking her shirt over the gun into her pants.*
 ~Felix studied her, then said.~
 "We’re going to Falshtine’s home, to get some answers..."
 ~he paused...~
 "He’s the one that made the undernet"
 *The elevator doors opened to the downstairs lobby and they walked out.*
 }
-[restructuring](restructuring.md)
+## [restructuring](restructuring.md) (to be written)

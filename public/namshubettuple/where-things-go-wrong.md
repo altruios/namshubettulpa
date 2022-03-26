@@ -332,4 +332,4 @@ But it could be worse"
 ~he was saying something: empty assurances.~ 
 ~He was saying things - she was sure of it - she couldn’t bring herself to care.~
 }}
-[a-stone-walled-kink](a-stone-walled-kink.md)
+## [a-stone-walled-kink](a-stone-walled-kink.md)

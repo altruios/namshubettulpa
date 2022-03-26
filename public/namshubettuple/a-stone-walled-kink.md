@@ -249,4 +249,4 @@ That alright with you?"
 ~picking up on the ironic tone:~ *Martha sardonically jazz hands’ed causing the metal chains to jiggle.*
 }
 }
-[enter-the-den](enter-the-den.md)
+## [enter-the-den](enter-the-den.md)

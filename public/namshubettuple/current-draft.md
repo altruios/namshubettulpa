@@ -1,31 +1,31 @@
 # CURRENT DRAFT
 ## CHAPTERS
 
-[reset-2](reset-2.md)
+1. [reset-2](reset-2.md)
 
-[the-start-of-bad-things](the-start-of-bad-things.md)
+2. [the-start-of-bad-things](the-start-of-bad-things.md)
 
-[where-things-go-wrong](where-things-go-wrong.md)
+3. [where-things-go-wrong](where-things-go-wrong.md)
 
-[a-stone-walled-kink](a-stone-walled-kink.md)
+4. [a-stone-walled-kink](a-stone-walled-kink.md)
 
-[enter-the-den](enter-the-den.md)
+5. [enter-the-den](enter-the-den.md)
 
-[lions-tigers-and-bears](lions-tigers-and-bears.md)
+6. [lions-tigers-and-bears](lions-tigers-and-bears.md)
 
-[tests](tests.md)
+7. [tests](tests.md)
 
-[inside-the-unknown](inside-the-unknown.md)
+8. [inside-the-unknown](inside-the-unknown.md)
 
-[vows](vows.md)
+9. [vows](vows.md)
 
-[lixin-merph](lixin-merph.md)
+10. [lixin-merph](lixin-merph.md)
 
-[errors](errors.md)
+11. [errors](errors.md)
 
-[redeye](redeye.md)
+12. [redeye](redeye.md)
 
-[the-undernet](the-undernet.md)
+13. [the-undernet](the-undernet.md)
 
 
 date:3/25/22

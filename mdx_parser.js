@@ -134,7 +134,7 @@ const mdx_block_parser = (block)=>{
    // console.log("transofmred block,",block);
     block=block.replaceAll(/([\<][\p][\>][\<][\/][\p][\>])/gm, "")
     block=block.replaceAll(/([\^]+)/gm,`<span style="background-color:#fa00a0;color:#000000">$1</span>`)
-    block=block.replaceAll(/([%][%][%][%])/gm,`<br /><div style="text-align: center">%%%%</div><br /><br />`);
+    block=block.replaceAll(/([%][%][%][%])/gm,`<br /><div style="text-align: center;color:ff7f3f">%%%%</div><br /><br />`);
     return block;
 }
 module.exports=mdx_parser;
