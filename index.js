@@ -2,11 +2,9 @@ const express = require('express')
 const app = express()
 const port = 3000
 const path = require('path');
-const util =require('util');
 const {readFile } = require('fs')
 const {EOL} = require('os');
 const mdx_parser = require("./mdx_parser");
-const { isExternal } = require('util/types');
 
 const BASE_DIR = path.join(__dirname, 'public');;
 let cwd = BASE_DIR;
