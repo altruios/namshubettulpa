@@ -52,7 +52,7 @@ I took care of some things otherwise Felix was going to come kill you"
 So why send Felix?"
 "If you..." 
 `Awoke=>(~aware of linked-cognitive processing~,
-~able to transmit and receivee data along the link~)
+~able to transmit and receive data along the link~)
 `
 "So linked-mind information processing… like psychics?"
 "Think like mind melding on star trek, but at any range"

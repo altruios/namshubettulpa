@@ -10,6 +10,9 @@ const BASE_DIR = path.join(__dirname, 'public');;
 let cwd = BASE_DIR;
 app.set('public', path.join(__dirname, 'public'));
 
+
+
+
 async function transform_to_md(cwd,callback){
     var re = /\[(.*?)\]/g
     var re2 = /\((.*?)\)/g
@@ -48,9 +51,24 @@ async function transform_to_md(cwd,callback){
             data= start_str+blocks+end_str
         }else{
             console.log("block is false");
-            const paragraphs = data.split(EOL).filter(x=>x!=''&&x[0]!="{"&& !(x[1]=='h'&&x[0]=="<"));
-            paragraphs.forEach(para=>{
-                data=data.replace(para, `<p>${para}</p>`);
+            const lines = data.split(EOL).filter(x=>x!=''&&x[0]!="{"&& !(x[1]=='h'&&x[0]=="<"));
+        
+            lines.forEach((line,i,arr)=>{
+                if('123456789'.includes(line[0])){
+                    const stripped_line = line.replace(line.match(/[0-9]+\.\s/gm),"")
+                    if(line[0]=="1"&&line[1]=="."&&line[2]==" "){
+                        data=data.replace(line,`<ol><li>${stripped_line}</li>`)
+                    }
+                    else if(!'123456789'.includes(arr[i+1][0])){
+                        console.log(arr[i+1],"does not include number, ending list")
+                        data=data.replace(line,`<li>${stripped_line}</li></ol>`)
+                    }else{
+                    data=data.replace(line,`<li>${stripped_line}</li>`)
+                    }
+                }else{
+
+                    data=data.replace(line, `<p>${line}</p>`);
+                }
             })
         }
         data=`<html><body ${blocks? 'style="background-color:#6f6f6f"':''} >${data}</body></html>`
