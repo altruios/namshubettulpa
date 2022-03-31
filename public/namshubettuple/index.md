@@ -1,5 +1,7 @@
 # NAMSHUB ET TUPLE
 
+[current-draft](current-draft.md)
+
 [plot](plot.md)
 
 [characters](characters.md)
@@ -8,4 +10,3 @@
 
 [magic-system](magic-system.md)
 
-[current-draft](current-draft.md)
