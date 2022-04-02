@@ -9,7 +9,8 @@
 Ergo - no hooks."
 "Who are you talking to, miss?" 
 ~A cellmate asked.~
-*Rossin waved his hand at that,*~ his free one~ 
+*Rossin waved his hand at that.*
+~His free one~ 
 "Children’s books, radio, newspapers, billboards. 
 Fucking billboards - and he just hasn’t happened to see anything. 
 Not once - in his life. 
