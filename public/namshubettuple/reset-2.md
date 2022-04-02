@@ -21,32 +21,37 @@
         --pain(
             --ctl(true)
             --mutable(true)
-            --a-o(true,*clap*)
+            --a-o(true,*Clap*)
         )
         --pressure(~__std_opt~)
         --heat(~__std_opt~)
     ) 
     -P(
         --uv(
-            --ir(~night~).hook=>(~delight~)
+            --ir(~Night~).hook=>(~Delight~)
             --af().hooks=>(
-                ~deadly things~=>(*distΔ+%10*)||
-                ~limbs~=>(*distΔ+%10*)
+                ~Deadly things~=>(*DistΔ+%10*)||
+                ~Limbs~=>(*DistΔ+%10*)
                 )
         )
     ), 
     -H(
-        --p(~perfect~)
-        --s(~~)
+        --pp(~Perfect~)
+        --syn(12).hooks=>(~Anxiety~)
     ) 
     -ST(
-        --range(~all~)
-        --ppm(~5~)
+        --range(~All~)
+        --ppm(5)
         --reprofile(false)
-        --o(true, ~disapointment~)
+        --o(true, ~Disapointment~)
        )
-    --default(~remaining options~).
-    )`
+    --default(~...Remaining Options~).
+    )
+    --TEMPORAL(
+        --factor(11).hook("Fear")
+        --o(true, ~Danger~)
+    )
+`
 }
 {
 ~An unknowable amount of time passed, and then the pain subsided.~
@@ -93,9 +98,9 @@ A chemical one...
 A new state in a giant state-machine, when you talk to someone ^martha keep looking at me"
 *^Her head snapped to the right back to center.*
 "There are states you can put the brain into from an idea, there are safe..."
-`states=>(~ideas processed through our language center~) `
+`states=>(~Ideas processed through our language center~) `
 "And there are "
-`arbitrary.states=>(~any arbitrary set of chemical potentials~)`
+`arbitrary.states=>(~Any arbitrary set of chemical potentials~)`
 "...which are far more dangerous."
 }
 {
@@ -123,7 +128,7 @@ People who understand that language is a tool to shape how other people express 
 "How much do you remember,"
 *Looking to the left he nodded,*
 "I’ll explain."
-`self.defence=>(status:~failed~,state:*error*)^;`
+`~Self~.defence=>(status:~Failed~,state:*Error*)^;`
 "Yeah, I don’t think I heard that quite right.
 That’s not english?"
 ~But she understood...~
@@ -165,14 +170,18 @@ It wasn’t your fault.
 But I need you to carefully walk out of here, and not look into the kitchen."
 }
 {
-~It wasn’t her fault… what wasn’t her fault… his hands, her bloody hands.~
+'It wasn’t her fault...?' 
+'What wasn’t my fault...'
+'His hands...'
+'my bloody hands.'
 *She looked down to find her shirt also stained...*
 *Then she turned her head right, back to the carpet she rose from, it too was stained...*
 *She turned back, and started the swinging of her head to the left.*
 "Don’t!"
 *She froze.*
 "I can’t protect you if you look at it. 
-I put it in the kitchen there, but it’s out of you… now, it’s separated… 
+I put it in the kitchen there, but it’s out of you... 
+Now, it’s separated... 
 But if you look at it, it will get back in - and I'm not enough to stop it."
 }
 {
@@ -194,7 +203,7 @@ Wait: what was before that...'
 'What... 
 Did I black out and kill someone? 
 It is a dead body in the kitchen... 
-did I witness something and...'
+Did I witness something and...'
 }
 {
 "Martha, I can’t actually read your thoughts. 
@@ -227,7 +236,7 @@ It did some damage.
 It left a kind of hole in you, in your consciousness... 
 A place for it to return to. 
 All over the kitchen are"
-`hooks=>(~symbolic link back into an existing entity~)`
+`hooks=>(~Symbolic link back into an existing entity~)`
 "A part of it... 
 A small part... 
 Like a seed... 
@@ -255,12 +264,12 @@ You’ve been doing great so far."
 "Complete?"
 `self.expain=>( 
     definition:[
-    ~a pattern capable of calculation.~
-    ~akin to a virus~, 
-    ~mimics life.~ 
-    ~requires a host brain~ 
-    ~may or may not spread.~ 
-    ~imaginary friend~
+    ~A pattern capable of calculation.~
+    ~Akin to a virus~, 
+    ~Mimics life.~ 
+    ~Requires a host brain~ 
+    ~May or may not spread.~ 
+    ~Imaginary friend~
     ], 
     name:"Rossin", 
     writer:"R. Aelera Haniurn", 
@@ -411,11 +420,11 @@ On a related note..."
 ~It was a list~
 *^Martha gasped and grabbed at her eye*
 `(~Quarentined~)=>[ 
-Smell(~oranges~), 
-Sight(~magenta~), 
-Taste(~copper~), 
-Touch(~ice~), 
-Propioception(~right-pinky~ => ~left-toe~]*EOLERR*("WrongLEN.Internal_...")^`
+Smell(~Oranges~), 
+Sight(~Magenta~), 
+Taste(~Copper~), 
+Touch(~Ice~), 
+Propioception(~Right-pinky~ => ~Left-toe~]*EOLERR*("WrongLEN.Internal_...")^`
 "What was that?"
 *Rossin raised his hands - spreading his palms out.*
 "Right, I lost some things too. 
@@ -430,7 +439,7 @@ I don’t know..."
 ~They walked in silence for a time.~
 ~Martha attempted to execise the ghost of a pain forgotten by rubbing at her eye.~
 ~It was mildly successful.~
-"it’s dormant, it’s not gone...
+"It’s dormant, it’s not gone...
 I just took out the internal triggers. 
 It’s backup plan if it got removed... 
 But Martha, there’s more... 
@@ -449,9 +458,9 @@ Which will then kill itself and thus me?"
 "...Basically."
 "Anything else? If I'm going insane, I might as well know what I’m in for."
 "I can teach you, we’ll start with:"
-`hooks=>(~reaction definitions~)`
+`hooks=>(~Reaction definitions~)`
 "...and a few other basics, some history, and if you are exposed to a different"
-`namshub=>(~pieces of language that program~)`
+`namshub=>(~Pieces of language that program~)`
 "I can catch it, but it’s destructive in nature... 
 It literally kills me to do so, can’t help with the hooks already in you though."
 }

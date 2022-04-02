@@ -4,12 +4,11 @@
 'If you have near unlimited power, what do you do with your spare time? 
 Do you feed the hungry, house the homeless? 
 See, power isn’t unlimited, no matter how vaste, and'
-`(~The power to shape wills is an ocean in one mind || a bucket in everyones~)=> 
-(
+`(~The power to shape wills is an ocean in one mind~ || ~A bucket in everyones~)=> 
+~Power gained by others,neuters power for everyone else.~ && (
 ~Washing every direction such that nothing gets done~ 
 	: 
-[~Not sharing that power if you obtain it.~, 
-~power gained by others,neuters power for everyone else.~]
+~Not sharing that power if you obtain it.~
 )
 `
 ~Felix felt the loss as awareness flooded someone else, it was happening more and more.~
@@ -43,7 +42,7 @@ Dole it out all day to particular people.'
 ~Not only would that be exhausting, Felix really didn’t know what he wanted done other than his own satisfaction.~
 'Better to not rock the boat.'
 'Scheme just enough to maintain the status quo.'
-`req=>{send(statusQuo=>self.statusQuo)};`
+`req=>{send(statusQuo=>~Self~.statusQuo)};`
 ~If he had been moving, or preoccupied, he wouldn’t have noticed the request.~
 ~Basic info was automatic - and didn’t require any conscious thought.~
 ~He was about to request the sender information when his phone vibrated once, indicating a text.~
@@ -88,7 +87,7 @@ Dole it out all day to particular people.'
 ~This person was awake and tampering with people in a way we don’t agree with was the general reason.~
 ~Which agreed with him for the most part.~
 ~For the most part they had been a sort of evil willing to spread harm though others.~
-~while those in power mostly sought power for its own sake over promoting any particular evil.~
+~While those in power mostly sought power for its own sake over promoting any particular evil.~
 ~So Felix erased them until they hadn't woken, leaving them harmless and free to live out their proletariat lives.~
 ~Some people may have been inducted early… really early… but if their crimes were bad enough...~
 }

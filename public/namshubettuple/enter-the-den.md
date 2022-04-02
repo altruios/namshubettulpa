@@ -64,9 +64,9 @@ Just don’t rip control from me while I’m connected and we’ll be fine"
 ~Before she knew it she was outside herself in that shadowy perspective.~
 `WITH(
     (hooks)
-        .turn=>(~wall~)
-        .ignore=>(~self~=>(!"stop"))
-        .end=>(~self~=>("stop"))
+        .turn=>(~Wall~)
+        .ignore=>(~Self~=>(!"Stop"))
+        .end=>(~Self~=>("Stop"))
  ).`
 *Her three cellmates stood up, and walked to the front bars.* 
 ~Each standing in a row - facing outwards.~
@@ -79,26 +79,25 @@ Just don’t rip control from me while I’m connected and we’ll be fine"
 *Rossin sighed.* "Again, it really doesn’t matter, but..." 
 *Rossin turn toward the camera*
 `
-EVENTS = ~self~=>hooks.memory(~visual~,~audio~).located(~here~)
+EVENTS = ~Self~=>hooks.memory(~Visual~,~Audio~).located(~Here~)
 WITH(
     (hooks)
         .temp_set_mem(EVENTS)
-        WHILE(.knowing(~existance~=>(EVENTS)))(
+        WHILE(.knowing(~Existance~=>(EVENTS)))(
             .remove_all=>(
-                ~reminders~,
-                ~evidence~,
-                ~memory~
+                ~Reminders~,
+                ~Evidence~,
+                ~Memory~
                 )
             TRY(
-                .propogate(~this~=>(~human~))
+                .propogate(~This~=>(~Human~))
             )CATCH(
                 .sleep(10)
-                .repeate(~this~);
+                .repeate(~This~);
             )
         )
     )
-        
-        `
+`
 *Rossin looked back to her* 
 "Anyone who sees this will forget they saw you, and also destroy any tapes or recordings. 
 We would do that on our way out anyway." 
@@ -174,7 +173,7 @@ I expect it would be a good thing to do sooner rather-"
 "Alright - so Martha," 
 *Felix sat down across from her*
 ~Right next to Rossin~
-"why are you here?"
+"Why are you here?"
 "I killed someone," 
 ~Martha replied.~
 "...So?"
@@ -195,7 +194,7 @@ But you stopped listening to me..."
 "They’re in the back of the mind, somewhere - you just need a...
 Vessel - to house them."
 `['A vessel...',
-'just another human?', 
+'Just another human?', 
 'Any human?',
 'Any living thing?', 
 'Wouldn’t people not recognize them']`

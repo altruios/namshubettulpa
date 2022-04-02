@@ -8,7 +8,7 @@
 `Had another dream,
 That police officer was in it,
 Sort of....
-how can I wake you?`
+How can I wake you?`
 *She tapped her foot ideally, watching the luggage getting picked up.*
 ~The people moved like ants.~
 ~A rhythm each individual wasn’t aware of, but any outside observer was.~
@@ -49,7 +49,7 @@ Much more,"
 *She got up and matched his pace.*
 "So...
 Another dream?"
-~he finally asked.~
+~He finally asked.~
 *Martah nodded.*
 "I remember more of it now. 
 I think they, I don’t know, pulled me out of mine and into theirs.
@@ -66,7 +66,7 @@ You know her?"
 "My author did...
 Long ago...
 She was a console member...
-still is, technically, since she’s alive...
+Still is, technically, since she’s alive...
 What has she been doing?"
 ~He mused to himself.~
 *He looked back to her,*
@@ -111,7 +111,7 @@ I’m getting better just - hold on for a minute."
 ~He didn’t wait a whole minute - but he did wait a few seconds,~
 "Felix is here, he’s walking toward you - stand up if you can."
 *She opened her eyes...*
-~her vision swam.~
+~Her vision swam.~
 ~Corners had extra shadows that danced and stretched...~
 ~It was getting better, but slowly.~
 "I hope you got a good look - I’m not doing that again"
@@ -124,9 +124,9 @@ I’m getting better just - hold on for a minute."
 *She said - taking the cone.*
 ~It was mint-chip.~
 ~Not her favorite, by a long shot~
-`$ overide ST --auto`
-*she took a small bite*
-~but the flavor exploded in her mouth.~
+`>>--ST -o --auto`
+*She took a small bite*
+~But the flavor exploded in her mouth.~
 *She started consuming chunks of it.*
 ~She didn’t realize how famished she was.~
 'And this is the best damn icecream'
@@ -338,7 +338,7 @@ Get out of here now!"
 *He crawled on all fours - running at her with an uncanny grace.*
 *Martha slammed the door on him - running for the elevator.*
 ~It did little to slow him down.~
-~whatever he was now - still knew how to work doorknobs.~
+~Whatever he was now - still knew how to work doorknobs.~
 *She slammed into the elevator and pressed the down button.*
 ~Then the up button a moment later.~
 *Any direction would do - she turned to face the man.*
@@ -414,18 +414,18 @@ I’m not, and I don’t"
 ~Rossin perked up at that.~
 "I like that,"
 ~Rossin muttered,~
-"right to the point."
+"Right to the point."
 "Non-physical...
 So a ghost?"
 "More like a...
-memory"
+Memory"
 "Isn’t that just a ghost?"
 "He’s not made of ectoplasma...
-is that something that exists?"
-*she turned to Rossin, who shook his head.*
-"yeah, that’s not even a thing"
+Is that something that exists?"
+*She turned to Rossin, who shook his head.*
+"Yeah, that’s not even a thing"
 "So he’s a memory, like...
-in your head"
+In your head"
 *Martha nodded,*
 "He's like a computer program...
 Only for brains."
@@ -444,9 +444,9 @@ Why are you in New York?"
 "He was infected with a very bad ghost in his brain."
 *Rossin walked between the two of them, facing Martha.*
 "This is painful. 
-either just tell him everything or stop using ridiculous metaphors."
+Either just tell him everything or stop using ridiculous metaphors."
 "What else am I supposed to tell him?"
-*she snapped, looking over him to kent to say:*
+*She snapped, looking over him to kent to say:*
 "Sorry...
 Okay...
 So there are these things called namshubs..."
@@ -547,7 +547,7 @@ One collection tightly nestled in the link...
 This..."
 *He pointed at the scratched out and damaged symbol on the corpse’s forehead.*
 "This is like a blender - everyone’s memories of them: evaporated, like that"
-*he snapped his fingers.*
+*He snapped his fingers.*
 "Gone forever - completely mixed in the ocean...
 You can’t fix that."
 *The elevator door opened.*

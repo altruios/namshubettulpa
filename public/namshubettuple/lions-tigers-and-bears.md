@@ -85,7 +85,7 @@ Which is good - it looks like it’s just a general command to follow his voice 
 *Felix stolled to the couch - and sat down - beckoning Martha to join him.*
 }
 {
-*she sat across from him on the u-shaped couch.*
+*She sat across from him on the u-shaped couch.*
 "He’s in the back of the mind somewhere. 
 And his relative will help bring him out.  
 Flat-mate, or neighbor would have been fine - just someone who knows him. 
@@ -216,7 +216,7 @@ Practicing alone, on a cruise around fiji.
 Enjoying gourmet food, and silence"
 *He tilted his head.*
 "There wasn’t any reason either, I was a good student, but...
-they didn’t take to me, the teachers that is, to me too much...
+They didn’t take to me, the teachers that is, to me too much...
 I think it was their way of trying to keep an eye on me, that is, getting me to teach."
 }
 {
