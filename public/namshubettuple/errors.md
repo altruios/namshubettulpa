@@ -103,7 +103,8 @@ We’ll grab some calories wherever we get the shirt"
 ~When he wasn’t directly looking it slipped from his mind, unable to stick.~
 "Can I help you?"
 ~The officer asked.~
-"What are you doing here?"
+~Kent stared blankly at him.~
+"...What are you doing here?"
 "I live here?"
 ~He looked back into the room.~
 "I’m sorry, is there anything I can help you with?"
@@ -127,14 +128,14 @@ We’ll grab some calories wherever we get the shirt"
 "Do you recognize this man?"
 ~Kent asked.~
 "He’s my father."
-"Your father died yesterday - this is officer rogers."
+"Your father died yesterday - this is officer Rogers."
 "My dad isn’t a police officer, and he’s not dead."
 "A body in the morgue says differently."
 "A body...
 With his face?"
 ~The son asked.~
 "Well...
-No - it’s a different person: this is officer rogers, not your father."
+No - it’s a different person: this is officer Rogers, not your father."
 "Sir.
 Unless you have a warrant - I’m going to have to ask you to leave.
 You’re scaring my boy"

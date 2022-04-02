@@ -109,7 +109,7 @@
 *He glanced at where she was looking, turned back to her and nodded.*
 *She flipped the switch.*
 ~Her perspective twisted about until she saw Rossin in her place.~
-`Hooks.ignore(~Self~) && .delete(~media~.contain(~Self~) | break.`
+`Hooks.ignore(~Self~) && .delete(~Media~.contain(~Self~) | break.`
 *She turned and saw the phones slip back into purses and tuxedo suit pants.*
 "Martha, before you switch back..."
 *She nodded,*

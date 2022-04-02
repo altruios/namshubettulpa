@@ -5,10 +5,10 @@
 ~She recounted her dream.~
 ~Lists she made while in the dream were still just as fresh as any other.~
 ~She closed her eyes - her message still written off to her left,~
-`Had another dream,
-That police officer was in it,
-Sort of....
-How can I wake you?`
+`['Had another dream',
+'That police officer was in it',
+'Sort of....'
+'How can I wake you?']`
 *She tapped her foot ideally, watching the luggage getting picked up.*
 ~The people moved like ants.~
 ~A rhythm each individual wasn’t aware of, but any outside observer was.~
@@ -21,12 +21,15 @@ How can I wake you?`
 'Maybe Felix already left', 
 'Maybe Rossin would not wake up...',
 'Maybe...']`
-~Her thoughts were interrupted by someone sitting down next to her.~
-~She turned - it was Rossin.~
+~She didn't write this list to the board.~
+~she would have kept going except she heard a noise to her left.~
+*Rossin sat down next to her.*
+*She turned to him.*
 "What took you so long?"
 ~She asked.~
 "I enjoy my beauty sleep"
-*He said flippantly, he looked around.*
+~He said flippantly.~ 
+*He yawned and looked around.*
 "I don’t exactly have a choice in that...
 How long?"
 "About an hour."
@@ -408,7 +411,7 @@ I’m not, and I don’t"
 "Who are you talking to?"
 *Martha lowered her hands slowly, gesturing to his gun*
 *Kent lowered his gun*
-"Who are you talking to?"
+"...Who are you talking to?"
 ~He repeated.~
 "Well, his name’s Rossin, he’s a non-physical person"
 ~Rossin perked up at that.~
@@ -572,7 +575,7 @@ He's considering if you’re with them, infiltrating"
 *She asked, tucking her shirt over the gun into her pants.*
 ~Felix studied her, then said.~
 "We’re going to Falshtine’s home, to get some answers..."
-~He paused...~
+~There as an elevator ding, and they both felt the gravity suddenly shift.~
 "He’s the one that made the undernet"
 *The elevator doors opened to the downstairs lobby and they walked out.*
 }
