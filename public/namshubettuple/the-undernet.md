@@ -376,7 +376,7 @@ And I don’t think that i would be able to do anything to him anyway"
 *Again Martha shook her head.*
 "Weirder..."
 "Weirder than zombies?"
-*again Martha nodded.*
+*Again Martha nodded.*
 "I’ve had a weird week."
 ~Sudden relief flooded her.~
 ~Adrenaline still pumping and she giggled a bit at the absurdity of it all.~
