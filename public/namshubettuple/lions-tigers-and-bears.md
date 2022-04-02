@@ -192,7 +192,7 @@ That’s entropy: unavoidable"
 "Twist the dial so it says your father’s name on the branding side, put that side in the fire..."
 *He looked back at the kitchen.*
 "And wear some kitchen gloves"
-*He turned back to martha.*
+*He turned back to Martha.*
 "Don’t make that mistake...
 Be explicit"
 }
@@ -245,7 +245,7 @@ Quicker than you know."
 ~The officer had his uniform bundled in his arm.~
 "I’ll take that,"
 *He reached out and grabbed the uniform...*
-*Looking back at martha*
+*Looking back at Martha*
 "Rule three: less of a rule more of a suggestion: costumes are fun. 
 You can write in a costume in their mind, but why do the extra work"
 *He turned his head back to the kitchen,*

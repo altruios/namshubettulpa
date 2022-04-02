@@ -154,7 +154,7 @@ Do you see the board any easier - why don’t you try writing on it"
 {
 *A server walked in front of her - a large steak meal was presented to her... *
 ~Rossin, that is, along with many side dishes, including lobster.~
-*She - rossin, dug in.*
+*She - Rossin, dug in.*
 "How am I supposed to do this?"
 ~Martha asked.~
 "I can’t write on that board at all."
@@ -211,7 +211,7 @@ Just say it’s a trick you learned on the internet."
 I found a nice place to eat, which happened to have you in it. 
 Nice stroke of luck."
 "It was the best place in town"
-~It was, according to rossin, that is.~
+~It was, according to Rossin, that is.~
 "That’s good, why not eat at the very best."
 }
 {

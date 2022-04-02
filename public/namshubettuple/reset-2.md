@@ -95,7 +95,7 @@ For what is an idea?"
 ~She still wouldn’t look left.~
 "An idea is a change in the brain... 
 A chemical one... 
-A new state in a giant state-machine, when you talk to someone ^martha keep looking at me"
+A new state in a giant state-machine, when you talk to someone ^Martha keep looking at me"
 *^Her head snapped to the right back to center.*
 "There are states you can put the brain into from an idea, there are safe..."
 `states=>(~Ideas processed through our language center~) `
@@ -350,7 +350,7 @@ She went around the corner as Rossin stepped out of the door behind her.~
 "Well, I am in your head, you put two and two together."
 *Leaving him behind she walked past the side of the… mansion… yes it was a mansion.*
 ~Complete with a ridiculously long driveway and hedges blocking all surrounding views.~
-*She continued out to the street, rossin making his way behind her.*
+*She continued out to the street, Rossin making his way behind her.*
 "There’s more."
 *He paused once he caught up...*
 "I just pushed you out of a chair!"

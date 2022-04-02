@@ -184,7 +184,7 @@ Haven’t done that before."
 ~Felix paused, considering.~ 
 "I see. 
 You know you can bring them back right?"
-*Martha looked up sharply, eyes darting to rossin, who shrugged,* 
+*Martha looked up sharply, eyes darting to Rossin, who shrugged,* 
 "I tried to tell you... 
 But you stopped listening to me..."
 "How?" 

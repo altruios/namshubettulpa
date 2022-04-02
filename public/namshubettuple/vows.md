@@ -4,7 +4,7 @@
 ~Nurses bustling about~
 ~A chorus of beeps from machines lay in the distance beyond a set of doors.~
 ~Above him an angry news anchor~
-~Complaining about something kent didn’t care about or listen to.~
+~Complaining about something Kent didn’t care about or listen to.~
 ~A chorus of low murmurs and coughs filled out the white noise.~
 ~His eyes were heavy, and he held his head in his hands, resting them.~
 ~He found a ledge for his head to lean back - and drifted off to sleep.~
@@ -72,7 +72,7 @@ He died in the ambulance."
 ~The drugs they pumped him with dulled the pain, partially...~
 "How did I get here...
 What happened?"
-~His eyes were glassy now - not fully able to focus on kent.~
+~His eyes were glassy now - not fully able to focus on Kent.~
 "You were in that room. 
 With the tech - you lit the tapes on fire.  
 You covered the emergency sprinkler with your jacket 
@@ -171,7 +171,7 @@ How would I even know one way or the other?'
 ~A deep sense of dread filled his gut as he realized he was out of his depth.~
 ~He ran these thoughts over and over in his head.~
 ~He did come to any new conclusions - but further solidifying one fact.~
-~He had to find martha.~
+~He had to find Martha.~
 ~Make her explain.~
 ~Make her answer for what she had done...~
 ~Though he was not even sure exactly of what she did.~
@@ -325,7 +325,7 @@ Resilient, not subject to your memory rewriting"
 "There are some...
 Liberties I took - before getting that thing completely out.
 A bit of house keeping"
-~Martha waited and rossing continued.~
+~Martha waited and Rossing continued.~
 "Well, there’s some...
 Rewiring I did...
 Things it would take years to learn - you would just need to learn how to do. 
@@ -382,7 +382,7 @@ Not with your vision, but at that point where you are looking at your vision.
 Shift your focus to the left of your vision - it’ll be a blank wall."
 ~Martha tried to do that...~
 "I just see darkness, I don’t know"
-*She opened her eyes, and looked to the right: to where rossin was.*
+*She opened her eyes, and looked to the right: to where Rossin was.*
 "How do I know when I’ve done it"
 *Rossin gestured for her to close her eyes.*
 *She did.*

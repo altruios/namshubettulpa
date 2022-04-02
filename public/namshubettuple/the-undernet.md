@@ -397,7 +397,7 @@ No one remembers you, and oh yeah, my friend is dead."
 ~He trailed off, looking at Kent.~
 "Or maybe not...
 Maybe we should have stayed..."
-"Are you talking to felix? 
+"Are you talking to Felix? 
 Do you have..."
 *He moved his head, peering at her neck.*
 "One of those comms under the skin?"
@@ -446,7 +446,7 @@ Why are you in New York?"
 "This is painful. 
 Either just tell him everything or stop using ridiculous metaphors."
 "What else am I supposed to tell him?"
-*She snapped, looking over him to kent to say:*
+*She snapped, looking over him to Kent to say:*
 "Sorry...
 Okay...
 So there are these things called namshubs..."
@@ -486,7 +486,7 @@ Seriously - you are in way over your head here."
 ~She was sure he was ready to shoot.~
 *Rossin looked directly at Martha.*
 "You’re dead if they find him here, you know that right?"
-*Rossin turned back to kent.*
+*Rossin turned back to Kent.*
 "I’m not going to hurt you, or shoot you.
 I’ll...
 We’ll give it back later."

@@ -5,7 +5,7 @@
 *Martha groaned as Rossin paced from the motel door entrance, to the bathroom.*
 ~It wasn’t far.~
 ~They had gone to a nearby motel.~
-~Not the closest - rossin switched with her to have the manager hand over the keys.~
+~Not the closest - Rossin switched with her to have the manager hand over the keys.~
 "There’s a few things you need to know first, then you can sleep, I promise."
 "Why are you pacing"
 *Rossin looked at her, still pacing. *
@@ -15,10 +15,10 @@ When that’s active: you can’t sleep."
 "So you’re keeping me awake..."
 *Rossin nodded, *
 "On purpose?"
-*Sgain, rossin nodded. *
-"Ehy?"
+*Again, Rossin nodded. *
+"Why?"
 "Making sure I haven’t missed anything...
-Ehat he said was true, about the school - machiavellian. 
+What he said was true, about the school - machiavellian. 
 But that’s not really a trait that’s instilled there. 
 That’s practically a prerequisite to be in this world...
 You don’t meddle in the minds of humans without some detachment from ‘humanism’. 
@@ -126,12 +126,12 @@ It’s best that you are able to do these things without me being you.
 I can’t do everything for you...
 But I can probably be of more help getting you up and running...
 But that’s for when you wake..."
-~Martha realised that how tired she was, was in fact tied to rossin’s movement.~
+~Martha realised that how tired she was, was in fact tied to Rossin’s movement.~
 ~The more he moved, the more awake she felt.~
 ~But even with him moving: it was a stop gap against the inevitable force of sleep.~
 "For now...
 I think that’s everything. We’ll fix the people at the station, if anything even needs to be done...
-Maybe felix noticed that detail...
+Maybe Felix noticed that detail...
 He was tired too...
 Maybe he missed it as well...
 Maybe"
@@ -197,7 +197,7 @@ I’ll be there in a little bit."
 "Don’t do me any special favors."
 ~He meant it...~
 ~It was nice and all...~
-~But tom’s niceness felt like it had strings attached - strings he didn’t want to pull.~
+~But Tom’s niceness felt like it had strings attached - strings he didn’t want to pull.~
 "It’s coffee, from yesterday, fucking relax...
 Also,"
 ~There was a pause in the other line.~

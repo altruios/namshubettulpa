@@ -24,7 +24,7 @@ Probably in the holding cell."
 `['There’s more to do here, obviously']`
 "Well, let’s start there - let me switch."
 ~She obliged.~
-*Once they were done trading places, rossin turned toward the front desk again.*
+*Once they were done trading places, Rossin turned toward the front desk again.*
 `WITH(
     (hooks)
     .go(~Location of the prisoners faceing the wall~)
@@ -185,7 +185,7 @@ A red eye."
 "And you don’t remember anything about the walls."
 *The man across from him shook his head,*
 "Not even a little bit"
-~When kent told him about how he was just...~
+~When Kent told him about how he was just...~
 ~Facing the wall.~
 ~Bewilderment was the response.~
 ~More and more he questioned his sanity...~
@@ -290,7 +290,7 @@ Someone who’s never seen his face.'
 ~He would be going to the same place regardless...~
 ~And tailing Martha - maybe she would see him on a cramped plane...~
 *He fished in his pocket - pulled out a coin...*
-'Heads - martha, tails - this new fellow.'
+'Heads - Martha, tails - this new fellow.'
 *He flipped the coin in the air and caught it.*
 *Then he slammed it into the back of his other palm.*
 ~Tails.~

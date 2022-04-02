@@ -90,7 +90,7 @@ Then think of the last place I sent you"
 *She took it and did as instructed, remembering the monastery with the monks.*
 ~A swirling cloud of color poured out of the horn.~
 ~And behind her Gerald Whitewater was there to capture that with a jar.~
-*He closed the lid - and took the horn from martha.*
+*He closed the lid - and took the horn from Martha.*
 "Just in case we forgot something,"
 ~Gerald said.~
 *Taking both carefully while also balancing a clipboard under his arm.*
@@ -245,7 +245,7 @@ Are less out of place there..."
 *When he was sure he was asleep - Kent danced over the still passengers.*
 ~He moved as quietly as he could without releasing his bladder accidentally.~
 *He made his way back to the restroom in the back of the plane.*
-~He did not trust the restroom in front next to felix to be quiet enough.~
+~He did not trust the restroom in front next to Felix to be quiet enough.~
 *He walked into coach.*
 ~Before him everyone was unnaturally still.~
 }
@@ -563,7 +563,7 @@ She wondered - was he in danger?',
 ~Like his face.~
 ~He wasn't moving anymore - but he was still breathing.~
 ~The creature was climbing up now.~
-*She dragged kent over to the other side of the small gear.*
+*She dragged Kent over to the other side of the small gear.*
 *She felt the lurch again and she jumped with all her strength.*
 ~With Kent - the navigator - in tow.~
 *She flew over the edge just as the alien climbed fully atop the gear.*

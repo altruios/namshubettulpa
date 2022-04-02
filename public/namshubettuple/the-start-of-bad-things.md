@@ -57,7 +57,8 @@ Dole it out all day to particular people.'
 ~Really strange thoughts, thoughts with power and shape can be incredibly taxing.~
 ~But it’s like a muscle - the more you do it, the stronger you get.~
 ~So he practiced.~
-~Every single day after his training, until he could stomach it… but still - he fainted.~
+~Every single day after his training, until he could stomach it...~ 
+~but still - he fainted.~
 ~It wasn’t for long, he hadn’t even hit the ground yet before he came back to...~
 ~Most of the time he caught himself...~
 ~The more experienced one’s, the one’s doing this for hundreds of years, didn’t even black out.~
