@@ -262,8 +262,8 @@ We’ll be able to get someone in the morning - two hours from now...
 That alright with you?"
 *Martha nodded and he stood up,*
 "I’ll get someone for those cuffs, just stay there"
-~picking up on the ironic tone:~
-*Martha sardonically jazz hands’ed causing the metal chains to jiggle.*
+~Martha understood that ironic tone:~
+*She sardonically jazz hands’ed causing the metal chains to jiggle.*
 }
 
 ## [enter-the-den](enter-the-den.md)
