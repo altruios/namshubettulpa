@@ -1,10 +1,10 @@
 # RESTRUCTURING
 
 {
-`in this chapter we have a conversation with Falstine.
+`in this chapter we have a conversation with Flanagan.
 a few critical choices are made here narratively:
-felix's relation to Falstine.
-Rossin's relation to Falstine.
+felix's relation to Flanagan.
+Rossin's relation to Flanagan.
 
 
 in any event - Felix is tasked by Falstine and others ( teachers?) to clean out the undernet.

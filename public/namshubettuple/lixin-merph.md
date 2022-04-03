@@ -324,7 +324,7 @@ And I’ve removed most of my hooks myself."
 *Rossin was still pacing in the back of the room.*
 ~He fed her more words.~
 "I’ve been doing some research.
- Do you know Professor Falshtine."
+ Do you know Professor Flanagan."
 }
 {
 ~Felix paused again.~

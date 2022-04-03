@@ -574,7 +574,7 @@ He's considering if you’re with them, infiltrating"
 "So what now?"
 *She asked, tucking her shirt over the gun into her pants.*
 ~Felix studied her, then said.~
-"We’re going to Falshtine’s home, to get some answers..."
+"We’re going to Flanagan’s home, to get some answers..."
 ~There as an elevator ding, and they both felt the gravity suddenly shift.~
 "He’s the one that made the undernet"
 *The elevator doors opened to the downstairs lobby and they walked out.*

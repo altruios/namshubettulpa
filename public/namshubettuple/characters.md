@@ -8,7 +8,7 @@
 
 [Felix-Danabrus](Felix-Danabrus.md)
 
-[Professor-Falstine](Professor-Falstine.md)
+[Professor-Flannagan](Professor-Flannagan.md)
 
 [Captain-Lana-Alacira](Captain-Lana-Alacira.md)
 
