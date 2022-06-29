@@ -118,7 +118,7 @@ Oh, and other why is because then we die."
 {
 ~Kent sat alone on a park bench.~
 *He glanced at his watch between chews of his bagal.*
-'two:thirty, let me see...
+'Two-thirty, let me see...
 4pm would hit the 12 hour mark of day 2.'
 ~He briefly considered taking a small nap on the bench...~
 ~But decided he would stay at a hotel.~
@@ -127,18 +127,85 @@ Oh, and other why is because then we die."
 'Somewhere close by.'
 ~He scanned the streets beyond the park.~
 ~In the short distance he saw a hotel sign - dolphin.~
-'a bit ritzy but that is close.'
-~down beyond the sign in front of the main entrance something caught Kent's eye~
-~A shorter girl was holding out a phone in front of her like a shield...~
-'no - more like a weapon.'
+'A bit ritzy but that is close.'
+~Down beyond the sign in front of the main entrance something caught Kent's eye~
+~A shorter woman was holding out a phone in front of her like a shield...~
+'No - more like a weapon.'
 ~She held out her phone facing an older gentleman of 60's in a dapper suit.~
 ~He stared slackjawed at it - unmoving.~
 *Kent moved closer to the entrance, recongnizing this phone business from Felix.*
 ~Suddenly the older man sprang to life.~
-*The girl switched phones with him, and Kent saw him enter his password for her.*
-
-`{dime:: Kent witnessing someone awakened - doing something strange}`
-`{dime:: Kent follows this stranger - who turns out to be of the undernet}`
+*She switched phones with him, and Kent saw him enter his password for her.*
+*A moment later she took her phone back and walked off.* 
+~Leaving the man stupified.~
+*Kent navigated the river of cars - which was gridlocked, and reached the old man.*
+~The man shook his head - like he was trying to get water out of his ear.~
+"Can you tell me anything about that woman?"
+*Kent approched and flashed his badge*
+~It was a quick flash - he wasn't NYPD.~
+~The man tilted his head slightly~
+"What woman?"
+*Kent sighed and brushed past him - rounding the corner where she had turned.*
+~He was in an alley - the woman, she wore a red cadigan, was at a metal door at the end.~
+'Was she always wearing a red carigan?'
+~Kent used the edged of his foot, walking quitely as possible~
+*He approched behind her, she was entering a code on a keypad*
+*The door hissed open.* 
+*she opened then walked through the door.*
+~Kent was close enough to the door to make a dash for it~
+*He did.*
+~his finger fit in to stop the door slamming shut.~
+'Bad idea Kent'
+*Kent opened the door slightly and peered inside*
+~A dimly lit hallway - and no person or camera in sight.~
+*He opened the door a bit more.*
+~There was nothing around the edged of the room, just a hallway.~
+*He slid through the opening and closed the door gentley.*
+'This is a really bad idea Kent.'
+'You know those horror movies where the person goes in alone into the den of a lion?'
+'that is you right now: this is what is going on.'
+'you haven't had sleep in: how long?'
+'Come on Kent - get out of here.'
+~Kent pushed forward.~
+'You don't even have your gun?'
+~He was momentairly back in that hallway - shooting at that bloody thing rushing him.~
+~He shook the thought away.~
+*Kent walked down the hall - and looked around the corner at the end.*
+~He could hear sounds - jovial.~
+~He could see a small gathering of beanbag chairs in a circle.~
+~Some were empty - but most were filled with people.~
+~Surrounding them were chalkboards, covered in writing~
+~He was too far away to make out the writing.~
+~He felt a hand on his shoulder.~
+"first time?"
+~Kent turned his head to see another Woman right behind him.~
+*He nodded.*
+'Okay - go with the flow - act like you belong...'
+'Don't freak out.'
+"Come."
+*She placed her hand on Kent's back.*
+"How'd you find us?"
+'Fuck - 2 seconds in and already panicking.'
+'37 hours awake?'
+'is that right?'
+'she is looking at you - answer: anything!'
+"oh, you know: saw some stuff... 
+read some stuff...
+put two and two together..."
+*He was led by her to sit down in on of the bean bags.*
+~Around him was a stotastic wave of interest...~
+~Expressed as a void, a gap in conversation...~ 
+~A subtle look, often followed by an 'anyway'~
+"We start in a few moments, I'll let you get settled."
+*She herself walked to the other side of the room.*
+*And then distributed paper amoung those sitting.*
+~One paper reached Kent's hands as he passed the rest over.~
+"Hi, I'm Robert."
+~A voice came from his left.~
+"Kent."
+~Kent distractedly replied - reading though the paper.~
+~Then the writing on the boards.~
+`{dime:: link of paper propaganda of the undernet}`
 }
 {%%%%}
 {
@@ -159,13 +226,13 @@ Oh, and other why is because then we die."
 What's his name?"
 *Felix cocked his head toward her and raised an eyebrow.*
 "You know me..."
-"damn it felix, not you...
-Go wait for us inside.
+"damn it Felix, not you...
+Go wait for the rest of us inside.
 I have to be sure of something before she enters."
 *Felix bowed his head, and scampered off inside.*
 ~Flanagan waited, inspecting her.~
 "so... what's his name?"
-"He means me."
+"He means me, just tell him the Truth."
 *Rossin walked forward toward Flanagan.*
 "Rossin."
 "Rossin... and he's been helpful?"
@@ -187,6 +254,10 @@ But we're in the middle of cleaning that up."
 If he wants."
 *He stepped back into the room - leaving the door open.*
 *Martha followed.*
+`"what just happened?"`
+"deep scan: deep look at my pattern..."
+`"and"`
+"and he doesn't kill us: which is good."
 ~Before the hallway was cast in a golden light eminating from the room.~
 ~It was bright enough to be blinding, that didn't make sense to her.~
 ~as she stepped in it was like a switch had been fliiped and she could see.~
@@ -212,6 +283,36 @@ Sort of a 'if I die I can come for your body from your dreams', kind of thing."
 ~Martha paused briefly, she nearly sat down before she hesitated.~
 `"that's a little fucked."`
 *Rossin nodded his head.*
+*Martha sat down next to Felix.*
+~Flanagan was about to speak when a chime rang.~
+"Oh, that would be two of the Relux"
+"Where's the third"
+~Felix inquired.~
+"Still in Romania: now If you'll excuse me."
+~After Flanagan left the room for the center door, Martha asked:~
+"Relux?"
+"A hivemind - three people sharing three bodies."
+~Martha paused.~
+"Can anyone do that?"
+*Felix raised his hand and shook it noncommitally.*
+"Theoretically, yeah - but it's sort of: well."
+~Felix paused.~
+"you don't get large groups or many groups because well: just imagine..."
+*Martha waved him on.*
+"imagine if you can hear someone's thoughts - no filter.
+every bad nasty thing thought in passing that doesnt get said:
+most people are at each others throats with that level of connectivity"
+"so it's a constant connection - you can't turn it on or off?"
+"This I'm not that famimilar with - thought never appealed to me: so I didn't learn more."
+~Martha sat in silence for a time - pondering what that would be like.~
+"I mean - I'm just in your head - our thoughts aren't connected"
+*Rossin sat down beside her*
+"So imagine this: but more extreme."
+~Through the threshold step Flanagan and Two people next to him.~
+~A burely man - dark skin and curly black hair, and a thin tall blonde beside him.~
+*They stepped forward and sat on the couch across from them*
+
+
 `{dime::do stuff}`
 `{dime::set up alacira refference}`
 `{dime::meet the three}`
