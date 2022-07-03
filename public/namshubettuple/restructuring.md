@@ -62,7 +62,7 @@ just about..."
 *Felix nodded, and opened the door.*
 *He held out her hand toward her, as she slid herself across the seat.*
 ~The car was parked blocking some cars in on Martha's side.~
-~To her right was the entrance to a little cave alove containing elevators.~
+~To her right was the entrance to a little cave alcove containing elevators.~
 "Don't look away from the security guard, blinking is fine...
 But keep your eyes on him."
 *Martha tilted her head but nodded.*
@@ -164,10 +164,10 @@ Oh, and other why is because then we die."
 'This is a really bad idea Kent.'
 'You know those horror movies where the person goes in alone into the den of a lion?'
 'that is you right now: this is what is going on.'
-'you haven't had sleep in: how long?'
+'you have not had sleep in: how long?'
 'Come on Kent - get out of here.'
 ~Kent pushed forward.~
-'You don't even have your gun?'
+'What if another zombie thing shows up: no gun Kent.'
 ~He was momentairly back in that hallway - shooting at that bloody thing rushing him.~
 ~He shook the thought away.~
 *Kent walked down the hall - and looked around the corner at the end.*
@@ -181,7 +181,7 @@ Oh, and other why is because then we die."
 ~Kent turned his head to see another Woman right behind him.~
 *He nodded.*
 'Okay - go with the flow - act like you belong...'
-'Don't freak out.'
+'stay calm: do not freak out.'
 "Come."
 *She placed her hand on Kent's back.*
 "How'd you find us?"
@@ -291,7 +291,7 @@ Sort of a 'if I die I can come for your body from your dreams', kind of thing."
 "Still in Romania: now If you'll excuse me."
 ~After Flanagan left the room for the center door, Martha asked:~
 "Relux?"
-"A hivemind - three people sharing three bodies."
+"Name of a hivemind - three people sharing three bodies."
 ~Martha paused.~
 "Can anyone do that?"
 *Felix raised his hand and shook it noncommitally.*
@@ -307,10 +307,100 @@ most people are at each others throats with that level of connectivity"
 ~Martha sat in silence for a time - pondering what that would be like.~
 "I mean - I'm just in your head - our thoughts aren't connected"
 *Rossin sat down beside her*
-"So imagine this: but more extreme."
+"So imagine this: but more extreme. just"
+*Rossin puts up a mock hand and jabbers with it*
+"gibberish all day - most people - even the Awakened: their thoughts are a mess."
 ~Through the threshold step Flanagan and Two people next to him.~
 ~A burely man - dark skin and curly black hair, and a thin tall blonde beside him.~
 *They stepped forward and sat on the couch across from them*
+*Felix rose to take their hands, and with only a subtle prompting from Rossin, Martha did likewise*
+"Relux, What's the news?"
+*Felix said sitting back down*
+*The man turned to Flannagan*
+"how much does he know?"
+"I haven't had time to question them, you arrived shortly after."
+"question us about what the school? that's why we're here - we just came from there."
+"It was more than just the school in new york"
+"what, the one in london?"
+"it was more than just the schools, though they were all hit."
+~Felix fell silent~
+"What all was attacked?"
+~Martha asked.~
+"The schools, a number of hubs, assassinations... you were one of the first we think."
+"me?"
+"I think he means me, my author I mean."
+"I mean Rossin."
+"who's Rossin?"
+~Felix asked~
+"The first assissination victim - what's left of him is in Martha over here."
+*Felix turned to Martha.*
+"So all this time?"
+"Speaking of, he's leaking pretty badly - Jochek - would you?"
+*The blone woman nodded and held out her hand*
+"I don't bite"
+"It's alright - I need some fixing"
+~Rossin said.~
+*Martha reached out her hand and clasped Jochek's*
+~for a moment time seized, stuttering a jerking to a halt~
+~Rossin faded from view and time jerked back~
+~her left eye was close - she couldn't open it~
+"How long should this take?"
+~a wave a nausia passed her.~
+"Not that much longer."
+~Flannagain turned back from the other Relux, looking back at martha.~
+"do we need a bag?"
+*Felix asked looking around*
+*Martha waved him no*
+'hold a thought, hold your stomach, hold your breath'
+~The dusty memeory of her mother's drinking song, was the very thought she held~
+~the nausia passed eventually~
+~Replaced by a coldness~
+"Okay, that should just about do it"
+~Moments passed and Rossin didn't appear~
+"Now that's taken care of, to the matter at hand. we think we lost about two thirds"
+"two thirds of?"
+~Jochek asked~
+"of the Awakened"
+~Flannagan said flatly~
+~At the table in front of them was a teaset.~
+*Flannagan sat down and poured himself a cup.*
+"I say we think, because it's hard to say exactly"
+"You can't remember them"
+~Martha found herself speaking before she realized~
+*Flannagan nodded*
+"I can't even remember Rossin"
+"Oh that's not good"
+~Rossin was sitting beside her now~
+`"you alright?"`
+"Never better... well, not that I remember"
+"We know the loses by the absence of where they should be, physically and in memory"
+*Flannagan took a sip of tea*
+"And in my case I had something more concrete to measure by, sample by... it's about two thirds"
+*Rossin leaned over*
+"landing pad - more than likely"
+`"how"`
+`{todo:link to description of how that works}`
+~Both the Relux's hands reached for the teapot - before only Jochek pouring themselves cups put it back~
+"We haven't noticed anything in Romania"
+*Flanagan nodded*
+"Still though, look for signs of missing things"
+"We saw them, at the tower."
+~Felix said quitely~
+"burned into their foreheads was a message - underestimated undernet"
+*Flannagan put down the teacup*
+"I believe there to be an outside influence - a strong one - manipulating the undernet.
+the leaders of the undernet being led along towards us."
+"two thirds..."
+~Felix Exclaimed~
+"two thirds scrambled, at once... so we know it was the undernet?"
+*The male Relux leaned forward and spoke*
+"more complicated: they're involved, but they don't have the numbers to pull something like this off, and how?"
+*He shook his head*
+"no, and who did they scamble - and why: you know what i think - coup"
+"nail on the head and winds from my sails, lenny, I think it's a coup too, and the undernet is being pushed in the spotlight"
+*Jochek leaned in*
+"underestimated undernet was in all the schools"
+
 
 
 `{dime::do stuff}`
