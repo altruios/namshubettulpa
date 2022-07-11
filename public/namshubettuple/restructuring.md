@@ -451,10 +451,29 @@ the leaders of the undernet being led along towards us."
 "nail on the head and winds from my sails, lenny. 
 I think it's a coup too, and the undernet is being pushed in the spotlight"
 *Jochek leaned in*
-"Underestimated undernet was in all the schools"
-""
 
-
+"underestimated undernet was in all the schools"
+*lenny matched Jochek posture*
+"Heavy handed."
+"It would imply,"
+*Flanagan sipped his tea*
+"that it's still a minorty of what's left"
+"so what, the undernet's the scapegoat"
+"that's possible, but a scapegoat general is innocent - that's to be determined."
+"when did all this start"
+~Felix asked~
+"Flannagan?"
+*Lenny turned his head*
+"About 24 hours ago"
+~Lenny said~
+"I mean, I've had Rossin for longer than that."
+~A quite spread as attention turned toward martha.~
+"how long?"
+~Flannagan asked~
+"I think it was about 50 hours now, more or less"
+~Rossin offered~
+"About double that"
+"That seems relevent. "
 `{dime::do stuff}`
 `{dime::set up alacira refference}`
 `{dime::meet the three}`
