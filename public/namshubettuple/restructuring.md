@@ -220,21 +220,37 @@ put two and two together..."
 "Enter and palavar for a time."
 "Hello Flanagan, how are things?"
 *Flanagan shifted his robe, and leaned against the door, inviting them in.*
-"better now that you've brought her."
-~Martha stiffened at that.~
-"Tell me Martha.
-What's his name?"
-*Felix cocked his head toward her and raised an eyebrow.*
-"You know me..."
-"damn it Felix, not you...
-Go wait for the rest of us inside.
-I have to be sure of something before she enters."
-*Felix bowed his head, and scampered off inside.*
-~Flanagan waited, inspecting her.~
-"so... what's his name?"
-"He means me, just tell him the Truth."
+"better now that you're here."
+~off to the left of the door was a set of inlaid plaques.~
+*Rossin walked off and stared at one.*
+"come in, inside: you're the first to arrive."
+~Martha turned her head to the plaques.~
+"Over here, come look at this."
+*Rossin said pointing at the plaque.*
+~Martha hesitated briefly.~
+*Felix entered through the door.*
+*Martha turned her head to Rossin, then walked forward.*
+"Trust me, over here - now."
+*Martha sighed and walked over to where Rossin was pointing.*
+"It's blank."
+`"So?"`
+"It should have my name on it."
+"We'll be right in, have a seat in the parlor."
+*Flanagan closed the door, then walked up to Martha.*
+"okay, so - this either works or it doesn't, see that keypad"
+~She did, it was below the plaque, slightly off to the left~
+"put in these numbers:"
+~A list followed - she typed them in.~
+~As she entered the last one a pleasent chirp came from the tiny speaker attached to the left~
+~Flanagan nodded.~
+"Glad to see that worked...
+Who are you?"
+"Martha"
+"He's asking me."
+"Oh... Rossin, his name's Rossin."
+"He's inside of... interesting... and you?
+Martha - how are you?"
 *Rossin walked forward toward Flanagan.*
-"Rossin."
 "Rossin... and he's been helpful?"
 ~Martha paused considering.~
 *Rossin at her side started pacing back and forth.*
@@ -252,12 +268,44 @@ But we're in the middle of cleaning that up."
 *Flanagan inspected the air around her, then waved her forward.*
 "Come on in, I can at least patch over some of the leaking...
 If he wants."
+
 *He stepped back into the room - leaving the door open.*
-*Martha followed.*
+*He popped his head back out, causing martha to stumble.*
+"One last question: felix?"
+~Rossin leaned over to look inside.~
+"He want's to know if we can trust him."
+"No."
+*Martha shook her head.*
+"Martha - just repeate what i say: "
+~And she did.~
+"He's been relaxing in Fiji: for the last year.
+I - Rossin, think that he's typical."
+"Typical..."
+~Flanagan muttered~
+"Fixable?"
+*Rossin gave a noncommital hand balance*
+"He went like:"
+*Martha copied Rossin's gesture*
+"And you?"
+"If he's fixable - good core in a bad wrapping or rotten through?"
+*Martha repeated the gesture.*
+*Flanagan nodded, then left the threshold.*
+~Martha let out a sigh~
 `"what just happened?"`
-"deep scan: deep look at my pattern..."
+"verification code: ..."
 `"and"`
-"and he doesn't kill us: which is good."
+"and I could prove he knew me... 
+which is good..."
+*Martha looked at him.*
+"But your name was gone..."
+"More like we all perceive that it's gone - because that refference to me is just... gone."
+"But I never saw it - how could I know it was a reffernce to you?"
+"It's weirder when you get to the details...
+And we really don't have time right now - here."
+`{TODO: link to logic of that.}`
+*Rossin walked to the doorway*
+"have a read throug that when you have some time."
+*Martha pushed open the door*
 ~Before the hallway was cast in a golden light eminating from the room.~
 ~It was bright enough to be blinding, that didn't make sense to her.~
 ~as she stepped in it was like a switch had been fliiped and she could see.~
@@ -338,16 +386,19 @@ most people are at each others throats with that level of connectivity"
 "Speaking of, he's leaking pretty badly - Jochek - would you?"
 *The blone woman nodded and held out her hand*
 "I don't bite"
-"It's alright - I need some fixing"
+"It's alright - I need some fixing: she can do it."
 ~Rossin said.~
 *Martha reached out her hand and clasped Jochek's*
 ~for a moment time seized, stuttering a jerking to a halt~
 ~Rossin faded from view and time jerked back~
 ~her left eye was close - she couldn't open it~
+~Martha tried and failed to raise her left arm.~
+~She couldn't feel it... or anything on her left side.~
 "How long should this take?"
+~It came out slurred - her voice breaking as only half of it worked~
 ~a wave a nausia passed her.~
 "Not that much longer."
-~Flannagain turned back from the other Relux, looking back at martha.~
+*Flannagain turned back from the other Relux, looking back at martha.*
 "do we need a bag?"
 *Felix asked looking around*
 *Martha waved him no*
@@ -397,10 +448,11 @@ the leaders of the undernet being led along towards us."
 "more complicated: they're involved, but they don't have the numbers to pull something like this off, and how?"
 *He shook his head*
 "no, and who did they scamble - and why: you know what i think - coup"
-"nail on the head and winds from my sails, lenny, I think it's a coup too, and the undernet is being pushed in the spotlight"
+"nail on the head and winds from my sails, lenny. 
+I think it's a coup too, and the undernet is being pushed in the spotlight"
 *Jochek leaned in*
-"underestimated undernet was in all the schools"
-
+"Underestimated undernet was in all the schools"
+""
 
 
 `{dime::do stuff}`
