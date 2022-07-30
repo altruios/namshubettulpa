@@ -42,8 +42,11 @@ They succeed in the present time, resulting in a nightmare in a human - going on
 Recently permenanty killed in the escape of al-tok. brother to Alice Glass.
 
 ##### Uri Maca
-Particularly skilled at self-rewiring: however is taken host by Ozmin Yammin.
+Particularly skilled at self-rewiring: however is taken host by Ozmind Yammin.
 No one Remembers Ozmin anymore, after he has collected himself in Uri.
+Uri spent his time experimenting and writing down what he knew.
+Uri is taken a back seat: still alive - but not in control.
+
 
 The 3 living members are:
 
