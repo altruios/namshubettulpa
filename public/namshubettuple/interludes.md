@@ -203,18 +203,18 @@ Do you feel it yet alice?"
 ~His arms were not under his own control~
 ~Something had taken root, and they were fast~
 ~He couldn't move, or feel, his mind was locked behind another driver in the seat~
-'Sorry, old friend'
+"Sorry, old friend"
 ~He didn't recongnizing the thought as his own, nor it's owner~
 ~Uri watched his body move on it's own accord~
-'don't worry - you are not going to die. can't have that happen'
+"don't worry - you are not going to die. can't have that happen"
 ~Uri couldn't think, he could listen, he could remember... but he was thoughtless~
 ~He felt cold, dread.~
-'Things are bad now...'
+"Things are bad now..."
 ~Uri watched the stranger pull on a wool coat, better boats, and grab the keys~
-'There was an attack.'
+"There was an attack."
 ~Uri saw him reaching for the door, and managed one thought~
 'peanut'
-'hm?'
+"hm?"
 ~Uri felt is mind being indexed, shuffeled though, detailed around this last days~
 ~Uri watched his own finger tap~
 "You're lucky I like dogs Uri, we don't have a lot of time."
@@ -223,12 +223,12 @@ Do you feel it yet alice?"
 ~Uri watched the door open and the dog hesitate at the threshold~
 ~He saw himself reach forward and let the dog sniff his hand~
 ~A few scratches later the dog was on a leash and followed into the truck outside.~
-'I'm going to let you think for a bit - get to noisy or roudy - you go back to this, understand'
+"I'm going to let you think for a bit - get to noisy or roudy - you go back to this, understand"
 ~Uri did, and he considered for a moment.~
 'who are you?'
-'Ozmind, your friend.'
-'I don't know any Ozmind'
-'I was attacked, I had to do some drastic things to survive...'
+"Ozmind, your friend."
+'I know no Ozmind'
+"I was attacked, I had to do some drastic things to survive..."
 *Ozmind put the keys in the ignition.*
 ~The truck roared to life - then was quickly going slowly down the snowy mountain road.~
 "Al-tok got to me, he... killed me, in a way."
