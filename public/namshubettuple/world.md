@@ -38,18 +38,20 @@ They succeed in the present time, resulting in a nightmare in a human - going on
 
 #### the eleran five
 
-The Five living members are:
+##### Robert Glass
+Recently permenanty killed in the escape of al-tok. brother to Alice Glass.
 
-##### Krisha Tola
+##### Uri Maca
+Particularly skilled at self-rewiring: however is taken host by Ozmin Yammin.
+No one Remembers Ozmin anymore, after he has collected himself in Uri.
 
+The 3 living members are:
 
 ##### Juan long
 he plays the stock market, often to crashing it. 
 other's admonish him for it: be he replyes that he doesn't have empathy for those less consious than himself.
 
-##### Uri Maca
-Particularly skilled at self-rewiring: however is taken host by Ozmin Yammin.
-No one Remembers Ozmin anymore, after he has collected himself in Uri.
+
 
 ##### Ozmind Yammin
 a specialist in the formation of identity, an instructor who was killed in the first attacks orchestrated by al-tok.
