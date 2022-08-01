@@ -30,7 +30,7 @@ random from a pool of people with the right Admin priviliages."
 *Rossin mimed looking around*
 "When would I find the time?
 I've been talking to you all day."
-`"you're a programm, cant you do things at like...
+`"you're a program, cant you do things at like...
 the speed of thought or whatever?"`
 "You do things at the speed of thought."
 ~Martha paused.~
@@ -451,7 +451,6 @@ the leaders of the undernet being led along towards us."
 "nail on the head and winds from my sails, lenny. 
 I think it's a coup too, and the undernet is being pushed in the spotlight"
 *Jochek leaned in*
-
 "underestimated undernet was in all the schools"
 *lenny matched Jochek posture*
 "Heavy handed."
@@ -473,44 +472,83 @@ I think it's a coup too, and the undernet is being pushed in the spotlight"
 "I think it was about 50 hours now, more or less"
 ~Rossin offered~
 "About double that"
-"That seems relevent. "
-`{dime::do stuff}`
-`{dime::set up alacira refference}`
-`{dime::meet the three}`
-`{dime::start quest//mision params}`
-`{dime::patch rossin.}`
-
+"That seems relevent."
+~Said lenny.~
+*Flanagan turned to the door.*
+"Excuse me, it seems we have another guest."
+~Flanagan paused~
+"A less than welcome one."
+"Who?"
+~Said Jochek~
+"Uri, he's in the elevator now."
+`"who's uri?"`
+*Rossin turned to her.*
+"You want to try it yourself? 
+Give that board a whirl."
+*Martha nodded.*
+'Okay, so...
+need to just write a thing that will ask the right question?'
+`"Who is Uri?"`
+'that did nothing...'
+`"Am I missing something?"`
+"two things, one - you're still saying the command on the board - with your words..."
+`'okay - so thoughts?'`
+"you are going to learn to use more detailed questions if you use words.
+which is why you need to more than just thoughts and words."
+`"What else is there?"`
+"A bit, now listen, everyone else is."
+~Around her Martha realized everyone was silent - watching the door.~
+"Martha - can you get a little more anxious"
+"What?"
+~Everyone turned to her.~
+'well, that would do it.'
+`"{dime:code bit}"`
+~A oscillation rising in pitch faded out of range, her heartbeat thundered in her chest~
+*A metalic click in the background - from the door.*
+*A panting, rythmic and low*
+"Is he secure?"
+"For now: is the Relux here?"
+~There was a moments hesitation~
+"Why do you ask?"
+"They need to disconnect."
+~The door opened, and Flanagan was joined by a stout potato of a man~
+~By his side was a lavador - feet skittering across the green and purple marble floor~
+"Alice was succeeded then?"
+"No... well, yes.. but No."
+*Flanagan and Uri returned to the room - the lavador whimpering for food.*
+"There's no chocolate on the table - should be fine."
+~Uri released the leash.~
+"Sorry everyone - hope you like dogs."
+~Felix shook his head~
+"Oh good you are here - you need to disconnect: right now."
+"And why would we do that."
+~Uri paused, then turned to Flangan.~
+"He can't explain until you've disconnected."
+~Lenny looked from Jochek to Flanagan~
+"We aren't all together - one of us is in Romania."
+~Uri inhaled just a bit too sharply at that.~
+"That's not ideal: have them make their way back here."
+~Uri waited, the dog feasted on the bits of bread and cheese on the center table.~
+~Both Joeck and Lenny stretched their necks in unison~
+"It's done."
+"Now why did we do that?"
+~Lenny asked.~
+*Uri made his way to sit down, everyone else shifted around him.*
+*He sighed and poured himself a cup of tea*
+"Well Uri?"
+~Felix asked.~
+"I'm not Uri."
+*He look a sip a tea*
+~Felix wrinked his face trying to squeeze a better view out of his eyes.~
+"Let me explain: We can't use the link - it's not safe."
+"I wouldn't call the link safe"
+~Felix interjected~
+"It's being taken over - by something very dangerous."
+~Martha leaned back~
+*Martha yawned*
+~Again everyone looked at her and again her hearing was impeccable.~
+'What does that mean for Alacira?'
+~Martha mused.~
 }
 
-
-
-{
-`~
-a few critical choices are made here narratively:
-the relation of Felix to Flanagan.
-the relation of Rossin to Flanagan.
-
-
-in any event - Felix is tasked by Falstine and others ( teachers?) to clean out the undernet.
-clean it from influance of whatever is giving them actually useful info...
-not actually get rid of it.
-
-Martha comes along with Felix and a few teachers now with only her as a pupil.
-
-here we also meet the teachers - described in the characters section.
-
-restructuring reffers to the group dynamic at play going forward - adding the 3 teachers into the mix.
-also they are kind of one person - but not really - sort of a ref to a katet from the dark tower refference.
-three minds sharing three bodies interchangably.
-so the only secrets they have from each other are their own thoughts.
-they've seen everything the other has seen for a long time now.
-couple of things they will probably do at some point.
-1. 2 people have control of one person fighting a group of people. while third controls breathing.
-2. 1 person controls 3 due to specific personal knowledge. (unknown scenerio where that plays out)
-3. 1 of their bodies die.
-4. 1 of their minds die - different than body.
-
-
-~`
-}
-## [interludes](interludes.md) (to be written)
+## [interludes](interludes.md)

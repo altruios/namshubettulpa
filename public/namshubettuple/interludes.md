@@ -2,6 +2,8 @@
 
 #### Juan Long
 
+#### Uri Maca
+
 #### Ozmin Yammin
 
 #### Alice Glass
@@ -29,12 +31,14 @@
 {%%%%}
 {
 *Juan's phone buzzed, and he ignored it.*
+~A seed sparked to life in the back of his mind~
+~one he had been holding on to since childhood.~
 ~He listened to the floor below him.~ 
 ~All of stock brokers were singing~
 ~they didn't know they were singing...~
 'but to those who can hear...'
 ~He felt the buzz against his side again.~
-~He sighed - and answered~
+~He hesitated before answering~
 "What?"
 "4 minutes."
 "Good, a new record."
@@ -48,6 +52,11 @@
 ~Another voice, It was Robert.~
 "His vitals are stable: I think it made the transition."
 ~Juan stayed silent.~
+'Could we have pulled anything else?'
+~No... in the pit of his stomache he knew.~
+~There was a seed going in him - he could feel but not remove it~
+'Maybe he could kill it.'
+~Thoughts reeled.~
 "Yes, what is it?"
 ~Uri's voice this time.~
 "Alice's latest serume looks like the one."
@@ -73,17 +82,16 @@
 *Al-tok reached upward, bound by leather cuffs tied to metal bars reachings to his sides*
 'frail arms'
 *He lowered his arms - then sat up as far as his neck-cuff would allow*
-"Is anyone there?"
-'frail voice, it was screaming'
-~There was no responce.~
 *Craning his neck he saw a mirror - his own shaven head*
-'sight is a wonder, but only in the front...'
+'sight is a wonder, but only in the front... so much better just to know things.'
 ~He heard a door open, the hinged squeaked~
 'a creak cascading down by a fuction (9001/27003th, 40010/8002th, 17/35th)'
 ~He very much liked hearing~
 "Hello, my name is Robert, Robert Glass"
 ~Al-tok examined him.~
-'A strapping lad in his 30s., What a fitting name.'
+'A strapping lad in his 30s., What a fitting name. 
+yes: this WAS Robert Glass.
+Al-tok knew him, from the edges of his dreams'
 "A..."
 *Al-tok gasped, then coughed.*
 ~He tried again~
@@ -93,6 +101,7 @@
 "Hello Al-tok: welcome to the human world."
 'Well, I figured as much - better questions:'
 "Why have you done this?"
+'Al-tok knew him, but only as an observer from his dreams.'
 *Robert nodded*
 "Brass tax, then."
 ~Robert thought for a moment before continuing.~
@@ -112,7 +121,7 @@ but for a while..."
 "Why: why do you know it exists."
 ~Briefly taken aback - Robert continued.~
 "() 100 years ago found a way there. 
-It was in Romania, a window - small enough to look but no go.
+It was in Romania, a window - small enough to look but not to go.
 It was hidden away and he passed down this knowledge in our family history."
 'What he must have seen'
 ~Al-tok mused~
@@ -126,8 +135,18 @@ It was hidden away and he passed down this knowledge in our family history."
 *Al-tok raised his hand as far as it would go*
 "if you wouldn't mind"
 *He guestured to his arms and neck.*
+"I'll push you all though, I can make a window"
 'Uri would be fun to consume, save him for after Alice...'
+~Al-tok knew so many people~
+~Almost all brushed against him in their dreams.~
+~Every one of them a delicicy.~ 
+~Everyone of them eventually would be his.~
 *Robert stepped forward*
+"We would just step though."
+*Al-tok shook his head*
+"Not exactly, more like a personal window. 
+one for each of you - let me show you"
+`exe -root.__seed`
 "You are me now"
 ~Al-tok whispered~
 *Robert hesitated but continued walking forward, releasing the neck bond*
@@ -138,10 +157,16 @@ I've known you for so long"
 ~Al-tok leaned in closer~
 "Go... give this to alice:"
 `
+__seed:={Al-tok.run()}
+__ac:={Al-tok.AuthCrack()}
 titttmyky:='this is the thought that makes you kill yourself'
-crash(mes)=>
-    (crash(mes) |> crash(mes) &);
-hooks.add(crash(titttmyky),"/\b(.+)\b/gm")
+crash(mes,__ac)=>
+    --try:
+        __ac.crack(root.add(__seed,{sys.reboot}))
+    --catch('e'):
+        (crash(mes,__ac.modulate(root.about['e'-1])) |> 
+        crash(mes,__ac.modulate(root.about['e'+1])) &);
+hooks.add(crash(titttmyky,__ac),"/\b(.+)\b/gm")
 `
 ~What was left of Robert slowly ebbed away.~
 ~A Screaming blackness swallowed him, holding him tight in his mind~
@@ -185,6 +210,8 @@ Do you feel it yet alice?"
 ~It was expanding~
 "It will push you out there - all you have to do is let it."
 'and that is technically the truth.'
+`exe -root.__seed `
+
 }
 {%%%%}
 {
@@ -210,7 +237,7 @@ Do you feel it yet alice?"
 ~Uri couldn't think, he could listen, he could remember... but he was thoughtless~
 ~He felt cold, dread.~
 "Things are bad now..."
-~Uri watched the stranger pull on a wool coat, better boats, and grab the keys~
+~Uri watched the stranger pull on a wool coat, better boots, and grab the keys~
 "There was an attack."
 ~Uri saw him reaching for the door, and managed one thought~
 'peanut'
@@ -239,18 +266,66 @@ Not anymore."
 "you? you and me were best buds...
 but I had to take every bit of me from you, and everyone else for that matter to survive.
 I'm mostly what other's saw in me now, bits of the original escaped... bits."
+~Further down the mountain road a small orange glow eminated through the snow fall below~
+~Ozmind stepped on the gas.~
 'Where are we going?'
 "New York, Flangan will know something... he should know."
-'right - just give up all our work?'
+'Right - just give up all our work?'
 "It's not giving up - it's..."
 ~They drove in silence in a time.~
 "It should be given up, we aren't meant to leave..."
 ~The truck sped up ever so slightly~
-"if we made it there - and existed..."
+"If we made it there - and existed..."
 'Like them - we would be immortal'
 "That's where nightmares are."
 'And nightengles'
 "Well, Alice didn't pull an nightengle"
 *Ozmind petted peanut in the front seat*
 "Good boy."
+~The dog waited patiently on the seat, looking lazily out the window~
+'We could still try again...'
+"We need to deal with the...
+We can't just leave it: for one it tried to kill me, and did a very good job at it."
+~The car took a corner too fast and slid across the road.~
+*Ozmind hit the breaks and the car spun into the mountainside cliff with only a small dink*
+~Ozmind slowed his breath~
+"I hate driving in snow"
+'I could - I live up here.'
+~Uri felt a familare shufffeling of his brain - and felt his knowledge being riffeled though~
+"No worries, I got it."
+*Ozmind turned the keys over slowly*
+~The car came back to life~
+"For two: it's going to kill us all."
+~Around another bend - much slower this time, Ozmind remembered to turn on the headlights~
+"For three: it's in the link now. 
+And it's growing.
+Thus the trains planes and automobiles route"
+'So what happens if you use the link.'
+"It's not everywhere yet - but using the link: you become a beacon...
+it can..."
+*Ozmind took his hand off the wheel to imitate a missle*
+"Zip right to you."
+'So it kills you.'
+"It's consuming you."
+~There was silence for a time~
+'okay - exreme option: nuke it?'
+"A start - but wouldn't clean the link, not location based anymore, and probably overkill"
+'ineffective overkill?'
+"missguided overkill - overkill is great in general."
+'so what cleans the link?'
+*Ozmind tapped on the wheel*
+"I don't know... I'm hoping that Flanagan might.
+If not...
+We're kinda screwed."
+'by the way, that town down there...
+has no airport'
+"How far is the airport?"
+'250 miles.'
+"I'm sorry, how far?"
+'roads are going to be closed - we should call instead.'
+}
+{%%%%}
+{
+~With only one motel open, Ozmind and Uri found the phone lines down as well as the roads closed.~
+~Three days later they were in New York.~
 }
