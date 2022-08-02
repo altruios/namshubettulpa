@@ -210,7 +210,70 @@ Do you feel it yet alice?"
 ~It was expanding~
 "It will push you out there - all you have to do is let it."
 'and that is technically the truth.'
+*Robert fell over, and started convulsing*
+~Al-tok tilted his head~
+"Robert... rob...r-r-r-"
+~Alice's eyes started twitching~
+~Al-tok sighed and leaned over the convulsing body.~
+'hm... best to fix that...'
+~He examined the desk, and browsed the shelves - in the refrigerator he found it~
+~A glass vial.~
+*Al-tok took a syringe and extracted the amber liquid within*
+"there we are."
+~Alice started awake as she felt a hot point jab into her side~
+"Too late for him I'm afraid - but Looks like I need that chemical to not immdiately destroy your brains with my presence... 
+so thanks for making that: really: wouldn't know what to do without you."
+~Alice felt a burning sensation up along her spine, then to the back of her neck~
+~She saw the walls waver, and the floor tiles refuse to stay the same size~
+~Then came the pain.~
 `exe -root.__seed `
+
+}
+{%%%%}
+{
+"Well, anyone?"
+~A silence hung in the small classroom~
+*Ozmind pushed his glasses closer to his eyes.*
+~In the back, Erin had her hand raised still~
+'give someone else a chance - or...'
+"Erin?"
+"Its you, and every refference to you."
+~Erin's smug smile irked Ozmind~
+"Close, but that's the simple answer. 
+Identity is more complicated than that.
+I wouldn't have spent years studying it otherwise. so..."
+*Ozmind took a chalk, and scribbled against the board*
+"Today's lecture is going to be about those two parts, as Erin Identified: and what are their names?"
+"Self!"
+"Sub-self"
+~Two shouts from the corners of the room.~
+"and which one is you?"
+~Ozmind looked around the room before again settling on Erin~
+"both are."
+~Ozmind allowed him self a small smile~
+"Neither actually, your self isn't you, and the combination of your self and subself isn't you either..."
+~Ozmind finished his sketch~
+~It was a graph, with one center node, and several edges connecting to nodes around it~
+"You are all of this - a bit more - but for right now: lets go over just this."
+*Ozmind pointed to an edge*
+"The subself isn't a monolithic block, it is in every other brain you encounter."
+*He raised his finger to the number just above*
+"memory isn't perfect. 
+it deteriorates, distorts, fudges...
+the subself is an echo, their memory of you.
+Every time someone thinks of you and does something: you exist in their mind for a moment.
+but you in this case isn't your mind - it's... 
+you... 
+a platonic form or ideal.
+so 'you': is made of your self and the current state of all the subself network...
+and we can represent this: and get some useful information out of this using a bit of math."
+~A groan escaped in the back - it was suppressed, and Ozmind chose to continue without ackknowlagement~
+~The door to his left opened.~
+~Ozmind saw her, thought nothing of seeing her from the back, and returned to writing on the board.~
+~He didn't see the syringe in her hand either~
+~A scream from the hallway halted Ozmind's chalk~
+~A scream from the room turned his head~
+~A scream from his mouth took her time~
 
 }
 {%%%%}
@@ -223,10 +286,16 @@ Do you feel it yet alice?"
 ~Just the light from his cabin window.~
 'Damn it Peanut'
 ~He was about to call for her, but lost control of his legs, then his body.~
-`{dime:script to retake control}`
+`exe --flush(--controls).reset()`
 ~Uri's extremidies came to life, and he bounded up and back to his cabin.~
 ~He reached the door~
-`{dime:script to overwrite last script cleverally}`
+*Uri froze, not from the cold*
+`
+ozmind:= $self=>Ozmind Yammin
+payload:=echo {exe --flush(--controls).rewire(ozmind) && 
+    --flush(--structures).rewire(ozmind)}
+hooks.add(payload)
+`
 ~His arms were not under his own control~
 ~Something had taken root, and they were fast~
 ~He couldn't move, or feel, his mind was locked behind another driver in the seat~
@@ -250,7 +319,7 @@ Do you feel it yet alice?"
 ~Uri watched the door open and the dog hesitate at the threshold~
 ~He saw himself reach forward and let the dog sniff his hand~
 ~A few scratches later the dog was on a leash and followed into the truck outside.~
-"I'm going to let you think for a bit - get to noisy or roudy - you go back to this, understand"
+"I'm going to let you think for a bit - get too noisy or roudy - you go back to this, understand"
 ~Uri did, and he considered for a moment.~
 'who are you?'
 "Ozmind, your friend."
@@ -327,5 +396,5 @@ has no airport'
 {%%%%}
 {
 ~With only one motel open, Ozmind and Uri found the phone lines down as well as the roads closed.~
-~Three days later they were in New York.~
+~24 hours later they were in New York.~
 }
