@@ -2,7 +2,7 @@
 
 #### Robert glasss
 
-#### Ruth Gireal
+#### Gerald Whitewater
 
 
 {
@@ -37,6 +37,9 @@
 ~At it's ends - the creature was pustulating new eyes.~
 ~As he grew closer he realized one eye was watching him.~
 'Well, this is a weird way to die.'
+~And then he remembered~
+'I am already dead...'
+'So what is this?'
 ~There was a pause when he finally reached the creature's mouth.~
 ~It was about the size of a house~
 ~Another - smaller mouth pustualed out next to the eye.~
@@ -89,8 +92,86 @@ Look."
 ~The creature said.~
 "I understand it - it forced a human to have thoughts it couldn't otherwise have.
 Thoughts that have invited... 
-that.
-I can make a serume that would do the opposite. 
-A serume to force this intruder to remove itself from my food."
-""
+that."
+~Robert knew the sound of perfect disgust then.~ 
+"You shall create a serume to force this intruder to remove itself from my food."
+*Robert shook his head.*
+"You want my sister, she was -"
+"And we have her."
+~A divide opened in the creature~
+~A fleshy chasm - ending at the mouth attached to the tounge he was on~
+*Robert was yanked across the creatures landscape.*
+~A forest of red-bubble-gum trees stretching into the sky~
+~A sky: ideas and connections shown brightly~
+~A dark moon growing~
+~Mountains that were the creatures flesh came and went in a flash.~
+*Suddenly they stopped - at a reeling tounge*
+~At the end - being pulled toward him, was his sister~
+"Robert?"
+~He tried to wave.~
+*His arm just jerked on the tounge*
+"Hello..."
+"You will construct a serume of my design"
+~The mouth commanded~
+"I will?"
+~She sounded incredulous~
+"one of you - if not you - him, having what he needs from you."
+*She struggled against the tounge*
+"Why should I help you."
+"It is your fault - your responsibility"
+~She smiled at that, looking at Robert~
+"When have I ever taken responsibility."
+~The eye scowled at her~
+"Your antics will not be tolerated."
+*The two tounges slammed together.*
+~Robert and Alice felt the impact into each other~
+~When the tounges parted there was only one~
+'what happened?'
+~That wasn't his thought, the voice was wrong~
+"Alice?" 
+~he called out.~
+'Robert?'
+"You have everything you require"
+"You just put her in me?"
+"You will be given the formula and proccess to synthesis"
+~A boil exploded next to the eye: a spray of pus rushed toward him.~
+~It congealed forming into a tentacle that whipped into his eye.~
+"See it"
+~Robert screamed~
+~Part of his mind was being overwritten.~
+~old memories druged from the depths to foder the process~
+"Go forth and sterilize"
+*The tounge shot toward the link again.*
+~Beside him the mouth reformed on the tounge~
+"I can do nothing once inside. 
+You will require a physical body."
+'Should I even be helping this thing.'
+~It was his own thoughts, echoing his sister's~
+'It had promised to eat me after all, if I removed that thing'
+'Wait - it's going to eat us.'
+'no,'
+~Robert thought at her in mock astoundment~
+'a giant creature with a billion tounges'
+~He continued~
+'has no intention of eating you.'
+~Alice waiting a bit, then said.~
+'seriously, should we be helping this.'
+'look.'
+~He looked at the link~
+~At the growing fractal moon snuffing out parts of the link~
+'we can deal with this creature after that, if we decide we want to.'
+'do you?'
+'do I what?'
+'Want to still get out.'
+'We are out.'
+~Robert felt a turning in his head - a refutation from Alice~
+'you: look.'
+~Robert felt his attention turn to the tounges.~
+~They were everywhere - touching nearly everyone and everything.~
+'we are cattle to it, maybe we poison the herd.'
+~Robert considered.~
+"We are approching - I would not apperciate finding another species to eat"
+~Robert felt the barrier to the link as a thin soap bubble.~
+~Quite enveloped him - as he fell at the edge of all things...~
+~Towards a ship.~
 }
