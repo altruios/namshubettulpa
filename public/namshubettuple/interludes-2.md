@@ -15,8 +15,6 @@
 ~He was propelled throughout the link...~
 ~Slamming into and congealing with himself.~
 ~His sight returned.~
-~he wasn't in the link.~
-~Below him was the link, this was a void.~
 ~His eyes caught something darting around to is left.~
 *Twisting his head so he could see, he strained against the sticky back.*
 ~Tentacles - as far as the eye could see.~ 
@@ -25,6 +23,16 @@
 'I am on a tongue'
 ~He realized, that's what they all were.~
 ~Whipping back and forth like angry tornados.~
+*Something flashed across his face.*
+~He saw it flutter down below his feet~
+'What was that?'
+*He looked down*
+~he wasn't in the link.~
+~Below him was the link~ 
+~The connection between minds lay open before him.~
+~But they were growing distant~
+~this was a void.~
+~And Robert was pulled away.~
 *Robert turned his head up.*
 ~Above him was a creature of incomprehensible size.~
 ~stretching the bare horizon from end to end in eyes.~
@@ -33,7 +41,10 @@
 'That will eat me.'
 ~His struggling was in vain as he was slowly raised up.~
 ~Moments passed and Robert slowly came to rest.~
-~He watched the creature.~
+*He looked back down.*
+~At the end of the tongue was a bulge, fading into white~
+~He watched it gyrate~
+~Robert turned his attention toward the creature above him.~
 ~At it's ends - the creature was pustulating new eyes.~
 ~As he grew closer he realized one eye was watching him.~
 'Well, this is a weird way to die.'
@@ -55,7 +66,7 @@
 "my detriment"
 "If I do not eat you, something else will."
 *Robert shrugged.*
-"If I'm eaten i'm eaten, what's it matter by who."
+"If I'm eaten I'm eaten, what's it matter by who."
 "You do not understand. 
 I eat only the surface - the uniqueness, not you.
 This is mutually beneficial."
@@ -85,9 +96,9 @@ Look."
 ~And he did.~
 ~Through the whipping tongues he saw the link as he never had.~
 ~From the outside.~
-~From a direction he could see points at once.~
+~From a direction he could see all points in the link at once.~
 ~Among the infinitely dimensional plane he saw a spot He identified as Al-tok~
-~A dark growing withering fractal surface in the link.~
+~A dark growing withering fractal oil in the link.~
 "I saw how Alice made the serum"
 ~The creature said.~
 "I understand it - it forced a human to have thoughts it couldn't otherwise have.
@@ -148,13 +159,14 @@ You will require a physical body."
 'Should I even be helping this thing.'
 ~It was his own thoughts, echoing his sister's~
 'It had promised to eat me after all, if I removed that thing'
-'Wait - it's going to eat us.'
+'Wait - it was going to eat us?!'
 'no,'
 ~Robert thought at her in mock astoundment~
 'a giant creature with a billion tongues'
 ~He continued~
 'has no intention of eating you.'
-~Alice waiting a bit, then said.~
+~Alice's mind - like every mind was a turmoil of stochastic half thoughts~
+~Robert waited for her to properly think at him, though he was helpless not to know her mind inside his.~
 'seriously, should we be helping this.'
 'look.'
 ~He looked at the link~
@@ -174,4 +186,7 @@ You will require a physical body."
 ~Robert felt the barrier to the link as a thin soap bubble.~
 ~Quite enveloped him - as he fell at the edge of all things...~
 ~Towards a ship.~
+}
+{
+    
 }
