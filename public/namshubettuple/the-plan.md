@@ -31,7 +31,7 @@
 ~Martha saw the scene before her enveloped in shadow~
 "She's fine to hear."
 *Flanagan nodded and moved to the couch again.*
-"Has he delt with anything like this?"
+"Has he dealt with anything like this?"
 ~Martha asked and Rossin repeated.~
 "Shadows of shadows... 
 long ago..."

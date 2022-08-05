@@ -27,7 +27,7 @@ Probably in the holding cell."
 *Once they were done trading places, Rossin turned toward the front desk again.*
 `WITH(
     (hooks)
-    .go(~Location of the prisoners faceing the wall~)
+    .go(~Location of the prisoners facing the wall~)
     .break("Thank you")
     )`
 *The man behind the desk got up, and ushered them to follow.*
@@ -244,7 +244,7 @@ Never mind"
 ~Nearly 10 minutes ago now.~
 'Redeye...'
 ~He repeated in his head.~
-*He Looked at the flightboards as he ran down the terminal.*
+*He Looked at the flight boards as he ran down the terminal.*
 'Where was she going?'
 *He stopped and looked at the board more carefully.*
 ~He was next to terminal 23, and it was going up...~
@@ -276,7 +276,7 @@ Distracted"
 ~There was a pause.~
 "Well.
 Don’t get distracted again."
-*There was a skuffeling of chairs, and Kent turned around to see they had left.*
+*There was a scuffling of chairs, and Kent turned around to see they had left.*
 }
 {
 ~Both were going to the same place.~
@@ -314,12 +314,12 @@ If not, coach will be fine."
 }
 {
 ~The boarding call came on over the speakers...~
-~Crackley though mostly intelligible...~
+~Crackly though mostly intelligible...~
 ~Kent sat and watched the man.~
 *The man held a phone to the boarding booth’s attendant's face.*
-~The attendent's eye twitched a little bit and they let the man pass.~
-*The next in line snapped fingers in the attendent's face.*
-~The blank stare left the attendent.~
+~The attendant's eye twitched a little bit and they let the man pass.~
+*The next in line snapped fingers in the attendant's face.*
+~The blank stare left the attendant.~
 }
 {
 *After everyone had boarded he went back up to the attendant.*

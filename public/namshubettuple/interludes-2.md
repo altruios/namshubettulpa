@@ -1,6 +1,6 @@
 # Interludes 2
 
-#### Robert glasss
+#### Robert glass
 
 #### Gerald Whitewater
 
@@ -12,7 +12,7 @@
 ~his back...~
 'is it my back? my physical representation of a back.'
 ~Was sticky.~
-~He was propelled thoughout the link...~
+~He was propelled throughout the link...~
 ~Slamming into and congealing with himself.~
 ~His sight returned.~
 ~he wasn't in the link.~
@@ -21,12 +21,12 @@
 *Twisting his head so he could see, he strained against the sticky back.*
 ~Tentacles - as far as the eye could see.~ 
 ~dark pink lines in the blackness~
-~Robert struggled in earnest now, realizing he was well and truely stuck.~
+~Robert struggled in earnest now, realizing he was well and truly stuck.~
 'I am on a tongue'
 ~He realized, that's what they all were.~
 ~Whipping back and forth like angry tornados.~
 *Robert turned his head up.*
-~Above him was a creature of imcomprehensible size.~
+~Above him was a creature of incomprehensible size.~
 ~stretching the bare horizon from end to end in eyes.~
 ~The creature seemed to be growing even...~
 ~No, he was just getting closer.~
@@ -42,8 +42,8 @@
 'So what is this?'
 ~There was a pause when he finally reached the creature's mouth.~
 ~It was about the size of a house~
-~Another - smaller mouth pustualed out next to the eye.~
-"You've made your bargin - Why have you tried to make another."
+~Another - smaller mouth pustuled out next to the eye.~
+"You've made your bargain - Why have you tried to make another."
 *Robert blinked*
 "What?"
 "You were mine, but you have poisoned yourself to me."
@@ -77,7 +77,7 @@ Here is mine."
 "And if I say no?"
 "To the void with you."
 'The void is a mystery'
-~He comptimplated~
+~He contemplated~
 "And if i say yes?"
 *The tongue brought him up to the thing's eye*
 "The infection spreads quickly.
@@ -86,46 +86,46 @@ Look."
 ~Through the whipping tongues he saw the link as he never had.~
 ~From the outside.~
 ~From a direction he could see points at once.~
-~Amoung the infintly dimenional plane he saw a spot He identified as Al-tok~
+~Among the infinitely dimensional plane he saw a spot He identified as Al-tok~
 ~A dark growing withering fractal surface in the link.~
-"I saw how Alice made the serume"
+"I saw how Alice made the serum"
 ~The creature said.~
 "I understand it - it forced a human to have thoughts it couldn't otherwise have.
 Thoughts that have invited... 
 that."
 ~Robert knew the sound of perfect disgust then.~ 
-"You shall create a serume to force this intruder to remove itself from my food."
+"You shall create a serum to force this intruder to remove itself from my food."
 *Robert shook his head.*
 "You want my sister, she was -"
 "And we have her."
 ~A divide opened in the creature~
-~A fleshy chasm - ending at the mouth attached to the tounge he was on~
+~A fleshy chasm - ending at the mouth attached to the tongue he was on~
 *Robert was yanked across the creatures landscape.*
 ~A forest of red-bubble-gum trees stretching into the sky~
 ~A sky: ideas and connections shown brightly~
 ~A dark moon growing~
 ~Mountains that were the creatures flesh came and went in a flash.~
-*Suddenly they stopped - at a reeling tounge*
+*Suddenly they stopped - at a reeling tongue*
 ~At the end - being pulled toward him, was his sister~
 "Robert?"
 ~He tried to wave.~
-*His arm just jerked on the tounge*
+*His arm just jerked on the tongue*
 "Hello..."
-"You will construct a serume of my design"
+"You will construct a serum of my design"
 ~The mouth commanded~
 "I will?"
 ~She sounded incredulous~
 "one of you - if not you - him, having what he needs from you."
-*She struggled against the tounge*
+*She struggled against the tongue*
 "Why should I help you."
 "It is your fault - your responsibility"
 ~She smiled at that, looking at Robert~
 "When have I ever taken responsibility."
 ~The eye scowled at her~
 "Your antics will not be tolerated."
-*The two tounges slammed together.*
+*The two tongues slammed together.*
 ~Robert and Alice felt the impact into each other~
-~When the tounges parted there was only one~
+~When the tongues parted there was only one~
 'what happened?'
 ~That wasn't his thought, the voice was wrong~
 "Alice?" 
@@ -133,16 +133,16 @@ that."
 'Robert?'
 "You have everything you require"
 "You just put her in me?"
-"You will be given the formula and proccess to synthesis"
+"You will be given the formula and process to synthesis"
 ~A boil exploded next to the eye: a spray of pus rushed toward him.~
 ~It congealed forming into a tentacle that whipped into his eye.~
 "See it"
 ~Robert screamed~
 ~Part of his mind was being overwritten.~
-~old memories druged from the depths to foder the process~
+~old memories drugged from the depths to fodder the process~
 "Go forth and sterilize"
-*The tounge shot toward the link again.*
-~Beside him the mouth reformed on the tounge~
+*The tongues shot toward the link again.*
+~Beside him the mouth reformed on the tongues~
 "I can do nothing once inside. 
 You will require a physical body."
 'Should I even be helping this thing.'
@@ -151,7 +151,7 @@ You will require a physical body."
 'Wait - it's going to eat us.'
 'no,'
 ~Robert thought at her in mock astoundment~
-'a giant creature with a billion tounges'
+'a giant creature with a billion tongues'
 ~He continued~
 'has no intention of eating you.'
 ~Alice waiting a bit, then said.~
@@ -166,11 +166,11 @@ You will require a physical body."
 'We are out.'
 ~Robert felt a turning in his head - a refutation from Alice~
 'you: look.'
-~Robert felt his attention turn to the tounges.~
+~Robert felt his attention turn to the tongues.~
 ~They were everywhere - touching nearly everyone and everything.~
 'we are cattle to it, maybe we poison the herd.'
 ~Robert considered.~
-"We are approching - I would not apperciate finding another species to eat"
+"We are approaching - I would not appreciate finding another species to eat"
 ~Robert felt the barrier to the link as a thin soap bubble.~
 ~Quite enveloped him - as he fell at the edge of all things...~
 ~Towards a ship.~

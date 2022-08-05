@@ -152,7 +152,7 @@ I want to know why?"
 ~Something Martha had done...~
 ~And she was missing.~
 'And those other people in the cell with her were...'
-~Also hypnotised he realized.~
+~Also hypnotized he realized.~
 ~She had spoken the same indescribable language to them too...~
 }
 {
@@ -325,7 +325,7 @@ Resilient, not subject to your memory rewriting"
 "There are some...
 Liberties I took - before getting that thing completely out.
 A bit of house keeping"
-~Martha waited and Rossing continued.~
+~Martha waited and Rossin continued.~
 "Well, there’s some...
 Rewiring I did...
 Things it would take years to learn - you would just need to learn how to do. 

@@ -1,4 +1,4 @@
-# THE UNDERENET
+# THE UNDERNET
 {
 ~Martha sat in one of the chairs in a row facing the luggage dispenser.~
 ~Felix still had not shown up, and neither had Rossin.~
@@ -53,7 +53,7 @@ Much more,"
 "So...
 Another dream?"
 ~He finally asked.~
-*Martah nodded.*
+*Martha nodded.*
 "I remember more of it now. 
 I think they, I don’t know, pulled me out of mine and into theirs.
 Captain Alacira was her name"
@@ -132,7 +132,7 @@ I’m getting better just - hold on for a minute."
 ~But the flavor exploded in her mouth.~
 *She started consuming chunks of it.*
 ~She didn’t realize how famished she was.~
-'And this is the best damn icecream'
+'And this is the best damn ice cream'
 ~She realized as she licked at it.~
 "I assumed you would get food too. 
 This was desert, were you waiting all this time?"
@@ -371,7 +371,7 @@ And I don’t think that i would be able to do anything to him anyway"
 *She started to back away from the door, out of sight.*
 *A head poked in, armed raised cautiously with a gun.*
 ~It was that police officer from her hometown...~
-~Martha could see the dark of the barrle, and his finger off of the trigger.~
+~Martha could see the dark of the barrel, and his finger off of the trigger.~
 "What the hell was that, rabies?"
 *Martha slowly shook her head, he quickly glanced back toward the elevator.*
 "...Zombies?"
@@ -423,7 +423,7 @@ So a ghost?"
 "More like a...
 Memory"
 "Isn’t that just a ghost?"
-"He’s not made of ectoplasma...
+"He’s not made of ectoplasm...
 Is that something that exists?"
 *She turned to Rossin, who shook his head.*
 "Yeah, that’s not even a thing"
@@ -456,7 +456,7 @@ So there are these things called namshubs..."
 "Just let me,"
 ~Rossin cut over.~
 "Fine."
-*Martha snapped at him as she fliped the switch.*
+*Martha snapped at him as she flipped the switch.*
 ~Martha unwound from that spinning wheel that traded their spots.~
 *Rossin stretched his, her, neck.*
 "Okay...
@@ -465,7 +465,7 @@ I’m Rossin, nice to meet you: So here is what’s going to happen..."
 "First you’re going to give me that gun."
 ~Kent raised an eyebrow.~
 "Why should I?"
-~Rosisn, in Martha's body only stood still as a statue.~
+~Rossin, in Martha's body only stood still as a statue.~
 "Because we don’t have much time.
 Martha needs a reasonable explanation for that gunshot. 
 If anyone sees you here...

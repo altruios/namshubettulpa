@@ -19,7 +19,7 @@
 ~Jammed shut by a door she couldn’t move.~
 ~To her right was a service hatch.~
 ~It was half way down and half her size...~
-~A crawlspace for the electricals.~
+~A crawlspace for the electrics.~
 *She popped it open and a hiss of air came out.*
 ~It had an odor to it: stale, damp...~
 ~Of dead mold and old things.~
@@ -94,7 +94,7 @@ Then think of the last place I sent you"
 "Just in case we forgot something,"
 ~Gerald said.~
 *Taking both carefully while also balancing a clipboard under his arm.*
-"Same timeframe as before - what was it this time?"
+"Same time frame as before - what was it this time?"
 ~Alacira asked.~
 "What?"
 "What was the thing in your head posing as this time?"
@@ -126,7 +126,7 @@ You’ll have a navigator this time, make sure to stay with him - alright?"
 *She fell into him.*
 *She looked up at the clipboard.*
 *It was barreling back toward her and Gerald caught it...*
-~Almost nonchilantly...~
+~Almost nonchalantly...~
 ~Almost.~
 *He caught it with his face first, then his free hand.*
 "What was that?"
@@ -140,7 +140,7 @@ Just what you need to know"
 }
 {
 ~Beyond them was a hallway stretching on into the dark like before.~
-~But this one was lined with snowglobes: glowing with a faint blue static.~
+~But this one was lined with snow globes: glowing with a faint blue static.~
 ~In front of them - to the left, was a man she could have sworn she recognized.~
 ~A tall thin man in an overcoat - rubbing the back of his head.~
 ~She just couldn’t place him.~
@@ -152,7 +152,7 @@ Just what you need to know"
 {
 ~He stopped at a single dark and empty snow globe.~
 *He placed the horn on top of it and emptied the jar’s contents into the horn.*
-~Below the snowglobe began to glow.~
+~Below the snow globe began to glow.~
 ~Looking inside she could see the monastery as it had been just before the fire.~
 "These are...
 ...Dreams.
@@ -179,7 +179,7 @@ It’s on our right."
 }
 {
 ~Looking at the gold plate inlaid below Martha saw it read 42.~
-~The snowglobe lay on the pedestal before her. ~
+~The snow globe lay on the pedestal before her. ~
 ~It showed a network of twisting interlocking gears.~
 "What am I looking for - another book?"
 *Gerald shook his head,*
@@ -253,7 +253,7 @@ Are less out of place there..."
 *He made his way down the aisle.*
 'Pretend they are normal - talking with each other.'
 *He opened the door to the bathroom.*
-~Unsuprisingly the staff area in the back were also completely still.~
+~Unsurprisingly the staff area in the back were also completely still.~
 *He shuddered and closed the door.*
 *While washing his hands his holster sagged just a little, he had a thought.*
 }
@@ -314,7 +314,7 @@ Are less out of place there..."
 *The floor below them twisted.*
 ~All around them were spinning interlocking gears, fading into blackness.~
 ~There was no obvious light source.~
-~Ther was just a faint glow all around that grew dimmer with distance.~
+~There was just a faint glow all around that grew dimmer with distance.~
 }
 {
 ~Martha regained her balance.~
@@ -326,7 +326,7 @@ Are less out of place there..."
 ~She asked.~
 *He mimed out his death.*
 *Then stepped over the ledge.*
-*He twisted strangly in the air to stand on the edge of the giant gear.*
+*He twisted strangely in the air to stand on the edge of the giant gear.*
 ~Rotated 90 degrees from Martha's perspective.~
 *Martha went to the edge of the gear.*
 *Kent walking slowly back toward where the teeth met - waiting for her.*
@@ -395,7 +395,7 @@ Are less out of place there..."
 {
 *He ran - looking back as Martha started forward to match his pace.*
 ~She felt something - a dread she remembered from a distant dream.~
-~!A prickeling on the back of the neck.!~
+~!A prickling on the back of the neck.!~
 ~Not wanting to turn around, not wanting to face it she caught up to Kent.~
 ~He had just jumped onto another gear’s teeth.~
 "I think it’s here,"

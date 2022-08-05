@@ -23,7 +23,7 @@
 ~He brought the girl down the stairs~
 ~She was much younger than the man he sent to the kitchen~
 ~The man was over the stove, watching the eggs.~
-"Scambled,"
+"Scrambled,"
 *Felix said, and the man started fixing the eggs. *
 ~The waffle iron beeped.~
 ~And moments later Felix was presented with a hearty meal.~
@@ -96,13 +96,13 @@
 *Martha ideally played with the curtain drawstring of the window next to her.*
 ~Rossin sitting across from her, he only had to switch to allow them in.~
 ~He insisted on only the most expensive place to eat.~
-~He clained that there was a higher quality to the food.~
+~He claimed that there was a higher quality to the food.~
 ~And that she would need it.~
 ~The other patrons wore fancy clothes.~
 *They stole small snapshots from fancy phones*
 ~The pictures were of her bloody shirt.~
 ~She watched them.~
-~Most fiddled with phones, other’s stiffled laugher.~
+~Most fiddled with phones, other’s stifled laugher.~
 "Rossin, would you mind..."
 }
 {
@@ -285,7 +285,7 @@ A pass/fail system I guess"
 Not wrapped in a list"
 }
 {
-"This is fucking delicous."
+"This is fucking delicious."
 ~Felix said in between moments of food inhalation.~
 "New York’s food is better.
 You’d be hard pressed to find this even in Fiji. 
@@ -360,7 +360,7 @@ Out there."
 ~Rossin gave words of encouragement. ~
 `['Well clearly he is happy with the way things are going.']`
 ~She was relaxing knowing Rossin would be able to navigate the rough spots~
-"Like algera, or the Walkers.  
+"Like Algera, or the Walkers.  
 He thinks there’s people that are more powerful than the Awakened. 
 People behind the scenes controlling the awakened... 
 Or some smuggling thing happening between ‘realities’"
@@ -393,7 +393,7 @@ Everyone."
 *Felix barked a laugh, then coughed to keep his food down.*
 "Hardly"
 "Then why should I be?"
-~Felix smiled more seriously, then at Rossins prompt, Martha continued:~
+~Felix smiled more seriously, then at Rossin's prompt, Martha continued:~
 "I can cut it there.
 I’m wired for this."
 }
