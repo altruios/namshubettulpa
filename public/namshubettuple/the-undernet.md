@@ -22,7 +22,7 @@
 'Maybe Rossin would not wake up...',
 'Maybe...']`
 ~She didn't write this list to the board.~
-~she would have kept going except she heard a noise to her left.~
+~She would have kept going except she heard a noise to her left.~
 *Rossin sat down next to her.*
 *She turned to him.*
 "What took you so long?"
@@ -217,7 +217,10 @@ Is strange."
 ~Several rows of seats but no humans.~
 "Empty"
 ~She said...~
-`(dime: notice something here)`
+~A glint caught her eye by the side of the desk~
+~A broken syringe, glass glittering towards the door.~
+"I don't think anyone's here."
+~Rossin said.~
 *She looked down the hallway,*
 "Do you hear anything at all?"
 "Do you?"
@@ -328,15 +331,20 @@ Get out of here now - it’s only a matter of time before..."
 Get out of here now!"
 *The closet door clicked open.*
 *Martha finally started to back away.*
+~Her neck threw every bit of blood it could to her brain, tightening as her heart dropped.~
+`>>--TEMPORAL();`
 "Faster damn it."
+~His words were slow - or her brain was cooled in adrenaline.~
+~Everything felt like moving through pudding - but she had time to focus all her energy into the run.~
 ~Rossin was at the door, urging her to move.~
 ~Her feet felt wooden, the whole moment felt surreal.~
 *The door opened.*
-*And a young man fell out.*
+*And a sixty year old man fell out.*
 ~His forehead bloody - scratched to hell.~
 ~His fingers dripped with blood...~
 ~They had been tearing at a symbol scared into his head.~
 ~His eyes were wild...~
+~tears darker than ink spilled out, scaring the flesh with burns.~
 *He was panting.*
 *He crawled on all fours - running at her with an uncanny grace.*
 *Martha slammed the door on him - running for the elevator.*
@@ -346,18 +354,24 @@ Get out of here now!"
 ~Then the up button a moment later.~
 *Any direction would do - she turned to face the man.*
 ~He was on all fours - galloping toward her.~
-*She braced herself and jumped to the side just as he reached her.*
+~She waiting in anticipation.~
+*She braced herself and jumped to the side just as he left the ground for the last time.*
 *He slammed face first into the elevator.*
+~Her hearing was slowed down but not de-pitched.~
 *She ran back down the hall.*
+~On her hands and knees.~
+~Fighting against time itself.~
 "Rossin, can we switch?"
 "No time! 
-And I don’t think that i would be able to do anything to him anyway"
+And I don’t think that I would be able to do anything to him anyway"
 ~There wasn’t much hallway, and that thing was striding towards her now.~
 "Duck into one of these rooms, they lock from the inside."
 *She grabbed the door...*
 ~It opened inward.~
 *She closed it just in time, and could almost lock the door.*
+~There was a pause - she could hear him rummaging around in the other room~
 *The glass broke and his fist came through the now open panel on the door.*
+~He was holding a syringe.~
 *Martha ducked down - still holding on to the knob.*
 *He clawed at her hands.*
 ~The elevator dinged.~
@@ -383,6 +397,7 @@ And I don’t think that i would be able to do anything to him anyway"
 "I’ve had a weird week."
 ~Sudden relief flooded her.~
 ~Adrenaline still pumping and she giggled a bit at the absurdity of it all.~
+~Her neck was still pulsing, her heart slowing and the world seemed to go by faster.~
 ~Stifling that down she sighed.~
 "A weird fucking week."
 ~There was a pause...~

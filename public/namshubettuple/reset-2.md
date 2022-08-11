@@ -37,6 +37,7 @@
     ), 
     -H(
         --pp(~Perfect~)
+        --amp(${--self.hooks=>(~Focus~)}).hooks=>("Anxiety")
         --syn(12).hooks=>(~Anxiety~)
     ) 
     -ST(
