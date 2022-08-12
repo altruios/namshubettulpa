@@ -1,10 +1,15 @@
+const speakers =require('./speakermap.js');
+console.log(speakers)
+const defaultnarrator = {current:"Martha"}
 const mdx_parser=(text)=>{
     const data = get_mdx_data(text);
     if(data.length<100) return null;
     const blocks = seprate_blocks(data);
     console.log("blocks length",blocks.length);
     let blockstr=`<block style="background-color:inherit">`
-    blocks.forEach(block=>blockstr+=mdx_block_parser(block));
+    for(let i=0;i<blocks.length;i++){
+        blockstr+=mdx_block_parser(blocks[i],defaultnarrator)
+    }
     blockstr+="</block>"
     return blockstr;
 }
@@ -46,8 +51,19 @@ const seprate_blocks=(data)=>{
 }
 
 
-const mdx_block_parser = (block)=>{
+const mdx_block_parser = (block,dfn)=>{
     let ref=block;
+    const regex_settings = ref.match(/^[m][n][:](.*)/gm)
+    console.log(regex_settings,"original settings",dfn);
+    block = block.replace(regex_settings,"")
+    let settings=dfn.current;
+    if(regex_settings!=null &&regex_settings.length!=0){
+        console.log("hit and changing",regex_settings[0]);
+        settings = regex_settings[0].slice(regex_settings[0].indexOf(":")+1);
+        console.log(settings,"is going to be set to current");
+        dfn.current=settings;
+    }
+    console.log("settings are:", settings);
     const pw = ref.match(/\`([^`]*)\`/gm)||[];
     pw.forEach(r=>ref=ref.replace(r,""))
     const aw = ref.match(/\*([^*]*)\*/gm)||[];
@@ -59,14 +75,32 @@ const mdx_block_parser = (block)=>{
     const tw = ref.match(/\'([^']*)\'/gm)||[];
     tw.forEach(r=>ref=ref.replace(r,""));
     const scp=(txt,nlflag)=>{
-        console.log(txt[0],"are txt 0 values");
-        console.log(txt.slice(0,20),"is sample");
+        const text_div =(txt,mainNB,speaker)=> `
+            <div style="${mainNB?'text-align:left; background-color:#248bf5; margin 0 auto;':'text-align:right; background-color:e5e5ea; margin: 0 0 0 auto;'} border:solid; width:fit-content;max-width:80vw ">
+                <div style="font-size:2.5vh;">${speaker}</div>
+                <div>${txt}</div>
+                </div>`
         switch(txt[0]){
-            case "\"": return `<span style="background-color:inherit; color:#df80af">${txt}</span>${nlflag?`<br/>`:''}`;
+            case "\"": 
+                const speakerregex = txt.match(/\w+[:][:]/gm);
+                console.log(speakerregex,"is this things")
+                if(speakerregex){
+                    console.log("speaker hit!");
+                    const key = speakerregex[0].slice(0,speakerregex.indexOf(":")-1);
+                    console.log(key,"is key");
+                    const speaker = speakers[key];
+                    const mainFlag = speaker== defaultnarrator.current;
+                    console.log("mainf",mainFlag,speaker,defaultnarrator.current);
+                    const dialouge = txt[0]+txt.slice(txt.indexOf("::")+2)
+                    const d = `<span style="background-color:inherit; color:#df80af">${dialouge}</span>${nlflag?`<br/>`:''}`
+                    return text_div(d,mainFlag,speaker);
+                }
+                return `<span style="background-color:inherit; color:#af0000">${txt}</span>${nlflag?`<br/>`:''}`;
             case "\'": return `<span style="background-color:inherit; color:#af0000">${txt}</span>${nlflag?`<br/>`:''}`;
             case "\~": return `<span style="background-color:inherit; color:#afaf00">${txt}</span>${nlflag?`<br/>`:''}`;
             case "\*": return `<span style="background-color:inherit; color:#44aaff">${txt}</span>${nlflag?`<br/>`:''}`;
             case "\`": return `<pre style="background-color:#4f4f4f;  color:#6a6a6a">${txt}</pre>`;
+           
         }
     }
     const lines_types = [...sw,...tw,...aw,...dw];
@@ -113,8 +147,8 @@ const mdx_block_parser = (block)=>{
     })
 
     transforms_data = transforms_data.map(x=>{
-        console.log(transforms_data)
-        console.log(x,"is x");
+        //console.log(transforms_data)
+        //console.log(x,"is x");
         return {
             o:x.o,
             t:`<pre style="background-color:#4f4f4f;"><span style="background-color:inherit;color:#00ff00">${x.t}</span></pre>`
