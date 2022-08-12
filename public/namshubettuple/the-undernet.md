@@ -1,5 +1,6 @@
 # THE UNDERNET
 {
+mn:M
 ~Martha sat in one of the chairs in a row facing the luggage dispenser.~
 ~Felix still had not shown up, and neither had Rossin.~
 ~She recounted her dream.~
@@ -25,63 +26,56 @@
 ~She would have kept going except she heard a noise to her left.~
 *Rossin sat down next to her.*
 *She turned to him.*
-"What took you so long?"
-~She asked.~
-"I enjoy my beauty sleep"
-~He said flippantly.~ 
+"M::What took you so long?"
+"R::I enjoy my beauty sleep"
 *He yawned and looked around.*
-"I don’t exactly have a choice in that...
+"R::I don’t exactly have a choice in that...
 How long?"
-"About an hour."
-~She said.~
-"He’s still a no show..."
+"M::About an hour. He’s still a no show..."
 *Rossin nodded,*
-"That’s to be expected - he’s probably eating now...
+"R:That’s to be expected - he’s probably eating now...
 Which by the way: why aren’t you doing?"
-"I had a snack"
-"A snack?"
-"A little power bar - dense calories"
+"M::I had a snack"
+"R::A snack?"
+"M::A little power bar - dense calories"
 ~Rossin scoffed,~
-"One ‘little’ power bar...
+"R::One 'little' power bar...
 You need more...
 Much more,"
 *He sat up.*
-"Come on,"
-~He said,~
-"We’re getting you more food."
+"R::Come on, We’re getting you more food."
 *She got up and matched his pace.*
-"So...
+"R::So...
 Another dream?"
-~He finally asked.~
 *Martha nodded.*
-"I remember more of it now. 
+"M::I remember more of it now. 
 I think they, I don’t know, pulled me out of mine and into theirs.
 Captain Alacira was her name"
 *Rossin hesitated every so slightly in his step* 
 ~He regained his composure a moment later~
-"Ah...
+"R::Ah...
 Her.
 I - my author hasn’t heard from the likes of her since, well...
 Before you were born.
 About 40 years now"
-"Wait...
+"M::Wait...
 You know her?"
-"My author did...
+"R::My author did...
 Long ago...
 She was a console member...
 Still is, technically, since she’s alive...
 What has she been doing?"
 ~He mused to himself.~
 *He looked back to her,*
-"What exactly was she doing?"
-"Well..."
+"R::What exactly was she doing?"
+"M::Well..."
 ~Martha started, gathering her thoughts.~
-"She was sending me places...
+"M::She was sending me places...
 First an old italian monastery, then some weird place with a bunch of gears...
 I was finding things for her.
 And they made these - patterns. 
 These shapes in my brain - I still see them."
-"I see...
+"R::I see...
 And can you put these patterns on that board to your left?"
 ~She tried to fit those shapes into a list, but they refused.~
 ~Bulging out from that boundary...~
@@ -93,12 +87,12 @@ And can you put these patterns on that board to your left?"
 ~They exploded out of the board to the left of her perception.~
 ~Fading into nothing - they were still burned into her brain, but that had...~
 ~Hurt - she had a splitting headache.~
-"Oh...
+"R::Oh...
 That’s what she’s after."
-"What?"
+"M::What?"
 ~Martha asked through gritted teeth.~
-"Are you alright, did that hurt?"
-"Yes...
+"R::Are you alright, did that hurt?"
+"M::Yes...
 My head is pounding."
 ~Everything was too bright, the sounds were too loud.~
 *She closed her eyes and covered her ears.*
@@ -109,21 +103,21 @@ My head is pounding."
 *Closing her eyes she focused on her breathing.*
 ~Things grew more quiet and she could finally make out Rossin talking to her.~
 ~She couldn’t hear him, interrupting she said:~
-"...just - be quiet for a second...
+"M::...just - be quiet for a second...
 I’m getting better just - hold on for a minute."
 ~He didn’t wait a whole minute - but he did wait a few seconds,~
-"Felix is here, he’s walking toward you - stand up if you can."
+"R::Felix is here, he’s walking toward you - stand up if you can."
 *She opened her eyes...*
 ~Her vision swam.~
 ~Corners had extra shadows that danced and stretched...~
 ~It was getting better, but slowly.~
-"I hope you got a good look - I’m not doing that again"
+"M::I hope you got a good look - I’m not doing that again"
 *She braced against the wall and slid up.*
 *Felix came into her vision from around the corner.*
 ~He was holding two ice cream cones, one of which he was licking.~
 ~He spoke as he approached,~
-"You look like shit, good thing I have ice cream"
-"Bad sleep, hardly any actually,"
+"F::You look like shit, good thing I have ice cream"
+"M::Bad sleep, hardly any actually,"
 *She said - taking the cone.*
 ~It was mint-chip.~
 ~Not her favorite, by a long shot~
@@ -134,7 +128,7 @@ I’m getting better just - hold on for a minute."
 ~She didn’t realize how famished she was.~
 'And this is the best damn ice cream'
 ~She realized as she licked at it.~
-"I assumed you would get food too. 
+"F::I assumed you would get food too. 
 This was desert, were you waiting all this time?"
 *Martha nodded.*
 ~Her vision was slowly but surely coming back to normal.~
@@ -144,11 +138,12 @@ This was desert, were you waiting all this time?"
 ~It was a new pain, harmonizing and smoothing out the sharper pain in her brain~
 `['more pain is less pain.']`
 ~She saved that thought in a list, partly in irony, and mostly for practice.~
-"We’ll walk then, it’s not far - grab something on the way."
+"F::We’ll walk then, it’s not far - grab something on the way."
 *He held out his arm Martha linked with it.*
 }
 {
 %%%%
+mn:K
 }
 {
 ~Behind them Kent watched them link arms.~
@@ -183,17 +178,18 @@ This was desert, were you waiting all this time?"
 ~Keys, wallet, phone, gun.~
 ~Hopefully he wouldn't need the latter~  
 ~But more and more he was sure he would.~
-"This is some bullshit"
+"K::This is some bullshit"
 ~He muttered to himself, stepping up to the building.~
 'He was getting to tired for this shit'
 }
 {
 %%%%
+mn:M
 }
 {
-"Wait here,"
-~Felix said as he Stepped into the dark hallway.~
-"Something's...
+"F::Wait here,"
+~Felix Stepped into the dark hallway.~
+"F::Something's...
 Wrong."
 ~They were on the 4th floor.~
 ~The elevator just opened to what he promised would be hundreds of peers.~
@@ -204,28 +200,27 @@ Wrong."
 ~He paused...~
 *Closing it again.*
 *He walked back.*
-"Stay here, I'm going to see if there's anyone in the building at all."
+"F::Stay here, I'm going to see if there's anyone in the building at all."
 ~Martha nodded and he entered the elevator behind, pushing a few buttons~
-"This...
+"R::This...
 Is strange."
-~Rossin said,~
-"Come on,"
+*Rossin walked forward.*
+"R::Come on,"
 *He said, waving at her to follow him.*
-"I want to know what's going on."
+"R::I want to know what's going on."
 ~She hesitated only a moment - she too wanted to know.~
 *Meeting him at the first door, she pushed it open.*
 ~Behind it - nothing.~
 ~An empty room with a chalkboard in the distance.~
 ~Several rows of seats but no humans.~
-"Empty"
-~She said...~
+"M::Empty"
 ~A glint caught her eye by the side of the desk~
 ~A broken syringe, glass glittering towards the door.~
-"I don't think anyone's here."
+"R::I don't think anyone's here."
 ~Rossin said.~
 *She looked down the hallway,*
-"Do you hear anything at all?"
-"Do you?"
+"M::Do you hear anything at all?"
+"R::Do you?"
 *Martha glared at him then closed her eyes to focus.*
 ~It was quite enough for her to hear her own heart beat...~
 ~And something else...~
@@ -235,7 +230,7 @@ Is strange."
 *She moved towards the sound.*
 *She reached a door, second on the right and opened it.*
 ~She was not prepared for what she saw.~
-"Oh god."
+"M::Oh god."
 ~Martha said.~
 ~Behind the door were a row of students, missing their heads...~
 ~Well, not missing - just misplaced.~
@@ -257,9 +252,9 @@ Is strange."
 *She gagged a little, the smell wafting over to her finally.*
 *She leaned back against the door and started to hyperventilate.*
 *Rossin looked at the door, then to her.*
-"Undernet..."
-~He said.~
-"Listen, take a few deep breaths.
+"R::Undernet..."
+*Rossin turned towards her.*
+"R::Listen, take a few deep breaths.
 Not shallow - that's how you pass out.
 In..."
 *He took a breath himself...*
@@ -269,25 +264,24 @@ In..."
 ~She followed suit.~
 ~Rossin breathed out, and she did as well.~
 ~In the quiet - she heard the scratching - it was coming from that room.~
-"Someone's still in there."
-~She said.~
-"That's what that scratching is"
+"M::Someone's still in there."
+"R::That's what that scratching is"
 *Rossin nodded.*
-"Probably."
+"R::...Probably."
 ~Martha waited, and that's all he said.~
-"So shouldn't we...
+"M::So shouldn't we...
 Help them...
 Get them out of there?"
 ~She asked.~
 *Rossin shook his head.*
-"No one here would do the same for you. 
+"R::No one here would do the same for you. 
 Whatever is keeping them inside - it's probably too risky to get them out."
 *Martha shook her head.*
 *She stood back up and steeled herself.*
-"Martha don't,"
+"R::Martha don't,"
 ~But it was too late.~
 *She entered the room and called out.*
-"Hello, is anyone in there."
+"M::Hello, is anyone in there."
 ~She avoided looking at the display of bodies in the center of the room.~
 ~Closing her eyes, she pinpointed the scratching down - it stopped.~
 "Don't come in!"

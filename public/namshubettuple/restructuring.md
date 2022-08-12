@@ -1,47 +1,47 @@
 # RESTRUCTURING
 
 {
-"If Flanagan made the undernet then isn't he in charge of them? "
+m:M
+"M::If Flanagan made the undernet then isn't he in charge of them? "
 ~The cab driver was excellent at weaving through traffic.~
 ~His face frozen, his eyes though...~
 *His eyes repeatedly scanned back and forth.*
 ~The driver side window was rolled down, wind roaring in.~
 'Maybe the wind drowned me out'
-"If Flanagan made the -"
+"M::If Flanagan made the -"
 ~Felix cut her off.~
-"It's possible."
+"F::It's possible."
 ~He leaned in the back seat.~
 ~Rossin was taking up the other back seat.~
 *Rossin shook his head.*
-"I don't think it's likely...
+"F::I don't think it's likely...
 When you meet Flanagan, you'll understand."
-~Felix said.~
-"So he's ignorant of what they're doing?"
+"M::So he's ignorant of what they're doing?"
 *Felix immediately shook his head*
-"No: he knows, at least he'd better.
+"F::No: he knows, at least he'd better.
 We just don't know what his plan is right now...
 because we...
 I, am a bit out of the loop."
 *Rossin displayed his palms*
 ~His position was one of 'what'da gonna do?'~
-"I literally choose him at random...
+"R::I literally choose him at random...
 Random from a pool of people with the right Admin privileges."
 `"So you didn't vet him?"`
 *Rossin mimed looking around*
-"When would I find the time?
+"R::When would I find the time?
 I've been talking to you all day."
 `"You're a program, cant you do things at like...
 the speed of thought or whatever?"`
-"You do things at the speed of thought."
+"R::You do things at the speed of thought."
 ~Martha paused.~
 'Fuck'
 `"Good point"`
 *Felix repeatedly tapped his finger on his leg.*
-"So I know Flanagan didn't...
+"R::So I know Flanagan didn't...
 He didn't kill my author...
 But someone he knows probably did."
 `"Why do you say that?"`
-"The thing that attacked my author, it left...
+"R::The thing that attacked my author, it left...
 Sharp edges in me...
 There are large chunks of me just...
 Missing.
@@ -49,10 +49,10 @@ I can see how much is missing, and...
 I'm..."
 ~Rossin stopped at that point and sat there with his head down~
 *Martha fell to her right, Felix did as well, Rossin sat balanced.*
-"We are...
+"F::We are...
 Just about..."
 *The cabbie pulled into an alley, then a garage entrance*
-"Here."
+"F::Here."
 }
 {
 ~Fluorescent lights and floors of concrete lower they reached the bottom.~

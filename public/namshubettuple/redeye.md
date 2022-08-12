@@ -1,6 +1,6 @@
 # REDEYE
 {
-mn:Martha
+mn:M
 ~Martha was walking on top of a cliff face.~
 ~The wind in her face and the sun on her back.~
 ~In front of her was a long cylindrical spacecraft.~
@@ -202,7 +202,7 @@ Are less out of place there..."
 }
 {
 %%%%
-mn:Kent
+mn:K
 
 }
 {
@@ -289,7 +289,7 @@ mn:Kent
 }
 {
 %%%%
-mn:Martha
+mn:M
 }
 {
 *Martha landed in the center of a golden metal gear.*

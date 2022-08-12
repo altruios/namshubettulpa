@@ -1,6 +1,6 @@
 const speakers =require('./speakermap.js');
 console.log(speakers)
-const defaultnarrator = {current:"Martha"}
+const defaultnarrator = {current:speakers.M}
 const mdx_parser=(text)=>{
     const data = get_mdx_data(text);
     if(data.length<100) return null;
@@ -59,9 +59,14 @@ const mdx_block_parser = (block,dfn)=>{
     let settings=dfn.current;
     if(regex_settings!=null &&regex_settings.length!=0){
         console.log("hit and changing",regex_settings[0]);
-        settings = regex_settings[0].slice(regex_settings[0].indexOf(":")+1);
-        console.log(settings,"is going to be set to current");
-        dfn.current=settings;
+        const key=regex_settings[0].slice(regex_settings[0].indexOf(":")+1);
+        console.log(key,"is key");
+        console.log(speakers,"is speakers");;
+        const current = speakers[key];
+
+        console.log(current,"is going to be set to current",key);
+        dfn.current=current;
+        settings=current;
     }
     console.log("settings are:", settings);
     const pw = ref.match(/\`([^`]*)\`/gm)||[];
@@ -76,9 +81,9 @@ const mdx_block_parser = (block,dfn)=>{
     tw.forEach(r=>ref=ref.replace(r,""));
     const scp=(txt,nlflag)=>{
         const text_div =(txt,mainNB,speaker)=> `
-            <div style="${mainNB?'text-align:left; background-color:#248bf5; margin: 0 auto 0 0;':'text-align:right; background-color:e5e5ea; margin: 0 0 0 auto;'} border:solid;padding:3; border-radius:35px; width:fit-content;min-width:20vw !important;max-width:80vw;  ">
-                <div style="font-size:2.5vh; padding-left:5;padding-right:25;">${speaker}</div>
-                <div style="padding-${mainNB?'left':'right'}: 10">${txt}</div>
+            <div style="${mainNB?'text-align:left; background-color:#248bf5; margin: 0 auto 0 0;':'text-align:right; background-color:e5e5ea; margin: 0 0 0 auto;'} border:solid;padding:3; border-radius:35px; width:fit-content;min-width:20vw !important;max-width:60vw;  ">
+                <div style="font-size:2.5vh; padding-left:25;padding-right:25;">${speaker}</div>
+                <div style="padding-${mainNB?'left':'right'}: 15">${txt}</div>
                 </div>`
         switch(txt[0]){
             case "\"": 
