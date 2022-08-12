@@ -76,9 +76,9 @@ const mdx_block_parser = (block,dfn)=>{
     tw.forEach(r=>ref=ref.replace(r,""));
     const scp=(txt,nlflag)=>{
         const text_div =(txt,mainNB,speaker)=> `
-            <div style="${mainNB?'text-align:left; background-color:#248bf5; margin 0 auto;':'text-align:right; background-color:e5e5ea; margin: 0 0 0 auto;'} border:solid; width:fit-content;max-width:80vw ">
-                <div style="font-size:2.5vh;">${speaker}</div>
-                <div>${txt}</div>
+            <div style="${mainNB?'text-align:left; background-color:#248bf5; margin: 0 auto 0 0;':'text-align:right; background-color:e5e5ea; margin: 0 0 0 auto;'} border:solid; width:fit-content;min-width:20vw !important;max-width:80vw;  ">
+                <div style="font-size:2.5vh; padding-left:5;padding-right:5;">${speaker}</div>
+                <div style="padding-${mainNB?'left':'right'}: 10">${txt}</div>
                 </div>`
         switch(txt[0]){
             case "\"": 

@@ -4,7 +4,7 @@ mn:Martha
 ~Martha was walking on top of a cliff face.~
 ~The wind in her face and the sun on her back.~
 ~In front of her was a long cylindrical spacecraft.~
-~It jutting out from the crash site at the side of the cliff below her.~
+~It jutted out from the crash site at the side of the cliff below her.~
 ~It was covered with hexagonal glass windows.~
 ~The entire shape bubbled out in strange directions - not aerodynamic at all.~
 *She made her decent, until landing on the top of the ship.*
