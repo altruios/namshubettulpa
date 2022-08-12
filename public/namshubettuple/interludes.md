@@ -18,7 +18,8 @@
 ~Her eyes neither moved nor blinked.~
 ~Screams penetrated the 'noise proof' chamber.~
 '15...,14...,13...'
-*She darted her eyes to the clock above the man tied down to the gurney* 
+*She darted her eyes*
+~To the clock above the man tied down to the gurney~ 
 ~She watched as the seconds ticked down and his struggles came to a climax.~
 '0'
 ~She paused, he was still struggling~

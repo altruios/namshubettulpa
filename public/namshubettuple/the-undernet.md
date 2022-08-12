@@ -141,7 +141,9 @@ This was desert, were you waiting all this time?"
 ~And a slow cold swelled in the top of her mouth.~
 ~She didn’t care, it was just so - damn - good.~
 ~It helped with the headache - something to distract from it.~
-~A new pain, harmonizing and smoothing out the sharper pain in her brain~
+~It was a new pain, harmonizing and smoothing out the sharper pain in her brain~
+`['more pain is less pain.']`
+~She saved that thought in a list, partly in irony, and mostly for practice.~
 "We’ll walk then, it’s not far - grab something on the way."
 *He held out his arm Martha linked with it.*
 }
@@ -159,27 +161,27 @@ This was desert, were you waiting all this time?"
 *He stopped himself, to meet the vendor’s glassy stare.*
 ~It took a few seconds but suddenly he shook and asked what Kent wanted.~
 *Kent paid for a hotdog and hurriedly caught up.*
-~They entered Idlewild Park and made their way up Brookville blvd.~
+~He watched them enter Idlewild Park and make their way up Brookville blvd.~
 ~They walked for some time until they stopped at a building...~
 ~Incongruent with the rest.~
 ~It was tall.~
 ~30 stories high when everything around it was nearly flat.~
 ~It was black.~
 ~And at the top it had symbols on it - stark white against the obsidian.~
-~That’s what it looked like on the outside...~
+~That's what it looked like on the outside...~
 ~Black glass.~
 ~Impermeable by light.~
 *Felix and Martha went inside.*
 *Kent started to follow, but slowed.*
 ~The building was so out of place, and those symbols...~
-~They were almost like the one’s Felix had shown him on his phone.~
-'Were they there so people ‘forgot’ about it when looking at it?' 
+~They were almost like the one's Felix had shown him on his phone.~
+'Were they there so people "forgot" about it when looking at it?' 
 ~He wondered...~
 'Either way...'
 ~Into the lion's den.~
 *Instinctively he padded himself down.*
 ~Keys, wallet, phone, gun.~
-~Hopefully he wouldn’t need the latter~  
+~Hopefully he wouldn't need the latter~  
 ~But more and more he was sure he would.~
 "This is some bullshit"
 ~He muttered to himself, stepping up to the building.~
@@ -191,7 +193,7 @@ This was desert, were you waiting all this time?"
 {
 "Wait here,"
 ~Felix said as he Stepped into the dark hallway.~
-"Something’s...
+"Something's...
 Wrong."
 ~They were on the 4th floor.~
 ~The elevator just opened to what he promised would be hundreds of peers.~
@@ -202,14 +204,14 @@ Wrong."
 ~He paused...~
 *Closing it again.*
 *He walked back.*
-"Stay here, I’m going to see if there’s anyone in the building at all."
+"Stay here, I'm going to see if there's anyone in the building at all."
 ~Martha nodded and he entered the elevator behind, pushing a few buttons~
 "This...
 Is strange."
 ~Rossin said,~
 "Come on,"
 *He said, waving at her to follow him.*
-"I want to know what’s going on."
+"I want to know what's going on."
 ~She hesitated only a moment - she too wanted to know.~
 *Meeting him at the first door, she pushed it open.*
 ~Behind it - nothing.~
@@ -258,47 +260,47 @@ Is strange."
 "Undernet..."
 ~He said.~
 "Listen, take a few deep breaths.
-Not shallow - that’s how you pass out.
+Not shallow - that's how you pass out.
 In..."
 *He took a breath himself...*
 'Did he bre--- no.' 
 ~Martha thought.~
-'He didn’t breath - that was all for show, for her.'
+'He didn't breath - that was all for show, for her.'
 ~She followed suit.~
 ~Rossin breathed out, and she did as well.~
 ~In the quiet - she heard the scratching - it was coming from that room.~
-"Someone’s still in there."
+"Someone's still in there."
 ~She said.~
-"That’s what that scratching is"
+"That's what that scratching is"
 *Rossin nodded.*
 "Probably."
-~Martha waited, and that’s all he said.~
-"So shouldn’t we...
+~Martha waited, and that's all he said.~
+"So shouldn't we...
 Help them...
 Get them out of there?"
 ~She asked.~
 *Rossin shook his head.*
 "No one here would do the same for you. 
-Whatever is keeping them inside - it’s probably too risky to get them out."
+Whatever is keeping them inside - it's probably too risky to get them out."
 *Martha shook her head.*
 *She stood back up and steeled herself.*
-"Martha don’t,"
+"Martha don't,"
 ~But it was too late.~
 *She entered the room and called out.*
 "Hello, is anyone in there."
 ~She avoided looking at the display of bodies in the center of the room.~
 ~Closing her eyes, she pinpointed the scratching down - it stopped.~
-"Don’t come in!"
+"Don't come in!"
 ~A male voice.~
 ~Muffled.~
 ~It came from a supply closet on the left, close to the hallway.~
 *She approached.*
-"Okay - so he’s warning you not to get closer...
+"Okay - so he's warning you not to get closer...
 I just want to point this out when things go horribly wrong.
 This is your own decision."
 ~She tried opening the supply closet.~
 ~It was held fast.~
-"Don’t open it, don’t look at me!"
+"Don't open it, don't look at me!"
 ~The voice was frantic, terrified.~
 "What happened here?"
 ~Martha asked.~
@@ -307,7 +309,7 @@ This is your own decision."
 "I killed them - they killed themselves. 
 They tried to kill me, I locked myself in here..."
 ~The voice was pained.~
-"I can’t even remember their faces, they’re gone...
+"I can't even remember their faces, they're gone...
 Really gone...GET OUT OF MY HEAD"
 *He screamed suddenly, a piercing howl.*
 ~And there was a thumping on the inside of the closet.~
