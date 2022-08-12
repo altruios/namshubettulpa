@@ -101,12 +101,12 @@ const mdx_block_parser = (block)=>{
         internal_data_matches_unique.forEach(match=>{
             obj.t=obj.t.replaceAll(match,scp(match))
         })    
-        obj.t=obj.t.replace(/([t][r][u][e]|[f][a][l][s][e])/gm,`<span style="color:#9953e0">$1</span>`)
-        obj.t=obj.t.replace(/([=][>]|[<][=]|[e][x][e]|[|][|]|[W][I][T][H]|[W][H][I][L][E]|[T][R][Y]|[C][A][T][C][H])/gm,`<span style="color:#aa0000">$1</span>`)
-        obj.t=obj.t.replace(/([\{]|[\}]|[\[]|[\]]|[\(]|[\)])/gm,`<span style="color:#ffffff">$1</span>`)
-        obj.t=obj.t.replace(/([\s][-][\w]+)/gm,`<span style="color:#ff6f00">$1</span>`)
-        obj.t=obj.t.replace(/([-][-][\w][\w-]*)/gm,`<span style="color:#ff4499">$1</span>`)
-        obj.t=obj.t.replace(/([.][\w]+)/gm,`<span style="color:#ca7922">$1</span>`)
+        obj.t=obj.t.replaceAll(/([t][r][u][e]|[f][a][l][s][e])/gm,`<span style="color:#9953e0">$1</span>`)
+        obj.t=obj.t.replaceAll(/([=][>]|[<][=]|[e][x][e]|[|][|]|[W][I][T][H]|[W][H][I][L][E]|[T][R][Y]|[C][A][T][C][H])/gm,`<span style="color:#aa0000">$1</span>`)
+        obj.t=obj.t.replaceAll(/([\{]|[\}]|[\[]|[\]]|[\(]|[\)])/gm,`<span style="color:#ffffff">$1</span>`)
+        obj.t=obj.t.replaceAll(/([\s][-][\w]+)/gm,`<span style="color:#ff6f00">$1</span>`)
+        obj.t=obj.t.replaceAll(/([-][-][\w][\w-]*)/gm,`<span style="color:#ff4499">$1</span>`)
+        obj.t=obj.t.replaceAll(/([.][\w]+)/gm,`<span style="color:#ca7922">$1</span>`)
         
 
         return obj;
@@ -127,7 +127,7 @@ const mdx_block_parser = (block)=>{
     },[])
 
     transforms.forEach(t=>{
-        block=block.replace(t.o,t.t)
+        block=block.replaceAll(t.o,t.t)
         if(t.o[0]=="`"){
     }
     })

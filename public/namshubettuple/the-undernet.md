@@ -175,7 +175,7 @@ This was desert, were you waiting all this time?"
 *Kent started to follow, but slowed.*
 ~The building was so out of place, and those symbols...~
 ~They were almost like the one's Felix had shown him on his phone.~
-'Were they there so people "forgot" about it when looking at it?' 
+'Were they there so people forgot about it when looking at it?' 
 ~He wondered...~
 'Either way...'
 ~Into the lion's den.~
@@ -596,4 +596,4 @@ He's considering if you’re with them, infiltrating"
 "He’s the one that made the undernet"
 *The elevator doors opened to the downstairs lobby and they walked out.*
 }
-## [restructuring](restructuring.md) (to be written)
+## [restructuring](restructuring.md)
