@@ -260,7 +260,7 @@ In..."
 *He took a breath himself...*
 'Did he bre--- no.' 
 ~Martha thought.~
-'He didn't breath - that was all for show, for her.'
+'He did not breath - that was all for show, for her.'
 ~She followed suit.~
 ~Rossin breathed out, and she did as well.~
 ~In the quiet - she heard the scratching - it was coming from that room.~
@@ -393,7 +393,7 @@ And I don't think that I would be able to do anything to him anyway"
 "M::A weird fucking week."
 ~There was a pause...~
 ~Kent continued to wait.~
-"K:Are you going to...
+"K::Are you going to...
 Fill me in?"
 ~He asked, as he inspected his borrowed gun.~
 "M::Do you want to tell me why you're following me..."
@@ -449,7 +449,7 @@ Whatever - let's run with that.
 Why are you in New York?"
 ~Martha sighed.~
 "M::Okay - so that's a longer explanation..."
-"K::Alright, let's start with that kid outside - the not-zombie"
+"K::Alright, let's start with that surprisingly spry old man outside - the not-zombie"
 "M::He was infected with a very bad ghost in his brain."
 *Rossin walked between the two of them, facing Martha.*
 "R::This is painful. 
@@ -463,6 +463,8 @@ So there are these things called namshubs..."
 ~Rossin cut over.~
 "M::Fine."
 *Martha snapped at him as she flipped the switch.*
+}
+{
 mn:R
 ~Martha unwound from that spinning wheel that traded their spots.~
 *Rossin stretched his, her, neck.*
@@ -520,9 +522,10 @@ Where in central park?"
 "R::Later - tonight maybe, just be around there."
 *He nodded back at Martha.*
 ~They switched back.~
+}
+{
 mn:M
 "M::In here!"
-*Martha yelled.*
 *Felix popped his head through the broken glass.*
 "F::Oh...
 YOU shot him?"
@@ -541,7 +544,6 @@ There's a bunch of dead people in the other room."
 "F::We should leave, right the fuck now."
 *He made is way back toward the elevator, *
 "F::Come on!"
-~He yelled.~
 "M::What's going on?"
 *Felix pressed the button on the elevator panel: down.*
 ~At his feet was the person Kent shot.~
@@ -578,8 +580,8 @@ He's considering if you're with them, infiltrating"
 *Rossin continued to pace and Martha fiddled around with the gun.*
 *Locating and making sure the safety was on, she tucking it behind her pants.*
 "M::So what now?"
-*She asked, tucking her shirt over the gun into her pants.*
-~Felix studied her, then said.~
+*She tucked her shirt over the gun into her pants.*
+~Felix studied her.~
 "F::We're going to Flanagan's home, to get some answers..."
 ~There as an elevator ding, and they both felt the gravity suddenly shift.~
 "F::He's the one that made the undernet"
