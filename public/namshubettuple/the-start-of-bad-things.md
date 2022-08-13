@@ -13,8 +13,14 @@ power is limited, no matter how vast, and:'
 )
 `
 ~Felix felt the loss as awareness flooded someone else, it was happening more and more.~
-~Each loss was still noticeable, the thoughts in his brain more his own instead of the awareness he learned.~
+~Each loss seemed more noticeable.~
 ~More and more with each newly awakened human, did his power grow less effective, less pure.~
+'Why does it feel like a big chunk...'
+~He memory turbulent in a way even the awakened were unaware~
+~He always remembered being this powerful~
+~He also had the vauge notion of a large group of peers.~
+~But he knew that was wrong.~
+~Even if he disconnected himself mostly from the link - he couldn't be completely separated~
 ~This would progress until it would stretch so thin as to be invisible.~
 ~Until the people practiced namshubs "in theory", the more people asleep the more powerful the awake.~
 ~Everyone being awake results in no power for anyone.~
@@ -46,6 +52,8 @@ Dole it out all day to particular people.'
 `req=>{send(statusQuo=>~Self~.statusQuo)};`
 ~If he had been moving, or preoccupied, he wouldn't have noticed the request.~
 ~Basic info was automatic - and didn't require any conscious thought.~
+~His info was out of date, he hadn't looked in the link in more than a week~
+'A personal best.'
 ~He was about to request the sender information when his phone vibrated once, indicating a text.~
 }
 {
