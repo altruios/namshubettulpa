@@ -33,7 +33,7 @@ mn:M
 How long?"
 "M::About an hour. He's still a no show..."
 *Rossin nodded,*
-"R:That's to be expected - he's probably eating now...
+"R::That's to be expected - he's probably eating now...
 Which by the way: why aren't you doing?"
 "M::I had a snack"
 "R::A snack?"
