@@ -1,162 +1,159 @@
 # TESTS
 {
+mn:M
 ~Martha sat at the edge of the bed, ~
-"Seriously. I just want to sleep now,"
+"M::Seriously. I just want to sleep now,"
 *Martha groaned as Rossin paced from the motel door entrance, to the bathroom.*
-~It wasn’t far.~
+~It wasn't far.~
 ~They had gone to a nearby motel.~
 ~Not the closest - Rossin switched with her to have the manager hand over the keys.~
-"There’s a few things you need to know first, then you can sleep, I promise."
-"Why are you pacing"
+"R::There's a few things you need to know first, then you can sleep, I promise."
+"M::Why are you pacing"
 *Rossin looked at her, still pacing. *
-"You know when you have your mind running a mile a minute. 
-I’m in you, and moving is a way to keep the part of your mind that hallucinates me active. 
-When that’s active: you can’t sleep."
-"So you’re keeping me awake..."
+"R::You know when you have your mind running a mile a minute. 
+I'm in you, and moving is a way to keep the part of your mind that hallucinates me active. 
+When that's active: you can't sleep."
+"M::So you're keeping me awake..."
 *Rossin nodded, *
-"On purpose?"
+"M::On purpose?"
 *Again, Rossin nodded. *
-"Why?"
-"Making sure I haven’t missed anything...
+"M::Why?"
+"R::Making sure I haven't missed anything...
 What he said was true, about the school - machiavellian. 
-But that’s not really a trait that’s instilled there. 
-That’s practically a prerequisite to be in this world...
-You don’t meddle in the minds of humans without some detachment from ‘humanism’. 
+But that's not really a trait that's instilled there. 
+That's practically a prerequisite to be in this world...
+You don't meddle in the minds of humans without some detachment from ‘humanism'. 
 Being around others that challenge you...
 That hones that trait... 
 So he has got some goal...
-Some machination: we just haven’t seen what it is yet...
+Some machination: we just haven't seen what it is yet...
 But he will betray you, if it serves him to do so..."
-"And we’re in a motel because...?"
+"M::And we're in a motel because...?"
 ~Rossin paused. ~
-"You said you’d tell me when -"
-~Rossin interrupted her.~
-"Yes, yes...
-It’s a test. If you went to sleep where he knew you would be - your house - then you weren’t listening - he’d erase you, and me in the process."
+"M::You said you'd tell me when -"
+"R::Yes, yes...
+It's a test. If you went to sleep where he knew you would be - your house - then you weren't listening - he'd erase you, and me in the process."
 }
 {
 *Martha leaned back, staring at the ceiling.*
-"Hey!"
-~Rossin’s voice grew annoyed.~
-*When she didn’t sit up, Rossin began to walk on the ceiling - pacing back and forth.*
-"Don’t sleep yet. There’s more"
+"R::Hey!"
+~Rossin's voice grew annoyed.~
+*When she didn't sit up, Rossin began to walk on the ceiling - pacing back and forth.*
+"R::Don't sleep yet. There's more"
 *He continued to paced*
-"You understand this stuff takes years to learn...
-And we’ve played our hand a bit - he thinks you can use hooks at least. 
+"R::You understand this stuff takes years to learn...
+And we've played our hand a bit - he thinks you can use hooks at least. 
 He saw the people in the cell do that thing with the wall"
 *Rossin slaps his head.*
-"Gah...
-We should go back there and fix them shouldn’t we."
-"They’re still...?"
-"Facing a wall somewhere, that’s just...
-What they’ll do now...
+"R::Gah...
+We should go back there and fix them shouldn't we."
+"M::They're still...?"
+"R::Facing a wall somewhere, that's just...
+What they'll do now...
 Sloppy Rossin...
-It’s fine. 
-We can take care of that when you wake up: there really isn’t any rush."
+It's fine. 
+We can take care of that when you wake up: there really isn't any rush."
 }
 {
-"Won’t other people notice?"
-"We’ll fix that too...
-It’s fine, a little messy but just fine"
+"M::Won't other people notice?"
+"R::We'll fix that too...
+It's fine, a little messy but just fine"
 ~Rossin was clearly annoyed.~
 *He still paced.*
-"He knows I can use hooks"
-"I can use hooks,"
-~Rossin corrected her. ~
-"But he saw the people from the cell...
+"M::He knows I can use hooks"
+"R::I can use hooks, But he saw the people from the cell...
 He thinks you can use hooks successfully...
-But he doesn’t know how. He’ll assume the visual link"
-"He knows I killed someone,"
+But he doesn't know how. He'll assume the visual link"
+"M::He knows I killed someone,"
 ~Martha realized And the thought of it still stung...~
 ~She just went along with killing another human...~
 ~Well, trading a human...~
 *She curled up.*
-"That's what we did, I killed my neighbor, and we killed...
+"M::That's what we did, I killed my neighbor, and we killed...
 Overwrote another human to take his place...
 Was that right?"
-"Right or wrong it happens all the time. 
-People aren’t the things they are made of. 
+"R::Right or wrong it happens all the time. 
+People aren't the things they are made of. 
 They are the connections between themselves and other humans. 
 The ideas, their emotions...
 Not the physical matter they make up... "
-"That police officer was a human...
-He’s somewhere in the back of the mind now?"
-"Aye."
-~Rossin said. ~
-"But he was the worst person that other police officer knew...
+"M::That police officer was a human...
+He's somewhere in the back of the mind now?"
+"R::Aye.
+But he was the worst person that other police officer knew...
 So we made the streets a little safer."
-~Martha asked,~
-"What about his track marks?"
-"What about them?"
-"Isn’t he...
+"M::What about his track marks?"
+"R::What about them?"
+"M::Isn't he...
 Addicted to heroin now - like...
 Physically addicted"
 *Rossin paced for a moment before speaking.*
-"Maybe...
-If he is - he’ll think withdrawal is a nasty cold...
-If he goes to the doctors, they’ll give him stuff to fix it...
-He won’t know why it works, and the doctor’s will just assume he’s lying. 
-It’ll be a mystery, but not a identity shattering one...
-That’s again...
-If he goes to the doctor’s at all.
+"R::Maybe...
+If he is - he'll think withdrawal is a nasty cold...
+If he goes to the doctors, they'll give him stuff to fix it...
+He won't know why it works, and the doctor's will just assume he's lying. 
+It'll be a mystery, but not a identity shattering one...
+That's again...
+If he goes to the doctor's at all.
 If the withdrawal is bad enough"
 *Martha shifted the covers, wrapping up in them where she was on top of them.*
-"Still...
-It’s a risk,"
-"It’s a price. Things always have a price."
+"M::Still...
+It's a risk,"
+"R::It's a price. Things always have a price."
 ~Martha was silent for a time...~
-"He knows I killed someone...
-He knows I know about hooks, but he thinks I’m inconsistent with them, at best"
+"M::He knows I killed someone...
+He knows I know about hooks, but he thinks I'm inconsistent with them, at best"
 }
 {
 *Rossin nodded, *
-"You’ll have to learn quickly...
-I can’t keep switching with you..."
+"R::You'll have to learn quickly...
+I can't keep switching with you..."
 *Martha looked at him.*
-"Why not?"
+"M::Why not?"
 *Rossin sighed...*
-"I made that for a demonstration...
-It’s...
+"R::I made that for a demonstration...
+It's...
 Not healthy to use...
 It does a little bit...
 Just a little bit of damage. 
 Tiny amount...
 But still. 
-It’s best that you are able to do these things without me being you. 
-I can’t do everything for you...
+It's best that you are able to do these things without me being you. 
+I can't do everything for you...
 But I can probably be of more help getting you up and running...
-But that’s for when you wake..."
-~Martha realised that how tired she was, was in fact tied to Rossin’s movement.~
+But that's for when you wake..."
+~Martha realized that how tired she was, was in fact tied to Rossin's movement.~
 ~The more he moved, the more awake she felt.~
 ~But even with him moving: it was a stop gap against the inevitable force of sleep.~
-"For now...
-I think that’s everything. We’ll fix the people at the station, if anything even needs to be done...
+"R::For now...
+I think that's everything. We'll fix the people at the station, if anything even needs to be done...
 Maybe Felix noticed that detail...
 He was tired too...
 Maybe he missed it as well...
 Maybe"
 *Rossin laid down next to her.*
-"I’m not sure how this goes for me...
+"R::I'm not sure how this goes for me...
 When you sleep that is."
-"What do you mean?"
-"Do I stay here?
+"M::What do you mean?"
+"R::Do I stay here?
 Will I stay conscious when you are not?"
-"You don’t know?"
-"I mean, I know I won’t be able to see or hear anything...
-Because you won’t be able to... 
+"M::You don't know?"
+"R::I mean, I know I won't be able to see or hear anything...
+Because you won't be able to... 
 But do I dream? 
 Or am I blind and deaf for 8 hours a day...
 Also - please try and get a full 8 hours. 
 It really is good for your brain. 
 Sleep deprivation is terrible and I live here now too, you know"
 *Martha shifted away from him,*
-'Here’s to finding out,'
+'Here is to finding out,'
 ~She thought as she stared at the beige wall, waiting for sleep.~
 }
 {
 %%%%
 }
 {
+mn:K
 ~Kent heard a ringing by his ear.~
 ~The much too loud kind...~
 ~The kind like his phone next to his ear...~
@@ -169,82 +166,81 @@ Sleep deprivation is terrible and I live here now too, you know"
 ~He turned over and shifted the covers.~
 *It rang again...*
 'Shit.'
+}{
 *He sighed and reached out for his phone. *
-"Hello?"
-"Kent...?"
+"K::Hello?"
+"T::Kent...?"
 'It was Tom, goddamn it.'
-"This better be important."
-"You’re girls awol."
-"My girl?"
-'My wife? She’d been gone for -'
-"The one from last night."
-~Tom said. And things clicked into place...~
+"K::This better be important."
+"T::You're girls awol."
+"K::My girl?"
+'My wife? She had been gone for -'
+"K::The one from last night."
+~Things clicked into place...~
 'Right...
 That woman Martha.'
 ~His mind was still warming up - spinning things into place.~
-"Awol? 
+"K::Awol? 
 As in..."
-"As in: not here, not discharged: missing."
+"T::As in: not here, not discharged: missing."
 *Kent sat up, slowly...*
-~His back wasn’t as amazing as it had been~
+~His back wasn't as amazing as it had been~
 *He groaned out a yawn.*
-"Fine...
-I’ll be there in a little bit."
+"K::Fine...
+I'll be there in a little bit."
 ~The light shown on his tiny loft~
 *Kent squinted and reached over to closed the blinds next to his bed.*
-"I’ll heat up the coffee pot for you,"
-~Tom said.~
-"Don’t do me any special favors."
+"T::I'll heat up the coffee pot for you,"
+"K::Don't do me any special favors."
 ~He meant it...~
 ~It was nice and all...~
-~But Tom’s niceness felt like it had strings attached - strings he didn’t want to pull.~
-"It’s coffee, from yesterday, fucking relax...
+~But Tom's niceness felt like it had strings attached - strings he didn't want to pull.~
+"T::It's coffee, from yesterday, fucking relax...
 Also,"
 ~There was a pause in the other line.~
-"It’s...
-Well: you’ll see when you get here."
-"What!"
+"T::It's...
+Well: you'll see when you get here."
+"K::What!"
 *He groaned...*
-"Just tell me now."
+"K::Just tell me now."
 *He sat up, looking for his shirt...*
-'Right,'
+'Right'
 ~It was by the door - he just sort of collapsed on his bed last night...~
 'This morning'
 ~He corrected himself~
 ~He realized he was still wearing his pants from last night.~
 ~He decided he would change them.~
 ~Another pause.~
-"Well...
+"T::Well...
 I think...
-I don’t know what I think. 
+I don't know what I think. 
 The other people in the holding cell...
-They’re acting weird."
+They're acting weird."
 ~Another too long pause.~
 *Kent picked out a new shirt from his closet - new pants too,*
-"Weird how?"
-"They won’t talk to anyone...
+"K::Weird how?"
+"T::They won't talk to anyone...
 And, well...
-They’re just standing in front of walls."
+They're just standing in front of walls."
 *Kent cleared his throat,*
-"And?"
-"...And it’s really fucking weird."
-"Weird how."
+"K::And?"
+"T::...And it's really fucking weird."
+"K::Weird how."
 ~Kent was starting to grow impatient.~
-"They’re facing the wall...
+"T::They're facing the wall...
 Right next to it...
 Like - millimeters away."
-"Facing the wall?"
-~Tom confirmed.~
-"Facing the wall."
+"K::Facing the wall?"
+"T::Facing the wall."
 ~Kent took a moment to digest that information.~
-"And if you move them away from that wall?"
+"K::And if you move them away from that wall?"
 'Where were his keys? Right - still in his other pants.'
-~That’s why his leg hurt - he’d been sleeping on them.~
-"They go right up a wall and face it...
-I think it’s some sort of prank...
+~That's why his leg hurt - he'd been sleeping on them.~
+"T::They go right up a wall and face it...
+I think it's some sort of prank...
 But...
 Well: just get down here..."
-"I’m on my way in..."
+"K::I'm on my way in..."
 *The phone clicked. *
 ~He needed coffee.~
 ~A lot of coffee.~
