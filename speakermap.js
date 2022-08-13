@@ -5,7 +5,7 @@ const speaker_map={
     G:"Gerald Whitewater",
     AG:"Alice Glass",
     FL:"Flanagan",
-    FE:"Felix Danabrus",
+    F:"Felix Danabrus",
     K:"Kent Barbado",
     RG:"Robert Glass",
     U:"Uri Maca",
@@ -16,7 +16,9 @@ const speaker_map={
     R2:"Jochek of the Relux",
     L:"Lenny",
     J:"Jochek",
-
+    "?":"unknown",
+    SM:"Male Voice",
+    SG:"Security Guard",
 }
 
 module.exports = speaker_map

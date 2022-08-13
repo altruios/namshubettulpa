@@ -71,7 +71,7 @@ async function transform_to_md(cwd,callback){
                 }
             })
         }
-        data=`<html><body ${blocks? 'style="background-color:#6f6f6f"':''} >${data}</body></html>`
+        data=`<html><body ${blocks? 'style="background-color:#6f6f6f; font-size:3vh;"':''} >${data}</body></html>`
         data=data.replace(/([\<][\p][\>][\<][\/][\p][\>])/gm, "")
         //console.log(data);
         console.log("cwd",cwd);

@@ -272,7 +272,6 @@ In..."
 "M::So shouldn't we...
 Help them...
 Get them out of there?"
-~She asked.~
 *Rossin shook his head.*
 "R::No one here would do the same for you. 
 Whatever is keeping them inside - it's probably too risky to get them out."
@@ -284,52 +283,49 @@ Whatever is keeping them inside - it's probably too risky to get them out."
 "M::Hello, is anyone in there."
 ~She avoided looking at the display of bodies in the center of the room.~
 ~Closing her eyes, she pinpointed the scratching down - it stopped.~
-"Don't come in!"
-~A male voice.~
+"SM::Don't come in!"
 ~Muffled.~
 ~It came from a supply closet on the left, close to the hallway.~
 *She approached.*
-"Okay - so he's warning you not to get closer...
+"R::Okay - so he's warning you not to get closer...
 I just want to point this out when things go horribly wrong.
 This is your own decision."
 ~She tried opening the supply closet.~
 ~It was held fast.~
-"Don't open it, don't look at me!"
+"R::Don't open it, don't look at me!"
 ~The voice was frantic, terrified.~
-"What happened here?"
-~Martha asked.~
+"M::What happened here?"
 ~There was a pause.~
 ~An intake of breath, like he had been sobbing.~
-"I killed them - they killed themselves. 
+"SM::I killed them - they killed themselves. 
 They tried to kill me, I locked myself in here..."
 ~The voice was pained.~
-"I can't even remember their faces, they're gone...
+"SM::I can't even remember their faces, they're gone...
 Really gone...GET OUT OF MY HEAD"
 *He screamed suddenly, a piercing howl.*
 ~And there was a thumping on the inside of the closet.~
 ~So violent it almost shook the structure.~
-"Martha - you should back away."
+"R::Martha - you should back away."
 ~Martha ignored him.~
-"I’m going to get you out of there.
+"M::I’m going to get you out of there.
 Into safety."
-"There is none."
+"SM::There is none."
 ~He Squealed.~
-"Don’t you understand - it’s in me.
+"SM::Don’t you understand - it’s in me.
 I’m dead...
 Worse than dead."
-~Rossin spoke up.~
-"That thing inside your head...
+"R::That thing inside your head...
 It’s inside his head too...
 Or something like it...
 Get out of here now - it’s only a matter of time before..."
 ~The thumping stopped suddenly.~
-"Seriously Martha, now...
+"R::Seriously Martha, now...
 Get out of here now!"
 *The closet door clicked open.*
 *Martha finally started to back away.*
 ~Her neck threw every bit of blood it could to her brain, tightening as her heart dropped.~
 `>>--TEMPORAL();`
-"Faster damn it."
+"R::Faster damn it."
 ~His words were slow - or her brain was cooled in adrenaline.~
 ~Everything felt like moving through pudding - but she had time to focus all her energy into the run.~
 ~Rossin was at the door, urging her to move.~
@@ -357,11 +353,11 @@ Get out of here now!"
 *She ran back down the hall.*
 ~On her hands and knees.~
 ~Fighting against time itself.~
-"Rossin, can we switch?"
-"No time! 
+"M::Rossin, can we switch?"
+"R::No time! 
 And I don’t think that I would be able to do anything to him anyway"
 ~There wasn’t much hallway, and that thing was striding towards her now.~
-"Duck into one of these rooms, they lock from the inside."
+"R::Duck into one of these rooms, they lock from the inside."
 *She grabbed the door...*
 ~It opened inward.~
 *She closed it just in time, and could almost lock the door.*
@@ -375,219 +371,218 @@ And I don’t think that I would be able to do anything to him anyway"
 ~She heard it galloping towards the elevator.~
 'Oh shit: Felix...'
 ~She heard a gunshot, then a thud.~
-"Felix?"
+"M::Felix?"
 *She shouted.*
 ~Footsteps grew closer, no answer.~
 *She started to back away from the door, out of sight.*
 *A head poked in, armed raised cautiously with a gun.*
 ~It was that police officer from her hometown...~
 ~Martha could see the dark of the barrel, and his finger off of the trigger.~
-"What the hell was that, rabies?"
+"K::What the hell was that, rabies?"
 *Martha slowly shook her head, he quickly glanced back toward the elevator.*
-"...Zombies?"
-~He asked.~
+"K::...Zombies?"
 *Again Martha shook her head.*
-"Weirder..."
-"Weirder than zombies?"
+"M::Weirder..."
+"K::Weirder than zombies?"
 *Again Martha nodded.*
-"I’ve had a weird week."
+"M::I’ve had a weird week."
 ~Sudden relief flooded her.~
 ~Adrenaline still pumping and she giggled a bit at the absurdity of it all.~
 ~Her neck was still pulsing, her heart slowing and the world seemed to go by faster.~
 ~Stifling that down she sighed.~
-"A weird fucking week."
+"M::A weird fucking week."
 ~There was a pause...~
 ~Kent continued to wait.~
-"Are you going to...
+"K:Are you going to...
 Fill me in?"
 ~He asked, as he inspected his borrowed gun.~
-"Do you want to tell me why you’re following me..."
-"Well, you broke out of the holding cell. 
+"M::Do you want to tell me why you’re following me..."
+"K::Well, you broke out of the holding cell. 
 No one remembers you, and oh yeah, my friend is dead."
 *Kent looked up at her as she turned to Rossin,*
-"I told you, we shouldn’t have left yet."
+"M::I told you, we shouldn’t have left yet."
 *Rossin shrugged,*
-"We can bring him..."
+"R::We can bring him..."
 ~He trailed off, looking at Kent.~
-"Or maybe not...
+"R::Or maybe not...
 Maybe we should have stayed..."
-"Are you talking to Felix? 
+"K::Are you talking to Felix? 
 Do you have..."
 *He moved his head, peering at her neck.*
-"One of those comms under the skin?"
+"K::One of those comms under the skin?"
 *Rossin went up to Kent, studying him.*
-"No...
+"M::No...
 I’m not, and I don’t"
 ~Martha said. she was pretty sure under the skin comms was for movies, but...~
-"Who are you talking to?"
+"K::Who are you talking to?"
 *Martha lowered her hands slowly, gesturing to his gun*
 *Kent lowered his gun*
-"...Who are you talking to?"
+"K::...Who are you talking to?"
 ~He repeated.~
-"Well, his name’s Rossin, he’s a non-physical person"
+"M::Well, his name’s Rossin, he’s a non-physical person"
 ~Rossin perked up at that.~
-"I like that,"
+"R::I like that,"
 ~Rossin muttered,~
-"Right to the point."
-"Non-physical...
+"R::Right to the point."
+"K::Non-physical...
 So a ghost?"
-"More like a...
+"M::More like a...
 Memory"
-"Isn’t that just a ghost?"
-"He’s not made of ectoplasm...
+"K::Isn’t that just a ghost?"
+"M::He’s not made of ectoplasm...
 Is that something that exists?"
 *She turned to Rossin, who shook his head.*
-"Yeah, that’s not even a thing"
-"So he’s a memory, like...
+"M::Yeah, that’s not even a thing"
+"K::So he’s a memory, like...
 In your head"
 *Martha nodded,*
-"He's like a computer program...
+"M::He's like a computer program...
 Only for brains."
-"The brain isn’t a computer"
+"K::The brain isn’t a computer -"
 ~Kent interjected, but Martha cut him off.~
-"I said like...
+"M::I said like...
 Simile, it’s similar"
 ~Kent didn't smile, he did raise his lips into what could be called a grin.~
 ~Humorless.~ 
-"Okay, so you’re telling me you have a ghost in your brain, sure...
+"K::Okay, so you’re telling me you have a ghost in your brain, sure...
 Whatever - let's run with that.
 Why are you in New York?"
 ~Martha sighed.~
-"Okay - so that’s a longer explanation..."
-"Alright, let’s start with that kid outside - the not-zombie"
-"He was infected with a very bad ghost in his brain."
+"M::Okay - so that’s a longer explanation..."
+"K::Alright, let’s start with that kid outside - the not-zombie"
+"M::He was infected with a very bad ghost in his brain."
 *Rossin walked between the two of them, facing Martha.*
-"This is painful. 
+"R::This is painful. 
 Either just tell him everything or stop using ridiculous metaphors."
-"What else am I supposed to tell him?"
+"M::What else am I supposed to tell him?"
 *She snapped, looking over him to Kent to say:*
-"Sorry...
+"M::Sorry...
 Okay...
 So there are these things called namshubs..."
-"Just let me,"
+"R::Just let me,"
 ~Rossin cut over.~
-"Fine."
+"M::Fine."
 *Martha snapped at him as she flipped the switch.*
+mn:R
 ~Martha unwound from that spinning wheel that traded their spots.~
 *Rossin stretched his, her, neck.*
-"Okay...
+"R::Okay...
 I’m Rossin, nice to meet you: So here is what’s going to happen..."
 *Rossin reached out his hand.*
-"First you’re going to give me that gun."
+"R::First you’re going to give me that gun."
 ~Kent raised an eyebrow.~
-"Why should I?"
+"K::Why should I?"
 ~Rossin, in Martha's body only stood still as a statue.~
-"Because we don’t have much time.
+"R::Because we don’t have much time.
 Martha needs a reasonable explanation for that gunshot. 
 If anyone sees you here...
 You’re literally worse than dead."
 *Rossin stepped forward.*
 ~Kent leveled the gun at him, her, with his finger still off the trigger.~
-"Any time now: Felix, the one with us, is going to come through that elevator... 
+"R::Any time now: Felix, the one with us, is going to come through that elevator... 
 With people in tow...
 And you really don’t want to piss them off by...
 Existing. 
 Your best bet is to hide in an empty room and stay quiet until we all leave.
 Which may be a while thanks to all the dead bodies in the next room over."
-"Bodies...
+"K::Bodies...
 How many"
-"More than you want to know about.
+"R::More than you want to know about.
 Or see.
 Seriously - you are in way over your head here."
 *Rossin took another step forward - Kent pulled back the hammer of the gun.*
-"Don’t get me killed."
+"M::Don’t get me killed."
 ~Martha watched all this from the shadow perspective studying Kent.~
 ~She was sure he was ready to shoot.~
 *Rossin looked directly at Martha.*
-"You’re dead if they find him here, you know that right?"
+"R::You’re dead if they find him here, you know that right?"
 *Rossin turned back to Kent.*
-"I’m not going to hurt you, or shoot you.
+"R::I’m not going to hurt you, or shoot you.
 I’ll...
 We’ll give it back later."
 ~The elevator bell rang down the hallway.~
 *Kent stepped into the room.*
-'Fitting, considering I also borrowed this gun.'
+~He considered it fitting, as he also borrowed this gun.~
 ~Kent made a snap decision:~
 *He unclasped the hammer and handed them the gun.*
-"Fine, where do I meet you...
+"K::Fine, where do I meet you...
 Two?"
-"Central park."
+"R::Central park."
 ~Down the hall came a shout,~
-"Martha? Are you here? Are you hurt?"
-"That’s huge.
+"F::Martha? Are you here? Are you hurt?"
+"K::That’s huge.
 Where in central park?"
 *Kent hissed in a whisper.*
-"South east corner,"
+"R::South east corner,"
 *Rossin replied, turning his head towards the footsteps outside the room.*
-"When?"
+"K::When?"
 ~Kent made his way into a small utility closet.~
-"Later - tonight maybe, just be around there."
+"R::Later - tonight maybe, just be around there."
 *He nodded back at Martha.*
 ~They switched back.~
-"In here!"
+mn:M
+"M::In here!"
 *Martha yelled.*
 *Felix popped his head through the broken glass.*
-"Oh...
+"F::Oh...
 YOU shot him?"
 *He looked back toward the hallway.*
-"What happened?"
+"F::What happened?"
 ~Martha didn’t even have to lie...~
 ~Just omit the truth,~
-"He ran at me on all fours...
+"M::He ran at me on all fours...
 There’s a bunch of dead people in the other room."
-"Which room?"
+"F::Which room?"
 *She walked out and led him further down the hall.*
-"I heard a scratching, and well..."
+"M::I heard a scratching, and well..."
 *She opened the door.*
 ~Felix’s face froze.~
 *He backed away, and closed the door himself.*
-"We should leave, right the fuck now."
+"F::We should leave, right the fuck now."
 *He made is way back toward the elevator, *
-"Come on!"
+"F::Come on!"
 ~He yelled.~
-"What’s going on?"
+"M::What’s going on?"
 *Felix pressed the button on the elevator panel: down.*
 ~At his feet was the person Kent shot.~
 *He turned him over, looking at his forehead.*
-"This is bad..."
-~He said, clearly confirming something.~
-"Felix - what’s going on?"
-~Martha repeated.~
+"F::This is bad..."
+"M::Felix - what’s going on?"
 *He turned to her.*
-"This is death...
+"F::This is death...
 Not just a little death: this...
 When we reconstructed your neighbor - he was still mostly whole.
 One collection tightly nestled in the link...
 This..."
 *He pointed at the scratched out and damaged symbol on the corpse’s forehead.*
-"This is like a blender - everyone’s memories of them: evaporated, like that"
+"F::This is like a blender - everyone’s memories of them: evaporated, like that"
 *He snapped his fingers.*
-"Gone forever - completely mixed in the ocean...
+"F::Gone forever - completely mixed in the ocean...
 You can’t fix that."
 *The elevator door opened.*
 *They stepped inside.*
 ~After a moment’s pause.~
-"The undernet?"
+"M::The undernet?"
 ~Martha considered the word.~
 *Felix turned to her, then faced forward toward the elevator doors.*
-"People that think they’re Awakened - a honeypot for those that..."
+"F::People that think they’re Awakened - a honeypot for those that..."
 *He glanced back at her,*
-"Develop this awareness on their own.
+"F::Develop this awareness on their own.
 They meet on the internet - we keep track of them...
 They don't actually know how to do anything, or can do anything...
 Or recognize things...
 But they think they do."
 *Rossin paced back and forth... *
-"This isn't good.
+"R::This isn't good.
 He's considering if you’re with them, infiltrating"
 *Rossin continued to pace and Martha fiddled around with the gun.*
 *Locating and making sure the safety was on, she tucking it behind her pants.*
-"So what now?"
+"M::So what now?"
 *She asked, tucking her shirt over the gun into her pants.*
 ~Felix studied her, then said.~
-"We’re going to Flanagan’s home, to get some answers..."
+"F::We’re going to Flanagan’s home, to get some answers..."
 ~There as an elevator ding, and they both felt the gravity suddenly shift.~
-"He’s the one that made the undernet"
+"F::He’s the one that made the undernet"
 *The elevator doors opened to the downstairs lobby and they walked out.*
 }
 ## [restructuring](restructuring.md)

@@ -1,7 +1,7 @@
 # RESTRUCTURING
 
 {
-m:M
+mn:M
 "M::If Flanagan made the undernet then isn't he in charge of them? "
 ~The cab driver was excellent at weaving through traffic.~
 ~His face frozen, his eyes though...~
@@ -56,65 +56,65 @@ Just about..."
 }
 {
 ~Fluorescent lights and floors of concrete lower they reached the bottom.~
-"You don't have any weapons on you, right - leave them in the car otherwise."
+"F::You don't have any weapons on you, right - leave them in the car otherwise."
 ~Martha was about to protest, but felt the weight of the gun at her side.~
 ~She slid it out and dropped it under the seat, giving it a little kick also.~
 *Felix nodded, and opened the door.*
 *He held out her hand toward her, as she slid herself across the seat.*
 ~The car was parked blocking some cars in on Martha's side.~
 ~To her right was the entrance to a little cave alcove containing elevators.~
-"Don't look away from the security guard, blinking is fine...
+"F::Don't look away from the security guard, blinking is fine...
 But keep your eyes on him."
 *Martha tilted her head but nodded.*
 *They approached the elevators.*
-"He's really serious about that, by the way... 
+"R::He's really serious about that, by the way... 
 Don't look away, not even internally to write on the board."
 `'Why?'`
 ~Martha noticed the color of that screen change~
 `'Why is that a different color now?'`
-"That?"
+"M::That?"
 `'This screen.'`
-"That's you thinking at me versus you talking at me...
+"R::That's you thinking at me versus you talking at me...
 Oh, and other why is because then we die."
 ~Inside was a single security guard, sitting in a folding chair.~
-"His eyes, Martha - keep looking at his eyes."
+"R::His eyes, Martha - keep looking at his eyes."
 *Rossin said, pointing at the security guard.*
 ~She did, although he was not looking at her.~
 ~He had his feet up on another folding chair, with a newspaper in his hands.~
-"Hello, we're here to see Flanagan."
+"F::Hello, we're here to see Flanagan."
 *The security guard folded his newspaper, and took a small sip of coffee.*
 *He placed the cup down on a third fold up chair and sighed.*
-"Name."
-"Felix"
+"SG::Name."
+"F::Felix"
 ~A small pause.~
 *Felix tapped his foot against hers.*
-"Martha."
+"M::Martha."
 ~Another small pause.~
 ~Martha noticed small twitches in the guards eyes, his eyes dilating wildly.~
-"Go."
+"SG::Go."
 *He picked up his coffee again and took another sip.*
 *Felix stepped backwards toward the elevator behind him and pressed the button.*
 *The security guard put down his cup and tossed Felix the key from his pocket.*
 *Felix nodded, as he caught it.*
 ~The elevator door gave a ding and the light above lit.~
-"Martha!"
-*Felix called.*
-"Backwards Martha - keep you're eyes on the guard - long as you can see him."
-*Rossin said.*
-*Martha stepped backwards towards Felix.*
+"F::Martha!"
+~She had started to turn her head~
+"R::Backwards Martha - keep you're eyes on the guard - long as you can see him."
+*Martha straightened her neck and stepped backwards towards Felix.*
 *The doors swung open, Felix and Martha stepped inside.*
 ~Moments later, when the door was closed, and they're eyes could move again:~
-"What happened to us being gods?"
-"Some gods are stronger than others."
+"M::What happened to us being gods?"
+"F::Some gods are stronger than others."
 *He pressed the key into a slot and turned.*
 ~The elevator made a clanking noise, and fell downward, lurching Martha's lunch.~
 *She held on to the side railing across from Felix who was doing the same.*
 ~The elevator slowed over time, and eventually came to a gentle rest.~
 ~And above them through the speakers emitted an annoyingly chirpy ding.~
 *The doors opened, and Felix and Martha walked out.*
-
 }
-{%%%%}
+{%%%%
+mn:K
+}
 {
 ~Kent sat alone on a park bench.~
 *He glanced at his watch between chews of his bagel.*
@@ -140,11 +140,11 @@ Oh, and other why is because then we die."
 ~Leaving the man stupefied.~
 *Kent navigated the river of cars - which was gridlocked, and reached the old man.*
 ~The man shook his head - like he was trying to get water out of his ear.~
-"Can you tell me anything about that woman?"
+"K::Can you tell me anything about that woman?"
 *Kent approached and flashed his badge*
 ~It was a quick flash - he wasn't NYPD.~
 ~The man tilted his head slightly~
-"What woman?"
+"SM::What woman?"
 *Kent sighed and brushed past him - rounding the corner where she had turned.*
 ~He was in an alley - the woman, she wore a red cardigan, was at a metal door at the end.~
 'Was she always wearing a red cardigan?'
@@ -177,19 +177,19 @@ Oh, and other why is because then we die."
 ~Surrounding them were chalkboards, covered in writing~
 ~He was too far away to make out the writing.~
 ~He felt a hand on his shoulder.~
-"First time?"
+"AG::First time?"
 ~Kent turned his head to see another Woman right behind him.~
 *He nodded.*
 'Okay - go with the flow - act like you belong...'
 'Stay calm: do not freak out.'
-"Come."
+"AG::Come."
 *She placed her hand on Kent's back.*
-"How'd you find us?"
+"AG::How'd you find us?"
 'Fuck - 2 seconds in and already panicking.'
 '37 hours awake?'
 'Is that right?'
 'She is looking at you - answer: anything!'
-"Oh, you know: saw some stuff... 
+"K::Oh, you know: saw some stuff... 
 Read some stuff...
 Put two and two together..."
 'That sounded convincing, right?'
@@ -197,16 +197,26 @@ Put two and two together..."
 ~Around him was a stochastic wave of interest...~
 ~Expressed as a void, a gap in conversation...~ 
 ~A subtle look, often followed by an 'anyway'~
-"We start in a few moments, I'll let you get settled."
+"AG::We start in a few moments, I'll let you get settled."
 *She herself walked to the other side of the room.*
 *And then distributed paper among those sitting.*
 ~One paper reached Kent's hands as he passed the rest over.~
-"Hi, I'm Robert."
+"RG::Hi, I'm Robert."
 ~A voice came from his left.~
-"Kent."
+"K::Kent."
 ~Kent distractedly replied - reading though the paper.~
 ~Then the writing on the boards.~
 `{dime:: link of paper propaganda of the undernet}`
+*Kent looked around*
+~Half way though he had to force him self to keep scanning.~
+'That man...'
+~Tucked away in the corner of the room, was a shaven bald man~
+~Perching on a cabinet - like an owl.~
+*Kent rescanned the room.*
+~Ahead of him a that woman came out with a platter of syringes~
+'ah fuck.
+in too deep kent, 2 minutes in and in too deep...
+this shit escelates way too quickly'
 }
 {%%%%}
 {
