@@ -6,7 +6,7 @@ const mdx_parser=(text)=>{
     if(data.length<100) return null;
     const blocks = seprate_blocks(data);
     console.log("blocks length",blocks.length);
-    let blockstr=`<block style="background-color:inherit">`
+    let blockstr=`<block style="background-color:inherit; width:99vw;display:flex;flex-flow:column nowrap;align-items:start;margin:auto 0 auto 0">`
     for(let i=0;i<blocks.length;i++){
         blockstr+=mdx_block_parser(blocks[i],defaultnarrator)
     }
@@ -60,10 +60,15 @@ const mdx_block_parser = (block,dfn)=>{
     if(regex_settings!=null &&regex_settings.length!=0){
         console.log("hit and changing",regex_settings[0]);
         const key=regex_settings[0].slice(regex_settings[0].indexOf(":")+1);
-        console.log(key,"is key");
-        console.log(speakers,"is speakers");;
-        const current = speakers[key];
-
+        let current;
+        if(key.includes("__")){
+            console.log("key has rkey")
+            const rkey = key.slice(0,key.indexOf("__"));
+            console.log("rkey",rkey);
+            current = speakers["__"](rkey);
+        }else{
+            current = speakers[key];
+        }
         console.log(current,"is going to be set to current",key);
         dfn.current=current;
         settings=current;
@@ -81,7 +86,7 @@ const mdx_block_parser = (block,dfn)=>{
     tw.forEach(r=>ref=ref.replace(r,""));
     const scp=(txt,nlflag)=>{
         const text_div =(txt,mainNB,speaker)=> `
-            <div style="${mainNB?'text-align:left; background-color:#248bf5; margin: 0 auto 0 0;':'text-align:right; background-color:e5e5ea; margin: 0 0 0 auto;'} border:solid;padding:3; border-radius:35px; width:fit-content;min-width:20vw !important;max-width:60vw;  ">
+            <div style="${mainNB?'text-align:left; background-color:#248bf5; margin: 0 auto 0 0;':'text-align:right; background-color:e5e5ea; margin: 0 0 0 auto;'} border:solid;padding:3; border-radius:35px; width:fit-content;min-width:20vw !important;max-width:85vw;  ">
                 <div style="font-size:2.5vh; padding-left:25;padding-right:25;">${speaker}</div>
                 <div style="padding-${mainNB?'left':'right'}: 15">${txt}</div>
                 </div>`
@@ -91,20 +96,26 @@ const mdx_block_parser = (block,dfn)=>{
                 console.log(speakerregex,"is this things")
                 if(speakerregex){
                     console.log("speaker hit!");
-                    const key = speakerregex[0].slice(0,speakerregex.indexOf(":")-1);
+                    let key = speakerregex[0].slice(0,speakerregex.indexOf(":")-1);
+                    let speaker;
                     console.log(key,"is key");
-                    const speaker = speakers[key];
-                    const mainFlag = speaker== defaultnarrator.current;
+                    if(key.includes("__")){
+                        const rkey = key.slice(0,key.indexOf("__"));
+                        speaker = speakers["__"](rkey);
+                    }else{
+                        speaker = speakers[key];
+                    }
+                     const mainFlag = speaker== defaultnarrator.current;
                     console.log("mainf",mainFlag,speaker,defaultnarrator.current);
                     const dialouge = txt[0]+txt.slice(txt.indexOf("::")+2)
                     const d = `<span style="background-color:inherit; color:#df80af">${dialouge}</span>${nlflag?`<br/>`:''}`
                     return text_div(d,mainFlag,speaker);
                 }
-                return `<span style="background-color:inherit; color:#af0000">${txt}</span>${nlflag?`<br/>`:''}`;
+                return `<span style="background-color:inherit; color:#af1fa0">${txt}</span>${nlflag?`<br/>`:''}`;
             case "\'": return `<span style="background-color:inherit; color:#af0000">${txt}</span>${nlflag?`<br/>`:''}`;
             case "\~": return `<span style="background-color:inherit; color:#afaf00">${txt}</span>${nlflag?`<br/>`:''}`;
             case "\*": return `<span style="background-color:inherit; color:#44aaff">${txt}</span>${nlflag?`<br/>`:''}`;
-            case "\`": return `<pre style="background-color:#4f4f4f;  color:#6a6a6a">${txt}</pre>`;
+            case "\`": return `<code style="background-color:#4f4f4f;  color:#6a6a6a;";>${txt}</code>`;
            
         }
     }
@@ -156,7 +167,7 @@ const mdx_block_parser = (block,dfn)=>{
         //console.log(x,"is x");
         return {
             o:x.o,
-            t:`<pre style="background-color:#4f4f4f;"><span style="background-color:inherit;color:#00ff00">${x.t}</span></pre>`
+            t:`<pre style="background-color:#4f4f4f; width:100%; font-size:65%; white-space: pre-wrap;word-wrap: break-word;"><span style="background-color:inherit;color:#00ff00">${x.t}</span></pre>`
         }
     })
     const transforms = [...transforms_data,...transforms_words].reduce((acc,t)=>{
@@ -171,7 +182,7 @@ const mdx_block_parser = (block,dfn)=>{
     }
     })
     
-   // console.log("transofmred block,",block);
+   // console.log("transformed block,",block);
     block=block.replaceAll(/([\<][\p][\>][\<][\/][\p][\>])/gm, "")
     block=block.replaceAll(/([\^]+)/gm,`<span style="background-color:#fa00a0;color:#000000">$1</span>`)
     block=block.replaceAll(/([%][%][%][%])/gm,`<br /><div style="text-align: center;color:ff7f3f">%%%%</div><br /><br />`);

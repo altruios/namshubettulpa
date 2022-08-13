@@ -12,13 +12,14 @@ const speaker_map={
     J:"Juan Long",
     O:"Ozmind Yammin",
     AT:"Al-tok",
-    R1:"Lenny of the Relux",
-    R2:"Jochek of the Relux",
     L:"Lenny",
     J:"Jochek",
     "?":"unknown",
     SM:"Male Voice",
     SG:"Security Guard",
+    __:function(key){
+        return this[key]+" of the Relux"
+    }
 }
 
 module.exports = speaker_map
