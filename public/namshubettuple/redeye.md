@@ -207,11 +207,11 @@ mn:K
 ~Kent watched the evening's flight unfold.~
 ~He had seen what was on Felix's phone...~
 ~And he played along - following literally everyone else's lead...~
-'Where they were all doing the same?'
+'Why were they all doing the same thing?'
 'Was this a case of a mass confidence trick?'
 'No - this was something else...'
 ~Everyone's left eye had twitched and then they donned a blank stare.~
-~When it was his turn he did the same - he was sure the other's weren't faking.~
+~When it was his turn he faked the same - he was sure the other's weren't faking.~
 }
 {
 ~Felix - he learned his name - was an ass.~
@@ -248,7 +248,7 @@ mn:K
 *He made his way down the aisle.*
 'Pretend they are normal - talking with each other.'
 *He opened the door to the bathroom.*
-~Unsurprisingly the staff area in the back were also completely still.~
+~Unsurprisingly the staff in the back were also completely still.~
 *He shuddered and closed the door.*
 *While washing his hands his holster sagged just a little, he had a thought.*
 }
