@@ -17,6 +17,7 @@ const speaker_map={
     "?":"unknown",
     SM:"Male Voice",
     SG:"Security Guard",
+    T:"Tom Garland",
     __:function(key){
         return this[key]+" of the Relux"
     }
