@@ -17,7 +17,7 @@ mn:M
 ~Side doors, broken off their hinges covered the floor.~
 *She descended into the red.*
 ~The end of the tunnel was blocked off.~
-~Jammed shut by a door she couldn’t move.~
+~Jammed shut by a door she couldn't move.~
 ~To her right was a service hatch.~
 ~It was half way down and half her size...~
 ~A crawlspace for the electrics.~
@@ -58,14 +58,14 @@ mn:M
 *The rodent scampered away from her.*
 *It changed direction back towards her as a figure slammed into the threshold.*
 *Clawing at it, trying to get through, though it was too big.*
-~She couldn’t make it out...~
+~She couldn't make it out...~
 ~But it had a long row of teeth that she could see...~
 ~Reflecting purely the red light.~
 ~Its head could not fit through the opening.~
-~And it’s tiny claw couldn’t swipe far enough to reach her.~
+~And it's tiny claw couldn't swipe far enough to reach her.~
 *It opened its mouth.*
 *And another set of teeth reached out with an appendage in its mouth.*
-~She stared at it, it couldn’t reach her and she could only watch.~
+~She stared at it, it couldn't reach her and she could only watch.~
 *The rodent by her side was terrified.*
 ~The only way out now was just above the creature - the way she had come.~
 'Where had she seen this before?'
@@ -101,18 +101,18 @@ Then think of the last place I sent you"
 ~The words came to her - remembering that movie.~
 *Alacira nodded, moving back to the center of the ship, and Martha followed.*
 "A::That thing...
-It’s not what you see, it’s just wearing a costume. 
-Don’t make assumptions about what’s underneath based on what it wears. 
+It's not what you see, it's just wearing a costume. 
+Don't make assumptions about what's underneath based on what it wears. 
 Where to gerald?"
-*Gerald stumbled about - shifting the horn and clipboard’s place.*
+*Gerald stumbled about - shifting the horn and clipboard's place.*
 *He lifted a few pages,*
 "G::13,i4...
-You’ll have a navigator this time, make sure to stay with him - alright?"
+You'll have a navigator this time, make sure to stay with him - alright?"
 ~They reached the elevator at the end of the narrow hall.~
 "M::Navigator?"
 "A::Grab the railing"
 *Alacira punched in the numbers on the panel.*
-"A::He’s waiting at the entrance"
+"A::He's waiting at the entrance"
 *Gerald shuffed the horn between his legs.*
 *He tucked in the clipboard back under his armpit as they ascended.*
 *He placed his hand on the railing.*
@@ -128,10 +128,10 @@ You’ll have a navigator this time, make sure to stay with him - alright?"
 ~Almost.~
 *He caught it with his face first, then his free hand.*
 "M::What was that?"
-"G::We had to rotate a bit, that’s what the railing is for."
+"G::We had to rotate a bit, that's what the railing is for."
 "A::Do as I say, when I say...
 Get used to that...
-We don’t have time to explain everything to you...
+We don't have time to explain everything to you...
 Just what you need to know"
 *The doors opened.*
 }
@@ -140,15 +140,15 @@ Just what you need to know"
 ~But this one was lined with snow globes: glowing with a faint blue static.~
 ~In front of them - to the left, was a man she could have sworn she recognized.~
 ~A tall thin man in an overcoat - rubbing the back of his head.~
-~She just couldn’t place him.~
+~She just couldn't place him.~
 "M::The navigator?"
 *He bowed.*
-"G::He doesn’t speak,"
+"G::He doesn't speak,"
 *Gerald brushed path both of them.*
 }
 {
 ~He stopped at a single dark and empty snow globe.~
-*He placed the horn on top of it and emptied the jar’s contents into the horn.*
+*He placed the horn on top of it and emptied the jar's contents into the horn.*
 ~Below the snow globe began to glow.~
 ~Looking inside she could see the monastery as it had been just before the fire.~
 "G::These are...
@@ -158,19 +158,17 @@ Some of them the last anyone has had"
 {
 "A::Gerald - which number?"
 "G::Right,"
-~He glanced back at his clipboard,~
+*He glanced back at his clipboard.*
 "G::42.
-It’s on our right."
-~They walked on, down that silent hallway.~
+It's on our right."
 ~The only lights that flickering blue from the snow globes.~
 "M::I swear I know you."
 ~Martha studied the tall man.~
 *He looked at her, shrugged, then looked at alacira quizzically.*
 "G::I doubt it - unless you know many coma patients?"
 *Martha shook her head - still staring at the navigator.*
-~He glanced at her, not fully comfortable with her gaze.~
 ~It was on the tip of her brain.~
-"G::We’re here."
+"G::We're here."
 }
 {
 ~Looking at the gold plate inlaid below Martha saw it read 42.~
@@ -179,23 +177,23 @@ It’s on our right."
 "M::What am I looking for - another book?"
 *Gerald shook his head,*
 "G::This one might be harder to find...
-We don’t exactly know this time.
-This isn’t going to be like your last time...
+We don't exactly know this time.
+This isn't going to be like your last time...
 This is far less solid.
-It’s a dream...
+It's a dream...
 His dream actually...
 So out of place things...
 Are less out of place there..."
 *Gerald gestured toward the navigator who straightened his tie,*
-"A::That’s why he’s going with you."
+"A::That's why he's going with you."
 ~Captain alacira studied at her pocket watch.~
 ~Martha heard a small crash in the distance, like thunder only deeper.~
-"G::That’s the first threshold - we can’t keep her here much longer."
+"G::That's the first threshold - we can't keep her here much longer."
 *Gerald nodded.*
 }
 {
 "A::If you get in trouble: Kent here will take you back,"
-*Gerald took her hand and placed it in Kent’s.*
+*Gerald took her hand and placed it in Kent's.*
 *And before Martha could speak - he placed both on the snow globe.*
 "G::Good luck,"
 ~Was the last she heard before a feeling of cold ice permeated her skin.~
@@ -206,9 +204,9 @@ mn:K
 
 }
 {
-~Kent watched the evening’s flight unfold.~
-~He had seen what was on Felix’s phone...~
-~And he played along - following literally everyone else’s lead...~
+~Kent watched the evening's flight unfold.~
+~He had seen what was on Felix's phone...~
+~And he played along - following literally everyone else's lead...~
 'Where they were all doing the same?'
 'Was this a case of a mass confidence trick?'
 'No - this was something else...'
@@ -230,7 +228,7 @@ mn:K
 'Too late for that.'
 }
 {
-~When Felix wasn’t looking in his direction: He did an old army trick.~
+~When Felix wasn't looking in his direction: He did an old army trick.~
 *He shifted his leg over the other.*
 *Quietly and carefully he squeezed them together.*
 ~It barely helped.~
@@ -268,8 +266,8 @@ mn:K
 ~It was underneath the jacket of the man in the window seat about half way up.~
 "K::Sorry about this,"
 *He unbuttoned the sky marshal's jacket and took the glock.*
-"K::I’ll send it back..."
-*Kent awkwardly reached around and felt at the man’s ass.*
+"K::I'll send it back..."
+*Kent awkwardly reached around and felt at the man's ass.*
 ~There was no wallet.~
 *Checking his coat next Kent found a billfold in his inner breast pocket.*
 *He snapped a picture of the license with his phone then placed it back.*
@@ -285,7 +283,8 @@ mn:K
 }
 {
 ~He was pretty sure they had coffee...~
-~Or at least the ability to make coffee in the back of the plane.~
+~Or at least the ability to make coffee.~
+'somewhere in the back of the plane.'
 }
 {
 %%%%
@@ -304,8 +303,8 @@ Are you following me?"
 }
 {
 *He raised his hands in a confused gesture.*
-*And he mimed that he wasn’t - that he just met her.*
-~He didn’t speak - not with words...~
+*And he mimed that he wasn't - that he just met her.*
+~He didn't speak - not with words...~
 ~But his hands, his whole body even, were excellent at conveying meaning...~
 ~A regular charlie chaplin.~
 *The floor below them twisted.*
@@ -323,49 +322,56 @@ Are you following me?"
 *He mimed out his death.*
 *Then stepped over the ledge.*
 *He twisted strangely in the air to stand on the edge of the giant gear.*
-~Rotated 90 degrees from Martha's perspective.~
+~He was on the teeth of the gear - perpendicular to Martha.~
 *Martha went to the edge of the gear.*
-*Kent walking slowly back toward where the teeth met - waiting for her.*
+*The navigator walking slowly back toward where the teeth met - waiting for her.*
 'Here goes nothing,'
-*She thought, following Kent’s leap over the edge.*
+*She thought, following Kent's leap over the edge.*
 ~She felt herself falling forward, not downward.~
+'Downward is forward'
 ~And soon she found herself on top of the teeth...~
-~And then just as quickly on the underside of the gear.~
+'Shit'
+~She had too much momentum, and then was on the underside of the gear.~
 }
 {
 *Kent held out his hand over the side.*
 *He helped her slide back onto the teeth.*
-~The gear jolted again, backwards toward interlocking teeth.~
-*She lost her balance and fell forward.*
-~Her feet were just under where the gears met...~
-~Not crushed, but by just the barest amount.~
-~She had to wait for the gears to go forward again before pulling them out.~
-*When the teeth rotated enough she threw herself up with Kent’s helping hand.*
+~The gear jolted again, backwards toward a set of interlocking teeth.~
+*She lost her balance and fell backward.*
+*She landed on the face of the gear* 
+~Her leg was longer than the width of the gear's teeth~
+~Her foot locked behind two meshed gears~
+~Her leg wasn't crushed, but only just.~
+~She had to wait for the gears to go forward again before pulling her leg out.~
+*When the teeth rotated enough she threw herself up with Kent's helping hand.*
 *Kent dusted himself off.*
-*With a more urgent tilt of the head he mined: hurry up...*
-~That’s only going to get worse.~
+*With a more urgent tilt of the head he mined: 'hurry up...'*
+~That backwards slippage was only going to get worse.~
 }
 {
 ~A part of Martha was amazed at how well he communicated - without using words.~
 *They made their way along the edge.*
 ~Until they met another gear on the other side...~
 ~This one mostly facing to their right.~
-*With a skip and a hop Kent jumped just so - and landed on that gear’s teeth.*
+*With a skip and a hop Kent jumped just so - and landed on that gear's teeth.*
 *With his hand out and some prep time Martha made the jump.*
+'Not so hard this time.'
 *When she landed Kent more urgently ran - Martha in tow.*
 }
 {
 ~A moment later the gears skipped backwards again.~
 ~And this time Martha saw a ripple in the other gears around her.~
 ~The wavelike effect gave her some warning.~
-"M::What’s causing that?"
-*Kent only mimed things breaking down, breaking apart.*
+"M::What's causing that?"
+*Kent only mimed 'things breaking down, breaking apart'.*
 *They made their way through the gears.*
 ~Each slip getting more jarring.~
 ~Each time the gears fell further back.~
-~He did say it would get worse.~
+'He did say it would get worse.'
 }
 {
+~Martha could see stone walls fading in from the void~
+"M::Where exactly are we?"
 ~One of the gears to her left started flying toward her - twisting in the air.~
 *Kent jumped at her.*
 *He knocked her to the backside of the gear...*
@@ -383,45 +389,49 @@ Are you following me?"
 ~They landed in an awkward roll, the wind knocked out of Martha.~
 ~She looked back to where they had just been only to see darkness.~
 ~She heard loud clattering from below...~
-~Which moved to her left now, but she was sure that was down at this point.~
+'Okay, that is just great. 
+why is it slipping like that?'
+~Which echoed in her left ear, but she was sure that was down at this point.~
+'Or maybe that way is up?'
+~She was lost - they were generally heading up....~
 *Kent got up, and helped her to her feet - inspecting her for any damage.*
 ~He mimed looking at a watch and tilted his head more urgently.~
 }
 {
-*He ran - looking back as Martha started forward to match his pace.*
+*He ran - looking back as Martha jolted forward to match his pace.*
 ~She felt something - a dread she remembered from a distant dream.~
 ~!A prickling on the back of the neck.!~
 ~Not wanting to turn around, not wanting to face it she caught up to Kent.~
-~He had just jumped onto another gear’s teeth.~
-"M::I think it’s here,"
+~He had just jumped onto another gear's teeth.~
+"M::I think it's here,"
 *Kent nodded, pointed to his eye, then behind her.*
 *Then waved her forward.*
 *She jumped and landed where he was.*
 ~They were running now and Martha noticed the wave of gears slipping.~
 *She stopped while Kent did not.*
+"M::Wait!"
 }
 {
 *He fell sideways, falling onto the flat of the gear and kept sliding.*
-*He grabbed hold of the thin metal rod at the center of the gear.*
+*He grabbed the thin metal rod at the center of the gear.*
 *His hand jerked taught be it kept him from going over the edge.*
 ~He clung to that twisting rod, just taking a moment to breathe.~
 *He Looked up at Martha - then down below him...*
 *He started inching his way toward a gear further up that pole.*
-~It was one  he could land on.~
-"M::I’ll come get you!"
+~he could drop down, which was sideways to Martha, and he could land on it.~
+"M::I'll come get you!"
 *He raised one hand to stop her.*
 *And Martha stopped in her tracks.*
 ~She watched him make his way to the safe landing.~
 }
 {
-`['Why didn’t he twist onto the face?
-She wondered - was he in danger?', 
-'Oh shit, there’s that thing']`
+'Oh shit, that thing is right there!'
 ~Below Kent was a dark figure with a tail.~
-*It crawled on all fours towards them - the alien...*
+*It crawled on all fours towards them*
+~The alien.~
 'No...'
 ~She reminded herself.~
-'That’s only a mask.'
+'Only a mask.'
 'A very convincing mask...'
 *She shuddered.*
 ~She hated that movie...~
@@ -430,21 +440,21 @@ She wondered - was he in danger?',
 }
 {
 *He brushed himself off.*
-"M::Keep going, it’s behind you"
+"M::Keep going, it's behind you"
 *Kent looked behind him - seeing the thing only a few gears away.*
 *He rushed toward the side.*
 *Twisting onto the teeth, and making his way back toward her.*
 ~Martha could only watch.~
-~The alien was closing in - he wasn’t going to make it.~
+~The alien was closing in - he wasn't going to make it.~
 ~She saw the ripple of gears around her -~
 "M::Ripple!"
 *Kent grabbed hold on the gear.*
 }
 {
 ~The thing was right behind him.~
-*The gear flung back and the alien’s tail caught in the gears behind it.*
+*The gear flung back and the alien's tail caught in the gears behind it.*
 *It cried out in a shrieking hiss.*
-~The metal itself hissed and fumed loudly as the acid poured down over it.~
+~The metal itself hissed and fumed loudly as the acid ate away.~
 *Kent got to his feet and ran.*
 *The gears slowly released the alien just as Kent rushed up to her.*
 ~Carefully he moved past her - and took the lead again.~
@@ -453,9 +463,12 @@ She wondered - was he in danger?',
 ~The tail of the creature leaked acid.~
 ~Smoke rose up each time it dropped onto the gears.~
 ~Martha noticed another ripple.~
+'Okay - that one was way faster...'
 *She shouted and they both took cover.*
+'are they random...'
 ~The alien was thrown off the same way Kent had been a moment earlier.~
 ~It didn't follow them.~
+'Or is it getting faster?'
 *Instead it started climbing back up the face of this gear.*
 }
 {
@@ -468,11 +481,16 @@ She wondered - was he in danger?',
 *Then he took off his shirt.*
 *He wrapped it around the rod, then tied it around his wrists.*
 *He sat down with his legs crossed around the pillar and hugged it.*
-*Suddenly pulled against it: he started climbing.*
-*She did the same with the jacket.*
+'Pole dancing kent, navigator of dreams.'
+*Suddenly pulled away from the pole and towards the edge of the gear*
+*He started climbing.*
+'Follow the leader.'
+*She threw the jacket around the pole*
+*Then tied it to her wrists*
 ~The sleeves just long enough to tie in a knot around her arms.~
 *She crossed her legs around the pillar and made her way up.*
 ~Half way to the top her gravity shifted.~
+~Not waiting for the gravity to change let her close some distance to the navigator.~
 }
 {
 *The alien - the thing, landed on the gear where they just were.*
@@ -480,21 +498,27 @@ She wondered - was he in danger?',
 ~She felt the pole she was climbing spin violently.~
 ~The gear below was loose.~
 ~It gave way into the darkness just as a claw grabbed the rod.~
-~It’s gravity had not changed and it was struggling to hold on.~
+~It's gravity had not changed and it was struggling to hold on.~
 ~To her right she saw a tooth from the gear above her fall.~
-~It grazed the creature’s claw.~
-~Spilling acid blood that dripped onto the metal rod.~
+~A think chunk of metal the size of her forearm~
+~It grazed the creature's claw.~
+~Spilling acid blood that splattered onto the metal rod.~
 ~As it climbed, pieces of the metal dripped away.~
-~Eventually leaving only it’s two front claws any purchase to keep climbing.~
+~Leaving only it's two front claws any purchase to keep climbing.~
 *Martha kept moving as she looked down.*
-~Slowly she was growing the distance between them and the thing below.~
 ~They reached the top gear, sliding onto it.~
 }
 {
-*Kent motioned to follow and he and Martha wrapped around the edge to the top.*
-~A small marble laid at the center, faintly glowing.~
-~A cat’s eye which caught the light.~
-*It spun in a small recess at the center of the gear.*
+*They landed on the underside of the gear.*
+*Martha began to stand, Kent slapped the gear.*
+'Okay, staying low.'
+*Kent motioned to follow and he and Martha rolled to the edge of the gear, and then over it*
+~Kent was standing after a casual flourish~
+~Martha stood up, inspecting the top of the gear~
+~Empty besides the shiny thing in the center.~
+~A small marble laid at a small hollow rotating around the center. ~
+~It faintly glowed.~
+~A cat's eye which caught the light.~
 ~It glowed brighter and the gear began to spin.~
 *Martha was spun nearly to the edge.*
 }
@@ -502,9 +526,9 @@ She wondered - was he in danger?',
 ~At her foot another tooth fell - she looked around.~
 ~Only three were left - scattered across the perimeter.~
 *She rushed to the center and grabbed the marble.*
-~That’s what she was here for - that’s the only thing that didn’t fit.~
-~Inspecting it she couldn’t find anything out of the ordinary with it.~
-~Other than it’s glow.~
+~That's what she was here for - that's the only thing that didn't fit.~
+~Inspecting it she couldn't find anything out of the ordinary with it.~
+~Other than it's glow.~
 *She rolled it in her hand and there...*
 ~That same kind of symbol.~
 ~Different but undulating and twisting the same way as the one in the book.~
@@ -523,10 +547,10 @@ She wondered - was he in danger?',
 "M::Quickly!"
 *He complied and she watched it roll.*
 ~The shape inside.~
-~Barely even inside twisted and morphed through a repeating pattern.~
+~Barely even inside it twisted and morphed through a repeating pattern.~
 ~A pattern that burned in her brain.~
 ~It was circular, and repeated itself.~
-~A story she didn’t understand looped over and over...~
+~A story she didn't understand looped over and over...~
 ~As old as time itself.~
 *She caught the marble, rushing back toward the center.*
 ~In front of her she saw a claw reach over the edge of the gear.~
@@ -535,16 +559,20 @@ She wondered - was he in danger?',
 *She nodded her head to right behind her.*
 *Kent looked around - reached out his hand.*
 *He then nodded his head toward the edge of the gear.*
-*Another lurching threw them both towards the creature...*
-~Not directly at it: off to it’s side.~
+*Another lurching threw them both near the creature...*
+~Not directly at it: off to it's side.~
 *They rolled over the edge and felt gravity shift.*
 *They landed on the bear gear - where teeth used to be.*
 ~Martha saw themselves reflected in creature's eyes.~
 ~It was so close.~
-*Both of them rolled back onto the top of the gear, almost out of it’s reach.*
-*It grabbed Kent’s face - with the cut hand.*
+*Both of them rolled back onto the bottom of the gear, almost out of it's reach.*
+*It grabbed Kent's face - with the cut hand.*
 *Acid poured onto him and he let out a silent scream.*
+*He kicked at the alien and braced his back against the gear.*
+*It's gravity shifted sideways, and the creature narrowly missed Martha.*
 *She pulled him away.*
+~She heard a screech from across the gear.~
+~A sizzling of metal, she did not look.~
 *Laying him down she dabbed at his face with the only rag she had.*
 ~The jacket she still had tied to her arms.~
 ~Most of it was gone now but the damage done.~
@@ -555,11 +583,22 @@ She wondered - was he in danger?',
 ~It too hissed and steamed and gurgled.~
 ~Like his face.~
 ~He wasn't moving anymore - but he was still breathing.~
-~The creature was climbing up now.~
-*She dragged Kent over to the other side of the small gear.*
-*She felt the lurch again and she jumped with all her strength.*
+~The creature was climbing up now, across the side of the gear.~
+*She dragged Kent over the edge to the top of the top gear.*
+*She dragged him in the center*
+~She waited until she saw the claw reach over~
+*She felt the lurch again, adjusted herself and kent to be swung towards the side*
+'Just hold on there, back the way we came'
+~He was rasping a breath~
+"M::Can you get us out of here now?"
+~Martha looked back at that thing chasing her, still coming toward her.~
+~She felt a small adjustment on her side, a movement~
+'Where had that...'
+*She looked down*
+~Kent's hand was curled into a pointing finger - pointing down.~
+*and she jumped with all her strength.*
 ~With Kent - the navigator - in tow.~
-*She flew over the edge just as the alien climbed fully atop the gear.*
+*She flew over the edge just as the alien at the center of the gear.*
 *She fell - down.*
 ~There were no more gears - just remnants of where they once had been.~
 ~A few golden rods jutted out from the walls,~
@@ -576,33 +615,34 @@ She wondered - was he in danger?',
 }
 {
 ~They fell through the barrier - silence engulfed them.~
-~Kent wasn’t moving - she was still holding on tight to him.~
+~Kent wasn't moving - she held him tight.~
 ~They landed on the deck of the ship.~
 ~Captain alacira standing there.~
 ~Whitewater behind her.~
 *Martha knelt over Kent.*
-"M::He’s hurt,"
-~He didn’t get up...~
-~He didn’t move.~
+"M::He's hurt,"
+~He didn't get up...~
+~He didn't move.~
 *Alacira rushed over - and moved her out of the way.*
 }
 {
 "A::We got it from here."
-*She shouted for a medic and one came in rushed in from below deck.*
+*She shouted for a medic.* 
+*and one came in rushed in from below deck.*
 ~A doctor with a big black purse - the kind from Victorian times.~
 *He bent over to see Kent - pushing Martha back onto her feet.*
 "A::Did you get it?"
 *Alacira looked back up at Martha, who nodded.*
-*The marble left from her pocket to her hand then to Alacira who inspected it.*
+*The marble left her pocket to her hand then to Alacira who inspected it.*
 }
 {
 "A::Good job...
-He’ll be fine."
+He'll be fine."
 *She looked behind her and nodded, *
 "A::Send her back"
 *Martha turned around.*
 ~Behind her was a giant tribal mask.~
-*It was shaking back and forth - behind it was Gerald’s voice going:*
+*It was shaking back and forth - behind it was Gerald's voice going:*
 "G::Uhh ga booga booga!"
 ~Startling her awake.~
 }
