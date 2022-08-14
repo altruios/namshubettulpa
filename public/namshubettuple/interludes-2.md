@@ -4,8 +4,9 @@
 
 #### Gerald Whitewater
 
-
+##### TWO WEEKS  AND SOME DAYS AGO
 {
+mn:RG
 ~Robert was in pieces, parts scattered though the link~
 ~Fragments of a thought, formed together~
 ~A sense of self emerged, senses emerged.~
@@ -54,44 +55,44 @@
 ~There was a pause when he finally reached the creature's mouth.~
 ~It was about the size of a house~
 ~Another - smaller mouth pustuled out next to the eye.~
-"You've made your bargain - Why have you tried to make another."
+"NULL::You've made your bargain - Why have you tried to make another."
 *Robert blinked*
-"What?"
-"You were mine, but you have poisoned yourself to me."
-"I was yours?"
-"My food."
+"RG::What?"
+"NULL::You were mine, but you have poisoned yourself to me."
+"RG::I was yours?"
+"NULL::My food."
 ~Robert took two breaths to think.~
-"Does that mean you aren't going to eat me?"
-"I can not, to your detriment"
-"my detriment"
-"If I do not eat you, something else will."
+"RG::Does that mean you aren't going to eat me?"
+"NULL::I can not, to your detriment"
+"RG::my detriment"
+"NULL::If I do not eat you, something else will."
 *Robert shrugged.*
-"If I'm eaten I'm eaten, what's it matter by who."
-"You do not understand. 
+"RG::If I'm eaten I'm eaten, what's it matter by who."
+"NULL::You do not understand. 
 I eat only the surface - the uniqueness, not you.
 This is mutually beneficial."
-"How? I'm dead aren't I."
-"I receive the nutrients I need - and unfettered access to that food source.
+"RG::How? I'm dead aren't I."
+"NULL::I receive the nutrients I need - and unfettered access to that food source.
 In exchange I act as a recorder of lives sworn to feed me, collecting nutrients as you grow.
 When I eat you, whats left behind is happy - at peace. for as long as humanity lives."
 ~Robert had doubts - was he actually out of the link.~
 ~He tried to stretch his mind in a direction to follow down a path in the link...~
 ~nothing.~
-"I also shield against others - they have taken root elsewhere, but here... 
+"NULL::I also shield against others - they have taken root elsewhere, but here... 
 Here is mine."
 ~Robert said nothing.~
 *The creature pulled him closer.*
-"so shall you fix it."
+"NULL::so shall you fix it."
 ~Robert struggled weakly against the tongue~
-"Why me?"
-"I can not touch it, it is in you deep: which is why I have not eaten you."
-"And if I say no?"
-"To the void with you."
+"RG::Why me?"
+"NULL::I can not touch it, it is in you deep: which is why I have not eaten you."
+"RG::And if I say no?"
+"NULL::To the void with you."
 'The void is a mystery'
 ~He contemplated~
-"And if i say yes?"
+"RG::And if i say yes?"
 *The tongue brought him up to the thing's eye*
-"The infection spreads quickly.
+"NULL::The infection spreads quickly.
 Look."
 ~And he did.~
 ~Through the whipping tongues he saw the link as he never had.~
@@ -99,16 +100,15 @@ Look."
 ~From a direction he could see all points in the link at once.~
 ~Among the infinitely dimensional plane he saw a spot He identified as Al-tok~
 ~A dark growing withering fractal oil in the link.~
-"I saw how Alice made the serum"
-~The creature said.~
-"I understand it - it forced a human to have thoughts it couldn't otherwise have.
+"NULL::I saw how Alice made the serum. 
+I understand it - it forced a human to have thoughts it couldn't otherwise have.
 Thoughts that have invited... 
 that."
 ~Robert knew the sound of perfect disgust then.~ 
-"You shall create a serum to force this intruder to remove itself from my food."
+"NULL::You shall create a serum to force this intruder to remove itself from my food."
 *Robert shook his head.*
-"You want my sister, she was -"
-"And we have her."
+"RG::You want my sister, she was -"
+"NULL::And we have her."
 ~A divide opened in the creature~
 ~A fleshy chasm - ending at the mouth attached to the tongue he was on~
 *Robert was yanked across the creatures landscape.*
@@ -118,48 +118,48 @@ that."
 ~Mountains that were the creatures flesh came and went in a flash.~
 *Suddenly they stopped - at a reeling tongue*
 ~At the end - being pulled toward him, was his sister~
-"Robert?"
+"AG::Robert?"
 ~He tried to wave.~
 *His arm just jerked on the tongue*
-"Hello..."
-"You will construct a serum of my design"
+"RG::Hello..."
+"NULL::You will construct a serum of my design"
 ~The mouth commanded~
-"I will?"
+"AG::I will?"
 ~She sounded incredulous~
-"one of you - if not you - him, having what he needs from you."
+"NULL::one of you - if not you - him, having what he needs from you."
 *She struggled against the tongue*
-"Why should I help you."
-"It is your fault - your responsibility"
+"AG::Why should I help you."
+"NULL::It is your fault - your responsibility"
 ~She smiled at that, looking at Robert~
-"When have I ever taken responsibility."
+"AG::When have I ever taken responsibility."
 ~The eye scowled at her~
-"Your antics will not be tolerated."
+"NULL::Your antics will not be tolerated."
 *The two tongues slammed together.*
 ~Robert and Alice felt the impact into each other~
 ~When the tongues parted there was only one~
 'what happened?'
 ~That wasn't his thought, the voice was wrong~
-"Alice?" 
+"RG::Alice?" 
 ~he called out.~
 'Robert?'
-"You have everything you require"
-"You just put her in me?"
-"You will be given the formula and process to synthesis"
+"NULL::You have everything you require"
+"RG::You just put her in me?"
+"NULL::You will be given the formula and process to synthesis"
 ~A boil exploded next to the eye: a spray of pus rushed toward him.~
 ~It congealed forming into a tentacle that whipped into his eye.~
-"See it"
+"NULL::See it"
 ~Robert screamed~
 ~Part of his mind was being overwritten.~
 ~old memories drugged from the depths to fodder the process~
-"Go forth and sterilize"
+"NULL::Go forth and sterilize"
 *The tongues shot toward the link again.*
 ~Beside him the mouth reformed on the tongues~
-"I can do nothing once inside. 
+"NULL::I can do nothing once inside. 
 You will require a physical body."
 'Should I even be helping this thing.'
 ~It was his own thoughts, echoing his sister's~
 'It had promised to eat me after all, if I removed that thing'
-'Wait - it was going to eat us?!'
+"AG::Wait - it was going to eat us?!"
 'no,'
 ~Robert thought at her in mock astoundment~
 'a giant creature with a billion tongues'
@@ -167,22 +167,22 @@ You will require a physical body."
 'has no intention of eating you.'
 ~Alice's mind - like every mind was a turmoil of stochastic half thoughts~
 ~Robert waited for her to properly think at him, though he was helpless not to know her mind inside his.~
-'seriously, should we be helping this.'
+"AG::Seriously, should we be helping this."
 'look.'
 ~He looked at the link~
 ~At the growing fractal moon snuffing out parts of the link~
 'we can deal with this creature after that, if we decide we want to.'
-'do you?'
+"AG::do you?"
 'do I what?'
-'Want to still get out.'
+"AG::Want to still get out."
 'We are out.'
 ~Robert felt a turning in his head - a refutation from Alice~
-'you: look.'
+"AG::you: look."
 ~Robert felt his attention turn to the tongues.~
 ~They were everywhere - touching nearly everyone and everything.~
-'we are cattle to it, maybe we poison the herd.'
+"AG::We are cattle to it, maybe we poison the herd."
 ~Robert considered.~
-"We are approaching - I would not appreciate finding another species to eat"
+"NULL::We are approaching - I would not appreciate finding another species to eat"
 ~Robert felt the barrier to the link as a thin soap bubble.~
 ~Quite enveloped him - as he fell at the edge of all things...~
 ~Towards a ship.~

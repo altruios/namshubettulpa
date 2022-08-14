@@ -14,7 +14,7 @@ const speaker_map={
     AT:"Al-tok",
     L:"Lenny",
     J:"Jochek",
-    "?":"unknown",
+    NULL:"unknown",
     SM:"Male Voice",
     SG:"Security Guard",
     T:"Tom Garland",
