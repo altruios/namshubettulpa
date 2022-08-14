@@ -22,6 +22,8 @@ const speaker_map={
     P:"Police Officer",
     RO:"Officer Rogers",
     FA:"Flight Attendant",
+    E:"Erin Mc'kay",
+    S:"Students",
     __:function(key){
         return this[key]+" of the Relux"
     }
