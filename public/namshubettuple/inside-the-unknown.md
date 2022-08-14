@@ -104,7 +104,7 @@ More than become you"
 'Piece of a story?'
 "A::The creature that wrote it first broke though, snuck in, a few thousand years ago... 
 We're still dealing with the remnants...
-It's broken through again it looks like, what's in you in one of it's tools. "
+It's broken through again it looks like, what's in you is one of it's tools. "
 *Martha followed her to the center tower of this ship...*
 ~It resembled a ship at sea but the center tower was incredibly tall.~
 ~It looked a little bit like an airplane wing - just turned 90 degrees.~ 

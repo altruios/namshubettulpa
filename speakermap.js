@@ -9,7 +9,7 @@ const speaker_map={
     K:"Kent Barbado",
     RG:"Robert Glass",
     U:"Uri Maca",
-    J:"Juan Long",
+    JL:"Juan Long",
     O:"Ozmind Yammin",
     AT:"Al-tok",
     L:"Lenny",
@@ -24,9 +24,12 @@ const speaker_map={
     FA:"Flight Attendant",
     E:"Erin Mc'kay",
     S:"Students",
-    __:function(key){
-        return this[key]+" of the Relux"
-    }
+    __:function(key,key2){
+        return this[key]+" of the "+this[key2]
+    },
+    _R:"Relux",
+    _T:"Tok",
+    _N:"Nerium",
 }
 
 module.exports = speaker_map

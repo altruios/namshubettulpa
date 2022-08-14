@@ -31,7 +31,7 @@ mn:AG
 *Alice pulled out her telephone*
 }
 {%%%%
-mn:J
+mn:JL
 }
 {
 *Juan's phone buzzed, and he ignored it.*
@@ -43,12 +43,12 @@ mn:J
 'But to those who can hear...'
 ~He felt the buzz against his side again.~
 ~He hesitated before answering~
-"J::What?"
+"JL::What?"
 "AG::4 minutes."
-"J::Good, a new record."
+"JL::Good, a new record."
 "AG::And counting."
 ~Juan was silent~
-"J::Normal Breathing..."
+"JL::Normal Breathing..."
 'Fuck.'
 ~He didn't really want this day to come, if it had.~
 ~The choir of buys and sells echoed from below.~
@@ -67,13 +67,13 @@ mn:J
 ~Juan was looking at doors, exits.~
 ~A silence on the line~
 "AG::Are you at the market again, Juan?"
-"J::I didn't think... look, never mind - I'm on my way back."
+"JL::I didn't think... look, never mind - I'm on my way back."
 *Juan walked to the door, intent on leaving...*
-"J::See you soon."
+"JL::See you soon."
 *He hung up the phone.*
 ~He stood there a moment, his eyes closed.~
 *He inhaled sharply.*
-"J::Fuck all that noise - I'm out."
+"JL::Fuck all that noise - I'm out."
 'Dubai'
 ~Juan's never been to Dubai~
 }
@@ -192,14 +192,14 @@ hooks.add(crash(titttmyky,__ac),"/\b(.+)\b/gm")
 'There it is: that seed'
 "AT::There: you feel it?"
 *Al-tok wave his hand and Robert Grabbed her shoulder and immediately started speaking*
-"RG::Fuck fuck fuck, oh -fuck - Robert. 
+"RG_T::Fuck fuck fuck, oh -fuck - Robert. 
 Is talking, talking...wait. 
 I'm talking, oh that's weird, there's a delay"
 *Al-tok coughed*
 "AT::You're brother is gone."
-"RG::He's..."
+"RG_T::He's..."
 "AT::No, that's a husk - hollow now on the inside"
-"RG::You killed him!"
+"RG_T::You killed him!"
 "AT::No, I gave him what he wanted - what you want."
 *Al-tok leaned down*
 "AT::There is a way out."
@@ -274,9 +274,11 @@ You...
 A platonic form or ideal.
 So 'you': is made of your self and the current state of all the sub-self network...
 And we can represent this: and get some useful information out of this using a bit of math."
-~A groan escaped in the back - it was suppressed, and Ozmind chose to continue without acknowledgement~
+*A groan escaped in the back* 
+~It was suppressed, and Ozmind chose to continue without acknowledgement~
 *The door to his left opened.*
-~Ozmind saw her, thought nothing of seeing her from the back, and returned to writing on the board.~
+~Ozmind saw her, thought nothing of seeing her from the back~ 
+*He returned to writing on the board.*
 ~He didn't see the syringe in her hand either~
 ~A scream from the hallway halted Ozmind's chalk~
 ~A scream from the room turned his head~

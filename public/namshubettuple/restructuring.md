@@ -177,14 +177,14 @@ mn:K
 ~Surrounding them were chalkboards, covered in writing~
 ~He was too far away to make out the writing.~
 ~He felt a hand on his shoulder.~
-"AG::First time?"
+"AG_T::First time?"
 ~Kent turned his head to see another Woman right behind him.~
 *He nodded.*
 'Okay - go with the flow - act like you belong...'
 'Stay calm: do not freak out.'
-"AG::Come."
+"AG_T::Come."
 *She placed her hand on Kent's back.*
-"AG::How'd you find us?"
+"AG_T::How'd you find us?"
 'Fuck - 2 seconds in and already panicking.'
 '37 hours awake?'
 'Is that right?'
@@ -197,11 +197,11 @@ Put two and two together..."
 ~Around him was a stochastic wave of interest...~
 ~Expressed as a void, a gap in conversation...~ 
 ~A subtle look, often followed by an 'anyway'~
-"AG::We start in a few moments, I'll let you get settled."
+"AG_T::We start in a few moments, I'll let you get settled."
 *She herself walked to the other side of the room.*
 *And then distributed paper among those sitting.*
 ~One paper reached Kent's hands as he passed the rest over.~
-"RG::Hi, I'm Robert."
+"RG_T::Hi, I'm Robert."
 ~A voice came from his left.~
 "K::Kent."
 ~Kent distractedly replied - reading though the paper.~
@@ -212,11 +212,11 @@ Put two and two together..."
 'That man...'
 ~Tucked away in the corner of the room, was a shaven bald man~
 ~Perching on a cabinet - like an owl.~
-*Kent rescanned the room.*
+*Kent re-scanned the room.*
 ~Ahead of him a that woman came out with a platter of syringes~
-'ah fuck.
+'Ah fuck.
 in too deep kent, 2 minutes in and in too deep...
-this shit escelates way too quickly'
+This shit escalates way too quickly'
 }
 {%%%%
 mn:M
@@ -376,7 +376,7 @@ Most people are at each others throats with that level of connectivity"
 "F::Relux, What's the news?"
 *Felix sat back down*
 *The man turned to Flanagan*
-"L__::How much does he know?"
+"L_R::How much does he know?"
 "FL::I haven't had time to question them, you arrived shortly after."
 "F::Question us about what the school? that's why we're here - we just came from there."
 "FL::It was more than just the school in new york"
@@ -396,7 +396,7 @@ when were you attacked?"
 "F::So all this time?"
 "FL::Speaking of, he's leaking pretty badly - Jochek - would you?"
 *The blonde woman nodded and held out her hand*
-"J__::I don't bite"
+"J_R::I don't bite"
 "R::It's alright - I need some fixing: she can do it."
 *Martha reached out her hand and clasped Jochek's*
 ~For a moment time seized, stuttering a jerking to a halt~
@@ -407,7 +407,7 @@ when were you attacked?"
 "M::How long should this take?"
 ~It came out slurred - her voice breaking as only half of it worked~
 ~A wave a nausea passed her.~
-"J__::Not that much longer."
+"J_R::Not that much longer."
 *Flanagan turned back from the other Relux, looking back at martha.*
 "F::Do we need a bag?"
 *Martha waved him no*
@@ -415,10 +415,10 @@ when were you attacked?"
 ~The dusty memory of her mother's drinking song, was the very thought she held~
 ~The nausea passed eventually~
 ~Replaced by a coldness~
-"J__::Okay, that should just about do it"
+"J_R::Okay, that should just about do it"
 ~Moments passed and Rossin didn't appear~
 "FL::Now that's taken care of, to the matter at hand. we think we lost about two thirds"
-"J__::two thirds of?"
+"J_R::two thirds of?"
 "FL::of the Awakened"
 ~At the table in front of them was a tea set.~
 *Flanagan sat down and poured himself a cup.*
@@ -439,33 +439,33 @@ Well, that I remember, literally the best I've been."
 `"How"`
 `{todo:link to description of how that works}`
 ~Both the Relux's hands reached for the teapot - before only Jochek pouring themselves cups put it back~
-"L__:: We haven't noticed anything in Romania"
+"L_R:: We haven't noticed anything in Romania"
 *Flanagan nodded*
 "FL:: Still though, look for signs of missing things"
 "F::We saw them, at the tower."
-"Burned into their foreheads was a message - underestimated undernet"
+"J_R::Burned into their foreheads was a message - underestimated undernet"
 *Flanagan put down the teacup*
 "FL::I believe there to be an outside influence - a strong one - manipulating the undernet.
 The leaders of the undernet being led along towards us."
 "F::Two thirds..."
-"J__::Two thirds scrambled, at once... so we know it was the undernet?"
+"J_R::Two thirds scrambled, at once... so we know it was the undernet?"
 *The male Relux leaned forward*
-"L__::More complicated: they're involved, but they don't have the numbers to pull something like this off, and how?"
+"L_R::More complicated: they're involved, but they don't have the numbers to pull something like this off, and how?"
 *He shook his head*
-"L__::No, and who did they scramble - and why: you know what I think - coup"
+"L_R::No, and who did they scramble - and why: you know what I think - coup"
 "FL::Nail on the head and winds from my sails, lenny. 
 I think it's a coup too, and the undernet is being pushed in the spotlight"
 *Jochek leaned in*
-"J__::Underestimated undernet was in all the schools"
+"J_R::Underestimated undernet was in all the schools"
 *Lenny matched Jochek posture*
-"L__::Heavy handed."
+"L_R::Heavy handed."
 "FL::It would imply,"
 *Flanagan sipped his tea*
 "FL::That it's still a minority of what's left"
 "F::So what, the undernet's the scapegoat"
-"J__::That's possible, but a scapegoat general is innocent - that's to be determined."
+"J_R::That's possible, but a scapegoat general is innocent - that's to be determined."
 "F::When did all this start"
-"L__::Flanagan?"
+"L_R::Flanagan?"
 *Lenny turned his head*
 "FL::About 24 hours ago"
 "M::I mean, I've had Rossin for longer than that."
@@ -473,12 +473,12 @@ I think it's a coup too, and the undernet is being pushed in the spotlight"
 "FL::how long?"
 "R::I think it was about 50 hours now, more or less"
 "M::About double that"
-"L__::That seems relevant."
+"L_R::That seems relevant."
 *Flanagan turned to the door.*
 "FL::Excuse me, it seems we have another guest."
 ~Flanagan paused~
 "FL::A less than welcome one."
-"J__::Who?"
+"J_R::Who?"
 "FL::Uri, he's in the elevator now."
 `"Who's uri?"`
 *Rossin turned to her.*
@@ -524,11 +524,11 @@ Which is why you need to more than just thoughts and words."
 "U::Sorry everyone - hope you like dogs."
 ~Felix shook his head~
 "U::Oh good you are here - you need to disconnect: right now."
-"L__::And why would we do that."
+"L_R::And why would we do that."
 ~Uri paused, then turned to Flanagan.~
 "FL::He can't explain until you've disconnected."
 ~Lenny looked from   to Flanagan~
-"J__::We aren't all together - one of us is in Romania."
+"J_R::We aren't all together - one of us is in Romania."
 ~Uri inhaled just a bit too sharply at that.~
 "U::That's not ideal: have them make their way back here."
 ~Uri waited, the dog feasted on the bits of bread and cheese on the center table.~

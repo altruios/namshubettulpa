@@ -49,7 +49,18 @@ const seprate_blocks=(data)=>{
     },[])
     return blocks;
 }
-
+const get_speaker_with_title=(key)=>{
+    let current;
+    if(key.includes("_")){
+        console.log("key has title")
+        const [k1,k2]=[key.slice(0,key.indexOf("_")),key.slice(key.indexOf("_"))]
+        console.log("keys",k1,"   ",k2);
+        current = speakers["__"](k1,k2);
+    }else{
+        current = speakers[key];
+    }
+    return current;
+}
 
 const mdx_block_parser = (block,dfn)=>{
     let ref=block;
@@ -60,20 +71,12 @@ const mdx_block_parser = (block,dfn)=>{
     if(regex_settings!=null &&regex_settings.length!=0){
         console.log("hit and changing",regex_settings[0]);
         const key=regex_settings[0].slice(regex_settings[0].indexOf(":")+1);
-        let current;
-        if(key.includes("__")){
-            console.log("key has rkey")
-            const rkey = key.slice(0,key.indexOf("__"));
-            console.log("rkey",rkey);
-            current = speakers["__"](rkey);
-        }else{
-            current = speakers[key];
-        }
+        const current = get_speaker_with_title(key);
         console.log(current,"is going to be set to current",key);
         dfn.current=current;
         settings=current;
     }
-    console.log("settings are:", settings);
+    //console.log("settings are:", settings);
     const pw = ref.match(/\`([^`]*)\`/gm)||[];
     pw.forEach(r=>ref=ref.replace(r,""))
     const aw = ref.match(/\*([^*]*)\*/gm)||[];
@@ -93,19 +96,12 @@ const mdx_block_parser = (block,dfn)=>{
         switch(txt[0]){
             case "\"": 
                 const speakerregex = txt.match(/\w+[:][:]/gm);
-                console.log(speakerregex,"is this things")
+                //console.log(speakerregex,"is this things")
                 if(speakerregex){
                     console.log("speaker hit!");
                     let key = speakerregex[0].slice(0,speakerregex.indexOf(":")-1);
-                    let speaker;
-                    console.log(key,"is key");
-                    if(key.includes("__")){
-                        const rkey = key.slice(0,key.indexOf("__"));
-                        speaker = speakers["__"](rkey);
-                    }else{
-                        speaker = speakers[key];
-                    }
-                     const mainFlag = speaker== defaultnarrator.current;
+                    const speaker = get_speaker_with_title(key);
+                    const mainFlag = speaker== defaultnarrator.current;
                     console.log("mainf",mainFlag,speaker,defaultnarrator.current);
                     const dialouge = txt[0]+txt.slice(txt.indexOf("::")+2)
                     const d = `<span style="background-color:inherit; color:#df80af">${dialouge}</span>${nlflag?`<br/>`:''}`
