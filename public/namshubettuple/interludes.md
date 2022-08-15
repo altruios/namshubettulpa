@@ -90,6 +90,8 @@ mn:AT
 ~He heard a door open, the hinged squeaked~
 'A creak cascading down by a function (9001/27003th, 40010/8002th, 17/35th)'
 ~He very much liked hearing~
+~He was physical finally, with some new notable advantages.~
+'Raised privileges.'
 "RG::Hello, my name is Robert, Robert Glass"
 ~Al-tok examined him.~
 'A strapping lad in his 30s., What a fitting name. 
@@ -120,6 +122,8 @@ Al-tok knew him, from the edges of his dreams'
 *Robert raised a hand, holding a vial.*
 "TRG::his would kill any human... 
 But for a while..."
+}
+{
 *Al-tok raised his hand and his voice.*
 "AT::Why: why do you know it exists."
 ~Briefly taken aback - Robert continued.~
@@ -151,10 +155,11 @@ It was hidden away and he passed down this knowledge in our family history."
 "AT::Not exactly, more like a personal window. 
 One for each of you - let me show you"
 `exe -root.__seed^`
+}
+{
 "AT::You are me now"
 ~Al-tok voice came in a whisper~
 *Robert hesitated but continued walking forward, releasing the neck bond*
-
 ~^What was left of Robert slowly ebbed away.~
 ~A Screaming blackness swallowed him, holding him tight in his mind~
 ~The void propelled itself down his limbs, it was a constant burning~
