@@ -1,6 +1,7 @@
 # RESET 2
 
 {
+mn:M
 ~The fuzzy carpet broke into a kaleidoscope of color in between the resounding pain.~
 *Martha opened her eyes, aware vaguely that she was on the floor.*
 ~The agony came in waves, erasing her vision, her hearing.~
@@ -171,8 +172,8 @@ It wasn't your fault.
 But I need you to carefully walk out of here, and not look into the kitchen."
 }
 {
-'It wasn't her fault...?' 
-'What wasn't my fault...'
+'Not her fault...?' 
+'What fault did he...'
 'His hands...'
 'my bloody hands.'
 *She looked down to find her shirt also stained...*

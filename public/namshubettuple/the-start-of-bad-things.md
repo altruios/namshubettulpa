@@ -16,11 +16,12 @@ power is limited, no matter how vast, and:'
 ~Each loss seemed more noticeable.~
 ~More and more with each newly awakened human, did his power grow less effective, less pure.~
 'Why does it feel like a big chunk...'
-~He memory turbulent in a way even the awakened were unaware~
+~His memory turbulent in a way in which even the awakened were unaware~
 ~He always remembered being this powerful~
-~He also had the vauge notion of a large group of peers.~
+~He also had the vague notion of a large group of peers.~
 ~But he knew that was wrong.~
 ~Even if he disconnected himself mostly from the link - he couldn't be completely separated~
+~All he could do was stay at a distance and put up and much of a barrier as he could.~
 ~This would progress until it would stretch so thin as to be invisible.~
 ~Until the people practiced namshubs "in theory", the more people asleep the more powerful the awake.~
 ~Everyone being awake results in no power for anyone.~
