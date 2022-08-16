@@ -303,7 +303,7 @@ mn:M
 *Rossin was pacing around the room*
 "R::Well that's mildly inconvenient, I didn't have time to unhook. 
 I lost the connection. I..."
-*He stumbled over something. Martha looked down:*
+*She stumbled over something. Martha looked down:*
 }
 {
 ~Her neighbor sprawled at her feet, unmoving~
@@ -327,13 +327,13 @@ Do - not - do - anything',
 "R::It's not your fault, I should have warned you - if you break a connection like that...
 It's...
 Not good. 
-But it could be worse."
+But it could be worse, he's only dead."
 ~Rossin paused.~
 "R::Martha, are you listening?"
 ~He inspected her unmoving face.~
 "R::Martha?"
 *Waving his hand and getting no reaction he backed away.*
-~Matha could see him, some part of her registered him.~
+~Martha could see him, some part of her registered him.~
 ~He was saying something: empty assurances.~
 ~He was saying things - she was sure of it - she couldn't bring herself to care.~
 }

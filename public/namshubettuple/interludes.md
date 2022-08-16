@@ -48,7 +48,7 @@ mn:JL
 "JL::Good, a new record."
 "AG::And counting."
 ~Juan was silent~
-"JL::Normal Breathing..."
+"AG::Normal Breathing..."
 'Fuck.'
 ~He didn't really want this day to come, if it had.~
 ~The choir of buys and sells echoed from below.~
@@ -328,7 +328,7 @@ mn:O
 ~Uri saw him reaching for the door, and managed one thought~
 'Peanut'
 "O::Hm?"
-~Uri felt is mind being indexed, shuffled though, detailed around this last days~
+~Uri felt is mind being indexed, shuffled though, detailed around these last days~
 ~Uri watched his own finger tap~
 "O::You're lucky I like dogs Uri, we don't have a lot of time."
 *A scratching at the door*
