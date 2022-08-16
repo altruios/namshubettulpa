@@ -4,7 +4,7 @@ const mdx_parser=(text)=>{
     const data = get_mdx_data(text);
     if(data.length<100) return null;
     const blocks = seprate_blocks(data);
-    let blockstr=`<block style="background-color:inherit; width:97vw;display:flex;flex-flow:column nowrap;align-items:start;margin:auto 0 auto 0;">`
+    let blockstr=`<block style="background-color:inherit; width:97vw;display:flex;flex-flow:column nowrap;align-items:start;margin:auto 0 auto 0; max-width:1170;align-self:center;">`
     for(let i=0;i<blocks.length;i++){
         blockstr+=mdx_block_parser(blocks[i],defaultnarrator)
     }
