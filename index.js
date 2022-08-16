@@ -70,17 +70,19 @@ async function transform_to_md(cwd,callback){
             lines.forEach((line,i,arr)=>{
                 if('123456789'.includes(line[0])){
                     const stripped_line = line.replace(line.match(/[0-9]+\.\s/gm),"")
-                    if(line[0]=="1"&&line[1]=="."&&line[2]==" "){
-                        data=data.replace(line,`<ol><li>${stripped_line}</li>`)
+                    const data_line = stripped_line.slice(stripped_line.indexOf(".")+1);
+                    if(line[0]=="1"&&line[1]=="."){
+
+                        data=data.replace(line,`<ol style="font-size:5vh;" ><li >${data_line}</li>`)
                     }
-                    else if(!'123456789'.includes(arr[i+1][0])){
-                        data=data.replace(line,`<li>${stripped_line}</li></ol>`)
+                    else if(!arr[i+1] || !'123456789'.includes(arr[i+1][0])){
+                        data=data.replace(line,`<li>${data_line}</li></ol>`)
                     }else{
-                    data=data.replace(line,`<li>${stripped_line}</li>`)
+                    data=data.replace(line,`<li>${data_line}</li>`)
                     }
                 }else{
 
-                    data=data.replace(line, `<p>${line}</p>`);
+                    data=data.replace(line, `<p style="font-size:5vh;">${line}</p>`);
                 }
             })
         }
