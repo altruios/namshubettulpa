@@ -184,7 +184,7 @@ I expect it would be a good thing to do sooner rather-"
 ~Right next to Rossin~
 "F::Why are you here?"
 "M::I killed someone," 
-"M::...So?"
+"F::...So?"
 ~Rossin perked up,~ 
 "R::Tell him you were bored."
 "M::I...
@@ -199,39 +199,53 @@ But you stopped listening to me..."
 ~Martha tried to remain calm...~
 ~But her chest hollowed, an on mix of terror and relief~ 
 *Rossin smacked his head as Felix tilted his head.*
+"F::Empathy is good. It was a mistaken then..."
+~Felix considered.~
 "F::They're in the back of the mind, somewhere - you just need a...
 Vessel - to house them."
 `['A vessel...',
 'Just another human?', 
 'Any human?',
 'Any living thing?', 
-'Wouldn't people not recognize them']`
+'Would people recognize them']`
 ~She held her tongue - intent to ask Rossin later.~
 "F::I figured that's why you were here. 
 Looking for some lowlife to make the world a little better with their absence"
+*Felix leaned in*
+"F::I was at your house... the son of that dead fellow seem quite distraught."
+"M::It was an accident."
+"F::Good. Wouldn't want you doing that sort of thing to good people."
+~Martha waited...~
+"M::Next time I'll practice on bad people."
+*Felix smiled.*
+~Bits of relief fell through her.~
+"F::Much less work if you break things..."
+*He leaned back.*
+"F::So you want to fix him - fix your mistake."
 'Okay, so he means a trade - one life for another...' 
 ~She did those trolly problems in college - morality tests...~ 
 ~And this one hadn't exactly come up.~
 "F::How new are you to... 
 Knowing about all this"
 ~Martha waited for Rossin to supply a time frame, he did and then some.~
-"M::A few years, now. 
+"M::A few months now. 
 I'm still... 
 Learning. 
 Last night was my first time using a hook... 
 It... 
 Lost connection."
-"F::Who said you were ready?" 
-~A small heat in his voice, not directed at her.~
+"F::A few mon - who said you were ready?" 
+~A small heat in his voice, not directed directly at her.~
 "M::No one..."
-"F::So you did it on your own, against your teacher's wishes?"
-"M::No - I... am self-taught"
+"F::So you did it on your own, behind your teacher's back?"
+"M::No - I... am self-taught, I don't have a teacher... 
+Other than what's in my head."
 *A small eyebrow raise.*
 ~Subtle - Martha barely noticed.~
-"F::undernet ring a bell?"
-"R::say no."
+"F::Undernet ring a bell?"
+"R::Ask about it."
 "M::What's that?"
-*Felix smiled*
+*Felix smile brittled and his eyes narrowed*
 "F::So...
 No teacher?"
 *Rossin waved his hands - urging Martha not to speak*
@@ -246,6 +260,7 @@ It could be a trap. but..."
 *Rossin leaned in again studying the man.* 
 ~He was almost... excited.~
 *Martha nodded.* 
+"R::Narcissists love a good ego stroking -"
 "M::I've been looking... 
 Have I found a good one?" 
 *Her lip curled just a bit - the way she saw it done on tv.* 

@@ -151,7 +151,7 @@ Right at the destruction."
 ~Martha felt like she was obeying a script.~
 ~A feeling of still being in a dream - unable to control or wake from it.~
 ~But aware of it nonetheless.~
-"M::It's in a book - somewhere at the top floor. 
+"G::It's in a book - somewhere at the top floor. 
 I'm afraid we don't know more than that... 
 Once we go there, that moment passes, and it burns."
 ~Martha watched the numbers tick by, they were in the 50's now.~
@@ -385,7 +385,7 @@ mn:K
 ~To his horror - he watched part of the tech's shirt catch fire~ 
 ~The flame quickly spread.~
 ~Tom's pants as well.~
-~Someone skinny narrowed their way through the door.~  
+*Someone skinny narrowed their way through the door.*
 ~Holding a fire extinguisher that could not fit though the door.~ 
 "K::Someone get the fire department here... 
 Ambulance too!" 

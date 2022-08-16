@@ -36,7 +36,12 @@ mn:K
 }
 {
 ~A thought crossed his mind.~
-*Tapping his pencil across the book he considered - he took the pencil and pointed it directly at Martha's eye and pushed it forward, like a slow homing dart..* 'god let me be right about this,' *he thought as he inched it closer *~- letting the shape of things to come sink in her head.~ 
+*Tapping his pencil across the book he considered* 
+*he took the pencil and pointed it directly at Martha's eye and pushed it forward*
+~like a slow homing dart..~ 
+'God let me be right about this' 
+*He inched it closer *
+~Letting the shape of things to come sink into her head.~ 
 ~He would stop it right before her eye, but would keep it moving at an even pace...~
 ~He was sure she was faking...~
 ~Or at least: she was in that blank stare somewhere.~
@@ -65,9 +70,9 @@ I don't know where I was."
 }
 {
 *She turned to him, Then looked at the mirror behind him.*
-"M::Police station and I don't know how to do that... 
+"M::Police station ^and I don't know how to do that... 
 Well deal with it,"
-*She had turned her face away from him.*
+*^She had turned her face away from him.*
 }
 {
 'Okay, so if the catatonic state was just any indicator, she may not be all there.'
@@ -163,7 +168,7 @@ I don't-"
 *Martha's eyes went wide.*
 *She spoke louder.*'
 Well...
-Was it speaking.'
+Was it speaking?'
 ~Sound was coming out - but it wasn't a language as far as he could tell: just random sounds.~
 "K::Martha, what are you doing?"
 *She tapped her finger against her desk rapidly.*
