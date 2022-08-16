@@ -182,7 +182,7 @@ mn:R
 *She walked into the ghostly image and Rossin turned her body to see where her consciousness had entered.*
 "M::You can see me?"
 "R::Aye, you're not physically where you are, you're just... 
-Imagining yourself into existence from your own imagination which you put yourself just now"
+Imagining yourself into existence from your own imagination which you put yourself into just now"
 }
 {
 mn:M

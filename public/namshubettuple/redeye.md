@@ -113,7 +113,7 @@ You'll have a navigator this time, make sure to stay with him - alright?"
 "A::Grab the railing"
 *Alacira punched in the numbers on the panel.*
 "A::He's waiting at the entrance"
-*Gerald shuffed the horn between his legs.*
+*Gerald shuffled the horn between his legs.*
 *He tucked in the clipboard back under his armpit as they ascended.*
 *He placed his hand on the railing.*
 *Martha fell into the side of the elevator.*
