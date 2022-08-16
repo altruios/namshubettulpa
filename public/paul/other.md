@@ -1,5 +1,0 @@
-# OTHER
-
-[notes](notes.md)
-
-
