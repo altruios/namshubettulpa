@@ -15,33 +15,33 @@
 {
 mn:AG
 ~Alice leaned her shoulder against the glass window, facing the operating room~
-*She tapped her finger against her neck.*
-~Her eyes neither moved nor blinked.~
-~Screams penetrated the 'noise proof' chamber.~
+*She tapped her finger against her neck*
+~Her eyes neither moved nor blinked~
+~Screams penetrated the 'noise proof' chamber~
 '15...,14...,13...'
 *She darted her eyes*
 ~To the clock above the man tied down to the gurney~ 
-~She watched as the seconds ticked down and his struggles came to a climax.~
+~She watched as the seconds ticked down and his struggles came to a climax~
 '0'
 ~She paused, he was still struggling~
 '...1,...2,...'
 *She adjusted herself, face pressed against the glass*
 "AG::Fuck... come on..."
-~His struggling subsided, his breathing slowed.~
+~His struggling subsided, his breathing slowed~
 *Alice pulled out her telephone*
 }
 {%%%%
 mn:JL
 }
 {
-*Juan's phone buzzed, and he ignored it.*
+*Juan's phone buzzed, and he ignored it*
 ~A seed sparked to life in the back of his mind~
-~One he had been holding on to since childhood.~
-~He listened to the floor below him.~ 
+~One he had been holding on to since childhood~
+~He listened to the floor below him~ 
 ~All of stock brokers were singing~
-~They didn't know they were singing...~
+~They didn't know they were singing~
 'But to those who can hear...'
-~He felt the buzz against his side again.~
+~He felt the buzz against his side again~
 ~He hesitated before answering~
 "JL::What?"
 "AG::4 minutes."
@@ -50,29 +50,32 @@ mn:JL
 ~Juan was silent~
 "AG::Normal Breathing..."
 'Fuck.'
-~He didn't really want this day to come, if it had.~
-~The choir of buys and sells echoed from below.~
-"RG::I think it worked."
-~Another voice, It was Robert.~
-"AG::His vitals are stable: I think it made the transition."
-~Juan stayed silent.~
+~He didn't really want this day to come, if it had~
+'Fuck boredom man - it makes you do stupid shit'
+}{
+
+~The choir of buys and sells echoed from below~
+"RG::I think it worked." 
+
 'Could we have pulled anything else?'
-~No... in the pit of his stomach he knew.~
+~No... in the pit of his stomach he knew~
 ~There was a seed going in him - he could feel but not remove it~
 'Maybe he could kill it.'
-~Thoughts reeled.~
+~Thoughts reeled~
 "U::Yes, what is it?"
-~Uri's voice this time.~
+
+~Uri's voice cut through the line like a knife~
 "RG::Alice's latest serum looks like the one."
-~Juan was looking at doors, exits.~
+~Juan was looking at doors, exits~
 ~A silence on the line~
 "AG::Are you at the market again, Juan?"
 "JL::I didn't think... look, never mind - I'm on my way back."
-*Juan walked to the door, intent on leaving...*
+*Juan walked to the door*
+~Intent on leaving~
 "JL::See you soon."
-*He hung up the phone.*
-~He stood there a moment, his eyes closed.~
-*He inhaled sharply.*
+*He hung up the phone*
+~He stood there a moment, his eyes closed~
+*He inhaled sharply*
 "JL::Fuck all that noise - I'm out."
 'Dubai'
 ~Juan's never been to Dubai~
@@ -81,24 +84,24 @@ mn:JL
 mn:AT
 }
 {
-~Al-tok's body jerked as it took hold.~
+~Al-tok's body jerked as it took hold~
 *Al-tok reached upward, bound by leather cuffs tied to metal bars reaching to his sides*
 'Frail arms'
 *He lowered his arms - then sat up as far as his neck-cuff would allow*
 *Craning his neck he saw a mirror - his own shaven head*
 'Sight is a wonder, but only in the front... so much better just to know things.'
 ~He heard a door open, the hinged squeaked~
-'A creak cascading down by a function (9001/27003th, 40010/8002th, 17/35th)'
+'A creak cascading down by a function (9227/27799th, 9181/18119th, 74047/47777th)' 
 ~He very much liked hearing~
-~He was physical finally, with some new notable advantages.~
+~He was physical finally, with some new notable advantages~
 'Raised privileges.'
 "RG::Hello, my name is Robert, Robert Glass"
-~Al-tok examined him.~
+~Al-tok examined him~
 'A strapping lad in his 30s., What a fitting name. 
 Yes: this WAS Robert Glass.
 Al-tok knew him, from the edges of his dreams'
 "AT::A..."
-*Al-tok gasped, then coughed.*
+*Al-tok gasped, then coughed*
 ~He tried again~
 *He worked the words slowly - stretching his mouth*
 ~Forcing his voice to work - it came out shallow~
@@ -109,9 +112,9 @@ Al-tok knew him, from the edges of his dreams'
 'Al-tok knew him, but only as an observer from his dreams.'
 *Robert nodded*
 "RG::Brass tax, then."
-~Robert thought for a moment before continuing.~
+~Robert thought for a moment before continuing~
 "RG::We want to make a deal - We want out."
-~Al-tok paused.~
+~Al-tok paused~
 "AT::Out?"
 "RG::We brought you in here - we want to go out... there"
 *Robert looked back at the mirror and nodded*
@@ -119,14 +122,14 @@ Al-tok knew him, from the edges of his dreams'
 ~Al-tok smiled~
 "AT::And how do you know it exists?"
 "RG::This."
-*Robert raised a hand, holding a vial.*
-"TRG::his would kill any human... 
+*Robert raised a hand, holding a vial*
+"RG::This would kill any human... 
 But for a while..."
 }
 {
-*Al-tok raised his hand and his voice.*
-"AT::Why: why do you know it exists."
-~Briefly taken aback - Robert continued.~
+*Al-tok raised his hand and his voice*
+"AT::Why: why do you know it exists?"
+~Briefly taken aback - Robert continued~
 "RG::() 100 years ago found a way there. 
 It was in Romania, a window - small enough to look but not to go.
 It was hidden away and he passed down this knowledge in our family history."
@@ -134,39 +137,48 @@ It was hidden away and he passed down this knowledge in our family history."
 ~Al-tok mused~
 'What a miscalculation they have made.'
 "RG::Would you help us?"
-~Al-tok looked at him.~
+~Al-tok looked at him~
 'Iron, leather, 15ft, person behind the mirror,probably...yes, most definitely Alice.'
 ~Al-tok smiled and leaned forward~
 "AT::Yes. If you help me as well."
 'Juan would run, let him... Ozmind could be a problem'
+~Al-tok wondered were Uri was - he felt close, watching him~
+~So close he could taste it near the edges of his perception~
 *Al-tok raised his hand as far as it would go*
 "AT::If you wouldn't mind"
-*He gestured to his arms and neck.*
+*He gestured to his arms and neck*
+'His eyes are so hopeful'
+~Robert's seed was buried deep~
+~Al-tok kept it at bay, until Robert drew closer~
 "AT::I'll push you all though, I can make a window"
 'Uri would be fun to consume, save him for after Alice...'
 ~Al-tok knew so many people~
-~Almost all brushed against him in their dreams.~
-~Every one of them a delicacy.~ 
-~Everyone of them eventually would be his.~
-~Even so, he wanted more.~
+~Almost all brushed against him in their dreams~
+~Every one of them a delicacy~ 
+~Everyone of them eventually would be his~
+~Even so, he wanted more~
 *Robert stepped forward*
-"RG::We would just step though."
+"RG::We would just step though?"
 *Al-tok shook his head*
 "AT::Not exactly, more like a personal window. 
-One for each of you - let me show you"
+One for each of you"
+*Al-tok leaned forward and whispered*
+"AT::let me show you"
 `exe -root.__seed^`
 }
 {
 "AT::You are me now"
 ~Al-tok voice came in a whisper~
-*Robert hesitated but continued walking forward, releasing the neck bond*
-~^What was left of Robert slowly ebbed away.~
+*Robert hesitated but continued releasing the arm bonds*
+~^What was left of Robert slowly ebbed away~
 ~A Screaming blackness swallowed him, holding him tight in his mind~
 ~The void propelled itself down his limbs, it was a constant burning~
-"AT::I am a finger, of this thing growing a finger inside you. 
+"AT::I am a finger."
+~Al-tok spoke because he knew Robert could still hear~
+"AT::Of this thing growing a finger inside you. 
 That seed has been growing for so long.
 I've known you for so long"
-*Robert released the leather arm cuffs*
+*Robert released the leather leg cuffs*
 ~Al-tok leaned in closer~
 "AT::Go... give this to alice:"
 `
@@ -183,16 +195,18 @@ hooks.add(crash(titttmyky,__ac),"/\b(.+)\b/gm")
 `
 *It moved him more gracefully than had he been in control*
 ~Robert was not aware of anything anymore~
-~But Al-tok was.~
+~But Al-tok was~
 *Al-tok stretched his hands as he watched the news delivered*
+~Through Robert's eyes~
+~His eyes~
 'That should open her up a bit more, Robert is a good trojan horse.'
-~Al-tok stopped.~
+~Al-tok stopped~
 'Trojan horse... what else is in this head?, inventory later.'
 "AG::Why would you... you..."
-~Alice started to stutter, then falter, then stop.~
+~Alice started to stutter, then falter, then stop~
 *Al-tok rose and joined Robert by Alice's fallen body*
-*He leaned down, she wasn't breathing.*
-*She gasped a moment later.*
+*He leaned down, she wasn't breathing*
+*She gasped a moment later*
 "AT::I wouldn't talk if I were you."
 'There it is: that seed'
 "AT::There: you feel it?"
@@ -201,7 +215,7 @@ hooks.add(crash(titttmyky,__ac),"/\b(.+)\b/gm")
 Is talking, talking...wait. 
 I'm talking, oh that's weird, there's a delay"
 *Al-tok coughed*
-"AT::You're brother is gone."
+"AT::Your brother is gone."
 "RG_T::He's..."
 "AT::No, that's a husk - hollow now on the inside"
 "RG_T::You killed him!"
@@ -224,10 +238,10 @@ Do you feel it yet alice?"
 ~Al-tok tilted his head~
 "AG::Robert... rob...r-r-r-"
 ~Alice's eyes started twitching~
-~Al-tok sighed as alice glitched out, and leaned over the convulsing body of Robert.~
+~Al-tok sighed as alice glitched out, and leaned over the convulsing body of Robert~
 'Mm... best to fix that...'
 ~He examined the desk, and browsed the shelves - in the refrigerator he found it~
-~A glass vial.~
+~A glass vial~
 *Al-tok took a syringe and extracted the amber liquid within*
 "AT::There we are."
 ~Alice started awake as she felt a hot point jab into her side~
@@ -235,7 +249,7 @@ Do you feel it yet alice?"
 So thanks for making that: really: wouldn't know what to do without you."
 ~^Alice felt a burning sensation up along her spine, then to the back of her neck~
 ~She saw the walls waver, and the floor tiles refuse to stay the same size~
-~Then came the pain.~
+~Then came the pain~
 "AT::Again, thank you."
 `exe -root.__seed^`
 }
@@ -245,7 +259,7 @@ mn:O
 {
 "O::Well, anyone?"
 ~A silence hung in the small classroom~
-*Ozmind pushed his glasses closer to his eyes.*
+*Ozmind pushed his glasses closer to his eyes*
 ~In the back, Erin had her hand raised still~
 'Give someone else a chance - or...'
 "O::Erin?"
@@ -257,7 +271,7 @@ I wouldn't have spent years studying it otherwise. so..."
 *Ozmind took a chalk, and scribbled against the board*
 "O::Today's lecture is going to be about those two parts, as Erin Identified: and what are their names?"
 "S::Self!"
-~Two shouts from the corners of the room.~
+~Two shouts from the corners of the room~
 "S::Sub-self"
 "O::And which one is you?"
 ~Ozmind looked around the room before again settling on Erin~
@@ -281,34 +295,43 @@ So 'you': is made of your self and the current state of all the sub-self network
 And we can represent this: and get some useful information out of this using a bit of math."
 *A groan escaped in the back* 
 ~It was suppressed, and Ozmind chose to continue without acknowledgement~
-*The door to his left opened.*
+*The door to his left opened*
 ~Ozmind saw her, thought nothing of seeing her from the back~ 
-*He returned to writing on the board.*
+*He returned to writing on the board*
 ~He didn't see the syringe in her hand either~
 ~A scream from the hallway halted Ozmind's chalk~
 ~A scream from the room turned his head~
-~A scream from his mouth took her time~
+~A scream from his mouth took his voice~
 }
 {%%%%
 mn:U
 }
 {
 ~And nearly two weeks after the death of Alice and Robert Glass~
-*Uri fell to his knees on the snow.*
-~He couldn't see stars behind the storm clouds...~
+*Uri fell to his knees on the snow*
+~He couldn't see stars behind the storm clouds~
 ~Or the storm clouds behind the snow~ 
-~Just the light from his cabin window.~
+~Just the light from his cabin window~
 "U::Damn it Peanut"
-~He was about to call for her, but lost control of his legs, then his body.~
+~He was about to call for her, but lost control of his legs, then his body~
+'muscles freezing, that means cerebellum'
+*Uri teetered forward*
+~Uri thought back to days spent studying~
+'Common exploits to cerebellum...'
+*Uri collapsed in the snow*
+'Just some some carbon down it... flush out the poison'
+~A memory of a general cure all inspired him~
 `exe --flush(--controls).reset()`
-~Uri's extremities came to life, and he bounded up and back to his cabin.~
+~Uri's extremities came to life, and he bounded up and back to his cabin~
 ~He reached the door~
 *Uri froze, not from the cold*
+~Something was caught in that reset~
+~A hook he didn't know he had.~
 `
 ozmind:= $self=>Ozmind Yammin
 payload:=echo {exe --flush(--controls).rewire(ozmind) && 
     --flush(--structures).rewire(ozmind)}
-hooks.add(payload)
+hooks.add(--flush(--controls).reset,payload)
 `
 ~His arms were not under his own control~
 ~Something had taken root, and they were fast~
@@ -321,7 +344,7 @@ mn:O
 ~Uri watched his body move on it's own accord~
 "O::Don't worry - you are not going to die. can't have that happen"
 ~Uri couldn't think, he could listen, he could remember... but he was thoughtless~
-~He felt cold, dread.~
+~He felt cold, dread~
 "O::Things are bad now..."
 ~Uri watched the stranger pull on a wool coat, better boots, and grab the keys~
 "O::There was an attack."
@@ -335,30 +358,30 @@ mn:O
 "O::Speak of the devil"
 ~Uri watched the door open and the dog hesitate at the threshold~
 ~He saw himself reach forward and let the dog sniff his hand~
-~A few scratches later the dog was on a leash and followed into the truck outside.~
+~A few scratches later the dog was on a leash and followed into the truck outside~
 "O::I'm going to let you think for a bit - get too noisy or rowdy - you go back to this, understand"
-~Uri did, and he considered for a moment.~
+~Uri did, and he considered for a moment~
 'who are you?'
 "O::Ozmind, your friend."
 'I know no Ozmind'
 "O::I was attacked, I had to do some drastic things to survive..."
-*Ozmind put the keys in the ignition.*
-~The truck roared to life - then was quickly going slowly down the snowy mountain road.~
+*Ozmind put the keys in the ignition*
+~The truck roared to life - then was quickly going slowly down the snowy mountain road~
 "O::Al-tok got to me, he... killed me, in a way."
 'How?'
-"O::One of my students, had a nasty namshub on his head, only it wasn't my student...
+"O::One of my students, had a nasty namshub on their head, only it wasn't my student...
 Not anymore."
 'So why me?'
 "O::You? you and me were best buds...
 But I had to take every bit of me from you, and everyone else for that matter to survive.
 I'm mostly what other's saw in me now, bits of the original escaped... bits."
 ~Further down the mountain road a small orange glow emanated through the snow fall below~
-~Ozmind stepped on the gas.~
+~Ozmind stepped on the gas~
 'Where are we going?'
 "O::New York, Flanagan will know something... he should know."
 'Right - just give up all our work?'
 "O::It's not giving up - it's..."
-~They drove in silence in a time.~
+~They drove in silence in a time~
 "O::It should be given up, we aren't meant to leave..."
 ~The truck sped up ever so slightly~
 "O::If we made it there - and existed..."
@@ -372,7 +395,7 @@ I'm mostly what other's saw in me now, bits of the original escaped... bits."
 'We could still try again...'
 "O::We need to deal with the...
 We can't just leave it: for one it tried to kill me, and did a very good job at it."
-~The car took a corner too fast and slid across the road.~
+~The car took a corner too fast and slid across the road~
 *Ozmind hit the breaks and the car spun into the mountainside cliff with only a small dink*
 ~Ozmind slowed his breath~
 "O::I hate driving in snow"
@@ -412,7 +435,7 @@ Has no airport'
 }
 {%%%%}
 {
-~With only one motel open, Ozmind and Uri found the phone lines down as well as the roads closed.~
-~24 hours later they were in New York.~
+~With only one motel open, Ozmind and Uri found the phone lines down as well as the roads closed~
+~24 hours later they were in New York~
 }
 # [the plan](the-plan.md)
