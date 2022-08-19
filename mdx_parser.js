@@ -79,27 +79,53 @@ const mdx_block_parser = (block,dfn)=>{
     sw.forEach(r=>ref=ref.replace(r,""))
     const tw = ref.match(/\'([^']*)\'/gm)||[];
     tw.forEach(r=>ref=ref.replace(r,""));
-    const scp=(txt,nlflag)=>{
-        const text_div =(txt,mainNB,speaker)=> `
-            <div style="${mainNB?'text-align:left; background-color:#248bf5; margin: 0 auto 0 0;':'text-align:right; background-color:e5e5ea; margin: 0 0 0 auto;'} border:solid;padding:3; border-radius:35px; width:fit-content;min-width:20vw !important;max-width:85vw;  ">
+    const scp=(txt,internal_data_flag)=>{
+        console.log(txt,"is raw text")
+        const text_div =(txt,mainNB,speaker,colors)=> `
+            <div style="${mainNB?`text-align:left; background-color:${colors[0]}; margin: 0 auto 0 0;`:
+                `text-align:right; background-color:${colors[1]}; margin: 0 0 0 auto;`} 
+                border:solid;padding:3; border-radius:35px; width:fit-content;min-width:20vw !important;max-width:85vw;  ">
                 <div style="font-size:2.5vh; padding-left:25;padding-right:25;">${speaker}</div>
                 <div style="padding-${mainNB?'left':'right'}: 15">${txt}</div>
                 </div>`
+        const speaker_regex = txt.match(/\w+[:][:]/gm);
+        const bg_colors=["#248bf5","#e5e5ea","#af202f","#fffff"]
+        const fg_colors=["#df80af","#af1fa0","#00d030","#00000"]
         switch(txt[0]){
             case "\"": 
-                const speakerregex = txt.match(/\w+[:][:]/gm);
-                if(speakerregex){
-                    let key = speakerregex[0].slice(0,speakerregex.indexOf(":")-1);
+                if(internal_data_flag){
+                    return `<span style="background-color:${bg_colors[0]}; color:${fg_colors[0]}">${txt}</span>`;
+                }
+                if(speaker_regex){
+                    let key = speaker_regex[0].slice(0,speaker_regex.indexOf(":")-1);
                     const speaker = get_speaker_with_title(key);
                     const mainFlag = speaker== defaultnarrator.current;
                     const dialouge = txt[0]+txt.slice(txt.indexOf("::")+2)
-                    const d = `<span style="background-color:inherit; color:#df80af">${dialouge}</span>${nlflag?`<br/>`:''}`
-                    return text_div(d,mainFlag,speaker);
+                    const d = `<span style="background-color:inherit; color:${fg_colors[0]}">${dialouge}</span>`
+                    return text_div(d,mainFlag,speaker,[bg_colors[0],bg_colors[1]]);
                 }
-                return `<span style="background-color:inherit; color:#af1fa0">${txt}</span>${nlflag?`<br/>`:''}`;
-            case "\'": return `<span style="background-color:inherit; color:#af0000">${txt}</span>${nlflag?`<br/>`:''}`;
-            case "\~": return `<span style="background-color:inherit; color:#afaf00">${txt}</span>${nlflag?`<br/>`:''}`;
-            case "\*": return `<span style="background-color:inherit; color:#44aaff">${txt}</span>${nlflag?`<br/>`:''}`;
+                return `<span style="background-color:inherit; color:${fg_colors[0]}">${txt}</span>`;
+            case "\'": 
+            if(internal_data_flag){
+                return `<span style="background-color:${bg_colors[2]}; color:${fg_colors[2]}">${txt}</span>`;
+            }
+            if(speaker_regex){
+                let key = speaker_regex[0].slice(0,speaker_regex.indexOf(":")-1);
+                    const speaker = get_speaker_with_title(key);
+                    const mainFlag = speaker== defaultnarrator.current;
+                    const dialouge = txt[0]+txt.slice(txt.indexOf("::")+2)
+                    const colors = mainFlag? [bg_colors[2],bg_colors[3]]:[bg_colors[0],bg_colors[1]];
+                    const d = `<span style="background-color:inherit; color:${fg_colors[2]}">${dialouge}</span>`
+                    return text_div(d,mainFlag,speaker,colors);
+            }else{
+                const speaker= defaultnarrator.current;
+                const colors = [bg_colors[2],bg_colors[3]];
+                const d = `<span style="background-color:inherit; color:${fg_colors[2]}">${txt}</span>`
+                return text_div(d,true,speaker,colors)
+
+            }
+            case "\~": return `<span style="background-color:inherit; color:#afaf00">${txt}</span>`;
+            case "\*": return `<span style="background-color:inherit; color:#44aaff">${txt}</span>`;
             case "\`": return `<code style="background-color:#4f4f4f;  color:#6a6a6a;";>${txt}</code>`;
            
         }
@@ -109,7 +135,7 @@ const mdx_block_parser = (block,dfn)=>{
     const transforms_words = lines_types.map(x=>{
         return {
             o:x,
-            t:scp(x,true),
+            t:scp(x,false),
         }
     })
     let transforms_data = pw.map(x=>{
@@ -133,7 +159,7 @@ const mdx_block_parser = (block,dfn)=>{
             },[])
 
         internal_data_matches_unique.forEach(match=>{
-            obj.t=obj.t.replaceAll(match,scp(match))
+            obj.t=obj.t.replaceAll(match,scp(match,true))
         })    
         obj.t=obj.t.replaceAll(/([t][r][u][e]|[f][a][l][s][e])/gm,`<span style="color:#9953e0">$1</span>`)
         obj.t=obj.t.replaceAll(/([=][>]|[<][=]|[e][x][e]|[|][|]|[W][I][T][H]|[W][H][I][L][E]|[T][R][Y]|[C][A][T][C][H])/gm,`<span style="color:#aa0000">$1</span>`)
@@ -149,7 +175,7 @@ const mdx_block_parser = (block,dfn)=>{
     transforms_data = transforms_data.map(x=>{
         return {
             o:x.o,
-            t:`<pre style="background-color:#4f4f4f; width:100%; font-size:65%; white-space: pre-wrap;word-wrap: break-word;"><span style="background-color:inherit;color:#00ff00">${x.t}</span></pre>`
+            t:`<pre style="background-color:#4f4f4f; width:100%; font-size:65%; white-space: pre-wrap;word-wrap: break-word;"><span style="background-color:inherit;color:#aFafd0">${x.t}</span></pre>`
         }
     })
     const transforms = [...transforms_data,...transforms_words].reduce((acc,t)=>{
