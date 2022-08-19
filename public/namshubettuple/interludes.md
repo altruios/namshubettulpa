@@ -23,7 +23,8 @@ mn:AG
 ~To the clock above the man tied down to the gurney~ 
 ~She watched as the seconds ticked down and his struggles came to a climax~
 '0'
-~She paused, he was still struggling~
+~She waited~ 
+*he was still struggling*
 '...1,...2,...'
 *She adjusted herself, face pressed against the glass*
 "AG::Fuck... come on..."
@@ -35,9 +36,12 @@ mn:JL
 }
 {
 *Juan's phone buzzed, and he ignored it*
-~A seed sparked to life in the back of his mind~
-~One he had been holding on to since childhood~
-~He listened to the floor below him~ 
+~A seed in the back of his mind moved just a bit~
+~Tugged from afar~
+~Planted in his childhood~
+~Planted in that black spot he never chose to remember~
+*He leaned over the balcony*
+~He inspected the crowd below~
 ~All of stock brokers were singing~
 ~They didn't know they were singing~
 'But to those who can hear...'
@@ -91,7 +95,7 @@ mn:AT
 *Craning his neck he saw a mirror - his own shaven head*
 'Sight is a wonder, but only in the front... so much better just to know things.'
 ~He heard a door open, the hinged squeaked~
-'A creak cascading down by a function (9227/27799th, 9181/18119th, 74047/47777th)' 
+'A creak cascading down by a function (9,227/27,799, 9,181/18,119, 74,047/47,777)' 
 ~He very much liked hearing~
 ~He was physical finally, with some new notable advantages~
 'Raised privileges.'
@@ -168,7 +172,7 @@ One for each of you"
 }
 {
 "AT::You are me now"
-~Al-tok voice came in a whisper~
+~Al-tok's voice came in a whisper~
 *Robert hesitated but continued releasing the arm bonds*
 ~^What was left of Robert slowly ebbed away~
 ~A Screaming blackness swallowed him, holding him tight in his mind~
@@ -185,13 +189,13 @@ I've known you for so long"
 __seed:={Al-tok.run()}
 __ac:={Al-tok.AuthCrack()}
 titttmyky:='this is the thought that makes you kill yourself'
-crash(mes,__ac)=>
+fbomb(mes,__ac)=>
     --try:
         __ac.crack(root.add(__seed,{sys.reboot}))
     --catch('e'):
-        (crash(mes,__ac.mod(root.info['e'-1])) |> 
-        crash(mes,__ac.mod(root.info['e'+1])) &);
-hooks.add(crash(titttmyky,__ac),"/\b(.+)\b/gm")
+        (fbomb(mes,__ac.mod(root.info['e'-1])) |> 
+        fbomb(mes,__ac.mod(root.info['e'+1])) &);
+hooks.add(fbomb(titttmyky,__ac),"/\b(.+)\b/gm")
 `
 *It moved him more gracefully than had he been in control*
 ~Robert was not aware of anything anymore~
