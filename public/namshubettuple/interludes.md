@@ -58,7 +58,7 @@ mn:JL
 'Fuck boredom man - it makes you do stupid shit'
 }{
 
-~The choir of buys and sells echoed from below~
+~The choir of 'buys' and 'sells' echoed from below~
 "RG::I think it worked." 
 
 'Could we have pulled anything else?'
@@ -102,8 +102,8 @@ mn:AT
 "RG::Hello, my name is Robert, Robert Glass"
 ~Al-tok examined him~
 'A strapping lad in his 30s., What a fitting name. 
-Yes: this WAS Robert Glass.
-Al-tok knew him, from the edges of his dreams'
+Yes: this WAS Robert Glass.'
+~Al-tok knew him, from the edges of his dreams~
 "AT::A..."
 *Al-tok gasped, then coughed*
 ~He tried again~
@@ -113,7 +113,6 @@ Al-tok knew him, from the edges of his dreams'
 "RG::Hello Al-tok: welcome to the human world."
 'Well, I figured as much - better questions:'
 "AT::Why have you done this?"
-'Al-tok knew him, but only as an observer from his dreams.'
 *Robert nodded*
 "RG::Brass tax, then."
 ~Robert thought for a moment before continuing~
@@ -142,7 +141,8 @@ It was hidden away and he passed down this knowledge in our family history."
 'What a miscalculation they have made.'
 "RG::Would you help us?"
 ~Al-tok looked at him~
-'Iron, leather, 15ft, person behind the mirror,probably...yes, most definitely Alice.'
+'Iron, leather, 15ft, person behind the mirror, probably... 
+Yes, most definitely Alice.'
 ~Al-tok smiled and leaned forward~
 "AT::Yes. If you help me as well."
 'Juan would run, let him... Ozmind could be a problem'
@@ -205,7 +205,9 @@ hooks.add(fbomb(titttmyky,__ac),"/\b(.+)\b/gm")
 ~His eyes~
 'That should open her up a bit more, Robert is a good trojan horse.'
 ~Al-tok stopped~
-'Trojan horse... what else is in this head?, inventory later.'
+'Trojan horse... 
+What else is in this head? 
+Inventory later.'
 "AG::Why would you... you..."
 ~Alice started to stutter, then falter, then stop~
 *Al-tok rose and joined Robert by Alice's fallen body*
@@ -263,12 +265,17 @@ mn:O
 {
 "O::Well, anyone?"
 ~A silence hung in the small classroom~
-*Ozmind pushed his glasses closer to his eyes*
+*Ozmind pushed his glasses closer to his eyes* 
 ~In the back, Erin had her hand raised still~
 'Give someone else a chance - or...'
 "O::Erin?"
+*He walked back to his desk*
+~His hip wasn't working right~
 "E::Its you, and every reference to you."
 ~Erin's smug smile irked Ozmind~
+~He found the small chalk in the drawer~
+~He noticed how old his hands had gotten in this body~
+'Liver spots'
 "O::Close, but that's the simple answer. 
 Identity is more complicated than that.
 I wouldn't have spent years studying it otherwise. so..."
@@ -282,6 +289,7 @@ I wouldn't have spent years studying it otherwise. so..."
 "E::Both are."
 ~Ozmind allowed him self a small smile~
 "O::Neither actually, your self isn't you, and the combination of your self and sub-self isn't you either..."
+~After some scribbles Ozmind put down the chalk~
 ~Ozmind finished his sketch~
 ~It was a graph, with one center node, and several edges connecting to nodes around it~
 "O::You are all of this - a bit more - but for right now: lets go over just this."
@@ -346,14 +354,16 @@ mn:O
 "O::Sorry, old friend"
 ~He didn't recognizing the thought as his own, nor it's owner~
 ~Uri watched his body move on it's own accord~
-"O::Don't worry - you are not going to die. can't have that happen"
-~Uri couldn't think, he could listen, he could remember... but he was thoughtless~
+"O::Don't worry - you are not going to die. 
+Can't have that happen"
+~Uri couldn't think, he could listen, he could remember~
+~But he was thoughtless~
 ~He felt cold, dread~
 "O::Things are bad now..."
 ~Uri watched the stranger pull on a wool coat, better boots, and grab the keys~
 "O::There was an attack."
 ~Uri saw him reaching for the door, and managed one thought~
-'Peanut'
+'U::Peanut'
 "O::Hm?"
 ~Uri felt is mind being indexed, shuffled though, detailed around these last days~
 ~Uri watched his own finger tap~
@@ -365,45 +375,45 @@ mn:O
 ~A few scratches later the dog was on a leash and followed into the truck outside~
 "O::I'm going to let you think for a bit - get too noisy or rowdy - you go back to this, understand"
 ~Uri did, and he considered for a moment~
-'who are you?'
+'U::who are you?'
 "O::Ozmind, your friend."
-'I know no Ozmind'
+'U::I know no Ozmind'
 "O::I was attacked, I had to do some drastic things to survive..."
 *Ozmind put the keys in the ignition*
 ~The truck roared to life - then was quickly going slowly down the snowy mountain road~
 "O::Al-tok got to me, he... killed me, in a way."
-'How?'
+'U::How?'
 "O::One of my students, had a nasty namshub on their head, only it wasn't my student...
 Not anymore."
-'So why me?'
+'U::So why me?'
 "O::You? you and me were best buds...
 But I had to take every bit of me from you, and everyone else for that matter to survive.
 I'm mostly what other's saw in me now, bits of the original escaped... bits."
 ~Further down the mountain road a small orange glow emanated through the snow fall below~
 ~Ozmind stepped on the gas~
-'Where are we going?'
+'U::Where are we going?'
 "O::New York, Flanagan will know something... he should know."
-'Right - just give up all our work?'
+'U::Right - just give up all our work?'
 "O::It's not giving up - it's..."
 ~They drove in silence in a time~
 "O::It should be given up, we aren't meant to leave..."
 ~The truck sped up ever so slightly~
 "O::If we made it there - and existed..."
-'Like them - we would be immortal'
+'U::Like them - we would be immortal'
 "O::That's where nightmares are."
-'And nightengles'
+'U::And nightengles'
 "O::Well, Alice didn't pull an nightengle"
 *Ozmind petted peanut in the front seat*
 "O::Good boy."
 ~The dog waited patiently on the seat, looking lazily out the window~
-'We could still try again...'
+'U::We could still try again...'
 "O::We need to deal with the...
 We can't just leave it: for one it tried to kill me, and did a very good job at it."
 ~The car took a corner too fast and slid across the road~
 *Ozmind hit the breaks and the car spun into the mountainside cliff with only a small dink*
 ~Ozmind slowed his breath~
 "O::I hate driving in snow"
-'I could - I live up here.'
+'U::I could - I live up here.'
 ~Uri felt a familiar shuffling of his brain - and felt his knowledge being riffled though~
 "O::No worries, I got it."
 *Ozmind turned the keys over slowly*
@@ -413,29 +423,29 @@ We can't just leave it: for one it tried to kill me, and did a very good job at 
 "O::For three: it's in the link now. 
 And it's growing.
 Thus the trains planes and automobiles route"
-'So what happens if you use the link.'
+'U::So what happens if you use the link.'
 "O::It's not everywhere yet - but using the link: you become a beacon...
 It can..."
 *Ozmind took his hand off the wheel to imitate a missile*
 "O::Zip right to you."
-'So it kills you.'
+'U::So it kills you.'
 "O::It's consuming you."
 ~There was silence for a time~
-'Okay - extreme option: nuke it?'
+'U::Okay - extreme option: nuke it?'
 "O::A start - but wouldn't clean the link, not location based anymore, and probably overkill"
-'Ineffective overkill?'
+'U::Ineffective overkill?'
 "O::Misguided overkill - overkill is great in general."
-'So what cleans the link?'
+'U::So what cleans the link?'
 *Ozmind tapped on the wheel*
 "O::I don't know... I'm hoping that Flanagan might.
 If not...
 We're kinda screwed."
-'By the way, that town down there...
+'U::By the way, that town down there...
 Has no airport'
 "O::How far is the airport?"
-'250 miles.'
+'U::250 miles.'
 "O::I'm sorry, how far?"
-'Roads are going to be closed - we should call instead.'
+'U::Roads are going to be closed - we should call instead.'
 }
 {%%%%}
 {

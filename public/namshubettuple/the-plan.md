@@ -37,7 +37,7 @@ mn:R
 *She looked out the window*
 ~It was void - filled with bright light~
 ~In the distance she saw shadows - the same shadows behind her~
-'I am looking through his... my eyes, not... my eyes here...'
+'M::I am looking through his... my eyes, not... my eyes here...'
 "M::Hey - can you walk over here: when you get the chance."
 *Rossin, in her body, nodded at her*
 "R::Do you want to stay here Felix, and help us?"
@@ -79,10 +79,13 @@ WITH hooks(
 "O::Yeah - he's not thinking right now. let me just..."
 *Rossin and Martha looked out the window*
 ~It was a hollow void of light - with no clear boundary on any horizon~
+~Emanating a blanket's security, and comfortable warmth~
 *Flanagan nodded*
 "FL::And her?"
-*His gaze fell to Rossin*
-~And even though Rossin had her body still turned to Flanagan: he became more solid~
+*His gaze fell to Rossin's Back*
+
+~And though Rossin had her body turned away from him: Flanagan became more solid~
+~His outline sharpened and he became brighter~
 ~As if by his attention focused on them - made him more real~
 *Her head nodded of Rossin's accord*
 "R::She's fine to hear - quick study too."
@@ -93,7 +96,7 @@ WITH hooks(
 "FL::Shadows of shadows... 
 long ago..."
 ~Flanagan paused~
-"FL::If it was contained, we could send it back, but in the link."
+"FL::If it was contained, we could send it back, but since it's in the link now"
 ~Ozmind's voice cut in~
 "O::It hasn't shown any signs of slowing it's growth."
 "M::So... how long do we have?"
@@ -111,8 +114,6 @@ long ago..."
 "FL::We're meeting her there, make the call."
 *Lenny pulled out a cell phone and made the call*
 ~Felix's continued gasping of surprised serenity counterpointed the cellphone's ring~
-"L::Stay."
-*He hung up and looked at Flanagan*
 "FL::Most of the people who would take advantage of that open line would be dead now, or otherwise now in disorder."
 *Jochek shrugged*
 "R::What's the plan?"
