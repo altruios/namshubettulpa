@@ -206,8 +206,135 @@ Also would you mind telling Felix he is a potato so he wakes up?"
 mn:K
 }
 {
-`{dime: kent escape}`
+~Kent watched the syringes brought to the center of the room~
+"AG_T::We have only this much made today."
+"RG:_T::Getting production up to scale takes some time"
+~In the corner the man with the shaven head watched~
+~Kent kept him in the corner of his eye~
+'I am at the right hand side'
+~despite the circle gathering Kent sensed the head of this gathering~
+'From the entrances and exits - seats watching everything creating a power imbalance'
+~And kent watched that man in the corner~
+~That man was scanning the room, interested in the others more than him~
+"RG::Real power - chemically accessed"
+'Okay - bad ideas out of the way - probably should not run'
+'Even if you get a hold of that syringe'
+'Event if there is a good escape'
+'Just get out of here quietly'
+"O_T::Take it - and you will have unlimited power"
+"RG_T::Power of your dreams and beyond"
+"AG_T::We only have three today"
+~The small group of about 20 wondered only shortly how they would be rationed~
+"RG_T::Everyone's going to get one - so lottery doesn't make sense.
+We'll start to my right."
+}
+{
+*Kent clenched stomach*
+'Okay: you have permission to run'
+'Especially if you can grab that syringe'
+'They are looking at you, deer caught in the headlights'
+~Kent considered the fact he was immune, and no one out on the street was~
+*Kent reached out his hand*
+"K::I'll do the honors"
+*Kent rolled his neck*
+"K::Arm, neck, or anywhere?"
+*Alice handed him a syringe*
+*He passed it down to his left*
+'Stall tactic - keep going'
+*Alice handed him another*
+*And then the third once he passed that down*
+~The second person sitting to his left held the syringe inspecting it~
+*The man to his left stabbing it into his own upper thigh*
+*The second man to his left bolted upright, and then scrambled out one entrance*
+~The entrance opposite to the way Kent entered~
+*Kent did the same, running in for the opposite exit*
+~Kent heard words that weren't words and then a loud thud~
+~He didn't look back~
+*He ran down the hallway to the exit*
+}
+{
+~He made it to the corner of the alley of the street before he headed anything behind him~
+*He turned around*
+~At the metal entrance was that woman in the red cardigan~
+~He knew she saw him make a right~
+'Okay, relax  - think'
+~He kept running with the sun in his eyes~
+*He undid his jacket, and his empty gun holster*
+*He rounded a corner and took them off*
+~He took a moment to catch his breath~
+*He dropped the empty jacket down in the corner*
+}
+{
+'Okay, timing and finesse - you got this'
+~He waited for her to round the corner~
+*She did so in a hurry*
+*He had her back to her, waving at someone*
+*Kent Walked backwards*
+~Alice had not turned yet~
+*Kent tossed the gun-strap on the other side of the corner*
+*He then continued crossing the street, towards central park*
+*He turned around and faced the park*
+~He couldn't see her, but neither could she see his face~
+~He was halfway though the street before he heard a muttering~
+'Okay,what is she doing?'
+~Kent watched everyone - and was almost prepared for the sudden stop~
+*He stopped*
+}
+{
+~He forced his breath to be as regular as he could muster~
+'Red-light green-light bullshit'
+~He felt her gaze fall over him, and slip away~
+~When nothing was moving but one thing - it was much easier to hear~
+'Those words again'
+~No sooner had he registered them he realized everyone was turning toward her~
+~He did likewise~
+*He stared at her stone faced*
+~He had the syringe palmed in his hand still~
+~She scanned the crowd and her gaze never halted on him~
+*She wandered in a wide arc, before settling to backtracking*
+~He watched from across the street her run away from him~
+~Everyone around him, including the cars came back to life suddenly~
+~He did the same~
+'They just let me go, with this syringe?'
+~He was cupping it so he wouldn't stab himself accidentally~
+~But he'd just as soon rather not have it~
+*Kent walked to and sat down on a bench*
+"F::So was it her or wasn't it?"
+"U::It felt like her - but I saw the footage"
+~Kent watched two men hurriedly run toward the intersection he was at~
+*He got up and walked a short distance behind them*
+~Close enough to hear~
+"U::Her lab is across town"
+"F::Undernet is right here, that's where they're at"
+*Kent paused*
+'are they going to meet?'
+"F::We should head to the lab if it's empty"
+"U::Empty of Alice, maybe more, but by now"
+~They walked toward the alley he came out of~
+*Kent stopped at the entrance for the alley and looked in*
+~Felix was leaned against the wall, and the other one was opening the door~
+*The door opened and that shaven man was in the hallway*
+~Kent could hear words that weren't words~
+*The man at the door crumpled*
+~Kent wavered if he should help~
+*The shaven man stepped out into the light*
+*Felix swung a pipe into the man's head*
+~A few more pipes behind Felix scattered to the ground~
+*The man staggard and fell*
+~An ichor poured out of the wound~
+~Not blood: but something richer - thicker~
+~A color that was unnatural~
+~It was both black, and every color - or more a color that didn't exist~
+~A chemistry that didn't exist~
+*It sizzled in the afternoon sun*
+~It was on the concrete - and parts sprayed into the man that opened the door~
+*It sizzled on Uri's face*
+~Both Uri and the shaven head man were motionless on the ground~
+*Felix ran out of the alley*
 }
 {
 %%%%
+}
+{
+
 }

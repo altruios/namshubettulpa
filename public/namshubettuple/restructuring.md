@@ -134,7 +134,7 @@ mn:K
 ~He could afford a few hours yet..~
 'Somewhere close by.'
 ~He scanned the streets beyond the park~
-~In the short distance he saw a hotel sign - dolphin~
+~In the short distance he saw a hotel sign - Dolphin~
 'A bit ritzy but that is close.'
 ~Down beyond the sign in front of the main entrance something caught Kent's eye~
 ~A shorter woman was holding out a phone in front of her like a shield~
