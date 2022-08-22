@@ -3,7 +3,7 @@
 mn:M
 *Martha sat in the center of a wooden bench while Rossin paced around the cell.* 
 ~Avoiding stepping over her 3 cell mates - his left arm wrapped around him providing a supporting anchor for his right, which he used to scratch his chin and hold his head.~
-"R::He literally doesn't have a link, not just hooks - it's like he's a robot or something"
+'R::He literally has no link, not just hooks - as if he is a robot'
 *One of the cellmates leaned back - stretched their foot out* 
 *Rossin pass through it, unnoticed.* 
 "M::You said they were in media - he doesn't consume any... 
@@ -12,56 +12,57 @@ Ergo - no hooks."
 ~A cellmate asked.~
 *Rossin waved his hand at that.*
 ~His free one~ 
-"R::Children's books, radio, newspapers, billboards. 
-Fucking billboards - and he just hasn't happened to see anything. 
+'R::Children books, radio, newspapers, billboards. 
+Fucking billboards - and he just happened to not see anything. 
 Not once - in his life. 
-He looks like he's what, 40? 
+He looks like heis what, 40? 
 You really think a 40 year old detective could live his life without consuming any media...
 This by the way includes textbooks. 
-I don't think you appreciate exactly how saturated this world... 
+You do not appreciate exactly how saturated this world... 
 This country is in these hooks. 
-He's either a statistical anomaly..." 
+He is either a statistical anomaly...'
 ~Rossin paused.~ 
 *Groaning, he laughed* 
-"R::He's missing part of his brain.
-You saw him scratch at his head - he probably has a scar back there..."
+'R::He is missing part of his brain.
+You saw him scratch at his head - he probably has a scar back there...'
 "M::So he's a brain damaged detective?" 
 ~Martha asked.~
 *Rossin nodded.* 
-"R::Not sure how. 
+'R::Not sure how. 
 I, my writer, always thought the link was tied to consciousness... 
-Any injury that would cause the link to fail would also put you in a coma"
+Any injury that would cause the link to fail would also put you in a coma'
 "M::Maybe he was in one?"
-"R::I doubt it would be one you wake up from...
+'R::I doubt it would be one you wake up from...
 Which - also, by the way, is exceedingly rare. 
-You don't just wake up from a coma - that happens on TV"
+You do not just wake up from a coma - that happens on TV'
 ~The other people in the cell shared glances.~ 
 ~Nontalkative as they were, they were clearly being put off by her talking to thin air.~ 
 ~Martha looked at them.~
 "M::Should we be talking now?" 
 *She asked as she gestured to the three in front of her.*
 *Rossin glanced around,* 
-"R::Oh, them? 
-Don't worry about them, we can always have them forget after - or during. 
-Are they making you uncomfortable?"
+'R::Oh, them? 
+We can always have them forget after - or during. 
+Are they making you uncomfortable?'
 "M::Well, no - but I don't think they think I'm sane"
-"R::So what? 
-If you want me to - I could just hook them so they turn around and can't hear us"
+'R::So what? 
+If you want me to - I could just hook them so they turn around and will not hear us'
 ~Martha considered.~
 *She shook her head.* 
 "M::It didn't work with the detective"
-"R::The detective is a fluke - one I... 
-My writer - would have loved to study"
+'R::The detective is a fluke - one I... 
+My writer - would have loved to study'
 ~Martha said quietly,~
 "M::What if it's me"
-"R::What?"
+'R::What?'
 "M::What if I damaged something, when I was stopped?"
 ~Rossin considered.~ 
-"R::More reason to give it a try... 
-Just don't rip control from me while I'm connected and we'll be fine"
+'R::More reason to give it a try... 
+Just let me keep control from me while I am connected and we will be fine'
 "SM::Hey lady, I said who are you talking to?" 
 ~The tone had an undercurrent of aggression - one that expected an answer.~
-*Martha nodded, and switched the flip in her brain.* }
+*Martha nodded, and switched the flip in her brain.* 
+}
 {
 mn:R
 ~Before she knew it she was outside herself in that shadowy perspective.~
@@ -78,7 +79,7 @@ mn:R
 ~None were talking to each other.~ 
 *She glanced up at the corner of a wall* 
 ~A small black camera was pointed at the holding cell,~ 
-"M::What about cameras?"
+'M::What about cameras?'
 *Rossin sighed.* 
 "R::Again, it really doesn't matter, but..." 
 *Rossin turn toward the camera*
@@ -111,9 +112,9 @@ Now's as good a time as any - what you did: you shouldn't do it again.
 Not until you know exactly what you did - I couldn't get you out... 
 And I wasn't with you."
 *Martha tilted her head.*
-"M::What exactly did I do? I just remember..."
+'M::What exactly did I do? I just remember...'
 ~Martha searched for the words~
-"M::Like I just... stopped"
+'M::Like I just... stopped'
 *Rossin signed and leaned forward across the bench.*
 "R::You weren't exactly in your own head.
 You didn't stop you just stopped being in you... 
@@ -124,7 +125,7 @@ There's a threshold, a barrier - one you have to have some..."
 ~Rossin struggled for the right word,~ 
 "R::Momentum to make it though... 
 Otherwise you get lost in the weeds of your mind"
-"M::But I'm here now."
+'M::But I am here now.'
 *Rossin nodded then spread out his hands.* 
 "R::I couldn't do anything to bring you back. 
 It took something physically frightening enough, to trigger an automatic response... 
@@ -140,12 +141,13 @@ mn:M
 ~It felt like a constant ripping and a stretching that bordered between pain and pleasure.~
 "M::I don't think I want to get used to that, it's like crawling back underneath your skin... from..."
 ~She struggled to find the words.~
-"R::He's almost here. He's close."
+'R::He is close. 
+Almost here.'
 ~Rossin was sitting where Martha had been in that shadow perspective.~ 
 *She closed her fist a few times, testing.* 
 *Rossin walked through the bars toward the door*
-"R::And about getting out of here. 
-I expect it would be a good thing to do sooner rather-"
+'R::And about getting out of here. 
+I expect it would be a good thing to do sooner rather-'
 *The door opened.* 
 ~Pausing Rossin's warning as it passed though him.~ 
 *In strolled a man.* 
@@ -156,7 +158,7 @@ I expect it would be a good thing to do sooner rather-"
 "F::Hello there" 
 ~His voice reeked of condescension, and a trace of annoyance.~ 
 "F::Do you know where I was?"
-"R::He was in fiji - tell him that, don't shake your head - just answer"
+'R::He was in fiji - tell him that, keep your head still - just answer'
 *Martha nodded*
 "M::Fiji."
 "F::A long flight, and I find you here..." 
@@ -185,16 +187,18 @@ I expect it would be a good thing to do sooner rather-"
 "F::Why are you here?"
 "M::I killed someone," 
 "F::...So?"
+}
+{
 ~Rossin perked up,~ 
-"R::Tell him you were bored."
+'R::Tell him you were bored.'
 "M::I...
 Haven't done that before." 
 ~Felix paused, considering.~ 
 "F::I see. 
 You know you can bring them back right?"
 *Martha looked up sharply, eyes darting to Rossin, who shrugged,* 
-"R::I tried to tell you... 
-But you stopped listening to me..."
+'R::I tried to tell you... 
+But you stopped listening to me...'
 "M::How?" 
 ~Martha tried to remain calm...~
 ~But her chest hollowed, an on mix of terror and relief~ 
@@ -243,7 +247,7 @@ Other than what's in my head."
 *A small eyebrow raise.*
 ~Subtle - Martha barely noticed.~
 "F::Undernet ring a bell?"
-"R::Ask about it."
+'R::Ask about it.'
 "M::What's that?"
 *Felix smile brittled and his eyes narrowed*
 "F::So...
@@ -254,13 +258,13 @@ No teacher?"
 "F::Do you want one?"
 ~Rossin paused, and looked at Felix in disbelief - inspecting him.~ 
 *Suddenly Rossin smacked his head.*
-"R::Stupid men, he thinks your pretty, use it... 
-That's something they teach others - don't share the power... 
-It could be a trap. but..." 
+'R::Stupid men, he thinks your pretty, use it... 
+That is something they teach others - do not share the power... 
+It could be a trap. but...'
 *Rossin leaned in again studying the man.* 
 ~He was almost... excited.~
 *Martha nodded.* 
-"R::Narcissists love a good ego stroking -"
+'R::Narcissists love a good ego stroking -'
 "M::I've been looking... 
 Have I found a good one?" 
 *Her lip curled just a bit - the way she saw it done on tv.* 
@@ -291,7 +295,7 @@ By not doing that and letting your neighbor stay dead.
 You're making a choice.
 You are saying you would rather have a random killer on the loose than your neighbor. 
 Is that what you want?"
-"R::That escalated quickly..."
+'R::That escalated quickly...'
 "M::I'd have to find a psychotic killer first. 
 I don't exactly have access to a lot of them"
 "F::But you do...
@@ -305,7 +309,7 @@ Right - you're new."
 ~Martha started~ 
 *Raised her hand to stop him.* 
 *Rossin put his hands up in a calming gesture,* 
-"R::Let this play out, it's what I was trying to tell you earlier" 
+'R::Let this play out, it is what I was trying to tell you earlier' 
 *She backed down.* 
 *Albert left the room, and was back in moments.* 
 ~He was holding another scrawny police officer by the collar.~ 
@@ -324,8 +328,8 @@ It's bad form to trash the playground."
 "F::Let's get out of here, shall we?" 
 *Martha took it.*
 *Rossin leaned over to her* 
-"R::This is a stroke of luck - he's not trying to erase you... 
-I think that's lucky at least..."
+'R::This is a stroke of luck - him not trying to erase you... 
+I think that is lucky at least...'
 ~They left the room the holding cell was in.~
 ~Only to find the police station quiet and still.~
 ~With no police officer, or anyone in the station moving or making a sound. ~
