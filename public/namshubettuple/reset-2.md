@@ -222,44 +222,45 @@ Do you remember anything within the last half hour?'
 *She told him what she remembered, and he nodded.*
 }
 {
-'R::Okay, that's actually really good, fortunate actually... 
+'R::Okay, that is really good, fortunate actually... 
 You read something, saw something that was written as an attack. 
 It was designed to be automatic.
 When read, or seen to be executed by a human it executed...
 Without their ability to process what they were doing or to stop themselves. 
 I overwrote that attack to neutralize it. 
 I was written by a council Member with ethics. 
-He didn't agree with what the council was doing so he tried to sabotage them. 
+He did not agree with what the council was doing so he tried to sabotage them. 
 I failed. 
-The thing, creature that I killed, already killed it's target. 
-It doesn't stay dead if you see it again. 
+The thing, creature that I killed, already killed its target. 
+It does not stay dead if you see it again. 
 It did some damage. 
 It left a kind of hole in you, in your consciousness... 
 A place for it to return to. 
-All over the kitchen are"
+All over the kitchen are'
 `hooks=>(~Symbolic link back into an existing entity~)`
 'R::A part of it... 
 A small part... 
 Like a seed... 
-It's still in you:dormant. 
+Still in you:dormant. 
 If you see that expression it grows back and well... 
-It's designed to kill the target and then the host... 
-So don't look left okay, keep your head straight. 
-I've cleaned up everything that links us back to this... 
+Designed to kill the target and then the host... 
+So do not look left okay, keep your head straight. 
+I have cleaned up everything that links us back to this... 
 We just walk out the door, with the gun. 
-Not that there's going to ever be any trouble. 
+Not that there is going to ever be any trouble. 
 We can just rewrite anyone that gives us trouble. 
-But I can't walk for you, and I can't force you to keep your head straight. 
-You've been doing great so far."
+But I can not walk for you, nor force you to keep your head straight. 
+You have been doing great so far.'
 ~Martha listened in ever mounting disbelief~
 ~But then, she pondered that insertion of a definition without him saying anything,~
 ~That left her without words.~
 ~She absorbed what he had been saying before letting her thoughts percolate~
-'M::He was dancing around who he was, what he was...'
+'He was dancing around who he was, what he was...'
+
 }
 {
 "M::What exactly are you?"
-'R::Do you want the long answer or the complete answer?"
+'R::Do you want the long answer or the complete answer?'
 *A small corner of her eye twitched up,*
 "M::Complete?"
 `self.explain=>( 
@@ -278,36 +279,36 @@ You've been doing great so far."
 ~^A click, and then sharp pain stabbing somewhere inside her brain.~
 *She hissed, and groaned.*
 'R::Sorry, I seem to have some restricted features. 
-Those probably weren't meant for you.
-But you got everything before that point, yes?"
+Those probably were not meant for you.
+But you got everything before that point, yes?'
 *She nodded,*
 }
 {
 "M::Does that mean you're not really there?"
-'R::Well, I'm here to you... 
+'R::Well, I am here to you... 
 You perceive me... 
-And if I've gotten enough people to execute me in their brains... 
-Does it really matter at that point?"
+And if enough people to execute me in their brains... 
+Does it really matter at that point?'
 "M::But you're not actually in the chair"
 'R::If you poke me you would feel me. 
 If you push me out of the chair it would fall along as well. 
 You would make it so that it happened. 
 And everyone would agree what you saw IS what happened... 
-So what's the difference if I physically exist or not. 
-I'm here... 
+So what is the difference if I physically exist or not. 
+I am here... 
 A more troubling thought is, who else do you know like me? 
-People non-physical."
+People non-physical.'
 "M::But only I see you, right? You're in my head?"
 'R::Right. 
-To everyone else, they would see you knocking over the chair with your hand"
+To everyone else, they would see you knocking over the chair with your hand'
 "M::So I'm basically crazy"
-'R::No your reality just doesn't line up with most others"
+'R::No your reality is just a bit realigned'
 "M::hat's what crazy is!"
 ~And a moment later, and a bit quieter~
 "M::I'm not crazy."
 }
 {
-'R::Go ahead, push me out of the chair, and see for yourself"
+'R::Go ahead, push me out of the chair, and see for yourself'
 ~She did: not with any grace, or particular speed.~
 ~But with a deep well of rage hidden deep below a murky still pond,~
 *He fell backwards, knocking his head against the wall,*
@@ -345,11 +346,11 @@ She went around the corner as Rossin stepped out of the door behind her.~
 *He walked lazily down the steps, letting the door bang behind him.*
 "M::You're following me now?"
 *He shifted his tie, adjusted his hat now that it was on him.*
-'R::Well, I am in your head, you put two and two together."
+'R::Well, I am in your head, you put two and two together.'
 *Leaving him behind she walked past the side of the… mansion… yes it was a mansion.*
 ~Complete with a ridiculously long driveway and hedges blocking all surrounding views.~
 *She continued out to the street, Rossin making his way behind her.*
-'R::There's more."
+'R::There is more.'
 *He paused once he caught up...*
 "M::I just pushed you out of a chair! 
 You're real."
@@ -368,7 +369,7 @@ You're real."
 }
 {
 ~Rossin whisper was conspiratorially~
-'R::Don't scream."
+'R::Do not scream.'
 *And then he did a small skip and danced into the middle of the road.*
 *Just in time for the car, not having slowed down at all, to hit him.*
 *He folded onto the hood and rolled along it.*
@@ -384,11 +385,11 @@ You're real."
 *Her hand was shaking.*
 ~She never saw a car crash up close.~
 *A voice behind her called out, from where she had just been.*
-'R::Am I real?"
+'R::Am I real?'
 *Rossin, without a scratch on him, dusted off his sleeve.*
-'R::I really would like to know a definitive answer to that"
+'R::I really would like to know a definitive answer to that'
 ~She a double take: the body she had just been leaning over was gone.~
-'R::But you most probably are, so would you get out of the street."
+'R::But you most probably are, so would you get out of the street.'
 }
 {
 *Martha stood up and continued walking.*
@@ -404,15 +405,15 @@ You're real."
 {
 'R::Oh... 
 Right... 
-There's more than just memories missing... 
+There are more than just memories missing... 
 That thing latched on to a few other parts of your brain. 
-Some of your proprioception is missing..."
+Some of your proprioception is missing...'
 *Rossin joined her by her side.*
 "M::My what?"
 'R::Your ability to instinctively know distances, particularly to your ear. 
 You need a mirror to understand that distance...
-You need to be able to see, it - you won't feel it anymore...
-On a related note..."
+You need to be able to see it,
+On a related note...'
 ~Thoughts - injected into her.~
 ~It was a list~
 *^Martha gasped and grabbed at her eye*
@@ -425,20 +426,19 @@ Proprioception(~Right-pinky~ => ~Left-toe~]*EOLERR*("WrongLEN.Internal_...")^`
 "M::What was that?"
 *Rossin raised his hands - spreading his palms out.*
 'R::Right, I lost some things too. 
-It tried to grab a hold of me while I was in your head"
+It tried to grab a hold of me while I was in your head'
 *Rossin lowered his hands, and walked a bit closer*
-'R::There's apparently some sharp corners of that parts missing."
+'R::There are some sharp corners of the parts missing.'
 "M::What did you lose?"
-'R::If I remember, then I haven't lost them... 
-I don't know..."
+'R::If I remember, then I have not lost them...'
 }
 {
 ~They walked in silence for a time.~
 ~Martha attempted to exercise the ghost of a pain forgotten by rubbing at her eye.~
 ~It was mildly successful.~
-'R::It may be dormant,but it is not gone...
+'R::It may be dormant, but it is not gone...
 I just took out the internal triggers. 
-It's backup plan if it got removed... 
+Its backup plan if it got removed... 
 But Martha, there is more... 
 I mean of them... 
 I mean... 
