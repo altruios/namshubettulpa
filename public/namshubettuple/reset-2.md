@@ -436,30 +436,30 @@ I don't know..."
 ~They walked in silence for a time.~
 ~Martha attempted to exercise the ghost of a pain forgotten by rubbing at her eye.~
 ~It was mildly successful.~
-'R::It's dormant, it's not gone...
+'R::It may be dormant,but it is not gone...
 I just took out the internal triggers. 
 It's backup plan if it got removed... 
-But Martha, there's more... 
+But Martha, there is more... 
 I mean of them... 
 I mean... 
 External triggers.
 There are symbols or expressions that will activate that thing in your brain.
-Anyone who's read what you've read... 
-They make the same marks to retrigger anyone who's seen the original. 
-This kind of attack isn't uncommon in the higher circles of society.
+Anyone who has read what you have read... 
+They make the same marks to retrigger anyone who has seen the original. 
+This kind of attack is not uncommon in the higher circles of society.
 Secret - not talked about... but common.
-You'd only be at risk of that particular hook."
+You would only be at risk of that particular hook.'
 "M::So you're saying there's a mark or a symbol.
 And if I look at this mark or symbol: will make me an insane monster literally.
 Which will then kill itself and thus me?"
-'R::...Basically."
+'R::...Basically.'
 "M::Anything else? If I'm going insane, I might as well know what I'm in for."
-'R::I can teach you, we'll start with:"
+'R::I can teach you, we will start with:'
 `hooks=>(~Reaction definitions~)`
-'R::...and a few other basics, some history, and if you are exposed to a different"
+'R::...and a few other basics, some history, and if you are exposed to a different'
 `namshub=>(~Pieces of language that program~)`
-'R::I can catch it, but it's destructive in nature... 
-It literally kills me to do so, can't help with the hooks already in you though."
+'R::I can catch it, but it is destructive in nature... 
+It literally kills me to do so, no help with the hooks already in you though.'
 }
 {
 'M::So what? 
@@ -471,12 +471,12 @@ Was he to be that helpful little paperclip in the speech center of my brain?'
 ~Again, she felt a distinct awareness in her brain on the ordering of her thoughts.~
 *She shook her head clear and said*
 "M::Are you a virus, or a program?"
-'R::I'm a tuple. 
+'R::I am a tuple. 
 But if you are asking if you can exorcise me from your head, then yes.
-I'll go freely.
-But then you'll likely go to prison for that murder, or you can learn from me. 
-Join the society that controls everything at the deepest levels."
+I will go freely.
+But then you will likely go to prison for that murder, or you can learn from me. 
+Join the society that controls everything at the deepest levels.'
 *Rossin turned to her.*
-'R::And help my author bring it all down."
+'R::And help my author bring it all down.'
 }
 ## [the-start-of-bad-things](the-start-of-bad-things.md)
