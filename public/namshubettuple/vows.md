@@ -215,12 +215,12 @@ From the dream?'
 *She looked up at the mirror in front of her* 
 *Rossin stood behind her, she whirled.*
 "M::Where were you?"
-"R::Asleep it would seem"
+'R::Asleep it would seem'
 *Rossin looked around the room.*
-"R::You haven't been asleep all that long - apparently I still needed some."
+'R::You have not been asleep all that long - apparently I still needed some.'
 *Martha turned back to the mirror, swallowing more water.*
 "M::Any dreams"
-"R::A dreamless sleep, you?"
+'R::A dreamless sleep, you?'
 "M::Nightmare...
 Well."
 ~Martha started.~
@@ -232,17 +232,17 @@ Whatever it is...
 But there was a captain, in a storm. 
 And an Italian monastery with a romance novel that had some symbol on it."
 ~Rossin interrupted.~
-"R::What symbol"
+'R::What symbol'
 *Martha shook her head,*
 "M::It twists, undulates...
 I can still see it."
 *Rossin tapped his fingers at his side.*
-"R::Well, this actually directs our first lesson...
+'R::Well, this actually directs our first lesson...
 I want to see that - which means you need to learn some basic syntax. 
-How to send and receive data through the link."
+How to send and receive data through the link.'
 "M::You're in my brain, can't you just...
 See it?"
-"R::I may be in your brain, but I'm not in your mind. 
+'R::I may be in your brain, but I am not in your mind. 
 My mind sharing this brain with you, I didn't see anything in any dream. 
 So you'd have to send it to me...
 I can't read your mind, remember?"
