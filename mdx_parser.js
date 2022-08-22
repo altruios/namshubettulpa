@@ -82,15 +82,15 @@ const mdx_block_parser = (block,dfn)=>{
     const scp=(txt,internal_data_flag)=>{
         console.log(txt,"is raw text")
         const text_div =(txt,mainNB,speaker,colors)=> `
-            <div style="${mainNB?`text-align:left; background-color:${colors[0]}; margin: 0 auto 0 0;`:
-                `text-align:right; background-color:${colors[1]}; margin: 0 0 0 auto;`} 
+            <div style="${mainNB?`text-align:left; margin: 0 auto 0 0;`:
+                `text-align:right; margin: 0 0 0 auto;`} background-color:${colors[1]};
                 border:solid;padding:3; border-radius:35px; width:fit-content;min-width:20vw !important;max-width:85vw;  ">
                 <div style="font-size:2.5vh; padding-left:25;padding-right:25;">${speaker}</div>
-                <div style="padding-${mainNB?'left':'right'}: 15">${txt}</div>
+                <div style="padding-${mainNB?'left':'right'}: 15; color:${colors[0]}">${txt}</div>
                 </div>`
         const speaker_regex = txt.match(/\w+[:][:]/gm);
-        const bg_colors=["#248bf5","#e5e5ea","#af202f","#fffff"]
-        const fg_colors=["#df80af","#af1fa0","#00d030","#00000"]
+        const bg_colors=["#248bc5","#b5b5ba","#af202f","#b58782"] //blue // grey // red / greyred
+        const fg_colors=["#df50af","#408080"] //magenta//green
         switch(txt[0]){
             case "\"": 
                 if(internal_data_flag){
@@ -101,26 +101,27 @@ const mdx_block_parser = (block,dfn)=>{
                     const speaker = get_speaker_with_title(key);
                     const mainFlag = speaker== defaultnarrator.current;
                     const dialouge = txt[0]+txt.slice(txt.indexOf("::")+2)
-                    const d = `<span style="background-color:inherit; color:${fg_colors[0]}">${dialouge}</span>`
-                    return text_div(d,mainFlag,speaker,[bg_colors[0],bg_colors[1]]);
+                    const d = `<span style="background-color:inherit;">${dialouge}</span>`
+                    const colors = mainFlag? [fg_colors[0],bg_colors[0]]:[fg_colors[0],bg_colors[1]];
+                    return text_div(d,mainFlag,speaker,colors);
                 }
-                return `<span style="background-color:inherit; color:${fg_colors[0]}">${txt}</span>`;
+                return `<span style="background-color:inherit;">${txt}</span>`;
             case "\'": 
             if(internal_data_flag){
-                return `<span style="background-color:${bg_colors[2]}; color:${fg_colors[2]}">${txt}</span>`;
+                return `<span style="background-color:${bg_colors[2]}; color:${fg_colors[1]}">${txt}</span>`;
             }
             if(speaker_regex){
                 let key = speaker_regex[0].slice(0,speaker_regex.indexOf(":")-1);
                     const speaker = get_speaker_with_title(key);
                     const mainFlag = speaker== defaultnarrator.current;
                     const dialouge = txt[0]+txt.slice(txt.indexOf("::")+2)
-                    const colors = mainFlag? [bg_colors[2],bg_colors[3]]:[bg_colors[0],bg_colors[1]];
-                    const d = `<span style="background-color:inherit; color:${fg_colors[2]}">${dialouge}</span>`
+                    const colors = mainFlag? [fg_colors[1],bg_colors[2]]:[fg_colors[1],bg_colors[3]];
+                    const d = `<span style="background-color:inherit;">${dialouge}</span>`
                     return text_div(d,mainFlag,speaker,colors);
             }else{
                 const speaker= defaultnarrator.current;
-                const colors = [bg_colors[2],bg_colors[3]];
-                const d = `<span style="background-color:inherit; color:${fg_colors[2]}">${txt}</span>`
+                const colors = [fg_colors[1],bg_colors[3]];
+                const d = `<span style="background-color:inherit;">${txt}</span>`
                 return text_div(d,true,speaker,colors)
 
             }
