@@ -26,11 +26,11 @@ Second lesson: ready?"
 *But he raised a hand*
 "F::Why?"
 *Rossin started tapping his fist to a beat and counting his finger after a set, She looked at Rossin,*
-"R::He means information is power, the more freely it's shared the more diluted it is, the less useful it is to you..."
+'R::He means information is power, the more freely it is shared the more diluted it is, the less useful it is to you...'
 ~She rolled her head just enough to give the impression , 'okay, but what does he want to hear?'~
 ~Rossin finished counting with his finger.~
-"R::One word answer, something to show you understand...
- Like-"
+'R::One word answer, something to show you understand...
+ Like-'
 "M::Power."
 *Felix nodded.*
 "F::Power over you, power you lose."
@@ -64,20 +64,20 @@ Son I believe."
 *And walked to the center of the room.*
 ~He wore a glassy eyed stare that didn't see anything.~
 *Felix put the phone back in his pocket.*
-"R::Useful trick..."
+'R::Useful trick...'
 "F::You, in here!"
 ~He commanded the smaller officer inside, while Albert stood placidly with the yellow police tape.~
 "F::You, guard."
 ~Albert stood outside as Felix held the door.~
 *Martha moved in and Felix followed.*
-"R::Don't let him show you anything on this phone...
- Or your phone, any phone for that matter"
+'R::Look at nothing on this phone...
+ Or your phone, any phone for that matter'
 ~Rossin continued, more frantic than before~
 'Simple that, no looking at the phones of strangers...'
-"R::It's a general hook setter...
-I didn't get a good look at it...
-Because you didn't...
-Which is good - it looks like it's just a general command to follow his voice prompts."
+'R::A general hook setter...
+I did not get a good look at it...
+Because you did not...
+Which is good - it looks like it is just a general command to follow his voice prompts.'
 *Martha walked to where the outline of a body in white caulk was sketched into the wooden floor.*
 "F::Clean that up, both of you,"
 ~And they did as they were told.~
@@ -113,10 +113,10 @@ He mixes in the ocean, when he was a drop before...
 It's a long process - when no one knows who you were, you cease to be.
 That is the final death: the death in the back of everyone else's mind"
 *Martha nodded.*
-"R::He's mostly right...
-But he's leaving some things out. 
-But it's a fair gist of what it is. 
-He's pretty good at explaining, I think."
+'R::He is mostly right...
+But he is leaving some things out. 
+But it is a fair gist of what it is. 
+He is pretty good at explaining, I think.'
 }
 {
 "M::So how does he..."
@@ -194,8 +194,8 @@ Be explicit"
 }
 {
 *Rossin paced from the door to the kitchen entrance, listening and thinking.*
-"R::Okay - so you need to make sure he gets you to the New York academy, his ticket...
-They want him as a teacher there - he can get you in..."
+'R::Okay - so you need to make sure he gets you to the New York academy, his ticket...
+They want him as a teacher there - he can get you in...'
 *Martha turned to Rossin, Felix looked back.*
 "F::What is it?"
 *Martha looked back.*
@@ -294,8 +294,8 @@ Don't give them such an easy avenue into you as when you sleep."
 }
 {
 *Rossin paced back and forth.*
-"R::I think we got him...
-I haven't worked out what he wants exactly yet..."
+'R::I think we got him...
+I am unsure what he wants exactly...'
 *Martha jumped when the neighbor came to life, his son also started awake.*
 *They both turned to her.*
 "SM::What the fuck are you doing in my house?"
@@ -309,7 +309,7 @@ I haven't worked out what he wants exactly yet..."
 *The father started toward her, prompting Martha to sprint for the door.*
 *She just make distance before the son could reach her.*
 *She ran down the street,*
-"R::Keep going"
+'R::Keep going'
 ~She passed her house: focused on running down the sidewalk.~
 }
 {
