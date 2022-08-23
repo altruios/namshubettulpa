@@ -75,7 +75,7 @@ mn:F
 *He stiffened slightly - his eye had started twitching,*
 "F::Who's a good boy?"
 ~The cop didn't answer...~
-"F::When I say, who's a good boy, you say ‘I am, sir', now - who's a good boy?"
+"F::When I say, who's a good boy, you say: I am, sir, now - who's a good boy?"
 "P::I am, sir."
 "F::Now, go back to your little bike back there - and forget all about me"
 *The officer retreated back to the bike.*
@@ -90,6 +90,8 @@ mn:F
 "F::have you been a...
 A bad cop?"
 "P::Yes sir."
+"F::Have you intentionally ruined people's lives?"
+"P::Yes sir."
 'Not going to tolerate that'
 "F::Do you know any other bad cops."
 "P::Yes sir."
@@ -98,9 +100,9 @@ A bad cop?"
 *The officer pulled out the gun* 
 'bit of a quick draw... good.'
 "F::Now here's the important bit - do you want to be a good cop?"
-*The cop nodded*
-"C::Yes sir."
-"F::Now: go and shoot the bad cops.
+*The cop shook his head*
+"P::No sir."
+"F::Too Bad - Now: go and shoot the bad cops.
 Shoot them in the head. 
 Until they shoot you in the head.
 That'll make you a good cop."
@@ -132,7 +134,7 @@ mn:M
 ~The pictures were of her bloody shirt.~
 ~She watched them.~
 ~Most fiddled with phones, other's stifled laugher.~
-"R::Martha, would you mind..."
+'R::Martha, would you mind...'
 }
 {
 *He glanced at where she was looking, turned back to her and nodded.*
@@ -143,7 +145,7 @@ mn:R
 *She turned and saw the phones slip back into purses and tuxedo suit pants.*
 "R::Martha, before you switch back..."
 *She nodded,*
-"M::What is it?"
+'M::What is it?'
 *A server passed though her - she reacted only slightly.*
 ~She felt nothing - but still had braced for a crash.~
 "R::I would like to taste some of the food, if that's alright."
@@ -151,16 +153,16 @@ mn:R
 "R::I've never done so, and I'm so curious."
 ~Her stomach was hungry but her body was being fed.~
 ~She concluded it didn't matter by whom.~
-"M::Not all of it, but yes.
-Just leave at least half for me."
+'M::Not all of it, but yes.
+Just leave at least half for me.'
 }
 {
 *He nodded*
 "R::Then mind if I have the first bite?"
 *Martha nodded, looking around.*
-"M::I have a question: how far can I go in...
+'M::I have a question: how far can I go in...
 This state?
-Like if I just walk into the blackness behind you?"
+Like if I just walk into the blackness behind you?'
 "R::I wouldn't, besides: that thing in your brain is somewhere in there."
 *He placed a napkin in her lap - properly.*
 "R::While you're there.
@@ -186,7 +188,7 @@ Do you see the board any easier - why don't you try writing on it"
 *A server walked in front of her - a large steak meal was presented to her... *
 ~Rossin, that is, along with many side dishes, including lobster.~
 *She - Rossin, dug in.*
-"M::How am I supposed to do this? I can't write on that board at all."
+'M::How am I supposed to do this? I can not write on that board at all.'
 "R::Relax your mind, it's a new muscle - you haven't used it yet, it'll come."
 ~Rossin said between bites.~
 "R::This is delicious,"
@@ -205,9 +207,9 @@ mn:M
 *She shook her hand until her fingers felt normal...*
 ~It seemed like it took longer this time than it had before.~
 *Rossin noticed her shaking hand.*
-"R::Like I said - it does just a little bit of damage each time we do that...
+'R::Like I said - it does just a little bit of damage each time we do that...
 That will only get worse. 
-Which is why you need to learn to write on that board yourself."
+Which is why you need to learn to write on that board yourself.'
 *Martha nodded digging into the meal herself.*
 ~The flavor in her mouth started to expire.~
 ~Her stomach was near full, which did little to stop her hunger.~
@@ -227,9 +229,9 @@ Which is why you need to learn to write on that board yourself."
 }
 {
 ~Martha waited for Rossin, who didn't speak at first...~
-"R::I've been doing some - house maintenance with our shared home. 
+'R::I have been doing some - house maintenance with our shared home. 
 I put up a firewall between us and the link.
-Just say it's a trick you learned on the internet."
+Just say it is a trick you learned on the internet.'
 "M::You find all sorts of things on the internet."
 ~It was as cryptic a statement  she could make, she figured the more vague she was the better.~
 "F::That's a very useful trick, I was wondering how I would find you again."
@@ -237,7 +239,7 @@ Just say it's a trick you learned on the internet."
 "F::I didn't...
 I found a nice place to eat, which happened to have you in it. 
 Nice stroke of luck."
-"R::It was the best place in town"
+'R::It was the best place in town'
 "M::That's good, why not eat at the very best."
 }
 {
@@ -304,17 +306,17 @@ A pass/fail system I guess"
 ~She had a flash of inspiration - she tried just...~
 ~She moved the list she made onto the board, and it instantly worked.~
 ~The board flashed the words and Rossin looked surprised.~
-"R::Good job, what did you do?"
+'R::Good job, what did you do?'
 }
 {
 `['Those lists: I can just put them up here']`
-"R::That's a start." 
+'R::That is a start.'
 *Rossin examined the board.*
-"R::about 4 second meals, yes, and most of them yes - don't trust food they haven't prepared.
-I didn't hear him ask the waiter to poison his food"
+'R::about 4 second meals, more around noon, yes, and most of them yes - do not trust food they have not prepared.
+I did not hear him ask the waiter to poison his food'
 *Martha ate the offered steak.*
-"R::But you should also just be able to place thoughts there the same way. 
-Not wrapped in a list"
+'R::But you should also just be able to place thoughts there the same way. 
+Not wrapped in a list'
 *Felix switched to eat his own food.*
 }
 {
@@ -364,13 +366,16 @@ Studying her.~
 ~Rossin continued and Martha parroted.~
 "M::Breadcrumbs - on the internet."
 *Felix only smiled*~ - brittle and partially cracked.~
-"F::He's the only one that calls himself a professor. 
+"F::He's the only one that calls himself a professor...
+Besides Ozmind - who is actually a Math teacher of sorts, 
 Probably the only one of the Awakened that actually likes to teach...
+Ozmind, not Flanagan. 
+Flanagan never holds classes, just has a gaggle of students.
 He's...
 Eccentric is too light a word, and crazy...
 Also too light a word, just in a different context.
 He's died so many times I'm sure by now he's a caricature of himself"
-*Martha tilted her head, *
+*Martha tilted her head*
 "F::He...
 Probably isn't even really human at this point anymore. 
 He's something like an idea made manifest. 
@@ -380,48 +385,50 @@ Or he's now just the part of himself that lives in other's brains."
 By essentially being a story"
 "M::A story?"
 "F::Of himself, told by his students."
-*Felix mumbled between mouthfuls.*
+*Felix mumbled between mouthfuls*
 }
 {
-*He swallowed.*
+*He swallowed*
 "F::He always had some out there ideas...
 Even for the Awakened - they were...
 Out there."
 "M::Like?"
-*Martha sipped her water.*
-~Rossin gave words of encouragement. ~
+*Martha sipped her water*
+~Rossin gave words of encouragement~
 `['Well clearly he is happy with the way things are going.']`
 ~She was relaxing knowing Rossin would be able to navigate the rough spots~
 "F::Like Algera, or the Walkers.  
 He thinks there's people that are more powerful than the Awakened. 
 People behind the scenes controlling the Awakened... 
 Or some smuggling thing happening between 'realities'"
-*Felix scoffed.*
+*Felix scoffed*
+"F::Or weirder stuff, real cosmic hippy love/horror story there."
 }
 {
 *Martha leaned in*
 "M::And that's more crazy than the awakened?"
 "F::Well, Yes."
-~He started.~
+~He started~
 "F::We're gods, we control the hearts and minds of everyone...
 Everyone."
-~Felix was not angry - just...~
-~Determined to believe that.~
-*Rossin shook his head, *
-"R::Always the arrogance"
+~Felix was not angry~
+~Just determined to believe that~
+*Rossin shook his head*
+'R::Always the arrogance'
 *Rossin shook his head slowly*
-"F::We'd be able to control any Walker if they existed, which they don't."
+"F::We'd be able to control any Walker if they existed, which they don't. And this is definitely physical reality"
+*Felix stubbed is index finger into the wood of the table*
 }
 {
-~There was a pause, Rossin prompted her - pushed at that thread...~
+~There was a pause, Rossin prompted her - pushed at that thread~
 "M::He seems like an out-there kind of guy, would love to meet him."
 "F::You will: just be patient."
-*Felix took a sip of water.*
-~He let it dribble down his chin.~
+*Felix took a sip of water*
+~He let it dribble down his chin~
 "M::Are you?"
 "F::Am I what?"
 "M::Patient?"
-*Felix barked a laugh, then coughed to keep his food down.*
+*Felix barked a laugh, then coughed to keep his food down*
 "F::Hardly"
 "M::Then why should I be?"
 ~Felix smiled more seriously, then at Rossin's prompt, Martha continued:~
@@ -429,40 +436,41 @@ Everyone."
 I'm wired for this."
 }
 {
-*Felix nodded.*
+*Felix nodded*
 "F::Hope that you are, if you aren't...
 Well...
 Death would be better - in my opinion...
 I know people like to cling to life...
 But...
 Sometimes - death is better."
-~It was remorseful - hidden pain deep in memory.~
-~Martha waited, Rossin urging her to stay silent and wait.~
-~Finally Felix cleared his thoughts and continued.~
+~It was remorseful - hidden pain deep in memory~
+~Martha waited, Rossin urging her to stay silent and wait~
+~Finally Felix cleared his thoughts and continued~
 "F::We'll take the red eye out tonight. 
 Get whatever you need - not that you need to bring much. 
 Until then:"
-*He continued his meal.*
+*He continued his meal*
 "F::Enjoy what this city has to offer. 
 You'll be in New York for a long while."
 }
 {
-*Martha set down her empty plate.*
-*Then took a bit of artichoke from his.*
-*She ate it while Felix watched.*
+*Martha set down her empty plate*
+*Then took a bit of artichoke from his*
+*She ate it while Felix watched*
 "F::Have a good meal, I have things to do then."
-*Felix waved, dismissing her,*
+*Felix waved, dismissing her*
 "F::7pm, airport - meet me at the front desk."
 }
 {
-*Martha stood, she paused - and bowed before wandering off.*
-*Rossin followed at her side.*
-"R::Aye, that was good - going to New York. 
-And I'm pretty sure he's not just going to erase you...
+*Martha stood, she paused - and bowed before wandering off*
+*Rossin followed at her side*
+'R::Aye, that was good - going to New York. 
+And I am pretty sure he is not just going to erase you...
 He needs you for something...
-But I don't know what"
-*She opened the door. *
-~The sun was much too bright - or that restaurant was much too dark.~
-~She couldn't tell.~
+But what'
+*She opened the door*
+~The sun was much too bright - or that restaurant was much too dark~
+~She couldn't tell~
+~She walked into the sun, suddenly hungry again~
 }
 ## [errors](errors.md)

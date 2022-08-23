@@ -243,16 +243,16 @@ How to send and receive data through the link.'
 "M::You're in my brain, can't you just...
 See it?"
 'R::I may be in your brain, but I am not in your mind. 
-My mind sharing this brain with you, I didn't see anything in any dream. 
-So you'd have to send it to me...
-I can't read your mind, remember?"
+My mind sharing this brain with you, I did not see anything in any dream. 
+So you have to send it to me...
+I can not read your mind, remember?'
 *Rossin walked off.*
-"R::I'll be over here when you're ready"
+'R::I will be over here when ready'
 "M::Ready?"
-"R::I assume you want to take a shower - you should. 
+'R::I assume you want to take a shower - you should. 
 You kind of look like shit... 
-Like you've been up all night and dramatized by a whole lot.
-Go relax with some hot water."
+Like you have been up all night and dramatized by a whole lot.
+Go relax with some hot water.'
 ~She did need a bath...~ 
 ~But she really hadn't considered what that would be like with a...~
 'Sentient brain she could not just get rid of...'
@@ -261,7 +261,7 @@ Go relax with some hot water."
 'Or was he in the other room...'
 'Or by going to the other room was that a different part of her mind?']`
 "M::Fine, but stay in that room."
-"R::Won't look in, I'm not interested in that, just don't be too long."
+'R::Will not look in, I am not interested in that, just be quick.'
 *Rossin walked out of the bathroom and she shut the door.*
 *She turned on the faucet to the tub.*
 ~For a moment she watched the water rushing out~ 
@@ -297,19 +297,21 @@ hiding?'
 *His head turned quizzically when she reached in the drawer beside her.*
 'Yep.'
 ~There was a bible - even in a seedy motel.~
-"R::Some light bath reading?"
+'R::Some light bath reading?'
 "M::Some testing, random phrases"
-"R::Ah...
-So you discovered vectors?"
-~Martha paused, considering, vectors in math... 
+'R::Ah...
+So you discovered arrays?'
+~Martha paused, considering, arrays in math... 
 yeah... 
 close enough~
 "M::That's probably it"
 *Rossin nodded.*
-"R::You don't have infinite space, infinite resources in your brain. 
-Don't fill too much with junk."
+'R::You have finite space, finite resources in your brain. 
+Do not fill it with junk.'
 *Martha nodded.*
-*Walking back into the restroom before closing the door.*
+'R::Actually, just keep all the junk together, easier to overwrite'
+*She Walked back into the restroom and closed the door.*
+~She wondered how to keep her lists 'close'~
 *She turned off the water and disrobed, she hadn't any other clothes, so...*
 'Eh, close enough'
 ~At least she could clean herself.~
@@ -325,83 +327,85 @@ Don't fill too much with junk."
 *She wrote out passages - word for word.*
 ~When she was done - she compared them to the book - all perfectly remembered.~
 "M::So what, I have a perfect memory?"
-"R::Well, no.
+'R::Well, no.
 Just about things you decide to remember - and not exactly perfectly...
-Lets just say...
+Let us just say...
 Resilient, not subject to your memory rewriting itself...
-but not resistant to physical degradation."
+but not resistant to physical degradation.'
 "M::Is that something you did?"
 *He paused, nodded.*
-"R::There are some...
+'R::There are some...
 Liberties I took - before getting that thing completely out.
-A bit of house keeping"
+A bit of house keeping'
 ~Martha waited and Rossin continued.~
-"R::Well, there's some...
-Rewiring I did...
-Things it would take years to learn - you would just need to learn how to do. 
-You wouldn't need to train for years to prepare your mind. 
-You have a mind prepared to learn."
+'R::Well, there were some...
+Rewirings I did...
+Things it would take years to learn, I carved out some room for to grow easily. 
+You would not need to train for years to prepare your mind. 
+You have a mind prepared to learn.'
 "M::I see, what exactly did you do, to my brain?"
-"R::Well, I took a lot of the hooks, I can't know if I got all of them. 
+'R::Well, I took a lot of the hooks, I got most all of them. 
 I wired in some senses to emotions. 
-I also freed a bit of space - sort of a sandbox for you to write into..."
+I also freed a bit of space - sort of a sandbox for you to write into...'
 "M::I got the first part, but...
 What do you mean about senses to emotions?"
-"R::Okay, so a strong emotional reactions increased some other sense as well.
+'R::Okay, so a strong emotional reactions increased some other sense as well.
 Anger is vision, loneliness is taste, joy is touch. 
 Fear is your perception of time - your thoughts run faster.
-You can't move any faster but you can think way faster. 
+You do not move any faster but you can think way faster. 
 The other ones are more or less arbitrary.
-But slowing down time when you're frightened is super useful"
+But slowing down time when you are frightened is super useful'
 *Martha stared at him, and he continued,*
-"R::Emotional training is something everyone at the school is taught. 
+'R::Emotional training is something everyone at the school is taught. 
 How to manipulate your own emotions - master them. 
-So that you can use them to trigger various sense enhancements."
+So that you can use them to trigger various sense enhancements.'
 "M::Uh-huh."
 ~Martha said blankly.~
 "M::And the other thing?"
-"R::Ah, writing into your brain.
-So you can learn the language"
+'R::Ah, writing into your brain.
+So you can learn the language'
 "M::Which language?"
-"R::The language!"
+'R::The language!'
 ~Rossin exclaimed, ~
-"R::The one behind all other languages. 
+'R::The one behind all other languages. 
 The one we all think as an infant. 
 Before we learn what words are or the language our parents taught us.
-The one you thought in before you learned how to speak."
+The one you thought in before you learned how to speak.'
 "M::So baby talk?"
-"R::Don't be daft, babies think it, but can't speak it"
+'R::Daft: babies think it, but can not speak it'
+~Rossin paused~
+'R::If they could...'
 }
 {
 ~Martha just nodded, sure, why not at this point.~
 "M::And how is space in my brain going to help me learn?"
 *Rossin gestured to the bed next to him,*
-"R::Here, sit down, and when you're ready, close your eyes."
+'R::Here, sit down, and when you are ready, close your eyes.'
 *Martha moved to the bed and shut her eyes.*
-"R::Okay...
-So - imagine your vision is in front of you,"
+'R::Okay...
+So - imagine your vision is in front of you,'
 "M::It is in front of me"
-"R::I mean like a screen, imagine you are looking at a screen, right"
+'R::I mean like a screen, imagine you are looking at a screen, right'
 "M::And it's in front of me,"
-"R::Aye, your field of vision. 
+'R::Aye, your field of vision. 
 Imagine you are a little dot - looking at that screen. 
-Right now it's black - that's all you can see."
+Right now it is black - that is all you can see.'
 ~Rossin sighed.~
-"R::This isn't very easy to explain, you are going to look to your left. 
+'R::This is not easy to explain, you are going to look to your left. 
 Not with your vision, but at that point where you are looking at your vision. 
-Shift your focus to the left of your vision - it'll be a blank wall."
+Shift your focus to the left of your vision - it will be a blank wall.'
 ~Martha tried to do that...~
 "M::I just see darkness, I don't know"
 *She opened her eyes, and looked to the right: to where Rossin was.*
 "M::How do I know when I've done it"
 *Rossin gestured for her to close her eyes.*
 *She did.*
-"R::It'll be apparent - just relax and focus.
+'R::It will be apparent - just relax and focus.
 Your vision is just part of your brain. 
 Lighting up from some chemical signals from your eyes. 
 You are focused on that when you see. 
 Just - with your eyes close: focus to your left. 
-Pivot your attention away from where you see."
+Pivot your attention away from where you see.'
 ~Martha tried for a bit.~
 ~A few minutes passed~  
 ~She was pretty sure she was just trying to look left with her eyes.~
@@ -427,111 +431,111 @@ Pivot your attention away from where you see."
 {
 `"Hello Martha, say apple"`
 "M::It's telling me to say apple?"
-"R::I can write on it. 
+'R::I can write on it. 
 Martha - think of this as a message board. 
-We're both able to read it."
+We are both able to read it.'
 *Martha opened her eyes.*
 ~Her consciousness shifted to the right in a sudden lurch~ 
 ~She saw the motel room again.~
 ~The light hurt her eyes, how long had they been closed.~
 *She squinted.*
-"R::It's alright, you're alright."
+'R::Alright, you are alright.'
 ~Rossin reassured her, she realized she was shaking~
 *Martha stilled herself.*
-"R::Next time look back where your vision is - less disorienting that way."
+'R::Next time look back where your vision is - less disorienting that way.'
 ~A headache, sudden and painful, Martha held her head.~
-"R::It'll pass, soon."
+'R::It will pass, soon.'
 ~And as suddenly as it had come, Martha was fine.~
-"R::You'll better at moving your focus point internally. 
-You'll be able to do that with your eyes open just fine. 
+'R::You will better at moving your focus point internally. 
+And will be able to do that with your eyes open just fine. 
 For now though, keep your eyes closed - and the same way you turned, just...
-Turn back the other way."
+Turn back the other way.'
 }
 {
 ~For the next hour that's all Martha did.~ 
 ~She looked back and forth between her vision, and that text to her left.~
 `['Was look even the right word if she was not using her eyes?',
 'Was there a right word?']`
-"R::Rossin, is there a...
+"M::Rossin, is there a...
 Word for this - what I'm doing.
 I'm not looking to my left - I'm not using my eyes"
-"R::Inter-seeing, is the definition. 
+'R::Inter-seeing, is the definition. 
 There are other places you can look. 
-There's not much there - and I wouldn't go poking around...
+There is not much there - and I would not go poking around...
 You still have...
-That thing inside you, what's left of it anyway...
-Best not to accidentally look at it."
+That thing inside you, what is left of it anyway...
+Best not to accidentally look at it.'
 "M::But the left is safe?"
-"R::The left is safe, I built that myself.
-Fancy, no?"
+'R::The left is safe, I built that myself.
+Fancy, no?'
 "M::It's just text"
 *Rossin waved dismissively*
-"R::You wouldn't yet understand, it's in your language. 
+'R::You have yet understand, it is in your language. 
 Access to your brain, in your own language. 
-Not the brain's language, yours...
-That's fancy"
+Not the language brains use: yours...
+That is fancy'
 "M::It's fancy - not colorful, decorative, or initially impressive...
 But fancy I'll grant you"
 ~Rossin grumbled.~
-"R::The fancy part you haven't seen yet."
+'R::The fancy part you have not seen yet.'
 "M::Oh?"
-"R::Well, we need another human - and you're not ready for that yet...
-But..."
+'R::Well, we need another human - and you are not ready for that yet...
+But...'
 ~He sighed.~
-"R::Might as well tell you now - you can write hooks on that board. 
+'R::Might as well tell you now - you can write hooks on that board. 
 Execute them - and then your brain will just...
 Do them for you, baby steps in actually learning how to speak hooks yourself...
-Without the aid of that translator - that's what it is, a fancy translator"
+Without the aid of that translator, this is a fancy translator'
 }
 {
 "M::So I can...
 Just write anything"
-"R::Anything yes...
+'R::Anything yes...
 As long as you spell it out exactly you can write what you want down. 
 As long as it makes sense to you. 
+Is the correct instruction to give.
 And it means exactly one thing...
 No wiggle room...
 The closer it is to what your brain wants: the less likely something is to...
-Go wrong - or be misinterpreted"
+Go wrong - or be misinterpreted'
 "M::Right.
 That's...
 Useful - and I think impressive - I don't really have a frame of reference"
 }
 {
-*Rossin sighed, *
-"R::You know how Felix had that phone: flashing in front of your neighbor's face? 
-That's how most of the Awakened use hooks. 
-They have a special image that hooks them into doing what they want.
-He had a general ‘follow my verbal commands one' on his phone. 
-He didn't just say those hooks because he probably can't...
-It's not something they teach anymore."
+*Rossin sighed*
+'R::You know how Felix had that phone: flashing in front of the face of your neighbor? 
+That is how most of the Awakened use hooks. 
+They have a special image that hooks them into doing what they want. 
+He did not just say those hooks because he probably is unable to...
+Not something they teach anymore.'
 ~Martha looked at him~
 "M::And you're teaching me?"
-"R::Trying to at least...
-I'm not exactly designed to teach - I'm doing the best I can here."
+'R::Trying to at least...
+I am not exactly designed to teach.'
 "M::You're doing fine - it's probably not easy being in someone else's head."
 *Martha patted him on the back, surprised that he felt physical.*
-"R::You haven't the slightest idea."
+'R::You have not the slightest idea.'
 *Rossin stood up.*
 }
 {
-"R::We've been at this long enough, and we have places to be yet."
+'R::We have been at this long enough, and we have places to be yet.'
 *Martha's stomach growled.*
 ~She had been ignoring that - everything taking a higher priority.~
 "M::I need to eat."
-"R::When was the...
-Right - you haven't eaten since I was here...
+'R::When was the...
+Right - you have not eaten since I was here...
 So...
-Aye - good time to mention you're going to need more calories...
+Aye - good time to mention you are going to need more calories...
 Your brain is using more calories than usual... 
 Will be using more calories overall...
 You should get used to eating...
-A fair bit more"
+A fair bit more'
 "M::What's a fair bit more?"
-"R::An extra couple of meals a day...
-Good big meals."
+'R::An extra couple of meals a day...
+Good big meals.'
 *Rossin walked to the door.*
-"R::After we get you fed we should go take care of those cellmates of yours, yes?"
+'R::After we get you fed we should go take care of those cellmates of yours, yes?'
 }
 {
 *Martha nodded.*
