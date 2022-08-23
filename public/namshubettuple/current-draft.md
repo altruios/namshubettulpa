@@ -16,5 +16,6 @@
 13. [the-undernet](the-undernet.md)
 14. [restructuring](restructuring.md)
 15. [interludes](interludes.md)
+16. [the-plan](the-plan.md)
 
-date:8/15/22
+date:8/23/22
