@@ -307,7 +307,7 @@ We'll start to my right."
 ~Close enough to hear~
 "U::Her lab is across town"
 "F::Undernet is right here, that's where they're at"
-*Kent paused*
+*Kent ducked between two parked cars*
 'are they going to meet?'
 "F::We should head to the lab if it's empty"
 "U::Empty of Alice, maybe more, but by now"
@@ -331,7 +331,30 @@ We'll start to my right."
 ~It was on the concrete - and parts sprayed into the man that opened the door~
 *It sizzled on Uri's face*
 ~Both Uri and the shaven head man were motionless on the ground~
-*Felix ran out of the alley*
+*Felix stumbled forward out to the mouth of the alley*
+~In front of Kent his vision was blocked by a red cardigan~
+*Kent looked up*
+*Alice strolled toward Felix*
+~Kent heard words - that were not words~
+*Felix stumbled to the ground*
+~Kent held the syringe in his hand considering what to do~
+'He was a bastard'
+*Kent put the syringe down*
+'But that.'
+~And there was a sudden moment of clarity~
+*He looked down at the syringe*
+'This stuff, that ooze, the dead...'
+~He couldn't finish the thought~
+'All connected'
+~He knew now he would see the same impossible color ichor from her~
+~Felix was still on the ground, unmoving~
+'Is he dead?'
+*Felix gasped*
+'Alright, here comes the calvary ass-hat'
+~Kent left the syringe in the crook of the sidewalk and street~
+'no one would believe me, and she would make them not believe me'
+*He picked up a small two by four*
+~He did not like what he knew he must do~
 }
 {
 %%%%
