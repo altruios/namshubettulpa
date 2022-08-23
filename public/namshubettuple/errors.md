@@ -9,20 +9,20 @@ mn:M
 ~They covered a small door down the hallway to the left.~
 *Walking up to the front desk she asked,*
 "M::What happened here?"
-"RO::Fire"
+"PO::Fire"
 ~His voice was gruff.~
 "M::Is everyone alright?"
-"RO::They took a couple people to the hospital, no word yet about them."
+"PO::They took a couple people to the hospital, no word yet about them."
 ~The Officer paused in thought~
-"RO::I'm sure they're fine - nothing to worry about."
+"PO::I'm sure they're fine - nothing to worry about."
 ~Which was exactly what Martha was doing.~
-"R::Well.
-Let's find those people, they'll still be here... 
-Probably in the holding cell."
+'R::Well.
+We should go find those people, they will still be here... 
+Probably in the holding cell.'
 }
 {
 `['There is more to do here, obviously']`
-"R::Well, let's start there - let me switch."
+'R::Well, start there - let me switch.'
 ~She obliged.~
 mn:R
 *Once they were done trading places, Rossin turned toward the front desk again.*
@@ -47,34 +47,34 @@ mn:R
 "R::Thank you"
 *The officer shook and returned to normal*
 ~He looked around the room.~
-"M::That's all it took?"
+'M::That is all it took?'
 *Rossin nodded,*
-"M::And I can switch back now?"
+'M::And I can switch back now?'
 ~Martha wasn't going to make the same mistake again~
 *He nodded his head again: so she flipped the switch.*
 }
 {
 mn:M
-"R::We should probably change your shirt - it's still..."
+'R::We should probably change your shirt - it is still...'
 ~Rossin trailed off.~
 ~Martha looked down - seeing the blood stains make almost a designer pattern.~
 "M::It's already 5 now, do we have time before the red-eye?"
-"R::We can stop somewhere on the way - it's only a shirt we need"
+'R::We can stop somewhere on the way -only need a shirt'
 "M::Do I need to pack anything, or?"
-"R::No, not really."
+'R::No, not really.'
 *Her stomach growled, she looked down - annoyed - she had just eaten.*
-"R::Yeah, get used to that."
+'R::Yeah, get used to that.'
 *Rossin gestured towards the door.*
 *They started walking out of the station.*
 "M::Always being hungry?"
 *Rossin nodded.*
-"R::The food in first class is excellent. 
-We'll grab some calories wherever we get the shirt"
+'R::The food in first class is excellent. 
+We will grab some calories wherever we get the shirt'
 }
 {
 "M::My home it is, everything we need."
 *Rossin nodded, glancing at the watch,*
-"R::Cutting it close, your place is not exactly on the way"
+'R::Cutting it close, your place is not exactly on the way'
 ~Which was an understatement - it was completely out of the way.~
 "M::Well, I'm done with people for right now, solitude - so off to my fortress"
 *Martha exited through the double doors.*
