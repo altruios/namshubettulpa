@@ -73,7 +73,7 @@ async function transform_to_md(cwd,callback){
                     const data_line = stripped_line.slice(stripped_line.indexOf(".")+1);
                     if(line[0]=="1"&&line[1]=="."){
 
-                        data=data.replace(line,`<ol style="font-size:5vh;" ><li >${data_line}</li>`)
+                        data=data.replace(line,`<ol style="font-size:5vh; margin-left:2vw" ><li >${data_line}</li>`)
                     }
                     else if(!arr[i+1] || !'123456789'.includes(arr[i+1][0])){
                         data=data.replace(line,`<li>${data_line}</li></ol>`)
