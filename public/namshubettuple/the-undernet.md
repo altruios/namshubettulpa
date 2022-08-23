@@ -27,47 +27,47 @@ mn:M
 *Rossin sat down next to her.*
 *She turned to him.*
 "M::What took you so long?"
-"R::I enjoy my beauty sleep"
+'R::I enjoy my beauty sleep'
 *He yawned and looked around.*
-"R::I don't exactly have a choice in that...
-How long?"
+'R::I have no choice in that...
+How long?'
 "M::About an hour. He's still a no show..."
-*Rossin nodded,*
-"R::That's to be expected - he's probably eating now...
-Which by the way: why aren't you doing?"
+*Rossin nodded*
+'R::That is to be expected - he is probably eating now...
+Which by the way: you should be doing as well.'
 "M::I had a snack"
-"R::A snack?"
+'R::A snack?'
 "M::A little power bar - dense calories"
 ~Rossin scoffed,~
-"R::One 'little' power bar...
+'R::One little power bar...
 You need more...
-Much more,"
-*He sat up.*
-"R::Come on, We're getting you more food."
+Much more'
+*He sat up*
+'R::Come on, We are getting you more food.'
 *She got up and matched his pace.*
-"R::So...
-Another dream?"
+'R::So...
+Another dream?'
 *Martha nodded.*
 "M::I remember more of it now. 
 I think they, I don't know, pulled me out of mine and into theirs.
 Captain Alacira was her name"
 *Rossin hesitated every so slightly in his step* 
 ~He regained his composure a moment later~
-"R::Ah...
+'R::Ah...
 Her.
-I - my author hasn't heard from the likes of her since, well...
+I - my author has not heard from the likes of her since, well...
 Before you were born.
-About 40 years now"
+About 40 years now'
 "M::Wait...
 You know her?"
-"R::My author did...
+'R::My author did...
 Long ago...
 She was a console member...
-Still is, technically, since she's alive...
-What has she been doing?"
-~He mused to himself.~
-*He looked back to her,*
-"R::What exactly was she doing?"
+Still is, technically, since she is alive...
+What has she been doing?'
+~He mused to himself~
+*He looked back to her*
+'R::What exactly was she doing?'
 "M::Well..."
 ~Martha started, gathering her thoughts.~
 "M::She was sending me places...
@@ -75,8 +75,8 @@ First an old italian monastery, then some weird place with a bunch of gears...
 I was finding things for her.
 And they made these - patterns. 
 These shapes in my brain - I still see them."
-"R::I see...
-And can you put these patterns on that board to your left?"
+'R::I see...
+And can you put these patterns on that board to your left?'
 ~She tried to fit those shapes into a list, but they refused.~
 ~Bulging out from that boundary...~
 ~Shattering the well-ordering of her thoughts...~
@@ -84,14 +84,14 @@ And can you put these patterns on that board to your left?"
 ~And since she hadn't learned how to put anything but lists...~
 ~She tried just without the lists and to her surprise, it worked...~
 //(IMAGE LINKS GO HERE)
-~They exploded out of the board to the left of her perception.~
+~They exploded out of the board to the left of her perception~
 ~Fading into nothing - they were still burned into her brain, but that had...~
 ~Hurt - she had a splitting headache.~
-"R::Oh...
-That's what she's after."
+'R::Oh...
+So she is after that.'
 "M::What?"
 ~Martha asked through gritted teeth.~
-"R::Are you alright, did that hurt?"
+'R::Are you alright, did that hurt?'
 "M::Yes...
 My head is pounding."
 ~Everything was too bright, the sounds were too loud.~
@@ -106,7 +106,7 @@ My head is pounding."
 "M::...just - be quiet for a second...
 I'm getting better just - hold on for a minute."
 ~He didn't wait a whole minute - but he did wait a few seconds,~
-"R::Felix is here, he's walking toward you - stand up if you can."
+'R::Felix is close, he is walking toward you - stand up if you can.'
 *She opened her eyes...*
 ~Her vision swam.~
 ~Corners had extra shadows that danced and stretched...~
@@ -117,13 +117,13 @@ I'm getting better just - hold on for a minute."
 ~He was holding two ice cream cones, one of which he was licking.~
 ~He spoke as he approached,~
 "F::You look like shit, good thing I have ice cream"
-"M::Bad sleep, hardly any actually,"
-*She said - taking the cone.*
+"M::Bad sleep, hardly any actually."
+*She took the cone.*
 ~It was mint-chip.~
 ~Not her favorite, by a long shot~
 `>>--ST -o --auto`
 *She took a small bite*
-~But the flavor exploded in her mouth.~
+~The flavor exploded in her mouth.~
 *She started consuming chunks of it.*
 ~She didn't realize how famished she was.~
 'And this is the best damn ice cream'
@@ -202,12 +202,14 @@ Wrong."
 *He walked back.*
 "F::Stay here, I'm going to see if there's anyone in the building at all."
 ~Martha nodded and he entered the elevator behind, pushing a few buttons~
-"R::This...
-Is strange."
+}
+{
+'R::This...
+Is strange.'
 *Rossin walked forward.*
-"R::Come on,"
-*He said, waving at her to follow him.*
-"R::I want to know what's going on."
+'R::Come on'
+*He waved at her to follow him.*
+'R::I want to know what is going on.'
 ~She hesitated only a moment - she too wanted to know.~
 *Meeting him at the first door, she pushed it open.*
 ~Behind it - nothing.~
@@ -216,11 +218,10 @@ Is strange."
 "M::Empty"
 ~A glint caught her eye by the side of the desk~
 ~A broken syringe, glass glittering towards the door.~
-"R::I don't think anyone's here."
-~Rossin said.~
+'R::I think there is no one here.'
 *She looked down the hallway,*
 "M::Do you hear anything at all?"
-"R::Do you?"
+'R::Do you?'
 *Martha glared at him then closed her eyes to focus.*
 ~It was quite enough for her to hear her own heart beat...~
 ~And something else...~
@@ -228,6 +229,8 @@ Is strange."
 ~Off to her...~
 'To the right: yes, coming from one of the rooms.'
 *She moved towards the sound.*
+}
+{
 *She reached a door, second on the right and opened it.*
 ~She was not prepared for what she saw.~
 "M::Oh god."
@@ -252,32 +255,34 @@ Is strange."
 *She gagged a little, the smell wafting over to her finally.*
 *She leaned back against the door and started to hyperventilate.*
 *Rossin looked at the door, then to her.*
-"R::Undernet..."
+'R::Undernet...'
 *Rossin turned towards her.*
-"R::Listen, take a few deep breaths.
-Not shallow - that's how you pass out.
-In..."
-*He took a breath himself...*
+'R::Listen, take a few deep breaths.
+Not shallow - or else you will pass out.
+In...'
+*He took a breath himself*
 'Did he bre--- no.' 
-~Martha thought.~
+~Martha thought~
 'He did not breath - that was all for show, for her.'
 ~She followed suit.~
 ~Rossin breathed out, and she did as well.~
+}
+{
 ~In the quiet - she heard the scratching - it was coming from that room.~
 "M::Someone's still in there."
-"R::That's what that scratching is"
+'R::That is what that scratching is'
 *Rossin nodded.*
-"R::...Probably."
+'R::...Probably'
 ~Martha waited, and that's all he said.~
 "M::So shouldn't we...
 Help them...
 Get them out of there?"
 *Rossin shook his head.*
-"R::No one here would do the same for you. 
-Whatever is keeping them inside - it's probably too risky to get them out."
+'R::No one here would do the same for you. 
+Whatever is keeping them inside - it is probably too risky to get them out.'
 *Martha shook her head.*
 *She stood back up and steeled herself.*
-"R::Martha don't,"
+'R::Martha stop'
 ~But it was too late.~
 *She entered the room and called out.*
 "M::Hello, is anyone in there."
@@ -287,12 +292,12 @@ Whatever is keeping them inside - it's probably too risky to get them out."
 ~Muffled.~
 ~It came from a supply closet on the left, close to the hallway.~
 *She approached.*
-"R::Okay - so he's warning you not to get closer...
+'R::Okay - so he is warning you not to get closer...
 I just want to point this out when things go horribly wrong.
-This is your own decision."
+This is your own decision.'
 ~She tried opening the supply closet.~
-~It was held fast.~
-"R::Don't open it, don't look at me!"
+~It was held fast~
+"SM::Don't open it, don't look at me!"
 ~The voice was frantic, terrified.~
 "M::What happened here?"
 ~There was a pause.~
@@ -305,7 +310,7 @@ Really gone...GET OUT OF MY HEAD"
 *He screamed suddenly, a piercing howl.*
 ~And there was a thumping on the inside of the closet.~
 ~So violent it almost shook the structure.~
-"R::Martha - you should back away."
+'R::Martha - you should back away'
 ~Martha ignored him.~
 "M::I'm going to get you out of there.
 Into safety."
@@ -314,18 +319,20 @@ Into safety."
 "SM::Don't you understand - it's in me.
 I'm dead...
 Worse than dead."
-"R::That thing inside your head...
-It's inside his head too...
+'R::That thing inside your head...
+It is inside his head too...
 Or something like it...
-Get out of here now - it's only a matter of time before..."
+Get out of here now - only a matter of time before...'
 ~The thumping stopped suddenly.~
-"R::Seriously Martha, now...
-Get out of here now!"
+'R::Seriously Martha, now...
+Get out of here now!'
 *The closet door clicked open.*
+}
+{
 *Martha finally started to back away.*
 ~Her neck threw every bit of blood it could to her brain, tightening as her heart dropped.~
 `>>--TEMPORAL();`
-"R::Faster damn it."
+'R::Faster damn it.'
 ~His words were slow - or her brain was cooled in adrenaline.~
 ~Everything felt like moving through pudding - but she had time to focus all her energy into the run.~
 ~Rossin was at the door, urging her to move.~
@@ -353,11 +360,13 @@ Get out of here now!"
 *She ran back down the hall.*
 ~On her hands and knees.~
 ~Fighting against time itself.~
+}
+{
 "M::Rossin, can we switch?"
-"R::No time! 
-And I don't think that I would be able to do anything to him anyway"
+'R::No time! 
+And I think that I would be ineffective against him anyway'
 ~There wasn't much hallway, and that thing was striding towards her now.~
-"R::Duck into one of these rooms, they lock from the inside."
+'R::Duck into one of these rooms, they lock from the inside.'
 *She grabbed the door...*
 ~It opened inward.~
 *She closed it just in time, and could almost lock the door.*
@@ -373,6 +382,8 @@ And I don't think that I would be able to do anything to him anyway"
 ~She heard a gunshot, then a thud.~
 "M::Felix?"
 *She shouted.*
+}
+{
 ~Footsteps grew closer, no answer.~
 *She started to back away from the door, out of sight.*
 *A head poked in, armed raised cautiously with a gun.*
@@ -402,10 +413,10 @@ No one remembers you, and oh yeah, my friend is dead."
 *Kent looked up at her as she turned to Rossin,*
 "M::I told you, we shouldn't have left yet."
 *Rossin shrugged,*
-"R::We can bring him..."
+'R::We can bring him...'
 ~He trailed off, looking at Kent.~
-"R::Or maybe not...
-Maybe we should have stayed..."
+'R::Or maybe not...
+Maybe we should have stayed...'
 "K::Are you talking to Felix? 
 Do you have..."
 *He moved his head, peering at her neck.*
@@ -421,9 +432,9 @@ I'm not, and I don't"
 ~He repeated.~
 "M::Well, his name's Rossin, he's a non-physical person"
 ~Rossin perked up at that.~
-"R::I like that,"
+'R::I like that'
 ~Rossin muttered,~
-"R::Right to the point."
+'R::Right to the point.'
 "K::Non-physical...
 So a ghost?"
 "M::More like a...
@@ -452,14 +463,14 @@ Why are you in New York?"
 "K::Alright, let's start with that surprisingly spry old man outside - the not-zombie"
 "M::He was infected with a very bad ghost in his brain."
 *Rossin walked between the two of them, facing Martha.*
-"R::This is painful. 
-Either just tell him everything or stop using ridiculous metaphors."
+'R::This is painful. 
+Either just tell him everything or stop using ridiculous metaphors.'
 "M::What else am I supposed to tell him?"
 *She snapped, looking over him to Kent to say:*
 "M::Sorry...
 Okay...
 So there are these things called namshubs..."
-"R::Just let me,"
+'R::Just let me'
 ~Rossin cut over.~
 "M::Fine."
 *Martha snapped at him as she flipped the switch.*
@@ -493,7 +504,7 @@ How many"
 Or see.
 Seriously - you are in way over your head here."
 *Rossin took another step forward - Kent pulled back the hammer of the gun.*
-"M::Don't get me killed."
+'M::Do not get me killed.'
 ~Martha watched all this from the shadow perspective studying Kent.~
 ~She was sure he was ready to shoot.~
 *Rossin looked directly at Martha.*
@@ -575,8 +586,8 @@ They don't actually know how to do anything, or can do anything...
 Or recognize things...
 But they think they do."
 *Rossin paced back and forth... *
-"R::This isn't good.
-He's considering if you're with them, infiltrating"
+'R::This is not good.
+He is considering if you are with them, infiltrating'
 *Rossin continued to pace and Martha fiddled around with the gun.*
 *Locating and making sure the safety was on, she tucking it behind her pants.*
 "M::So what now?"

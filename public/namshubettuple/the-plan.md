@@ -22,13 +22,13 @@ mn:M
 "F::What?"
 "FL::What comes next isn't for your ears"
 *Martha looked around the room*
-"R::Martha - I hate to do this so often... but can we switch?"
+'R::Martha - I hate to do this so often... but can we switch?'
 ~She did~
 ~She was almost getting used to the sensation~
 }
 {
 mn:R
-~Everyone was looking at Uri Or Flanagan~
+~Everyone was looking at Uri or Flanagan~
 "R::I would have a better solution."
 *Ozmind huffed*
 "FL:: What do you have in mind."
@@ -37,8 +37,7 @@ mn:R
 *She looked out the window*
 ~It was void - filled with bright light~
 ~In the distance she saw shadows - the same shadows behind her~
-'M::I am looking through his... my eyes, not... my eyes here...'
-"M::Hey - can you walk over here: when you get the chance."
+'M::Hey - can you walk over here: when you get the chance.'
 *Rossin, in her body, nodded at her*
 "R::Do you want to stay here Felix, and help us?"
 *Felix looked around*
@@ -63,13 +62,13 @@ WITH hooks(
 ~His expression soured somewhat, it was both constantly astonished~
 ~And serene to that astoundment~
 "R::He isn't forming new memories right now, it's like being asleep - but still conscious"
-"M::So wait... that's like him constantly experience a bigger and bigger time gap?"
+'M::So wait... that is like him constantly experience a bigger and bigger time gap?'
 *Rossin moved her hand noncommittally*
 "R::More or less - he feels perfectly serene."
 "FL::Clever. If the link is not safe... neither would our sleep be."
 "J::Our dreams?"
 "R::Are what make up the link."
-"M::Rossin, over here."
+'M::Rossin, over here'
 ~Martha was still standing by the window~
 *Rossin got up, and moved to her*
 ~Martha heard Flanagan behind Rossin~
@@ -83,7 +82,8 @@ WITH hooks(
 *Flanagan nodded*
 "FL::And her?"
 *His gaze fell to Rossin's Back*
-
+}
+{
 ~And though Rossin had her body turned away from him: Flanagan became more solid~
 ~His outline sharpened and he became brighter~
 ~As if by his attention focused on them - made him more real~
@@ -91,7 +91,7 @@ WITH hooks(
 "R::She's fine to hear - quick study too."
 ~Martha saw the scene before her enveloped in shadow~
 *Flanagan nodded and moved to the couch again*
-"M::Ask him if he has dealt with anything like this?"
+'M::Ask him if he has dealt with anything like this?'
 ~And Rossin repeated~
 "FL::Shadows of shadows... 
 long ago..."
@@ -99,7 +99,7 @@ long ago..."
 "FL::If it was contained, we could send it back, but since it's in the link now"
 ~Ozmind's voice cut in~
 "O::It hasn't shown any signs of slowing it's growth."
-"M::So... how long do we have?"
+'M::So... how long do we have?'
 ~Rossin looked at her, then back to Ozmind~
 "R::How long until it is everywhere in the link?"
 "O::Somewhere between days, not weeks... I really couldn't say."
@@ -130,7 +130,7 @@ but she... it, might still be there."
 "FL::Go and find it, if you find them - report back instead. You'll take Felix."
 ~Flanagan sighed~
 "FL::The separated Relux will join the third and steal The way out."
-"M::The way out?"
+'M::The way out?'
 *Rossin raised his hand in a wait and listen sort of way*
 "FL::Ozmind and Felix will search for the physical presence.
 The Relux will bring the thing to exorcise the physical presence.
@@ -162,11 +162,12 @@ By removing 2/3rds of the Awakened..."
 "FL::And how to counter it."
 *Flanagan sipped more tea*
 "FL::She is new?"
-"M::What's going on?"
+'M::What is going on?'
 "FL::New and empty?"
 "R::Yes, We also have Uri over here we can hollow out."
 "FL::We'll need both."
-"M::Rossin, what's going on?"
+'M::Rossin, what is  happening?'
+~Instincts of predators hiding in the brush~
 *She flipped the switch*
 }
 {
@@ -190,9 +191,9 @@ probably."
 ~Flanagan addressed the whole room~
 "FL::Fly quickly - return here, Rossin: wake Felix."
 `"Why couldn't Felix be... awake for this?"`
-"R::Most people shouldn't know about The way out.
+'R::Most people should not know about The way out.
 Most people: most awakened*...
-Also would you mind telling Felix he is a potato so he wakes up?"
+Also would you mind telling Felix he is a potato so he wakes up?'
 }
 {
 ~She repeated the words and Felix's memory was fixed~

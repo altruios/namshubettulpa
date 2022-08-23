@@ -197,7 +197,8 @@ fbomb(mes,__ac)=>
         fbomb(mes,__ac.mod(root.info['e'+1])) &);
 hooks.add(fbomb(titttmyky,__ac),"/\b(.+)\b/gm")
 `
-*It moved him more gracefully than had he been in control*
+*Al-tok moved him*
+~More gracefully than had Robert been in control~
 ~Robert was not aware of anything anymore~
 ~But Al-tok was~
 *Al-tok stretched his hands as he watched the news delivered*
@@ -208,7 +209,7 @@ hooks.add(fbomb(titttmyky,__ac),"/\b(.+)\b/gm")
 'Trojan horse... 
 What else is in this head? 
 Inventory later.'
-"AG::Why would you... you..."
+"AG::Why would you... you...y-y-y"
 ~Alice started to stutter, then falter, then stop~
 *Al-tok rose and joined Robert by Alice's fallen body*
 *He leaned down, she wasn't breathing*
@@ -238,6 +239,7 @@ Do you feel it yet alice?"
 ~And she did, she felt a growing empty pit inside her mind~
 ~The darkness of a swirling drain at the center of her core~
 ~It was expanding~
+~Al-tok felt it too~
 "AT::It will push you out there - all you have to do is let it."
 'And that is technically the truth.'
 *Robert fell over, and started convulsing*
@@ -250,6 +252,7 @@ Do you feel it yet alice?"
 ~A glass vial~
 *Al-tok took a syringe and extracted the amber liquid within*
 "AT::There we are."
+*He injected Robert*
 ~Alice started awake as she felt a hot point jab into her side~
 "AT::We'll see if it's too late for him - but Looks like I need that to not burn your brains... 
 So thanks for making that: really: wouldn't know what to do without you."
