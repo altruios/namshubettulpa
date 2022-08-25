@@ -171,7 +171,7 @@ It was not your fault.
 But I need you to carefully walk out of here, and not look into the kitchen.'
 }
 {
-'Not her fault...?' 
+'M::Not her fault...?' 
 'M::What fault did he...'
 'M::His hands...'
 'M::my bloody hands.'
@@ -368,14 +368,13 @@ You're real."
 ~In the distance, a pale blue light rounded the corner of the street.~
 }
 {
-~Rossin whisper was conspiratorially~
-'R::Do not scream.'
-*And then he did a small skip and danced into the middle of the road.*
-*Just in time for the car, not having slowed down at all, to hit him.*
-*He folded onto the hood and rolled along it.*
+*Rossin covered his lips with a single finger, then his whole hand*
+*And then he did a small skip and danced into the middle of the road*
+~Just in time for the car, not having slowed down at all, to hit him~
+*He folded under the hood and rolled underneath the tires*
 *Martha count three and a half rolls.*
 *Some rational part of her brain managed to keep count*
-*Pulling him down and under as the car slid over him.*
+*Pulling him down and under as the car hobbled over him.*
 *He rolled a few times on the pavement before laying motionless.*
 *The car drove into the distance.*
 *Martha rushed over into the middle of the street where his body lay.*
@@ -400,7 +399,7 @@ You're real."
 *She tried to tuck her hair behind her ear and failed again.*
 ~Her hand was still shaking.~
 *She breathed and steadied it.*
-~And tried again… again she failed.~
+~And tried again: again she failed.~
 }
 {
 'R::Oh... 

@@ -22,13 +22,17 @@ power is limited, no matter how vast, and:'
 ~But he knew that was wrong.~
 ~Even if he disconnected himself mostly from the link - he couldn't be completely separated~
 ~All he could do was stay at a distance and put up and much of a barrier as he could.~
-~This would progress until it would stretch so thin as to be invisible.~
+~But still: he felt ripples~
+~Ripples of others mismatching a wave: distorting it, cancelling it~
+~Never again reaching such heights, but falling into a sea of mediocrity~
+}
+{
+~This would progress until his ability to influence people would stretch so thin as to be invisible.~
 ~Until the people practiced namshubs "in theory", the more people asleep the more powerful the awake.~
-~Everyone being awake results in no power for anyone.~
 ~He wondered when he would get the text.~
 'A week from now?'
 'Most people who accidentally stumble into reality get reprogrammed quickly, or removed.'
-'It took a special… resilient sort before anyone on the council would acknowledge their sentience.'
+'It took a special… resilient sort, before anyone on the council would acknowledge their sentience.'
 }
 {
 ~It was noon, and he was on a yacht in the caribbean sea.~
@@ -88,7 +92,7 @@ Dole it out all day to particular people.'
 }
 {
 "F::Grab us some booze from below, make it fancy."
-*the servants obeyed* 
+*The servants obeyed* 
 "F::And you - go take us in to the harbor, get a car - take us to the airport."
 ~Soon to take a jet to America, to deal with his one job.~
 *As the servants left, he watched them.*
@@ -132,14 +136,14 @@ Perhaps his reality on the boat was a delusion, but that thought always came up 
 "F::Share with me."
 ~It was practical, felix notice his generosity always seemed to have a practical purpose~
 ~Testing for poison from someone who might have temporarily slipped his grasp~
-'not going to make that mistake again.'
+'Not going to make that mistake again.'
 ~He watched them drink.~
 ~He watched the sunset behind the sun, and the boat enter the harbor.~
 ~He took his first sip in the rental car, sure it was safe.~
-'if there is no flight to this Martha, i would have to make one.'
+'If there is no flight to this Martha, I would have to make one.'
 *Felix groaned and sipped his wine*
 'So much work, this Martha better be worth it.'
-"F::you, check up on flights for me, going to the Americas."
+"F::You, check up on flights for me, going to the Americas."
 *The passenger in the front seat complied.*
 }
 
