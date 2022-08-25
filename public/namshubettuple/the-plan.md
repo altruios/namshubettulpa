@@ -209,14 +209,15 @@ mn:K
 {
 ~Kent watched the syringes brought to the center of the room~
 "AG_T::We have only this much made today."
-"RG:_T::Getting production up to scale takes some time"
+"RG:_T::Getting production up to scale takes some time."
 ~In the corner the man with the shaven head watched~
 ~Kent kept him in the corner of his eye~
+~As he watched the circle of people he realized something~
 'I am at the right hand side'
-~despite the circle gathering Kent sensed the head of this gathering~
+~despite it's circular nature Kent sensed the head of this gathering~
 'From the entrances and exits - seats watching everything creating a power imbalance'
 ~And kent watched that man in the corner~
-~That man was scanning the room, interested in the others more than him~
+~That man was scanning the room, interested in the others more than kent~
 "RG::Real power - chemically accessed"
 'Okay - bad ideas out of the way - probably should not run'
 'Even if you get a hold of that syringe'
@@ -252,11 +253,12 @@ We'll start to my right."
 ~Kent heard words that weren't words and then a loud thud~
 ~He didn't look back~
 *He ran down the hallway to the exit*
+~It wasn't until he made it to front door that he heard scambling from inside~
 }
 {
-~He made it to the corner of the alley of the street before he headed anything behind him~
-*He turned around*
-~At the metal entrance was that woman in the red cardigan~
+~He made it to the corner of the alley of the street before he headed the metal door open behind him~
+*He turned to look as he rounded the corder*
+~At the hallway entrance was that woman in the red cardigan~
 ~He knew she saw him make a right~
 'Okay, relax  - think'
 ~He kept running with the sun in his eyes~
@@ -264,19 +266,24 @@ We'll start to my right."
 *He rounded a corner and took them off*
 ~He took a moment to catch his breath~
 *He dropped the empty jacket down in the corner*
+*He balled the holster in his fists*
 }
 {
 'Okay, timing and finesse - you got this'
 ~He waited for her to round the corner~
-*She did so in a hurry*
-*He had her back to her, waving at someone*
+*He faced away from where she would round the corner*
+~Running steps approched~
 *Kent Walked backwards*
+*He had her back to her, waving at someone*
 ~Alice had not turned yet~
+~He watched her scan the crowd - continung his backward walk~
 *Kent tossed the gun-strap on the other side of the corner*
 *He then continued crossing the street, towards central park*
+~He saw her spot the jacket~
 *He turned around and faced the park*
 ~He couldn't see her, but neither could she see his face~
 ~He was halfway though the street before he heard a muttering~
+~A horn honked in his ear - and yet: he still heard her quite voice~
 'Okay,what is she doing?'
 ~Kent watched everyone - and was almost prepared for the sudden stop~
 *He stopped*
@@ -301,16 +308,16 @@ We'll start to my right."
 ~But he'd just as soon rather not have it~
 *Kent walked to and sat down on a bench*
 "F::So was it her or wasn't it?"
-"U::It felt like her - but I saw the footage"
+"U::It felt like her"
 ~Kent watched two men hurriedly run toward the intersection he was at~
 *He got up and walked a short distance behind them*
 ~Close enough to hear~
 "U::Her lab is across town"
-"F::Undernet is right here, that's where they're at"
+"F::Undernet is right here, that's where they're at Ozmind"
 *Kent ducked between two parked cars*
 'are they going to meet?'
 "F::We should head to the lab if it's empty"
-"U::Empty of Alice, maybe more, but by now"
+"U::Empty of Alice, maybe more, but by now - we can't be sure"
 ~They walked toward the alley he came out of~
 *Kent stopped at the entrance for the alley and looked in*
 ~Felix was leaned against the wall, and the other one was opening the door~
@@ -350,9 +357,10 @@ We'll start to my right."
 ~Felix was still on the ground, unmoving~
 'Is he dead?'
 *Felix gasped*
-'Alright, here comes the calvary ass-hat'
+'Alright, here comes the calvary, ass-hat'
 ~Kent left the syringe in the crook of the sidewalk and street~
-'no one would believe me, and she would make them not believe me'
+'If he arrested her...'
+'No one would believe me, and she would make them not believe me'
 *He picked up a small two by four*
 ~He did not like what he knew he must do~
 }
