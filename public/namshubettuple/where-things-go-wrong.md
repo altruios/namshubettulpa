@@ -210,7 +210,7 @@ mn:R
 `hooks.follow=>{~Self~}`
 *And proceeded to walk inside.*
 *Martha as an ethereal entity followed.*
-"M::What was that?"
+'M::What was that?'
 "R::So, everyone has hooks. 
 We, I mean, those in power, the awoken, put them there. 
 A set of simple commands that almost all humans have. 
@@ -219,11 +219,11 @@ Run, jump, fetch and the like."
 *Martha walked around her neighbor.*
 }
 {
-"M::How did they implant them"
+'M::How did they implant them'
 "R::Television, and the internet, certain memes, implant individual hooks. 
 Follow, run, chase, protect, kill, nurture, spoil... 
 There's the whole gambit - pretty much any verb you can think of."
-"M::So I can make anyone do anything?"
+'M::So I can make anyone do anything?'
 *Rossin sat down in the chair in the corner of the room.*
 "R::More: you can make anyone, be anyone or anything.
 You can change what they believe to be true, including about themselves.
@@ -236,14 +236,14 @@ Let's just start there for now, this is...
 Pedestrian"
 }
 {
-"M::Pedestrian?"
+'M::Pedestrian?'
 *Martha paused.*
 "R::As in you'll get bored by this quickly... 
 This is a ground floor.
 Just what you can do in this world..."
 *Rossin waited in the chair.*
-"M::...world? 
-How many..."
+'M::...world? 
+How many...'
 "R::Just two... 
 Well, two that we have access to. 
 But the second world is infinite...
@@ -264,7 +264,7 @@ The awoken are aware of it, and can visit and control it."
 ~She wasn't sure when she would break down, but nope: that was it.~
 ~A human can't process this large of a world change in what, an hour?~
 ~Secret societies, borg-like hivemind internets, brain hooks...~
-~The fact that she has a forieng entity in her head...~
+~The fact that she has a foreign entity in her head...~
 ~The fact that apparently she can make anyone be or do anything...~
 ~And that was at the bottom tier of the abilities she had...~
 ~But who was there to turn to?~
@@ -273,7 +273,7 @@ The awoken are aware of it, and can visit and control it."
 ~She wasn't even in her own body at the moment...~
 *She continued to pace.*
 "R::Martha... I know this is a lot to take in."
-"M::Oh you do, do you?!"
+'M::Oh you do, do you?!'
 ~Her heart was racing...~
 ~Was it her heart?~
 ~Was her physical body responding to her mental state anymore?~
@@ -283,11 +283,11 @@ The awoken are aware of it, and can visit and control it."
 {
 "R::Yes, I know this is a lot, and there's a lot more - but maybe sleep is in order...
 That's going to be a fun adventure, first time in."
-"M::Holy fuck - why are you still talking... 
+'M::Holy fuck - why are you still talking... 
 Just... 
-Give me a minute."
+Give me a minute.'
 *Martha continued to pace.*
-"M::In my own fucking body."
+'M::In my own fucking body.'
 *Rossin's eyes grew wide.*
 "R::Just wait a sec-"
 ~But it was too late.~

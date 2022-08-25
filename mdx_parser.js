@@ -102,7 +102,7 @@ const mdx_block_parser = (block,dfn)=>{
                     const mainFlag = speaker== defaultnarrator.current;
                     const dialouge = txt[0]+txt.slice(txt.indexOf("::")+2)
                     const d = `<span style="background-color:inherit;">${dialouge}</span>`
-                    const colors = mainFlag? [fg_colors[0],bg_colors[0]]:[fg_colors[0],bg_colors[1]];
+                    const colors = mainFlag? [fg_colors[0],bg_colors[0]]:[fg_colors[1],bg_colors[1]];
                     return text_div(d,mainFlag,speaker,colors);
                 }
                 return `<span style="background-color:inherit;">${txt}</span>`;
