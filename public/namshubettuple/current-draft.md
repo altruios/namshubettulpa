@@ -18,4 +18,4 @@
 15. [interludes](interludes.md)
 16. [the-plan](the-plan.md)
 
-date:8/25/22
+date:8/26/22

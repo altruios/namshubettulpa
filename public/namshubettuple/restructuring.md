@@ -128,10 +128,10 @@ mn:K
 *He glanced at his watch between chews of his bagel*
 'Two-thirty, let me see...
 4pm would hit the 12 hour mark of day 2.'
-~He briefly considered taking a small nap on the bench..~
+~He briefly considered taking a small nap on the bench~
 ~But decided he would stay at a hotel~
 *He stood up, and walked along the city edge*
-~He could afford a few hours yet..~
+~He could afford a few hours yet~
 'Somewhere close by.'
 ~He scanned the streets beyond the park~
 ~In the short distance he saw a hotel sign - Dolphin~
