@@ -27,6 +27,10 @@ const speaker_map={
     __:function(key,key2){
         return this[key]+" of the "+this[key2]
     },
+    ___:function(key,key2){
+        return this[key]+" in "+this[key2]
+
+    },
     _R:"Relux",
     _T:"Tok",
     _N:"Nerium",

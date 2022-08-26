@@ -49,11 +49,20 @@ const seprate_blocks=(data)=>{
 }
 const get_speaker_with_title=(key)=>{
     let current;
-    if(key.includes("_")){
+    console.log(key,"is key");
+    if(key.includes("__")){
+        const [k1,k2]=[key.slice(0,key.indexOf("__")),key.slice(key.indexOf("__")+2)]
+        current = speakers["___"](k1,k2);
+    }else if(key.includes("_")){
+        console.log("\n\n\nkey found +")
         const [k1,k2]=[key.slice(0,key.indexOf("_")),key.slice(key.indexOf("_"))]
+        console.log(k1,k2);
         current = speakers["__"](k1,k2);
-    }else{
+    }
+    else{
         current = speakers[key];
+        console.log(current);
+
     }
     return current;
 }
@@ -80,7 +89,7 @@ const mdx_block_parser = (block,dfn)=>{
     const tw = ref.match(/\'([^']*)\'/gm)||[];
     tw.forEach(r=>ref=ref.replace(r,""));
     const scp=(txt,internal_data_flag)=>{
-        console.log(txt,"is raw text")
+        //console.log(txt,"is raw text")
         const text_div =(txt,mainNB,speaker,colors)=> `
             <div style="${mainNB?`text-align:left; margin: 0 auto 0 0;`:
                 `text-align:right; margin: 0 0 0 auto;`} background-color:${colors[1]};
@@ -98,6 +107,7 @@ const mdx_block_parser = (block,dfn)=>{
                 }
                 if(speaker_regex){
                     let key = speaker_regex[0].slice(0,speaker_regex.indexOf(":")-1);
+                    console.log("key is ",key,speaker_regex)
                     const speaker = get_speaker_with_title(key);
                     const mainFlag = speaker== defaultnarrator.current;
                     const dialouge = txt[0]+txt.slice(txt.indexOf("::")+2)

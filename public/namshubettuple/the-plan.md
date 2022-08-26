@@ -1,11 +1,11 @@
 # The Plan
 {
 mn:M
-*Ozmind discarded his teacup on the table*
-"O::Uri saw the security feed, as it was happening"
+*Uir discarded his teacup on the table*
+"O__U::Uri saw the security feed, as it was happening"
 "F::Okay."
 ~Felix leaned back, mostly satisfied with his query~
-"O::It's why Uri ran up to the mountains. If the link were safe -"
+"O__U::It's why Uri ran up to the mountains. If the link were safe -"
 "M::Wait, why is the link dangerous?"
 "FL::Before it was outside the link, our collective unconscious."
 *Flanagan stood up, and walked to the window*
@@ -75,7 +75,7 @@ WITH hooks(
 ~But he became faded into shadow as Rossin, in her body, turned away from him~
 "FL::You sure he's under control"
 ~Ozmind stiffened~
-"O::Yeah - he's not thinking right now. 
+"O__U::Yeah - he's not thinking right now. 
 Let me just..."
 *Rossin and Martha looked out the window*
 ~It was a hollow void of light - with no clear boundary on any horizon~
@@ -98,11 +98,11 @@ Long ago..."
 ~Flanagan paused~
 "FL::If it was contained, we could send it back, but since it's in the link now"
 ~Ozmind's voice cut in~
-"O::It hasn't shown any signs of slowing it's growth."
+"O__U::It hasn't shown any signs of slowing it's growth."
 'M::So: how long do we have?'
 ~Rossin looked at her, then back to Ozmind~
 "R::How long until it is everywhere in the link?"
-"O::Somewhere between days, not weeks... I really couldn't say."
+"O__U::Somewhere between days, not weeks... I really couldn't say."
 "FL::We're in a bit of a pickle then, if the Relux..."
 "J::What about us?"
 "FL::Is miss Lovelace still in Șolomanță?"
@@ -124,7 +124,7 @@ Long ago..."
 First we have to think of this as a viral infection."
 *Flanagan stood up and paced the room*
 "FL::Ozmind, do you know Alice's formula?"
-"O::I don't... Uri might - but I don't think so. 
+"O__U::I don't... Uri might - but I don't think so. 
 I might be able to find it at her lab... 
 but she... it, might still be there."
 "FL::Go and find it, if you find them - report back instead. You'll take Felix."
@@ -149,7 +149,7 @@ In the mean time we can't save the people injected..."
 Containment would be hard: it is intelligent, it would spread itself out, as much as it could."
 "J::If we gathered them in one place."
 "L::Then we could use something like a bomb - blow it to pieces all at once."
-"O::Why would it gather?"
+"O__U::Why would it gather?"
 "FL::Consider it hasn't attacked us all directly through the link yet, what exactly is it planning?"
 ~Eyes fell on Flanagan~
 "FL::It doesn't seem that interested in the general population, however 2/3rds..."
@@ -208,9 +208,9 @@ Also would you mind telling Felix that he is a potato so he wakes up?'
 {
 ~She repeated the words and Felix's ability to make memories was restored~
 "F::You all moved."
-"O::Come on, We are doing some recon."
+"O__U::Come on, We are doing some recon."
 "F::Recon, what's going on?"
-"O::Walk and talk: time to go."
+"O__U::Walk and talk: time to go."
 "M::Where do I go?"
 "FL::Downward, into the library"
 *Flanagan pointed with the cane we was leaning on*
