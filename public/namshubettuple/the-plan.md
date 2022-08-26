@@ -1,7 +1,7 @@
 # The Plan
 {
 mn:M
-*Uir discarded his teacup on the table*
+*Uri discarded his teacup on the table*
 "O__U::Uri saw the security feed, as it was happening"
 "F::Okay."
 ~Felix leaned back, mostly satisfied with his query~
@@ -288,19 +288,25 @@ We'll start to my right."
 'Okay, timing and finesse - you got this'
 ~He waited for her to round the corner~
 *He faced away from where she would round the corner*
-~Running steps approached~
+~He heard her running steps approached~
 *Kent Walked backwards*
-*He had her back to her, waving at someone*
-~Alice had not turned yet~
-~He watched her scan the crowd - continuing his backward walk~
+'Just fooling one set of eyes, keep focused'
+~He had her back to her~ 
+*He pretended to wave at someone*
+*Alice passed him, slowing her run*
+~He watched her scan the crowd~
+*He continued his backward walk*
 *Kent tossed the gun-strap on the other side of the corner*
+'K::Second toss - was that too on the nose?'
+~Still, he knew he couldn't keep it~
 *He then continued crossing the street, towards central park*
 ~He saw her spot the jacket~
+'K::Just get to the park.'
 *He turned around and faced the park*
 ~He couldn't see her, but neither could she see his face~
 ~He was halfway though the street before he heard a muttering~
 ~A horn honked in his ear - and yet: he still heard her quite voice~
-'Okay,what is she doing?'
+'Okay, what is she doing?'
 ~Kent watched everyone - and was almost prepared for the sudden stop~
 *He stopped*
 }
@@ -313,10 +319,17 @@ We'll start to my right."
 ~No sooner had he registered them he realized everyone was turning toward her~
 ~He did likewise~
 *He stared at her stone faced*
+'How do you stay calm - like this kent?
+you clench your toes, you think of your stubby toes to distract you.
+Right, Kent, think of the toes.'
 ~He had the syringe palmed in his hand still~
 ~She scanned the crowd and her gaze never halted on him~
-*She wandered in a wide arc, before settling to backtracking*
-~He watched from across the street her run away from him~
+'I know she saw me...
+She does not recognize me'
+*She wandered in a wide arc* 
+~She spotted the holster on the other side of the corner~
+*She scanned everyone one more time before settling to backtracking*
+~He watched from across the street her run back to that place~
 ~Everyone around him, including the cars came back to life suddenly~
 ~He did the same~
 'They just let me go, with this syringe?'
@@ -326,17 +339,19 @@ We'll start to my right."
 "F::So was it her or wasn't it?"
 "U::It felt like her"
 ~Kent watched two men hurriedly run toward the intersection he was at~
+'K::That fucker, Felix.'
 *He got up and walked a short distance behind them*
 ~Close enough to hear~
-"U::Her lab is across town"
-"F::Undernet is right here, that's where they're at Ozmind"
-*Kent ducked between two parked cars*
-'are they going to meet?'
+"U::Her lab is across the city"
+"F::Undernet is right here, that's where they're at, Ozmind"
+'K::Are they going to meet?'
 "F::We should head to the lab if it's empty"
 "U::Empty of Alice, maybe more, but by now - we can't be sure"
 ~They walked toward the alley he came out of~
 *Kent stopped at the entrance for the alley and looked in*
 ~Felix was leaned against the wall, and the other one was opening the door~
+*Kent ducked between two parked cars*
+~He had a good view~
 *The door opened and that shaven man was in the hallway*
 ~Kent could hear words that weren't words~
 *The man at the door crumpled*
@@ -344,7 +359,7 @@ We'll start to my right."
 *The shaven man stepped out into the light*
 *Felix swung a pipe into the man's head*
 ~A few more pipes behind Felix scattered to the ground~
-*The man staggard and fell*
+*The man staggered and fell*
 ~An ichor poured out of the wound~
 ~Not blood: but something richer - thicker~
 ~A color that was unnatural~
@@ -355,7 +370,7 @@ We'll start to my right."
 *It sizzled on Uri's face*
 ~Both Uri and the shaven head man were motionless on the ground~
 *Felix stumbled forward out to the mouth of the alley*
-~In front of Kent his vision was blocked by a red cardigan~
+~Kent's vision was blocked by a red cardigan~
 *Kent looked up*
 *Alice strolled toward Felix*
 ~Kent heard words - that were not words~
@@ -363,7 +378,7 @@ We'll start to my right."
 ~Kent held the syringe in his hand considering what to do~
 'He was a bastard'
 *Kent put the syringe down*
-'But that.'
+'But that...'
 ~And there was a sudden moment of clarity~
 *He looked down at the syringe*
 'This stuff, that ooze, the dead...'
@@ -373,13 +388,13 @@ We'll start to my right."
 ~Felix was still on the ground, unmoving~
 'Is he dead?'
 *Felix gasped*
-'Alright, here comes the calvary, ass-hat'
+'Alright, here comes the cavalry, ass-hat'
 ~Kent left the syringe in the crook of the sidewalk and street~
-'If he arrested her...'
+'If I arrested her...'
 'No one would believe me, and she would make them not believe me'
 *He picked up a small two by four*
 ~He did not like what he knew he must do~
-'You could run'
+'K::You could run'
 *As Kent crept closer he looked between her and the black ichor*
 ~It was still sizzling, he didn't think it would stop~
 "AG_T::I wouldn't speak if I were you."
@@ -395,14 +410,17 @@ We'll start to my right."
 ~Nearly hugging him~
 *She curled into his throw and twisted the board out of his hand*
 *She also tripped him*
-*Kent panicked and failed wildly*
+*Kent panicked and flailed wildly*
 ~He felt fabric and tried to take her down with him~
 ~He did not~
+}
+{
 "AG_T::I can hear you, but..."
 ~Kent saw Felix on his feet~
-'The hell is he doing with his mouth'
+'The hell is he doing with his mouth?'
 ~Kent watched Felix some more while pretending to be more stunned than he was~
 'Oh, he wants me to make loud noises?'
+"AG_T::Why don't I SEE you..."
 'Keep her attention?'
 ~She tilted her head at his singing~
 "K::OH SAY CAN YOU SEE?"
@@ -412,20 +430,30 @@ We'll start to my right."
 "K::STAY TRUE, THROUGH THE RUSE"
 ~Kent heard the sudden wack against her head and flinched~
 *Alice fell to his left, he rolled to his right*
-~Kent looked himself over - making sure of no contamination~
-~A young man stopped around the center of the mouth to the alley~
-"SM::What you guys doing in - oh my lord - somebody call the police"
-*He backed away, and ran*
+~A round older man stopped his shopping cart full of junk at the mouth to the alley~
+*He was rummaging around the ground*
+~Kent looked himself over - making sure there was no contamination~
+*The man hobbled forward a bit*
+~Kent was reminded of a penguin~
+'K::Cart must be for balance'
+"HM::What you guys doing in here - I can audition if ya'll - oh my lord - somebody call the police!"
+*He backed away, and pushed his cart*
 "K::I am the police"
-~He did not stop~
-"SM::Someone call the gangs, the police are here."
+~He did not stop, instead he called out~
+"HM::Lord - someone call the gangs, the police are here."
 ~There was a moment of silence~
+'K::Call the...
+Is he high?'
+'K::keep focused'
+}
+{
+*Kent looked back at the metal door*
 "K::There's more of them inside"
 *Felix started running out the alley*
 *Kent followed*
 "K::Hey, I got some questions for you."
 *Felix turned and mimed to his mouth*
-'K::Fucking convenient'
+'K::Fucking convenient - mute now are you?'
 ~Kent chased after~
 }
 {
