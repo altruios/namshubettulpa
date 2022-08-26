@@ -42,6 +42,7 @@ mn:R
 "R::Do you want to stay here Felix, and help us?"
 *Felix looked around*
 ~He met each of their eyes~
+*Felix nodded*
 "R::then be ready to listen."
 ~Felix narrowed his eyes~
 `
@@ -155,7 +156,7 @@ Containment would be hard: it is intelligent, it would spread itself out, as muc
 ~Eyes fell on Flanagan~
 "FL::It doesn't seem that interested in the general population, however 2/3rds..."
 "L::It's targeting the Awakened: because we can fight back?"
-"FL::You say this serum is required for the host to survive."
+"FL::You say this serum is required for the host to survive?"
 ~Ozmind, in Uri's body nodded~
 "FL::It took about 2 weeks from this thing's arrival until it took two thirds of us.
 I assume its focused on spreading as fast as it can - so that gives us some estimate"
@@ -189,7 +190,7 @@ mn:M
 "FL::Not until the dump."
 *Martha tilted her head*
 "FL::The info dump."
-`'is he fucking with me?'`
+`'Is he fucking with me?'`
 *Rossin shook his head*
 "M::Okay - so you need me to learn a bunch of things: and that will help us... 
 How?"
@@ -208,7 +209,11 @@ Also would you mind telling Felix that he is a potato so he wakes up?'
 }
 {
 ~She repeated the words and Felix's ability to make memories was restored~
-"F::You all moved."
+*He inhaled and then yelped*
+"F::You all moved - I."
+*Felix patten himself down*
+"F::Why am I sweating?"
+"F::What did you do?"
 "O__U::Come on, We are doing some recon."
 "F::Recon, what's going on?"
 "O__U::Walk and talk: time to go."
@@ -230,14 +235,14 @@ mn:K
 ~Kent kept him in the corner of his eye~
 ~As he watched the circle of people he realized something~
 'I am at the right hand side'
-~despite it's circular nature Kent sensed the head of this gathering~
+~despite its circular nature Kent sensed the head of this gathering~
 'From the entrances and exits - seats watching everything creating a power imbalance'
 ~And kent watched that man in the corner~
 ~That man was scanning the room, interested in the others more than kent~
 "RG_T::Real power - chemically accessed"
 'Okay - bad ideas out of the way - probably should not run'
 'Even if you get a hold of that syringe'
-'Event if there is a good escape'
+'Even if there is a good escape'
 'Just get out of here quietly'
 "O_T::Take it - and you will have unlimited power"
 "RG_T::Power of your dreams and beyond"
@@ -247,10 +252,10 @@ mn:K
 We'll start to my right."
 }
 {
-*Kent clenched stomach*
+*Kent clenched his stomach*
 'Okay: you have permission to run'
 'Especially if you can grab that syringe'
-'They are looking at you, deer caught in the headlights'
+'They are looking at you, deer caught in the headlights: say something!'
 ~Kent considered the fact he was immune, and no one out on the street was~
 *Kent reached out his hand*
 "K::I'll do the honors"
@@ -262,34 +267,36 @@ We'll start to my right."
 *Alice handed him another*
 *And then the third once he passed that down*
 ~The second person sitting to his left held the syringe inspecting it~
-*The man to his left stabbing it into his own upper thigh*
+*The man to his left stabbed it into his own upper thigh*
 *The second man to his left bolted upright, and then scrambled out one entrance*
 ~The entrance opposite to the way Kent entered~
 *Kent did the same, running towards the way he came in*
 ~Kent heard words that weren't words and then a loud thud~
-~He didn't look back~
+~He didn't look back: He wasn't going to waste such as opportune distraction~
 *He ran down the hallway to the exit*
 ~It wasn't until he made it to front door that he heard scrambling from inside~
 }
 {
-~He made it to the corner of the alley of the street before he headed the metal door open behind him~
+~He made it to the corner of the alley of the street before he heared the metal door open behind him~
 *He turned to look as he rounded the corder*
 ~At the hallway entrance was that woman in the red cardigan~
 ~He knew she saw him make a right~
-'Okay, relax  - think'
+'Okay, relax  - think, lots of breathing: but think'
 ~He kept running with the sun in his eyes~
+'False trail it is'
 *He undid his jacket, and his empty gun holster*
 *He rounded a corner and took them off*
 ~He took a moment to catch his breath~
 *He dropped the empty jacket down in the corner*
 *He balled the holster in his fists*
+~He couldn't keep wearing it without the jacket - and overflowed in his hands~
 }
 {
 'Okay, timing and finesse - you got this'
 ~He waited for her to round the corner~
 *He faced away from where she would round the corner*
 ~He heard her running steps approached~
-*Kent Walked backwards*
+*Kent started to Walk backwards*
 'Just fooling one set of eyes, keep focused'
 ~He had her back to her~ 
 *He pretended to wave at someone*
@@ -340,6 +347,8 @@ She does not recognize me'
 "U::It felt like her"
 ~Kent watched two men hurriedly run toward the intersection he was at~
 'K::That fucker, Felix.'
+~Kent was tired, the adreneline masked it: but now that he felt a little relieve~
+'K::I am just not going to sleep again, am I? Never going to catch a break.'
 *He got up and walked a short distance behind them*
 ~Close enough to hear~
 "U::Her lab is across the city"
