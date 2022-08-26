@@ -13,7 +13,7 @@ mn:M
 ~Martha looked closer at the window~
 "FL::Before it needed us to execute namshubs."
 ~There was light across his face~
-"FL::Now it can run it's own..."
+"FL::Now it can run its own..."
 *Rossin was pacing back and forth*
 "F::So any plan Flanagan?"
 ~Eyes turn toward him sitting across the parlor~
