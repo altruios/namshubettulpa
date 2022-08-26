@@ -363,6 +363,54 @@ We'll start to my right."
 'No one would believe me, and she would make them not believe me'
 *He picked up a small two by four*
 ~He did not like what he knew he must do~
+'You could run'
+*As Kent crept closer he looked between her and the black ichor*
+~It was still sizzling, he didn't think it would stop~
+"AG_T::I wouldn't speak if I were you."
+*She look to the left, down at the bodies*
+*Kent glided to the right*
+~Closing the distance~
+*He swung*
+*She dodged and spun*
+~Her face was scrunched into a snarl of curiosity~
+"Why can't I feel you?"
+*He swung again*
+*She moved up to him*
+~Nearly hugging him~
+*She curled into his throw and twisted the board out of his hand*
+*She also tripped him*
+*Kent panicked and failed wildly*
+~He felt fabric and tried to take her down with him~
+~He did not~
+"I can hear you, but..."
+~Kent saw Felix on his feet~
+'The hell is he doing with his mouth'
+~Kent watched Felix some more while pretending to be more stunned than he was~
+'Oh, he wants me to make loud noises?'
+'Keep her attention?'
+~She tilted her head at his singing~
+"K::OH SAY CAN YOU SEE?"
+*She leaned over him*
+"K::BY THE DAWSON GREEN LIFE"
+"AG_T::Those aren't the words"
+"K::STAY TRUE, THROUGH THE RUSE"
+~Kent heard the sudden wack against her head and flinched~
+*Alice fell to his left, he rolled to his right*
+~Kent looked himself over - making sure of no contamination~
+~A young man stopped around the center of the mouth to the alley~
+"SM::What you guys doing in - oh my lord - somebody call the police"
+*He backed away, and ran*
+"K::I am the police"
+~He did not stop~
+"SM::Someone call the gangs, the police are here."
+~There was a moment of silence~
+"K::There's more of them inside"
+*Felix started running out the alley*
+*Kent followed*
+"K::Hey, I got some questions for you."
+*Felix turned and mimed to his mouth*
+'K::Fucking convenient'
+~Kent chased after~
 }
 {
 %%%%
