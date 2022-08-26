@@ -373,7 +373,7 @@ We'll start to my right."
 *He swung*
 *She dodged and spun*
 ~Her face was scrunched into a snarl of curiosity~
-"Why can't I feel you?"
+"AG_T::Why can't I feel you?"
 *He swung again*
 *She moved up to him*
 ~Nearly hugging him~
@@ -382,7 +382,7 @@ We'll start to my right."
 *Kent panicked and failed wildly*
 ~He felt fabric and tried to take her down with him~
 ~He did not~
-"I can hear you, but..."
+"AG_T::I can hear you, but..."
 ~Kent saw Felix on his feet~
 'The hell is he doing with his mouth'
 ~Kent watched Felix some more while pretending to be more stunned than he was~
