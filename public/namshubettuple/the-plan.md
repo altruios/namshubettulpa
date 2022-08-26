@@ -75,7 +75,8 @@ WITH hooks(
 ~But he became faded into shadow as Rossin, in her body, turned away from him~
 "FL::You sure he's under control"
 ~Ozmind stiffened~
-"O::Yeah - he's not thinking right now. let me just..."
+"O::Yeah - he's not thinking right now. 
+Let me just..."
 *Rossin and Martha looked out the window*
 ~It was a hollow void of light - with no clear boundary on any horizon~
 ~Emanating a blanket's security, and comfortable warmth~
