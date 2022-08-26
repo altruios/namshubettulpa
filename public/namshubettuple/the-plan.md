@@ -6,10 +6,10 @@ mn:M
 "F::Okay."
 ~Felix leaned back, mostly satisfied with his query~
 "O::It's why Uri ran up to the mountains. If the link were safe -"
-"M::Wait, so why is the link dangerous?"
+"M::Wait, why is the link dangerous?"
 "FL::Before it was outside the link, our collective unconscious."
 *Flanagan stood up, and walked to the window*
-'Wait... the elevator went down.'
+'Wait... the elevator went down, and we were below ground in the garage'
 ~Martha looked closer at the window~
 "FL::Before it needed us to execute namshubs."
 ~There was light across his face~
@@ -48,7 +48,7 @@ mn:R
 WITH hooks(
     M:=~Self~~Memory~
     a:=set( ~Self~.temp_memory, M.New)
-    b:=set( M.New, ( ()=>~serenity~ |> ~Self~.NULL))
+    b:=set( M.New, ()=>~serenity~ |> ~Self~.NULL)
     add.([a,b]).release_on("Felix is a potato", ()=>{
         a:=set(M.New, ~Self~.temp_memory)
         b:delete(~Self~.temp_memory)
@@ -68,7 +68,7 @@ WITH hooks(
 "FL::Clever. If the link is not safe... neither would our sleep be."
 "J::Our dreams?"
 "R::Are what make up the link."
-'M::Rossin, over here'
+'M::Rossin, come over here'
 ~Martha was still standing by the window~
 *Rossin got up, and moved to her*
 ~Martha heard Flanagan behind Rossin~
@@ -89,30 +89,29 @@ WITH hooks(
 ~As if by his attention focused on them - made him more real~
 *Her head nodded of Rossin's accord*
 "R::She's fine to hear - quick study too."
-~Martha saw the scene before her enveloped in shadow~
 *Flanagan nodded and moved to the couch again*
 'M::Ask him if he has dealt with anything like this?'
 ~And Rossin repeated~
 "FL::Shadows of shadows... 
-long ago..."
+Long ago..."
 ~Flanagan paused~
 "FL::If it was contained, we could send it back, but since it's in the link now"
 ~Ozmind's voice cut in~
 "O::It hasn't shown any signs of slowing it's growth."
-'M::So... how long do we have?'
+'M::So: how long do we have?'
 ~Rossin looked at her, then back to Ozmind~
 "R::How long until it is everywhere in the link?"
 "O::Somewhere between days, not weeks... I really couldn't say."
 "FL::We're in a bit of a pickle then, if the Relux..."
 "J::What about us?"
-"FL::Is miss Lovelace still in the compound"
+"FL::Is miss Lovelace still in Șolomanță?"
 "L::She is heading back to us now, as requested."
 "FL::Give her a call:"
-"L::We don't call - "
+"L::We don't call Scholomance - "
 "FL::We need to tell her to wait."
 *Lenny and Jochek exchanged a look*
 "FL::We're meeting her there, make the call."
-*Lenny pulled out a cell phone and made the call*
+*Lenny pulled out a cell phone and stepped into the other room to make the call*
 ~Felix's continued gasping of surprised serenity counterpointed the cellphone's ring~
 "FL::Most of the people who would take advantage of that open line would be dead now, or otherwise now in disorder."
 *Jochek shrugged*
@@ -145,14 +144,20 @@ In the mean time we can't save the people injected..."
 "FL::highest chance of success or highest chance of survival?"
 "R::Success"
 *Flanagan sipped his tea*
-"FL::It is intelligent, it would spread itself out, as much as it could."
+"FL::Containment, reduction, expulsion...
+Containment would be hard: it is intelligent, it would spread itself out, as much as it could."
 "J::If we gathered them in one place."
 "L::Then we could use something like a bomb - blow it to pieces all at once."
 "O::Why would it gather?"
-"FL::More accurately: what exactly is it planning?"
+"FL::Consider it hasn't attacked us all directly through the link yet, what exactly is it planning?"
 ~Eyes fell on Flanagan~
 "FL::It doesn't seem that interested in the general population, however 2/3rds..."
 "L::It's targeting the Awakened: because we can fight back?"
+"FL::You say this serum is required for the host to survive."
+~Ozmind, in Uri's body nodded~
+"FL::It took about 2 weeks from this thing's arrival until it took two thirds of us.
+I assume its focused on spreading as fast as it can - so that gives us some estimate"
+"R::First the Awakened, then the population"
 "FL::That would be likely... 
 it gets worse...
 By removing 2/3rds of the Awakened..."
@@ -182,25 +187,34 @@ mn:M
 "FL::Not until the dump."
 *Martha tilted her head*
 "FL::The info dump."
+`'is he fucking with me?'`
+*Rossin shook his head*
 "M::Okay - so you need me to learn a bunch of things: and that will help us... 
 How?"
 "FL::So it won't be new anymore."
+'M::He is fucking with me'
 "M::I'm a bit lost."
 "FL::That's the point of it, my dear - don't worry, it won't kill you...
 probably."
 ~Flanagan addressed the whole room~
-"FL::Fly quickly - return here, Rossin: wake Felix."
-`"Why couldn't Felix be... awake for this?"`
+"FL::Fly quickly - return here. 
+Rossin: wake Felix."
+`"Why couldn't Felix be awake for this?"`
 'R::Most people should not know about The way out.
 Most people: most awakened*...
-Also would you mind telling Felix he is a potato so he wakes up?'
+Also would you mind telling Felix that he is a potato so he wakes up?'
 }
 {
-~She repeated the words and Felix's memory was fixed~
+~She repeated the words and Felix's ability to make memories was restored~
 "F::You all moved."
 "O::Come on, We are doing some recon."
+"F::Recon, what's going on?"
+"O::Walk and talk: time to go."
 "M::Where do I go?"
 "FL::Downward, into the library"
+*Flanagan pointed with the cane we was leaning on*
+~Pointed to a small door to the right, besides a fireplace~
+~It lead to a spiral stairwell and they descended, Flanagan trailing behind~
 }
 {
 %%%%
@@ -209,7 +223,7 @@ mn:K
 {
 ~Kent watched the syringes brought to the center of the room~
 "AG_T::We have only this much made today."
-"RG:_T::Getting production up to scale takes some time."
+"RG_T::Getting production up to scale takes some time."
 ~In the corner the man with the shaven head watched~
 ~Kent kept him in the corner of his eye~
 ~As he watched the circle of people he realized something~
@@ -218,7 +232,7 @@ mn:K
 'From the entrances and exits - seats watching everything creating a power imbalance'
 ~And kent watched that man in the corner~
 ~That man was scanning the room, interested in the others more than kent~
-"RG::Real power - chemically accessed"
+"RG_T::Real power - chemically accessed"
 'Okay - bad ideas out of the way - probably should not run'
 'Even if you get a hold of that syringe'
 'Event if there is a good escape'
@@ -249,11 +263,11 @@ We'll start to my right."
 *The man to his left stabbing it into his own upper thigh*
 *The second man to his left bolted upright, and then scrambled out one entrance*
 ~The entrance opposite to the way Kent entered~
-*Kent did the same, running in for the opposite exit*
+*Kent did the same, running towards the way he came in*
 ~Kent heard words that weren't words and then a loud thud~
 ~He didn't look back~
 *He ran down the hallway to the exit*
-~It wasn't until he made it to front door that he heard scambling from inside~
+~It wasn't until he made it to front door that he heard scrambling from inside~
 }
 {
 ~He made it to the corner of the alley of the street before he headed the metal door open behind him~
@@ -272,11 +286,11 @@ We'll start to my right."
 'Okay, timing and finesse - you got this'
 ~He waited for her to round the corner~
 *He faced away from where she would round the corner*
-~Running steps approched~
+~Running steps approached~
 *Kent Walked backwards*
 *He had her back to her, waving at someone*
 ~Alice had not turned yet~
-~He watched her scan the crowd - continung his backward walk~
+~He watched her scan the crowd - continuing his backward walk~
 *Kent tossed the gun-strap on the other side of the corner*
 *He then continued crossing the street, towards central park*
 ~He saw her spot the jacket~
