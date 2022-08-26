@@ -147,6 +147,7 @@ In the mean time we can't save the people injected..."
 *Flanagan sipped his tea*
 "FL::Containment, reduction, expulsion...
 Containment would be hard: it is intelligent, it would spread itself out, as much as it could."
+*Lenny walked back in and sat down*
 "J::If we gathered them in one place."
 "L::Then we could use something like a bomb - blow it to pieces all at once."
 "O__U::Why would it gather?"
