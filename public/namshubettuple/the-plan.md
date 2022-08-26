@@ -30,7 +30,7 @@ mn:M
 mn:R
 ~Everyone was looking at Uri or Flanagan~
 "R::I would have a better solution."
-*Ozmind huffed*
+*Uri huffed*
 "FL:: What do you have in mind."
 *Martha in the shadowy realm walked to the windows*
 ~It was just a bright light, she could tell there was space out there, but could make nothing out~
