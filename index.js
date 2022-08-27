@@ -111,14 +111,15 @@ app.get("/*",(req,res)=>{
 })
 
 app.listen(port, () => {
+    //console.log(networkInterfaces)
     Object.values(networkInterfaces).forEach(network=>{
         network.forEach(entry=>{
-            if(entry.family=="IPv4"&&entry.address!="127.0.0.1"){
-                console.log()
+            if((entry.family==4||entry.family=="IPv4")&&entry.address!="127.0.0.1" && entry.address.includes("192")){
                 console.log(`Namshub et'tuple is ready to read at ${entry.address}:${port}`)
                 qrcode.generate(`http://${entry.address}:${port}`,{small:true});
             }
         })
     });
-  })
+    console.log("listening",port)
+})
 
