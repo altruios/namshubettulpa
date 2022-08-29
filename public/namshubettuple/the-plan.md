@@ -465,9 +465,4 @@ Is he high?'
 'K::Fucking convenient - mute now are you?'
 ~Kent chased after~
 }
-{
-%%%%
-}
-{
-
-}
+## [decent-resent-reset](decent-resent-reset.md)
