@@ -80,7 +80,7 @@ mn:M
 ~She saw, looking to her left, the storm spread down below the ship~
 ~The ship was flying inside this place~
 ~Protected all around by the thin shield~
-"A::welcome to the ends-ark."
+"A::welcome to the End's Dreadnought."
 "M::Who are you?"
 "A::Captain Alacira, again - we're here to help"
 "M::With?" 

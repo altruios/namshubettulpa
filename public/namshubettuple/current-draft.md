@@ -1,4 +1,5 @@
 # CURRENT DRAFT 
+
 ## CHAPTERS
 
 1. [reset-2](reset-2.md)
@@ -19,4 +20,5 @@
 16. [the-plan](the-plan.md)
 17. [decent-resent-reset](decent-resent-reset.md)
 
-date:8/26/22
+### [index](index.md)
+date:9/11/22

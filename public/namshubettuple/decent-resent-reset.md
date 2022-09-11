@@ -11,7 +11,7 @@ mn:M
 `"Tick?"`
 'R:: It attached itself to us via the link, sucked out a bunch of the Algera from the Awakened'
 `"Okay, no: so what is Algera?"`
-'R::Here is a data file one it:'
+'R::Here is a data file on it:'
 `TODO::link to Algera wiki page`
 }
 {

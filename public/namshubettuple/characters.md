@@ -1,32 +1,32 @@
 # CHARACTERS
 
-[Rossin](Rossin.md)
+### [Rossin](rossin.md)
 
-[Martha-Crisp](Martha-Crisp.md)
+### [Martha-Crisp](martha-crisp.md)
 
-[Kent-Barbado](Kent-Barbado.md)
+### [Kent-Barbado](kent-barbado.md)
 
-[Felix-Danabrus](Felix-Danabrus.md)
+### [Felix-Danabrus](felix-danabrus.md)
 
-[Professor-Flanagan](Professor-Flanagan.md)
+### [Professor-Flanagan](professor-flanagan.md)
 
-[Captain-Lana-Alacira](Captain-Lana-Alacira.md)
+### [Captain-Lana-Alacira](captain-lana-alacira.md)
 
-[Gerald-Whitewater](Gerald-Whitewater.md)
+### [Gerald-Whitewater](gerald-whitewater.md)
 
-[robert-glass](Robert-Glass.md)
+### [robert-glass](robert-glass.md)
 
-[uri-maca](uri-maca.md)
+### [uri-maca](uri-maca.md)
 
-[juan-long](juan-long.md)
+### [juan-long](juan-long.md)
 
-[ozmind-yammin](ozmind-yammin.md)
+### [ozmind-yammin](ozmind-yammin.md)
 
-[alice-glass](alice-glass.md)
+### [alice-glass](alice-glass.md)
 
-[al-tok](al-tok.md)
+### [al-tok](al-tok.md)
 
-[relux](relux.md)
+### [relux](relux.md)
 
 
-
+[index](index.md)

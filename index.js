@@ -14,7 +14,8 @@ let cwd = BASE_DIR;
 app.set('public', path.join(__dirname, 'public'));
 
 
-
+const bg_colors=["#248bc5","#b5b5ba","#af80af","#b58782","#6f6f6f"] //blue // grey // red / greyred //dg
+const fg_colors=["#fafafa","#000070"] //magenta//green
 
 async function transform_to_md(cwd,callback){
     var re = /\[(.*?)\]/g
@@ -86,7 +87,7 @@ async function transform_to_md(cwd,callback){
                 }
             })
         }
-        data=`<html><body ${blocks? 'style="background-color:#6f6f6f; font-size:3vh;display:flex;flex-flow:column nowrap;"':''} >${data}</body></html>`
+        data=`<html><body style="background-color:${bg_colors[4]}; ${blocks? `font-size:3vh;display:flex;flex-flow:column nowrap;"`:''} >${data}</body></html>`
         data=data.replace(/([\<][\p][\>][\<][\/][\p][\>])/gm, "")
         callback(null,data);
     })        
