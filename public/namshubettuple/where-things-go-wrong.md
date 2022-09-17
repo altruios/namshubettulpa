@@ -150,7 +150,7 @@ My body..."
 'R::This should do: but there is no way I can make this particularly comfortable...
 You will be fine.'
 ~And just like that the switch moved~
-~Instead of of vague idea, it was a solid pin attached to her consciousness~
+~Instead of the vague idea, it was a solid pin attached to her consciousness~
 ~A stabbing point she noticed just behind her right eye~
 ~It started to fade, but she remained aware of it~
 ~It was pinned to her consciousness, how could she not be~

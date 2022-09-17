@@ -1,5 +1,10 @@
 # PLOT
 
+## chapter structure
+
+#### a stone walled kink might make a good start chapter. With the perspective of kent starting and martha in a police station: it would cast doubt on the reality of Rossin.
+
+
 
 ## unwritten so far: and thus subject to change
 
