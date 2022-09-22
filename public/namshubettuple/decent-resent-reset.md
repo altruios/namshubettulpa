@@ -185,5 +185,181 @@ That they were giving out"
 mn:M
 }
 {
-
+~The link was visceral, Martha was unprepared~
+~She fell and kept falling into a repeating fractal of herself~
+~The center of her was a hole~ 
+*Martha squeezed through an outline of herself*
+'M::A bit cramped'
+~It was outlined in her shape, moving like a shadow-play: a reflection of her own movements~
+~But a full spectral spread of pieces of her life lined the edges~
+~Those too moved like a slowed down projector~
+~There was a gap between each moment~
+~As she fell that gap grew wider~
+*Martha leaned to her left*
+~She found herself on the grass, watching herself storm out of the back of the mansion she had been in a few nights ago~
+"M::Oh... well then."
+*Martha sat up on the grass*
+'M::Must be a memory'
+~She felt the soft sponge of the grass, it was perfect~
+~There was another door closing~
+*She looked back up*
+"M::Rossin."
+"R::Not quite, I'm a memory of Rossin, not the quality original.
+But - I think I can get him here - that I am here, sort of a switcheroo"
+"M::Anything I need to do?"
+"R::Let him through"
+*Rossin pointed to the left* 
+~There was an edge to the memory - leading back that space~
+~And between the memory, and that space was a gap - wide as a small field~
+~It was slowly growing~
+*Martha approached the edge*
+~Martha compared herself to being inside a finger - the gap was a ring~
+*She leaned over*
+~In that gap Rossin appeared, partially immaterial, bounded behind some barrier~
+*There was a crack*
+~Another Rossin to her right was banging on the barrier~
+~More and more appeared until it was not empty~
+~Just a writhing mass of Rossin's stuck together~
+"R::I'd step away if I were you."
+*She did*
+"R::Looks like we missed our chance"
+'M::What did Flanagan say?'
+~Martha thought of her hand, her hand holding Flanagan's~
+*Flanagan's flesh and clothing grew out of her hand until he was standing beside her*
+*He looked up*
+~Above him was the gap, writhing copies of Rossin swirled and licked some invisible barrier~
+*He looked to Rossin then back up*
+"FL::That was not what I expected."
+"M::It's a mask"
+"FL::That I know, but... never-mind - just be cautious."
+"M::So where is my body right now?"
+"FL::What do you mean?"
+"M::Am I asleep in the cube?"
+"FL::Martha, dear: you're in the link. you're body is right here."
+*Martha felt at herself*
+~She seamed solid enough~
+'M::But before'
+~Before when she endless fell in on herself.~
+"M::But I'm physical, the link isn't"
+"FL::Who said that? 
+If it exists it's physical."
+~Martha paused, and after a few breaths felt a little calmer~
+"M::So what - I'm really physically here in my own memory?"
+"FL::As am I"
+"M::Can't we dream our way in."
+"FL::We used the backdoor for a reason, we do not want to be noticed."
+"M::Also - Why can't Rossin be here?"
+"FL::Frankly my dear, I don't know."
+"R:: He's a tuple"
+~The memory of Rossin spoke~
+*Flanagan's eyebrows shot up.*
+"FL::No. 
+Someone... 
+He did it then."
+"M::Tuple?"
+"FL::He's not a person - like you or I... 
+But wow...
+He would have fooled me...
+He did fool me"
+*Flanagan shook his head*
+"FL::Time to go either way - we don't have forever"
+"M::What exactly is the plan?"
+*Flanagan pointed to the writhing mass of bodies in the void*
+"FL::See that - we go inside that - and yes: before you ask. it's going to hurt."
+*Flanagan coughed*
+"FL::Like a lot, probably.
+Be prepared for the worst and hope for the best."
+"M::Then what?"
+"FL::In there - we find a way to our little shadow king"
+~Martha waited~
+"FL::Then I'm going to poke him - and whatever comes out, you need to drink"
+*Flanagan flourished his hand and brandished a forearmed sized thin needle*
+"FL::It's probably going to taste gross, Hm - what else..."
+*Flanagan waved his arm again and a large funnel settled in his hand*
+*He handed it to her*
+~She inspected it, to have a cover she couldn't see a seam to~
+"FL::Hold it out and be ready, a small sample."
+*He held the funnel in one hand, thumb over the lid* 
+~He waited until Martha took the hose~
+"FL::It's a filter - it's alright"
+*And with the other took his needle and slice the thumb*
+"FL::Only Algera flows"
+*Droplets of blood collected on the surface of the lid - but something else slipped through*
+~It was cold and hot, it was every extreme~
+~It was a pure experience: her lips, then her tongue touching a pure expression of data~
+~A flooding sense of infinity - filling small holes~
+~Though it had hardly made a dent in the larger gaps~
+'M::Divinity'
+~A pure and blinding divinity~
+~A transcending moment, where things clicked into place~
+~A sense of oneness in the universe, Her life a fractal pattern not just of herself, but of the link~
+~She knew the link: a connection, it was more than what anyone had told her.~
+~It was understanding that flooded her~
+~There was a center to that connection, far away.~
+~All at once it stopped, she was standing next to Flanagan~
+~An idea she had, now unsupported by the direct infusion of Algera, tumbled and cracked, scattered to the aether robbing her of an epiphany~
+"M::Holy shit."
+*Flanagan took her shoulder, and she caught the filtered funnel*
+"FL::That was from a drop of my blood - I have more than a few...
+But Martha - I want to impress upon you - two thirds of the awakened's Algera is stuck in that thing.
+You might be... 
+Occupied for a time by so much Algera."
+"M::Occupied?"
+~Martha didn't know all the rules, but that small amount of Algera let her know some things~
+*Martha extended her hand*
+`-cp G.Objects.jar --~mason~ --~glass~ , *hand*`
+*Glass crystallized as her brain processed a new jar in her hand.*
+"FL::Algera spoils outside of a host"
+'M::Okay, so - outside a host...'
+"M::When you say spoil?"
+"FL::Evaporate, here - may I?"
+*Martha nodded*
+*Flanagan shuffled his hands in Martha's direction*
+`-tf {
+    ~outside~:~steel~,
+    ~inside~:-sym link - *heart*
+}
+    `
+~Her cup changed, from glass to metal, and came with a lid.~
+*Her heart pulsed* 
+~She felt it echo from the cup in her hand~
+"M::Oh that feels weird"
+"FL::Keep your heart protected"
+~Martha looked at the funned and the can~
+'okay - I can do this: this is easy...'
+~She thought a moment longer -then started~
+`
+-cmb [...self.hands.Objects, 
+    -cp G.Objects.armor{~carbon fiber~,*Moulded*}, 
+    ...(for x in 11: 
+        -cp G.Objects.spike{*Barbed*, 
+            ~Location~:~Front corner at {{2xπr}}~
+            }    
+    ] --auto-format --light-weight --resizable{
+        (*curling pinky*)=>~left~:~right~
+        }
+`
+*The cup and funnel morphed in her hands* 
+~mostly like she pictured in her head~
+~The items combined into a short spear - spikes and the funnel at the end~
+"M::This isn't going to kill it though, is it?"
+"FL::No, no it won't.
+It is far to spread out for that."
+'M::This is just like stealing treasure from a dragon, yep... 
+And with this treasure'
+~She contemplated what she would do with that store of power~
+*Martha looked above her*
+'M::Rossin said months - before she would be ready'
+~She studied it some more~
+~She had Flanagan by her side after all~
+"M::Can we kill that thing at least?"
+*Martha tilted her head towards the thing*
+~Flanagan considered~
+"FL::After we get the Algera out, before that it's going to be our way in, and our way out."
+}
+{
+    %%%%
+}
+{
+`{TODO:confront tok, and spill and bind tok - tok breaks contraption, martha with knowledge of the link redistributes it to the masses}`
 }
