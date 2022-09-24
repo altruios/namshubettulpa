@@ -21,4 +21,4 @@
 17. [decent-resent-reset](decent-resent-reset.md)
 
 ### [index](index.md)
-date:9/11/22
+date:9/23/22

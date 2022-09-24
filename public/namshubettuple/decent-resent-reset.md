@@ -299,7 +299,13 @@ Be prepared for the worst and hope for the best."
 ~All at once it stopped, she was standing next to Flanagan~
 ~An idea she had, now unsupported by the direct infusion of Algera, tumbled and cracked, scattered to the aether robbing her of an epiphany~
 "M::Holy shit."
-*Flanagan took her shoulder, and she caught the filtered funnel*
+~It was as if every moment of her life had been curled up - and presented as a singular idea~
+'M::A freer'
+~That was what she was, deep down~
+*She inspected her hand*
+~As if for the first time... as for a way, it was the first time - knowing what those hands would do~ 
+*Flanagan took her shoulder, and she caught the filtered funnel in her outstretched hand*
+~She kept the sadness out of her face, the coming betrayal~
 "FL::That was from a drop of my blood - I have more than a few...
 But Martha - I want to impress upon you - two thirds of the awakened's Algera is stuck in that thing.
 You might be... 
@@ -317,26 +323,33 @@ Occupied for a time by so much Algera."
 *Flanagan shuffled his hands in Martha's direction*
 `-tf {
     ~outside~:~steel~,
-    ~inside~:-sym link - *heart*
-}
-    `
+    ~inside~:-sym link - creator.*heart*
+}.then((r)=>r.set(~Permissions~,750)
+`
 ~Her cup changed, from glass to metal, and came with a lid.~
 *Her heart pulsed* 
 ~She felt it echo from the cup in her hand~
 "M::Oh that feels weird"
-"FL::Keep your heart protected"
-~Martha looked at the funned and the can~
-'okay - I can do this: this is easy...'
-~She thought a moment longer -then started~
+"FL::Keep your heart protected, and set your default permissions."
+~Martha looked at the funnel and the jar~
+'M::Default permissions: right.'
+`defaults.set(~permissions~, 750)`
+'M::okay - I can do this: this is easy...'
+"R::you can do this."
+'M::dream Rossin says so, does that count'
+~She decided it did: she would have to let him know~
+~She thought a moment longer - then started~
 `
--cmb [...self.hands.Objects, 
+-cmb ~this~ => [...self.hands.Objects, 
     -cp G.Objects.armor{~carbon fiber~,*Moulded*}, 
-    ...(for x in 11: 
-        -cp G.Objects.spike{*Barbed*, 
-            ~Location~:~Front corner at {{2xπr}}~
+    ...(for x in 10: 
+        -cp G.Objects.spike{
+                ~style~:*Barbed*,
+                *length:*~1ft~, 
+                ~Location~:~Front corner at {{2xπ(this.front.radius)}}~
             }    
     ] --auto-format --light-weight --resizable{
-        (*curling pinky*)=>~left~:~right~
+        (*curling pinky*)=>~left~?*grow* | ~right~?*shrink*
         }
 `
 *The cup and funnel morphed in her hands* 
@@ -344,7 +357,7 @@ Occupied for a time by so much Algera."
 ~The items combined into a short spear - spikes and the funnel at the end~
 "M::This isn't going to kill it though, is it?"
 "FL::No, no it won't.
-It is far to spread out for that."
+It is far too spread out for that."
 'M::This is just like stealing treasure from a dragon, yep... 
 And with this treasure'
 ~She contemplated what she would do with that store of power~
@@ -356,10 +369,89 @@ And with this treasure'
 *Martha tilted her head towards the thing*
 ~Flanagan considered~
 "FL::After we get the Algera out, before that it's going to be our way in, and our way out."
+"M::Any other way out... 
+Or in?"
+"FL::Out, maybe - but in... that's the way."
+'M::Okay, less than ideal, he will not help me after...'
+~Martha suppressed the thought~
+"FL::Are you ready?"
+*Martha nodded*
+'M::Thread the needle Martha - keep it together'
 }
 {
     %%%%
 }
 {
+*Martha held his hand*
+~That was a constant~
+*She held tight as she and Flanagan tore through the skin of the copies of Rossin clawing at them*
+~Flanagan had ripped open a hole~
+'M::THE hole'
+~The one from her childhood, the one at the back of her mind~
+'M::How long have you been there?'
+~She panicked, that hole was death, worse than death~
+~It promised so much worse from her nightmares as a child~
+*they slid through*
+~With the sudden blindness came pain~
+~Not just bodily pain: she was riven by edges of the link inside the entity, each connected to a moment of pain~
+`~The betrayal of a lover, discovered through an intercepted message~`
+`~The loss of a child, by looking the wrong way at at just the wrong moment~`
+`~The hate in the eyes of your parents, after killing their grandchild~`
+~Worse, and still:~ 
+*She held his hand*
+~Each moment cutting her, now a part of her~ 
+~She compartmentalized them as best she could~
+~Her panicked mind was not helping~
+~There was no light, no concept of light, not even the equivalent of being able to see~
+~Every connection, every node in the link was shrouded, shifting, and impenetrable.~
+~Until she was cut by an edge, which was often, she might as well have been in a void~
+"M::How are we going to find anything in here."
+~There was no response~
+'M::Can he hear me?'
+~Martha waited, still nothing~
+'M::Okay... girl scouts was useful for something'
+*Martha squeezed .... --- .-- / ..-. .. -. -..*
+~A short time later she felt something back in her hand~
+*.. / ... . .*
+'M::Okay, so I guess I just wait'
+~Martha contemplated how she might kill this thing~
+'M::you seem much bigger, but...'
+~It couldn't actually be this big, it was just in her head, one brain...~
+~She had to be larger - she reasoned... but maybe not stronger~
+'M::No - it is in me, not the link'
+~Those had been her memories, she realized~
+~Divorced from her by Rossin - and used by this thing as a sort of fuel~
+'M::I had a daughter?'
+~She tried to remember her face~
+~She couldn't~
+*Another memory cut into her*
+~She couldn't accept it~
+~She buried that one deep down~
+*Martha's feet hit a floor*
+~She was in a memory, her own~
+~A row of books on either side of her~
+~A dark emerald colored carpet at her feet~
+"M::Flanagan?"
+"FL::Here"
+*He squeezed her hand*
+~Which had nothing in it~
+*Martha looked around*
+~Flanagan was nowhere in sight~
+~Some movement behind the books caught her eye~
+"FL::Other side of the bookshelf"
+*He tugged at her*
+"FL::This way"
+*Martha looked down at her hand*
+~She was still holding his hand, she could tell, but it wasn't there~
+~She felt it, and him pulling on her to come~
+~It was as if he had an invisible stretchy arm that could pass through walls~
+~Martha let herself be led on~
+}
+
+
+{
+
+
+
 `{TODO:confront tok, and spill and bind tok - tok breaks contraption, martha with knowledge of the link redistributes it to the masses}`
 }
