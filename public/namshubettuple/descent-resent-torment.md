@@ -15,41 +15,53 @@ mn:M
 `TODO::link to Algera wiki page`
 }
 {
-~They reached the bottom the the stairs~
+*They stopped walking at the landing of the stairs*
 ~A small rounded door made of dark oak stood closed in front of them~
 *Flanagan opened the door*
-~Inside lay another door, made of copper wire~
-~A narrow passage between the two doors lay a panel with one switch~
-*Flanagan pulled down on the switch*
-~The faint buzzing Martha hadn't noticed silenced~
+~Maple floors and walled ended less than an arms length~
+~Inside lay another door, made of finely, tightly meshed copper wire~
+~In the narrow passage between the two doors lay an electrical panel with one switch~
+*Flanagan pulled it down*
+*The faint buzzing suddenly ceased*
+~Martha hadn't noticed it until it was silenced~
+*Flanagan stepped forward and opened the second door*
 ~Beyond the wire door was a black pool reflected back her and Flanagan's face~
 ~Smooth as glass~
-*Flanagan stepped forward and opened the second door*
 'It reminds me of Obsidian'
 "M::What's with all the doors?"
 "FL::Privacy, my dear, from many things"
+~It was a block encompassing the vast cavern of space~
+*Flanagan walked across a short bridge*
+~Made of that same copper wire mesh~
 *Flanagan pressed in his palm on a part of the glass and it sunk in*
 *He repeated this in several other locations on the glass*
-*Finally he swung it open*
+*Finally he swung a door open*
+'M::Okay, not obsidian'
 ~Inside was a dark hallway~
 *He walked forward and beckoned her to follow*
 ~She noticed the successively smaller set of cubes she was walking into~
-~Wood, copper, glass, each a layer around the room she was stepping into~
+'M::Wood, copper, wizard-glass'
+~Each a layer around the room she was stepping into~
 "FL::The doors, please"
-*Martha shut the doors*
-~She heard the electricity come to life after she closed the copper-wire door~
-*She looked back to see Flanagan's hand on an identical switch*
+*Flanagan's hand reached toward another electrical switch*
+~This one however, was made of the same black glass~
+~Martha looked and found a handle on the other side of the black glass~
+~She heard the electricity hum alive outside~
+*Martha pulled the door shut*
 }
 {
-*The obsidian door behind her closed with a thump*
 ~Inside was a pure dark~
 ~Flanagan stood at the end of the small hallway~
+~His voice echoed from that far away, at least~
 "FL::Beyond this next door no outside light has ever reached, inside here could be anything"
 "M::Have you been inside?"
 "FL::Oh yes, many times"
 'R::This is going to work.'
 `"What is going to work?"`
 "FL::We are going to steal some Algera, hopefully all of it"
+*Rossin shrugged*
+~Martha was started to still see him, alone in the dark~
+'M::Right: I see him with my brain'
 "M::How?"
 "FL::We are heading into the link - We are going to boldly pierce through a collection of thoughts and ideas and steal the power behind them"
 `"Mosquito on a tick"`
@@ -67,8 +79,8 @@ mn:M
 'R::I do not know if I can follow you into the link.'
 "FL::Don't spread out too thin"
 "M::Too thin?"
-"FL::Yes, right, this is your first time.
-Okay - ground rules: keep your thoughts together, don't let them spread out too far.
+
+"FL::Yes: keep your thoughts together, don't let them spread out too far.
 I'm leading - just focus on holding my hand and don't get lost."
 "M::We're going into the link?"
 'Wait, us physically into the link? 
@@ -186,42 +198,80 @@ mn:M
 }
 {
 ~The link was visceral, Martha was unprepared~
-~She fell and kept falling into a repeating fractal of herself~
-~The center of her was a hole~ 
+*She fell and kept falling into a repeating fractal of herself*
+~The center of her was a hole, dark and in her silhouette~ 
 *Martha squeezed through an outline of herself*
 'M::A bit cramped'
 ~It was outlined in her shape, moving like a shadow-play: a reflection of her own movements~
 ~But a full spectral spread of pieces of her life lined the edges~
 ~Those too moved like a slowed down projector~
+~~
 ~There was a gap between each moment~
-~As she fell that gap grew wider~
+~~
+~~
+~Martha felt that gap grow wider~
+~~
+~~
+~~
 *Martha leaned to her left*
+~~
+~~
+~~
+~~
+~~
+*She found her self against a barrier*
+~~
+~~
+~~
+~~
+~~
+~Almost like soap~
+~~
+~~
+~~
+~~
+~~
+~~
+*She broke through*
+~~
 ~She found herself on the grass, watching herself storm out of the back of the mansion she had been in a few nights ago~
 "M::Oh... well then."
 *Martha sat up on the grass*
 'M::Must be a memory'
+
 ~She felt the soft sponge of the grass, it was perfect~
 ~There was another door closing~
 *She looked back up*
 "M::Rossin."
+~He looked briefly startled, almost like waking up from a dream~
+*He walked across the yard to where she lay*
 "R::Not quite, I'm a memory of Rossin, not the quality original.
 But - I think I can get him here - that I am here, sort of a switcheroo"
+*Martha sat up*
 "M::Anything I need to do?"
 "R::Let him through"
 *Rossin pointed to the left* 
-~There was an edge to the memory - leading back that space~
+~There was an edge to the memory - leading back to that space~
 ~And between the memory, and that space was a gap - wide as a small field~
+~~
 ~It was slowly growing~
+~~
 *Martha approached the edge*
+~~
 ~Martha compared herself to being inside a finger - the gap was a ring~
 *She leaned over*
 ~In that gap Rossin appeared, partially immaterial, bounded behind some barrier~
 *There was a crack*
+~~
 ~Another Rossin to her right was banging on the barrier~
 ~More and more appeared until it was not empty~
 ~Just a writhing mass of Rossin's stuck together~
+~~
 "R::I'd step away if I were you."
+~~
+~~
 *She did*
+~~
 "R::Looks like we missed our chance"
 'M::What did Flanagan say?'
 ~Martha thought of her hand, her hand holding Flanagan's~
@@ -235,19 +285,20 @@ But - I think I can get him here - that I am here, sort of a switcheroo"
 "M::So where is my body right now?"
 "FL::What do you mean?"
 "M::Am I asleep in the cube?"
-"FL::Martha, dear: you're in the link. you're body is right here."
+"FL::Martha, dear: you're in the link. your body is right here."
 *Martha felt at herself*
 ~She seamed solid enough~
 'M::But before'
 ~Before when she endless fell in on herself.~
 "M::But I'm physical, the link isn't"
 "FL::Who said that? 
-If it exists it's physical."
+If it exists: it's physical."
 ~Martha paused, and after a few breaths felt a little calmer~
 "M::So what - I'm really physically here in my own memory?"
 "FL::As am I"
 "M::Can't we dream our way in."
-"FL::We used the backdoor for a reason, we do not want to be noticed."
+"FL::We used the backdoor for a reason, we do not want to be noticed...
+And we want certain privileges..."
 "M::Also - Why can't Rossin be here?"
 "FL::Frankly my dear, I don't know."
 "R:: He's a tuple"
@@ -260,8 +311,10 @@ He did it then."
 "FL::He's not a person - like you or I... 
 But wow...
 He would have fooled me...
-He did fool me"
-*Flanagan shook his head*
+He did fool me...
+Unless it's a bluff"
+*Flanagan and Rossin shook their heads*
+~For separate reasons~
 "FL::Time to go either way - we don't have forever"
 "M::What exactly is the plan?"
 *Flanagan pointed to the writhing mass of bodies in the void*
@@ -282,9 +335,11 @@ Be prepared for the worst and hope for the best."
 *He held the funnel in one hand, thumb over the lid* 
 ~He waited until Martha took the hose~
 "FL::It's a filter - it's alright"
-*And with the other took his needle and slice the thumb*
+*And with the other took his needle and sliced his thumb*
 "FL::Only Algera flows"
 *Droplets of blood collected on the surface of the lid - but something else slipped through*
+~Martha waited for it to flow down the tube~
+*It reached her lips, it was a drop*
 ~It was cold and hot, it was every extreme~
 ~It was a pure experience: her lips, then her tongue touching a pure expression of data~
 ~A flooding sense of infinity - filling small holes~
@@ -392,8 +447,24 @@ Or in?"
 ~She panicked, that hole was death, worse than death~
 ~It promised so much worse from her nightmares as a child~
 *they slid through*
+*She was thrust through a void*
+~~
+~~
+~~
+~~
 ~With the sudden blindness came pain~
-~Not just bodily pain: she was riven by edges of the link inside the entity, each connected to a moment of pain~
+'M::Just hold his hand.'
+*She did*
+*Her shoulder was cut*
+~An edge of memory cut her physically~
+`"Why!?" ~She was crying~`
+~She couldn't remember why~
+~~
+~~
+~As she fell deeper into the void the memories grew denser~
+~~
+~~
+~She was racked not just with bodily pain: she was riven by edges of the link of memories the entity co-opted, each connected to a moment of pain~
 `~The betrayal of a lover, discovered through an intercepted message~`
 `~The loss of a child, by looking the wrong way at at just the wrong moment~`
 `~The hate in the eyes of your parents, after killing their grandchild~`
@@ -402,31 +473,60 @@ Or in?"
 ~Each moment cutting her, now a part of her~ 
 ~She compartmentalized them as best she could~
 ~Her panicked mind was not helping~
+*Still, she held his hand*
 ~There was no light, no concept of light, not even the equivalent of being able to see~
-~Every connection, every node in the link was shrouded, shifting, and impenetrable.~
-~Until she was cut by an edge, which was often, she might as well have been in a void~
+~Every connection in the entity was shrouded, shifting, and impenetrable.~
+~Until she was cut by an memory's edge, which was often, she might as well have been in a void~
 "M::How are we going to find anything in here."
 ~There was no response~
 'M::Can he hear me?'
 ~Martha waited, still nothing~
+~~
 'M::Okay... girl scouts was useful for something'
+~~
+~~
 *Martha squeezed .... --- .-- / ..-. .. -. -..*
+~~
+~~
+~~
 ~A short time later she felt something back in her hand~
+~~
+~~
+~~
+~~
+~~
 *.. / ... . .*
+~~
+~~
 'M::Okay, so I guess I just wait'
+~~
 ~Martha contemplated how she might kill this thing~
+~~
 'M::you seem much bigger, but...'
 ~It couldn't actually be this big, it was just in her head, one brain...~
+~~
 ~She had to be larger - she reasoned... but maybe not stronger~
 'M::No - it is in me, not the link'
 ~Those had been her memories, she realized~
+~~
 ~Divorced from her by Rossin - and used by this thing as a sort of fuel~
 'M::I had a daughter?'
+~~
+~~
 ~She tried to remember her face~
+~~
+~~
+~~
 ~She couldn't~
+~~
+~~
 *Another memory cut into her*
 ~She couldn't accept it~
 ~She buried that one deep down~
+~~
+~~
+~~
+~~
 *Martha's feet hit a floor*
 ~She was in a memory, her own~
 ~A row of books on either side of her~
@@ -448,10 +548,4 @@ Or in?"
 ~Martha let herself be led on~
 }
 
-
-{
-
-
-
-`{TODO:confront tok, and spill and bind tok - tok breaks contraption, martha with knowledge of the link redistributes it to the masses}`
-}
+## [confrontation](confrontation.md)

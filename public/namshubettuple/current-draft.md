@@ -18,7 +18,7 @@
 14. [restructuring](restructuring.md)
 15. [interludes](interludes.md)
 16. [the-plan](the-plan.md)
-17. [decent-resent-reset](decent-resent-reset.md)
+17. [descent-resent-torment](descent-resent-torment.md)
 
 ### [index](index.md)
 date:9/23/22
