@@ -5,9 +5,11 @@ mn:M
 {
 "M::How far down does this go."
 "FL::A safe distance."
-~Martha walked down stone-layed passage~
+~Martha walked down smooth lead-layed passage~
+'M::Hands and arms away from the lead walls, inside the staircase at all times'
+~She felt the hair rise up on her arms, due to cold or a faint buzzing of electricity~
 ~Small LEDs in sconces spilt orange, reflecting on the stone~
-'R::Okay - better analogy, a tick.'
+'R::Okay this Al-tok thing - better analogy: a tick.'
 `"Tick?"`
 'R:: It attached itself to us via the link, sucked out a bunch of the Algera from the Awakened'
 `"Okay, no: so what is Algera?"`
@@ -19,7 +21,7 @@ mn:M
 *They stopped walking at the landing of the stairs*
 ~A small rounded door made of dark oak stood closed in front of them~
 *Flanagan opened the door*
-~Maple floors and walled ended less than an arms length~
+~Maple floors and walled ended less than an arms length, made of that same dark oak~
 ~Inside lay another door, made of finely, tightly meshed copper wire~
 ~In the narrow passage between the two doors lay an electrical panel with one switch~
 *Flanagan pulled it down*
@@ -46,7 +48,7 @@ mn:M
 "FL::The doors, please"
 *Flanagan's hand reached toward another electrical switch*
 ~This one however, was made of the same black glass~
-~Martha looked and found a handle on the other side of the black glass~
+~Martha looked and found a handle on the other side of door~
 ~She heard the electricity hum alive outside~
 *Martha pulled the door shut*
 }
@@ -60,19 +62,19 @@ mn:M
 'R::This is going to work.'
 `"What is going to work?"`
 "FL::We are going to steal some Algera, hopefully all of it"
-*Rossin shrugged*
+*Rossin shrugged and gestured to where Flanagan should be*
 ~Martha was started to still see him, alone in the dark~
 'M::Right: I see him with my brain'
 "M::How?"
 "FL::We are heading into the link - We are going to boldly pierce through a collection of thoughts and ideas and steal the power behind them"
 `"Mosquito on a tick"`
-'R::awkward but apt analogy - mosquitos do not feed on ticks'
+'R::awkward analogy - mosquitos do not feed on ticks'
 "M::So what exactly does this look like?"
 "FL::Look like?"
 "M::What exactly are we going to do?"
 "FL::That thing inside your head, it has a signature of it's owner - we are going to use it to go right to it."
 "M::Right to it?"
-"FL::I'm going to poke a hole it in, you are going to suck up the Algera"
+"FL::Then I'm going to poke a hole it in, you are going to suck up the Algera"
 *Flanagan took her hand in his*
 "FL::This is very important, keep this strong in your mind"
 *He grasped her hand tighter*
@@ -80,9 +82,8 @@ mn:M
 'R::I do not know if I can follow you into the link.'
 "FL::Don't spread out too thin"
 "M::Too thin?"
-
 "FL::Yes: keep your thoughts together, don't let them spread out too far.
-I'm leading - just focus on holding my hand and don't get lost."
+I'm leading us through the beast: you have to find it first - just focus on holding my hand and don't get lost."
 "M::We're going into the link?"
 'Wait, us physically into the link? 
 How does that work?'
@@ -104,29 +105,33 @@ mn:K
 *Kent looked around in all directions*
 ~Watching for anything out of the ordinary~
 ~At Felix's mimed request~
-'He has been on his phone for a while now'
+'K::He has been on his phone for a while now'
 *Kent leaned over*
-~Felix had covered the top half of his screen, and below was a terminal~
+'K::They made him mute, I doubt he is pretending'
+"K::Hey!"
+~Felix had the top half of his screen covered, and below was a terminal~
 'He was writing some code'
-~Kent lost interest until Felix uncovered the other half of his screen~
+*Felix held out a finger to him, and he kept on typing*
+~Kent lost interest until~ 
+*Felix uncovered the other half of his screen*
 ~It was a bunch of squiggles~
 *Felix convulsed in place - his left eye twitched*
 'K::Sort of like what I saw on that one building'
 ~Kent noticed Felix spasms just as they stopped~
 *Felix groaned and stretched his neck*
-"F::There we are."
+"F::There we are, nasty little trick"
+*Felix stretched his jaw*
+"F::Now, about you..."
 *Felix fiddled with his phone some more*
 "K::Okay, you can talk now? 
-Who are you?"
-~Felix shoved the phone in Kent's face~
+Felix, Who are you?"
+*Felix froze halfway to shoving the phone in Kent's face*
 "F::Who are you?"
 "K::Kent, and give me that!"
 *Kent swiped the phone from Felix's stunned hand*
-"K::You're what I call an ass-hat, you know: using this."
-*Felix fumbled his words*
-"F::I - make them better people, I'm improving the world."
-"K::Violating consents with what ever this is"
-*Kent shook the phone Felix*
+"K::Using this..."
+~Kent fumbled for his works, he was tired, and~
+*Kent shook the phone at Felix*
 "F::Whatever this... 
 Are you Awakened?"
 ~Kent did not hesitate~
@@ -137,8 +142,8 @@ Are you Awakened?"
 That group?"
 "F::That group?"
 "K::Girl was part of it, that guy whose head you bashed in was too"
-"F::One's with the black goo?"
-"K::What is that black goo Felix?"
+"F::The one that spilt that black goo?"
+"K::What is that black goo, Felix?"
 *Felix turned to him*
 "F::You want to give me back my phone?"
 "K::So you can call a horde of zombies on your side in a second, no thanks"
@@ -151,6 +156,7 @@ That group?"
 But that wasn't her that we killed"
 "K::You killed: you swung"
 "F::You sung that stupid song wrong: that was deadly in of itself..."
+*Kent pinched his eyebrows*
 "K::What do they want?"
 "F::Probably to take over everything"
 "K::Everything?"
@@ -159,7 +165,7 @@ But that wasn't her that we killed"
 "F::So like: fanatical religious nuts?"
 *Felix let out a sigh*
 "F::Okay, walk and talk - we need to get back to Flanagan's"
-'That a bar, or a person?'
+'K::That a bar, or a person?'
 ~Kent kept his mouth shut~
 "K::First we head back there."
 *Felix stared at kent*
@@ -288,9 +294,9 @@ But - I think I can get him here - that I am here, sort of a switcheroo"
 "M::Am I asleep in the cube?"
 "FL::Martha, dear: you're in the link. your body is right here."
 *Martha felt at herself*
-~She seamed solid enough~
+~She seemed solid enough~
 'M::But before'
-~Before when she endless fell in on herself.~
+~Before when she endlessly fell in on herself.~
 "M::But I'm physical, the link isn't"
 "FL::Who said that? 
 If it exists: it's physical."
@@ -533,19 +539,19 @@ Or in?"
 ~A row of books on either side of her~
 ~A dark emerald colored carpet at her feet~
 "M::Flanagan?"
-"FL::Here"
+"FL::Over here"
 *He squeezed her hand*
 ~Which had nothing in it~
 *Martha looked around*
 ~Flanagan was nowhere in sight~
 ~Some movement behind the books caught her eye~
-"FL::Other side of the bookshelf"
+"FL::I'm in the other row"
 *He tugged at her*
 "FL::This way"
 *Martha looked down at her hand*
 ~She was still holding his hand, she could tell, but it wasn't there~
 ~She felt it, and him pulling on her to come~
-~It was as if he had an invisible stretchy arm that could pass through walls~
+~It was as if he had an invisible stretchy arm that could pass through walls... of books at least~
 ~Martha let herself be led on~
 }
 
