@@ -12,7 +12,8 @@ mn:M
 'R:: It attached itself to us via the link, sucked out a bunch of the Algera from the Awakened'
 `"Okay, no: so what is Algera?"`
 'R::Here is a data file on it:'
-`TODO::link to Algera wiki page`
+`
+[algera](algera.md)`
 }
 {
 *They stopped walking at the landing of the stairs*

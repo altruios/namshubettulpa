@@ -153,10 +153,18 @@ const mdx_block_parser = (block,dfn)=>{
     })
     transforms_data = transforms_data.map((obj,i)=>{
         let ref = obj.t;
+        console.log(ref)
         const aw = ref.match(/\*([^*]*)\*/gm)||[];
         const dw = ref.match(/\~([^~]*)\~/gm)||[];
         const sw = ref.match(/\"([^"]*)\"/gm)||[];
         const tw = ref.match(/\'([^']*)\'/gm)||[];
+        const links = (ref.match(/\<.*\>/gm)||[])
+        console.log("links",links)
+        const fake_links = links.map((link,i)=>`!!@@!${i}!@@!!`)
+        links.forEach((l,i)=>{
+            obj.t=obj.t.replaceAll(links[i],fake_links[i])})
+       // obj.t.replaceAll(links,fake_links)
+        console.log(obj.t,"after replacement")
         const internal_data_matches = [...aw,...dw,...sw,...tw];
         internal_data_matches.forEach(match=>ref=ref.replace(match,""));
         const kw = ref.match()||[]
@@ -174,10 +182,18 @@ const mdx_block_parser = (block,dfn)=>{
         obj.t=obj.t.replaceAll(/([\s][-][\w]+)/gm,`<span style="color:#ff6f00">$1</span>`)
         obj.t=obj.t.replaceAll(/([-][-][\w][\w-]*)/gm,`<span style="color:#ff4499">$1</span>`)
         obj.t=obj.t.replaceAll(/([.][\w]+)/gm,`<span style="color:#ca7922">$1</span>`)
-        
+        fake_links.forEach((fl,i)=>{
+            console.log(fl,links[i],"replaceing")
+            obj.t=obj.t.replaceAll(fl,links[i])
+        })
 
         return obj;
     })
+
+
+
+
+
 
     transforms_data = transforms_data.map(x=>{
         return {
