@@ -520,14 +520,18 @@ Or in?"
 'M::I had a daughter?'
 ~~
 ~~
+~~
 ~She tried to remember her face~
+~~
 ~~
 ~~
 ~~
 ~She couldn't~
 ~~
 ~~
+~~
 *Another memory cut into her*
+~~
 ~She couldn't accept it~
 ~She buried that one deep down~
 ~~
