@@ -492,7 +492,7 @@ Or in?"
 'M::Okay... girl scouts was useful for something'
 ~~
 ~~
-*Martha squeezed .... --- .-- / ..-. .. -. -..*
+*Martha squeezed .... --- .-- / .-.. --- -. --.*
 ~~
 ~~
 ~~
@@ -502,7 +502,7 @@ Or in?"
 ~~
 ~~
 ~~
-*.. / ... . .*
+*... --- --- -.*
 ~~
 ~~
 'M::Okay, so I guess I just wait'
