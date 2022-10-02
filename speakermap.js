@@ -25,6 +25,7 @@ const speaker_map={
     FA:"Flight Attendant",
     E:"Erin Mc'kay",
     S:"Students",
+    C:"The Chemist",
     __:function(key,key2){
         return this[key]+" of the "+this[key2]
     },
