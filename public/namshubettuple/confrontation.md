@@ -72,6 +72,7 @@ I didn't stick no street syringe, that would be crazy"
 ~Kent looked more around the room~
 ~Things he took for scrapes of metal and glass on the desk to the right were actually improvised beakers and distilling gear~
 'K::Hm... all that cash and this...'
+~A steel door in a brick building was one of the walls~
 *Felix walked up to the chemist*
 ~The chemist lay there unmoving, staring at the spinning items on strings attached to the fan blades~
 ~The glimmer caught Kent's eye~
@@ -82,15 +83,92 @@ I didn't stick no street syringe, that would be crazy"
 *An alarm buzzed*
 *The Chemist jumped up and pulled the string to stop the fan*
 ~He noticed Kent and Felix~
-"C::Hello, what can i do you for?"
+"C::Hello, what can I do you for?"
 *The Chemist plucked the vial of strange liquid and placed it on his desk*
 *He moved a prism and shown a light though both the vial and the prism*
 *He took notes in a pad to his right*
-"K::What you've got there"
-"C::This is interesting, do you know what this stuff is?"
+"K::What you have there, is ours actually..."
+"C::Yours... 
+interesting, Then you know what this stuff is?"
 *Felix raised is arm out to stop Kent*
 "F::What is it?"
-
+*The chemist held the vial up to them*
+~Kent looked around but did not see the original syringe~
+~A few cardboard boxes tall, a tower held a fan - wet rags attached to the grill~
+"C::I'mm'a be real with you, first though: if you don't know what this is: where the hell did you get it?"
+*The chemist put it back on the table and swept it between the light and the prism*
+~The vial's shadow on the rainbow was not an absence of light - but an inversion of the color, a photo-negative~
+"K::Took it from a cult, they wanted me to take it, not steal it, take it..."
+"F::Alice Glass made it."
+*The chemist's hand paused*
+"C::Did she now?"
+*The chemist reached in a cardboard box next to the table*
+~After some rummaging the chemist had on gloves~
+"C::So you know what this is?"
+"K::Not really."
+"F::We were heading to Flanagan's to take it to get analyzed."
+"K::Why are we telling you so much?"
+"C::That would be the truth mist."
+*Kent looked up*
+'K::The wet rags of the fan'
+"K::Truth mist?"
+"C::Chemistry, baby"
+*The chemist let out a cough*
+"C::Strictly speaking not just a truth mist...
+Also pacifies... and gets you a little high"
+*Kent looked at his hands*
+~He didn't feel different, not to himself at least~
+"C::Anyways - This stuff.
+When I say things like matter, I mean carbon, silicon, the like.
+This stuff is matter, but it's like the carbon atom has a silicon electron shell, it's wrong.
+But it works... 
+It's wrong but it still works."
+~Kent looked around the cardboard room~
+'K::He has to be bullshitting. 
+Where is the equipment?'
+"K::And you can tell all this, how?"
+"C::So here..."
+*The chemist pointed to inverted section of the rainbow*
+"C::You know what color is..."
+"K::Yeah, I've seen trees of green"
+"F::Red roses too"
+"C::Color happens in our brain.
+The photon never reaches our brain.
+Instead a photon hits one of our photoreceptor, travels as an electrical signal to the back of the brain..."
+*The chemist leaned in*
+"C::And that signal - is color, it's our brain picking up a signal - and as you can see, it's the opposite of what we would expect.
+Where we expect dark there is light, expect a color and get it's inversion"
+"K::That's definitive?"
+"C::I'll have results from the lab soon, I've only had this ten minutes."
+"F::Lab?"
+"C::Right in the building we're attached to."
+"K::Is your lab?"
+"C::What, you think I work out of here."
+*Kent looked to Felix, who shrugged*
+"K::Also: what is this place?"
+"C::A front... 
+A cardboard front"
+"K::A front to what?"
+"C::I'm a chemist.
+It's a front for chemistry."
+*A door opened to their right*
+"C::That would be one of my assistants with the spectrometry report"
+"K::You did tests that fast?"
+"C::This is a clandestine lab - not the dmv, now: want to see?"
+~Kent was curious, but he was tired, the 'truth mist' wasn't helping him stay awake~
+"C::Now, you mean me any harm?"
+*Felix shook his head*
+"F::You us?"
+*The chemist shook his head*
+"C::I am aware, not awake, but aware... I intend to stay that way"
+*Felix paused, then reached out his hand*
+"F::We intended to bring back that."
+~The chemist gave him a hard stare~
+"C::We can both get what we intend"
+*The chemist handed Felix the vial*
+*Felix nodded slowly*
+"C::Now that that's done, shall we?"
+*The chemist pointed to his lab entrance*
 
 }
 {%%%%}
