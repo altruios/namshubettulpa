@@ -2,7 +2,33 @@
 
 
 {
-`{TODO: the two Relux find trouble on the plane}`
+mn:J
+"J::We would be together too..."
+~Jochek and Lenny had just arrived at the airport~
+"L::No link, means no link, besides - we can't get it back through the link."
+"J::Half the time, and we would be together now."
+*Lenny gripped the wheel tighter*
+"J::I got you."
+*Jochek grabbed his shoulder*
+~His tension released~
+*He let out a sigh*
+"L::Okay. 
+But we're going to be quick...
+We'll find some people close to her, put them in our bodies while we get back to new york."
+"J::Sounds fine..."
+*Jochek smiled*
+"J::'Our bodies'"
+*Jochek leaned in closer*
+"L::'I' put a lot of work into this body - it's mine if I say it is."
+"J::I am not my body, neither are you."
+*She pressed a finger into his chest*
+"L::I didn't say I was, I'm saying I expended a lot of energy to... talking is so faulty - so inefficient... so many syllables"
+"J::Then come here"
+*She pulled him into a kiss*
+*Then into something deeper*
+~The creature humans are cells to~
+~It was and was the not Relux, with a missing third...~
+~Jochek and Lenny of the Lux slid in the Link~
 }
 
 {%%%%}
@@ -61,10 +87,11 @@ I didn't stick no street syringe, that would be crazy"
 "HM::Cause if I shout - all the gangs are going to come"
 "K::No, we just want the syringe"
 "HM::Right, then this way"
-*They entered the cardboard structure though a side 'door*
-~It was guarded, Kent surrendered Felix's phone to his protest~
+*They entered the cardboard structure though a side 'door'*
+~It was guarded~
+*Kent surrendered Felix's phone to his protest*
 ~Inside, beyond piles of things, cardboard hallways, piles of cash, and several zoned out people, was the Chemist~
-~The chemist sat in a yellow sofa in the back, watching things attached to a fan spin above him~
+~The chemist, a short balding man, sat in a yellow sofa in the back, watching things attached to a fan spin above him~
 ~He was the only one in the room, which was filled with various household chemicals~
 "HM::So these are the owners of that syringe - come to have a little chat, I'll just see myself out."
 *The homeless man turned his cart around and left the way they came*
@@ -118,11 +145,10 @@ interesting, Then you know what this stuff is?"
 Also pacifies... and gets you a little high"
 *Kent looked at his hands*
 ~He didn't feel different, not to himself at least~
-"C::Anyways - This stuff.
-When I say things like matter, I mean carbon, silicon, the like.
-This stuff is matter, but it's like the carbon atom has a silicon electron shell, it's wrong.
-But it works... 
-It's wrong but it still works."
+"C::Anyways - This stuff."
+*He held out a syringe*
+"C::This - is like the electron shell being around the wrong nucleus.   
+It's wrong but it still works, like there's something else balancing the scale."
 ~Kent looked around the cardboard room~
 'K::He has to be bullshitting. 
 Where is the equipment?'
