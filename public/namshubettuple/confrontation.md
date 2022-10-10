@@ -199,5 +199,67 @@ It's a front for chemistry."
 }
 {%%%%}
 {
+~To Martha's left was the console prompt rossin had made for her~
+*Martha walked down the book alley, to a clearing*
+`
+spear = ~Self~.~Hands (left)~.~Objects[0]~
+Global.setTrigger(
+    doesExist(ref), (ref)=> spear.heart = ref
+    )
+`
+'M::Okay now for a timer...'
+`t= Global.setTrigger(
+    *Collision*=>spear, ~wait (1 second)~=>
+        ref=Global.reduce((combined,*human*)=>
+            combined+=*human*.*heart*,~Self~.*heart*
+        )
+    )
+`
+~She let her focus drift forward, bringing her closer to the present moment~
+*The console faded from view*
+~She felt the hand pulling her into the clearing~
+'M::Okay, is that it?'
+~She went over everything in her head, again~
+'M::That should be it...'
+*She entered the clearing*
+*Flanagan was by her side*
+~In front of her was herself, reading a book, next to a woman~
+~The woman was ancient, crumpled by time, and a stranger to the sun~
+*As they stepped forward she was gone*
+~Flanagan wore a frown~
+*Martha and Flanagan approached herself - sitting at the corner window table*
+~As they did, the rest of Martha's view became an echo, a projected reflection of herself~
+"FL::We're here at the edge, right through here is our target."
+*Martha nodded and stepped forward*
+"M::Why is it here at all, at this book store, where I am?"
+~Herself was a door, all around her~ 
+"FL::She was here."
+`
+[the spider](the-spider.md)`
+*which she stepped though, Flanagan holding her hand*
+~They were in the book store still, now outside of Martha's head~
+~The shelves shimmered softly - the shifting projections of minds looking at those books were in subtle conflict~
+~It was open currently, 7:30PM, and people were in the aisles~
+~Martha saw though their eyes, a projected map of the store.~
+~It was filled out with memories of what the rest looked like.~
+~Dreams of what it should look like~
+~All alined to make a landscape as solid as shifting scarves~
+*Martha waded through the floor, following Flanagan*
+'M::Too thick'
+~She concentrated and iterations of the floor, the aisles, fell away~
+~She saw only what other's saw of the store~
+~And the floor was solid, but incomplete~
+~Instead of filling out the idea, patching an unseen bit of floor with a memory, there was nothing but a hole~
+~The hole from her childhood dreams~
+*A twisting, undulating mass slithered in the empty black*
+~Both known and impossible to see~
+"M::I found it."
+~Flanagan was at her side, looking at the darkness~
+~They stood at a ledge into the darkness, a broken bit of floor and wall unseen in the corner~
+
 `{TODO: confront tok, and spill and bind tok - tok breaks contraption, martha with knowledge of the link redistributes it to the masses}`
+`{
+    TODO:: in confront of tok - martha's spear gets knocked accidentally activated early
+    Gerald in a flying hamster-ball to save the day
+}`
 }
