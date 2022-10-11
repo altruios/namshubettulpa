@@ -209,7 +209,7 @@ Global.setTrigger(
 `
 'M::Okay now for a timer...'
 `t= Global.setTrigger(
-    *Collision*=>spear, ~wait (1 second)~=>
+    *^Collision*=>spear, ~wait (1 second)~=>
         ref=Global.reduce((combined,*human*)=>
             combined+=*human*.*heart*,~Self~.*heart*
         )
@@ -255,11 +255,52 @@ Global.setTrigger(
 ~Both known and impossible to see~
 "M::I found it."
 ~Flanagan was at her side, looking at the darkness~
-~They stood at a ledge into the darkness, a broken bit of floor and wall unseen in the corner~
-
-`{TODO: confront tok, and spill and bind tok - tok breaks contraption, martha with knowledge of the link redistributes it to the masses}`
+~They stood at a ledge into that void, a broken bit of floor and wall unseen in the corner~
+"FL::It hasn't seen us yet"
+~Flanagan whispered~
+"FL::We can't assume we'll be lucky, at some point it will see us, follow behind me - I'll distract it, you go around and poke it"
+~Martha nodded and tightened her grip on her spear~
+'M::Here goes...'
+"FL::quickly now."
+*Martha and Flanagan fell into darkness*
+~The instinctual part of her panicked - going from stability to this~
+~It wasn't merely a void - but an inevitably~
+~There was no hallway, no bookstore left, all directions pointed to al-tok~
+*Flanagan and Martha fell some distance*
+~Obeying strange laws of gravity, regardless of the direction they were falling - they were getting closer~
+*Flanagan nodded to her and shouted in the void*
+"FL::To your left, hurry!"
+*Martha pushed off of him and fell to her left*
+~Still falling towards Al-tok~
+~Flanagan grew more noticeable, brighter~
+~He was both behind her where she left him, and all around her - in some reflected pattern~
+*Around her tentacles shot towards Flanagan*
+~They were barbarous and leaking something corrosive~
+*He conjured lines of blinding yellow light*
+~Wrapping the tentacles together~
+~Martha kept as still as she could and silently fell towards her target~
+*A tentacle nearly collided with her and forced her to move*
+~As she twirled in the blackness she readied her spear~
+*A tentacle slammed into Flanagan - who screamed*
+'M::They are as painful as they look'
+~The yellow lines of light faded, then surged~
+*Flanagan was screaming, not in pain but in rage*
+~The yellow lines started melting, coating the tentacles with a rubbery glue~
+*Martha took a breath. Aimed. Then threw her spear*
+~It flew forward - breaking into a fractal all around her as it did so~
+'M::Damn jet-pack would be convenient right about now'
+~She was forming the grammar to summon one and saw Flanagan with out~
+'M::Or I could just give myself flying.'
+`~Self~.*Flying*=true`
+~It was every dream said it would be, as such, she flew with years of dreamt precision~
+*A tentacle shot out in the path of the spear*
+*The spear glanced off at the ^collision, twisting off angle*
+~She felt the impact  in her heart, as it suddenly stopped~
+~And her heart dropped, that was an impact - and in a second~
+**
 `{
-    TODO:: in confront of tok - martha's spear gets knocked accidentally activated early
-    Gerald in a flying hamster-ball to save the day
+    TODO:: revelation of betrayal,
+    Gerald in a flying hamster-ball to save the day,
+    next chapter: what alacira was having martha hunt - and the destruction of the end's dreadnought
 }`
 }
