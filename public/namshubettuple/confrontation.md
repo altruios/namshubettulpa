@@ -199,6 +199,7 @@ It's a front for chemistry."
 }
 {%%%%}
 {
+mn:M
 ~To Martha's left was the console prompt rossin had made for her~
 *Martha walked down the book alley, to a clearing*
 `
@@ -295,12 +296,157 @@ Global.setTrigger(
 ~It was every dream said it would be, as such, she flew with years of dreamt precision~
 *A tentacle shot out in the path of the spear*
 *The spear glanced off at the ^collision, twisting off angle*
-~She felt the impact  in her heart, as it suddenly stopped~
-~And her heart dropped, that was an impact - and in a second~
-**
+~She felt the impact in her heart~
+~And her heart dropped, that was just a glancing blow - and in a second~
+*Martha faltered in time with Flanagan*
+*The spear slammed on it's side, bouncing uselessly against a thick carapace*
+~Martha felt that impact, and knew Flanagan did too~
+*She looked back at him*
+'M::He thinks it is only him'
+~She couldn't affect the spear, out of her grasp - on the thing in front of her~
+~She had to get to that spear, she raced through some options in her mind~
+*She flew down to get it*
+'M::Okay, force-field, and something grabby'
+~She was almost there, having dodged every tentacle easily thus far~
+'M::Maybe that will draw attention to me'
+~She hesitated, but decided against summoning anything, keeping it ready in her mind~
+*She paused just before touching the surface*
+~All around her tentacles shifted like:~
+'M::Wiggling spaghetti'
+~From this perspective everything in the horizon was al-tok, Flanagan a lonely figure in the distance~
+~Long strands stretched from all around her toward Flanagan, focused entirely on him~
+*She grabbed the spear, gripped the handle and stabbed down at the carapace*
+~A clink echoed throughout, reverberating a wave through the surface of al-tok~
+~It didn't penetrate~
+'M::Shit...okay, something tougher than super-sharp carbon-fiber'
+*She took the spear and moved across the surface*
+~A short while later she noticed activity where she had been~
+~She was getting noticed~
+'M::Now or never'
+
+`
+shield = Globals.fantasy.enchantments[
+    *Shield{
+        ~personal~,
+        ~suit-tight~,
+        ~Impenetrable~
+    }*
+]
+
+~Self~.*shield*=shield
+
+cmb [
+    spear.~front~.~spikes~, 
+    Globals.fantasy.enchantments[
+        ~damage{+∞}~,
+        ~piercing{+∞}~
+    ]
+]
+`
+~Around her a faint hum started, and her vision was slightly clouded by blue~
+}
+{
+*Around her, tentacles started to shift*
+
+*She looked up*
+~Toward her, tentacles out of Flanagan's reach raced toward her~
+*She slammed the spear down*
+~It made a terrible screeching~
+*It slid in*
+~Like butter~
+`dome-shield = Globals.fan^-@$%`
+*^A Tentacle sent her flying to the side*
+~She felt her rib cracked~
+~While her shield was impenetrable, it had no particular force distribution... so while the thorn/tooth did not puncture her, it had an sharp edge~
+*Her breath shot out from her*
+~As she flew away from the spear, she could see it was still attached~
+*She landed in a thud, against al-tok*
+~The carapace morphed into a black liquid pool thick as molasses~
+*She sunk*
+~Each struggle to get out, pushed her further down~
+*She looked over at the spear - it was still attached, un-noticed*
+~She saw Flanagan falter, then fall, succumb to the effects of the sudden rush of Algera~
+*Martha looked closer*
+~She saw Flanagan fall on to some sort of ball - they were too far too see, but he didn't bounce~
+'M::Hamster ball?'
+*It was flying toward her, dodging the tentacles on it's way down*
+~She was half stuck in the tar-like fluid~
+*She stopped struggling*
+~It was heading right for her~
+~As it drew closer she could see it was clear, and it held two men, one along the floor and one in the center piloting~
+~She recognized him, the Captain's first officer, Gerald~
+"M::Over here!"
+*The bubble stopped feet away from her*
+~He sat in a chair in the center of the bubble, a victorian contraption attached him to the floor of the bubble~
+*The bubble extended and morphed*
+~It reached out and engulfed her~
+*The black liquid slid off the bubble*
+*A tentacle tried to impale the bubble, but it just spun*
+~An interior platform Martha and Gerald were standing on stayed stationary~
+"G::None of that now."
+*Gerald pulled down on a lever next to him*
+*they shot outwards from al-tok*
+~Martha saw distant tentacles attached to different thoughts, ideas...~
+~It wasn't just in her book store, she saw... but it was attached to memories of libraries, and university studies~
+~She got the sense it was searching for something~
+'M::It was doing this all while we were down there'
+~Flanagan was at her feet, wounded~
+*Martha tried to breath, instead she coughed*
+*She touched at her side*
+~It was tender~
+`['do I need to go to a hospital?', 'Am I an idea here, can I just fix myself?']`
+~She tried~
+`
+~Self~.~enchantments~=[]
+
+
+~Self~.~enchantments~.add(...Globals.fantasy.enchantments[
+        ~rapid healing{+10,000%}~,
+        ~bone knitting{+10,000%}~,
+        ~Immortality{*age lock*}~,
+    ]
+`
+~And it worked~
+*Her bones let out a snap as they bound together*
+~A coldness left her stomach and her heart as a heat rushed into her bruised rib~
+~It healed rapidly, but she was immediately hungry, worse... starving~
+~She was breathing rapidly~
+~She had not accounted for the energy use of healing, there's a reason people stay in bed for it~
+~She felt her skin as it it were fire~
+~Everything that could easily burn away for fuel was done so, at such a rapid pace martha started coughing up large bits of a dark grey matter~
+*She stopped heaving and lay still for a while*
+~Much thinner than what she had been, but now with a healed bone~
+"G::Are you alright?"
+"M::I am, hungry"
+~Gerald looked her over and saw her condition~
+"G::Good excuse to use this"
+*He pushed down on the lever to his left and got out of the chair*
+~It seemed to be on some automatic setting~
+~Martha looked around and saw they were about to land on a familiar ship~
+*Gerald took a knife*
+~He spoke words and oddly, she didn't hear them~
+"G::I'm going to give you some of my fat - free energy"
+*Martha nodded her head*
+*He took the blade across his hand, then he made a small incision on her side and placed his hand there*
+~His arm rippled and bulged as did her side~
+~Each breath she took was a little easier, her thoughts clearer~
+*She sat up*
+*He wiped at his hand and the cut was gone, he did the same at her side to the same effect*
+"G::You've got a lot to learn, but considering you started yesterday - I'd say you're off to a good start"
+*He stepped out of the bubble*
+~The thin layer wobbled back in forth with his passing~
+*She looked back to Flanagan*
+"G::Quickly, we don't have all day - I'm afraid"
+*She pointed to Flanagan*
+"G::We'll take care of him.
+Just get to the captain."
+*Martha checked his pulse* 
+~Which was fine~
+*She left the bubble*
+
 `{
-    TODO:: revelation of betrayal,
-    Gerald in a flying hamster-ball to save the day,
     next chapter: what alacira was having martha hunt - and the destruction of the end's dreadnought
 }`
 }
+
+## [seeds-of-a-new-world](seeds-of-a-new-world.md)

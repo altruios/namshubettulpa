@@ -19,6 +19,6 @@
 15. [interludes](interludes.md)
 16. [the-plan](the-plan.md)
 17. [descent-resent-torment](descent-resent-torment.md)
-
+18. [confrontation](confrontation.md)
 ### [index](index.md)
-date:10/01/22
+date:10/11/22
