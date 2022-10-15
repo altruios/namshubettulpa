@@ -1,4 +1,4 @@
-# Decent Resent Reset
+# Decent Resent Torment
 {
 mn:M
 }
@@ -11,7 +11,7 @@ mn:M
 ~Small LEDs in sconces spilt orange, reflecting on the stone~
 'R::Okay this Al-tok thing - better analogy: a tick.'
 `"Tick?"`
-'R:: It attached itself to us via the link, sucked out a bunch of the Algera from the Awakened'
+'R::It attached itself to us via the link, sucked out a bunch of the Algera from the Awakened'
 `"Okay, no: so what is Algera?"`
 'R::Here is a data file on it:'
 `
@@ -21,16 +21,18 @@ mn:M
 *They stopped walking at the landing of the stairs*
 ~A small rounded door made of dark oak stood closed in front of them~
 *Flanagan opened the door*
-~Maple floors and walled ended less than an arms length, made of that same dark oak~
+~Dark oak floors and walled ended less than an arms length~
 ~Inside lay another door, made of finely, tightly meshed copper wire~
 ~In the narrow passage between the two doors lay an electrical panel with one switch~
 *Flanagan pulled it down*
 *The faint buzzing suddenly ceased*
 ~Martha hadn't noticed it until it was silenced~
-*Flanagan stepped forward and opened the second door*
-~Beyond the wire door was a black pool reflected back her and Flanagan's face~
+*Flanagan stepped forward and opened the wire door*
+~Beyond the wire door was a black cube reflecting back her and Flanagan's face~
 ~Smooth as glass~
 'It reminds me of Obsidian'
+~There was a gap between the glass and the door, crossed by a bridge~
+~The room was large, though the cube left no space~
 "M::What's with all the doors?"
 "FL::Privacy, my dear, from many things"
 ~It was a block encompassing the vast cavern of space~
@@ -180,9 +182,9 @@ But that wasn't her that we killed"
 "K::It was right here."
 *Kent scoured the area*
 "K::It was"
-~He checked both cars - they were the same ones parked, he was pretty sure~
+~He had checked both cars - they were the same ones parked, he was pretty sure~
 'K::...Somebody call the gangs'
-'K::He had been bent down over there...'
+'K::He was bent down over there...'
 "K::That guy took it."
 "F::That guy?"
 "K::Call the gangs."
@@ -206,11 +208,12 @@ mn:M
 {
 ~The link was visceral, Martha was unprepared~
 *She fell and kept falling into a repeating fractal of herself*
-~The center of her was a hole, dark and in her silhouette~ 
+~The center of this fractal-self was a hole, dark and in her silhouette~ 
 *Martha squeezed through an outline of herself*
 'M::A bit cramped'
-~It was outlined in her shape, moving like a shadow-play: a reflection of her own movements~
-~But a full spectral spread of pieces of her life lined the edges~
+*She was falling toward some botttom*
+~She saw below her a moving shadow-play: a reflection of her own movements~
+~To her left and right, a full spectral spread of pieces of her life lined the edges~
 ~Those too moved like a slowed down projector~
 ~~
 ~There was a gap between each moment~
@@ -241,15 +244,20 @@ mn:M
 ~~
 *She broke through*
 ~~
-~She found herself on the grass, watching herself storm out of the back of the mansion she had been in a few nights ago~
+
+~She found herself on the grass~ 
+~It was night, and she was in a large grass field, trees surrounding all sides except~
+~She heard a noise to her left, a wooden impact~
+*She looked left*
+~And was watching herself storm out of the back of the mansion she had been in a few nights ago~
 "M::Oh... well then."
 *Martha sat up on the grass*
 'M::Must be a memory'
-
 ~She felt the soft sponge of the grass, it was perfect~
 ~There was another door closing~
 *She looked back up*
-"M::Rossin."
+*Rossin was following the Martha that had stormed out*
+"M::Rossin!"
 ~He looked briefly startled, almost like waking up from a dream~
 *He walked across the yard to where she lay*
 "R::Not quite, I'm a memory of Rossin, not the quality original.
@@ -271,6 +279,7 @@ But - I think I can get him here - that I am here, sort of a switcheroo"
 *There was a crack*
 ~~
 ~Another Rossin to her right was banging on the barrier~
+*The Rossin in front of her shook his head and backed away*
 ~More and more appeared until it was not empty~
 ~Just a writhing mass of Rossin's stuck together~
 ~~
@@ -400,12 +409,15 @@ Occupied for a time by so much Algera."
 "R::you can do this."
 'M::dream Rossin says so, does that count'
 ~She decided it did: she would have to let him know~
+"M::Hand me that spike of yours"
+*Flanagan did so, *
 ~She thought a moment longer - then started~
 `
--cmb ~this~ => [...self.hands.Objects, 
+-cmb ~this~ => [...self.hands[0].Objects[0], 
     -cp G.Objects.armor{~carbon fiber~,*Moulded*}, 
     ...(for x in 10: 
         -cp G.Objects.spike{
+                ~Prototype~:self.hands[1].Objects[0],
                 ~style~:*Barbed*,
                 *length:*~1ft~, 
                 ~Location~:~Front corner at {{2xπ(this.front.radius)}}~

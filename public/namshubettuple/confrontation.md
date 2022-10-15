@@ -212,8 +212,8 @@ Global.setTrigger(
 `t= Global.setTrigger(
     *^Collision*=>spear, ~wait (1 second)~=>
         ref=Global.reduce((combined,*human*)=>
-            combined+=*human*.*heart*,~Self~.*heart*
-        )
+            combined+=*human*.*heart*
+        ).filter(x=> x != ~Martha Crisp~)
     )
 `
 ~She let her focus drift forward, bringing her closer to the present moment~
@@ -300,7 +300,7 @@ Global.setTrigger(
 ~And her heart dropped, that was just a glancing blow - and in a second~
 *Martha faltered in time with Flanagan*
 *The spear slammed on it's side, bouncing uselessly against a thick carapace*
-~Martha felt that impact, and knew Flanagan did too~
+~Martha knew Flanagan felt that impact~
 *She looked back at him*
 'M::He thinks it is only him'
 ~She couldn't affect the spear, out of her grasp - on the thing in front of her~
@@ -412,7 +412,7 @@ cmb [
 ~It healed rapidly, but she was immediately hungry, worse... starving~
 ~She was breathing rapidly~
 ~She had not accounted for the energy use of healing, there's a reason people stay in bed for it~
-~She felt her skin as it it were fire~
+~She felt her skin as if it were fire~
 ~Everything that could easily burn away for fuel was done so, at such a rapid pace martha started coughing up large bits of a dark grey matter~
 *She stopped heaving and lay still for a while*
 ~Much thinner than what she had been, but now with a healed bone~
