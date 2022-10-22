@@ -224,7 +224,7 @@ mn:M
 ~The center of this fractal-self was a hole, dark and in her silhouette~ 
 *Martha squeezed through an outline of herself*
 'M::A bit cramped'
-*She was falling toward some botttom*
+*She was falling toward some bottom*
 ~She saw below her a moving shadow-play: a reflection of her own movements~
 ~To her left and right, a full spectral spread of pieces of her life lined the edges~
 ~Those too moved like a slowed down projector~
