@@ -6,9 +6,10 @@ mn:M
 "M::How far down does this go."
 "FL::A safe distance."
 ~Martha walked down smooth lead-layed passage~
+~There was a slight curve to the steps, outlining some huge pillar to her left~
 'M::Hands and arms away from the lead walls, inside the staircase at all times'
 ~She felt the hair rise up on her arms, due to cold or a faint buzzing of electricity~
-~Small LEDs in sconces spilt orange, reflecting on the stone~
+~Small LEDs in sconces spilt orange, reflecting on the lead~
 'R::Okay this Al-tok thing - better analogy: a tick.'
 `"Tick?"`
 'R::It attached itself to us via the link, sucked out a bunch of the Algera from the Awakened'
@@ -21,10 +22,12 @@ mn:M
 *They stopped walking at the landing of the stairs*
 ~A small rounded door made of dark oak stood closed in front of them~
 *Flanagan opened the door*
-~Dark oak floors and walled ended less than an arms length~
+~Dark oak floors and walls ended less than an arms length, matching the door perfectly in color~
+'M::How was this all built?'
 ~Inside lay another door, made of finely, tightly meshed copper wire~
 ~In the narrow passage between the two doors lay an electrical panel with one switch~
 *Flanagan pulled it down*
+'M::This is a lot of lead'
 *The faint buzzing suddenly ceased*
 ~Martha hadn't noticed it until it was silenced~
 *Flanagan stepped forward and opened the wire door*
@@ -35,11 +38,21 @@ mn:M
 ~The room was large, though the cube left no space~
 "M::What's with all the doors?"
 "FL::Privacy, my dear, from many things"
-~It was a block encompassing the vast cavern of space~
+*Martha waled to the wire gate*
+~Beyond was a colossal cube of Obsidian, evenly surrounded by a gap then dark oak wood~
+'M::how far down is...'
+~They were a short distance away from the cube, less than 20 feet~
+*Martha looked down*
+~Her stomach knotted, the sense of scale was what sunk it~
+~It would be a long fall~
 *Flanagan walked across a short bridge*
-~Made of that same copper wire mesh~
-*Flanagan pressed in his palm on a part of the glass and it sunk in*
-*He repeated this in several other locations on the glass*
+~The copper handrails crunched and rattled at Flanagan's grasp as he crossed~
+~It was Made of that same copper wire mesh~
+~Flanagan Reached the end - a small landing platform extending from the cube - made of the Obsidian~
+*Flanagan pressed in his palm on a part of the Obsidian and it sunk in*
+*He repeated this in several other locations on the smooth reflective surface*
+*Martha crossed the bridge*
+~Taking careful steps and not looking down~
 *Finally he swung a door open*
 'M::Okay, not obsidian'
 ~Inside was a dark hallway~
