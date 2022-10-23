@@ -31,25 +31,26 @@ mn:M
 *The faint buzzing suddenly ceased*
 ~Martha hadn't noticed it until it was silenced~
 *Flanagan stepped forward and opened the wire door*
-~Beyond the wire door was a black cube reflecting back her and Flanagan's face~
+~Beyond the wire door was a blackness reflecting back both her and Flanagan's face~
 ~Smooth as glass~
 'It reminds me of Obsidian'
-~There was a gap between the glass and the door, crossed by a bridge~
-~The room was large, though the cube left no space~
 "M::What's with all the doors?"
+~Martha saw the same copper color lead into the cube, a bridge~
 "FL::Privacy, my dear, from many things"
-*Martha waled to the wire gate*
-~Beyond was a colossal cube of Obsidian, evenly surrounded by a gap then dark oak wood~
+*Martha walked to the wire gate*
+~Beyond it she saw the black reflection was actually a colossal cube of obsidian~ 
+~It was evenly surrounded by a gap then wire mesh, extending from the gate encompassing the dark oak room~
 'M::how far down is...'
 ~They were a short distance away from the cube, less than 20 feet~
 *Martha looked down*
-~Her stomach knotted, the sense of scale was what sunk it~
+~Her stomach knotted, the sense of scale sunk in~
 ~It would be a long fall~
-*Flanagan walked across a short bridge*
+~The air was unnaturally still - at that depth she thought even indoors there should have been a breeze~
+*Flanagan walked across the short bridge*
 ~The copper handrails crunched and rattled at Flanagan's grasp as he crossed~
-~It was Made of that same copper wire mesh~
-~Flanagan Reached the end - a small landing platform extending from the cube - made of the Obsidian~
-*Flanagan pressed in his palm on a part of the Obsidian and it sunk in*
+~It was made of that same copper wire mesh~
+~Flanagan reached the end - a small landing platform extending from the cube - made of the obsidian~
+*Flanagan pressed in his palm on a part of the obsidian and it sunk in*
 *He repeated this in several other locations on the smooth reflective surface*
 *Martha crossed the bridge*
 ~Taking careful steps and not looking down~
@@ -144,7 +145,8 @@ Felix, Who are you?"
 "F::Who are you?"
 "K::Kent, and give me that!"
 *Kent swiped the phone from Felix's stunned hand*
-"K::Using this..."
+"K::Using this...
+What ever this..."
 ~Kent fumbled for his works, he was tired, and~
 *Kent shook the phone at Felix*
 "F::Whatever this... 
@@ -167,6 +169,8 @@ That group?"
 "K::Martha sent me here."
 "F::How do you know Martha?"
 "K::Questions later - answers now: who are those people?"
+*Felix squinted his eyes*
+~He continued slowly~
 "F::That was Alice Glass...
 But that wasn't her that we killed"
 "K::You killed: you swung"
@@ -181,7 +185,7 @@ But that wasn't her that we killed"
 *Felix let out a sigh*
 "F::Okay, walk and talk - we need to get back to Flanagan's"
 'K::That a bar, or a person?'
-~Kent kept his mouth shut~
+~Kent kept his question quite~
 "K::First we head back there."
 *Felix stared at kent*
 ~Blankly~
@@ -191,6 +195,11 @@ But that wasn't her that we killed"
 "K::Come on."
 *Felix groaned*
 ~The two walked onwards in silence back to the alley~
+~When they arrived the scene was as they had left it~
+~People walked down the street not even looking~
+"K::Keep an eye out"
+*Kent pointed to the alley door*
+*Felix looked all around before watching the door*
 *Kent inspected the gutter*
 "K::It was right here."
 *Kent scoured the area*
@@ -329,19 +338,7 @@ If it exists: it's physical."
 "FL::We used the backdoor for a reason, we do not want to be noticed...
 And we want certain privileges..."
 "M::Also - Why can't Rossin be here?"
-"FL::Frankly my dear, I don't know."
-"R:: He's a tuple"
-~The memory of Rossin spoke~
-*Flanagan's eyebrows shot up.*
-"FL::No. 
-Someone... 
-He did it then."
-"M::Tuple?"
-"FL::He's not a person - like you or I... 
-But wow...
-He would have fooled me...
-He did fool me...
-Unless it's a bluff"
+"FL:: He's a tuple, He's not a person - like you or I..."
 *Flanagan and Rossin shook their heads*
 ~For separate reasons~
 "FL::Time to go either way - we don't have forever"
@@ -356,7 +353,7 @@ Be prepared for the worst and hope for the best."
 ~Martha waited~
 "FL::Then I'm going to poke him - and whatever comes out, you need to drink"
 *Flanagan flourished his hand and brandished a forearmed sized thin needle*
-"FL::It's probably going to taste gross, Hm - what else..."
+"FL::Hm - what else..."
 *Flanagan waved his arm again and a large funnel settled in his hand*
 *He handed it to her*
 ~She inspected it, to have a cover she couldn't see a seam to~

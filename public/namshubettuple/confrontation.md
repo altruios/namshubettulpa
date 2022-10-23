@@ -5,8 +5,12 @@
 mn:J
 "J::We would be together too..."
 ~Jochek and Lenny had just arrived at the airport~
-"L::No link, means no link, besides - we can't get it back through the link."
-"J::Half the time, and we would be together now."
+~She was in the passenger seat~
+~They had no luggage~
+"L::Flanagan said no link: means no link. 
+Besides, we can't move it through the link."
+*Jochek made a cutting motion with her hands*
+"J::Half the time, and the three of us would be together now. Do you know how long a plane trip between here and Romania is."
 *Lenny gripped the wheel tighter*
 "J::I got you."
 *Jochek grabbed his shoulder*
@@ -16,13 +20,15 @@ mn:J
 But we're going to be quick...
 We'll find some people close to her, put them in our bodies while we get back to new york."
 "J::Sounds fine..."
-*Jochek smiled*
-"J::'Our bodies'"
+*Jochek smiled, and air-quoted*
+"J:: 'Our bodies' "
 *Jochek leaned in closer*
-"L::'I' put a lot of work into this body - it's mine if I say it is."
+"L:: 'I' put a lot of work into this body - it's mine if I say it is."
 "J::I am not my body, neither are you."
 *She pressed a finger into his chest*
-"L::I didn't say I was, I'm saying I expended a lot of energy to... talking is so faulty - so inefficient... so many syllables"
+"L::I didn't say I was, I'm saying I expended a lot of energy to..."
+~She loved getting him flustered~
+"L::talking is so faulty - so inefficient... so many syllables"
 "J::Then come here"
 *She pulled him into a kiss*
 *Then into something deeper*
@@ -35,10 +41,13 @@ We'll find some people close to her, put them in our bodies while we get back to
 {
 mn:K
 "F::Have you seen this man"
-*Felix grabbed at the back of the next person's shoulder, and pushed his phone in their face*
-~It was the 9th one~
+*Felix twisted the fellow around*
+~He was momentarily offended~
+*Felix then placed his phone in their face*
+~It was the 9th time~
 'K::Keep it cool Kent'
-~Felix using the phone irked Kent~
+~Kent watched the stranger's eye twitch~
+~Felix using his phone irked Kent~
 ~He had what happened to Tom still fresh in his mind~
 'K::It was earlier... no, it was yesterday morning'
 'K::How long have I been awake'
@@ -51,11 +60,13 @@ mn:K
 *Felix turned to Kent and gestured with his head to hurry up*
 ~It went on like that, about one in ten would have seen him, pointing to where they last saw him go~
 'K::how far can he go, he has a shopping cart'
-*They walked around a street corner*
+*They walked around a corner, down another street*
+'K::All downhill'
 ~The cityscape looming above them~
 ~They were directed into an alley~
-~There he was: leaning over his cart walking out of the alley~
-~He had just come out of some line - leading to a makeshift structure of card board boxes~
+~There he was: leaning over his cart~
+*He pushed his shopping cart down the alley towards kent*
+~He had just come out of some line - leading to a makeshift structure Kent had a poor view of~
 *Felix fiddled with his phone, then reached up to push it in the thief's face*
 "K::No. None of that."
 *Kent snatched the phone out of Felix's grip*
@@ -93,6 +104,7 @@ I didn't stick no street syringe, that would be crazy"
 ~Inside, beyond piles of things, cardboard hallways, piles of cash, and several zoned out people, was the Chemist~
 ~The chemist, a short balding man, sat in a yellow sofa in the back, watching things attached to a fan spin above him~
 ~He was the only one in the room, which was filled with various household chemicals~
+~The floor was still asphalt, but it had a large rug, red and gold, covering most of the room~
 "HM::So these are the owners of that syringe - come to have a little chat, I'll just see myself out."
 *The homeless man turned his cart around and left the way they came*
 "K::We'll be on our way shortly - once we have it back"
@@ -117,11 +129,13 @@ I didn't stick no street syringe, that would be crazy"
 "K::What you have there, is ours actually..."
 "C::Yours... 
 interesting, Then you know what this stuff is?"
-*Felix raised is arm out to stop Kent*
+*Felix raised his arm out to stop Kent*
 "F::What is it?"
 *The chemist held the vial up to them*
 ~Kent looked around but did not see the original syringe~
-~A few cardboard boxes tall, a tower held a fan - wet rags attached to the grill~
+~A few cardboard boxes tall, a tower supported a desk fan - wet rags attached to the grill~
+'K::Two fans, wait? a ceiling fan'
+~The roof was cardboard~
 "C::I'mm'a be real with you, first though: if you don't know what this is: where the hell did you get it?"
 *The chemist put it back on the table and swept it between the light and the prism*
 ~The vial's shadow on the rainbow was not an absence of light - but an inversion of the color, a photo-negative~
@@ -137,12 +151,13 @@ interesting, Then you know what this stuff is?"
 "K::Why are we telling you so much?"
 "C::That would be the truth mist."
 *Kent looked up*
-'K::The wet rags of the fan'
+'K::The wet rags attached to the fan'
 "K::Truth mist?"
 "C::Chemistry, baby"
 *The chemist let out a cough*
 "C::Strictly speaking not just a truth mist...
-Also pacifies... and gets you a little high"
+Also pacifies... 
+And gets you a little high"
 *Kent looked at his hands*
 ~He didn't feel different, not to himself at least~
 "C::Anyways - This stuff."
@@ -158,12 +173,13 @@ Where is the equipment?'
 "C::You know what color is..."
 "K::Yeah, I've seen trees of green"
 "F::Red roses too"
+~He added flatly~
 "C::Color happens in our brain.
 The photon never reaches our brain.
 Instead a photon hits one of our photoreceptor, travels as an electrical signal to the back of the brain..."
 *The chemist leaned in*
-"C::And that signal - is color, it's our brain picking up a signal - and as you can see, it's the opposite of what we would expect.
-Where we expect dark there is light, expect a color and get it's inversion"
+"C::And that signal - is color, it is our brain picking up a signal - and as you can see, it is the opposite of what we would expect.
+Where we expect dark there is light, expect a color and get the inversion"
 "K::That's definitive?"
 "C::I'll have results from the lab soon, I've only had this ten minutes."
 "F::Lab?"
@@ -180,6 +196,7 @@ It's a front for chemistry."
 *A door opened to their right*
 "C::That would be one of my assistants with the spectrometry report"
 "K::You did tests that fast?"
+'K::Yep, speech is slurred'
 "C::This is a clandestine lab - not the dmv, now: want to see?"
 ~Kent was curious, but he was tired, the 'truth mist' wasn't helping him stay awake~
 "C::Now, you mean me any harm?"
@@ -188,20 +205,26 @@ It's a front for chemistry."
 *The chemist shook his head*
 "C::I am aware, not awake, but aware... I intend to stay that way"
 *Felix paused, then reached out his hand*
+~Shadows swam in the corner of Kent's vision~
 "F::We intended to bring back that."
-~The chemist gave him a hard stare~
+~The chemist gave Felix a hard stare~
 "C::We can both get what we intend"
+*Kent balled his hands and pushed his nails into his palms*
+~Only to keep himself awake~
 *The chemist handed Felix the vial*
 *Felix nodded slowly*
+~Kent's fingers loosened~
 "C::Now that that's done, shall we?"
 *The chemist pointed to his lab entrance*
-
+~His knees no longer had the strength~
+*Kent fell down*
+~He slipped into sleep with his face resting on a persian rug layed out on the asphalt~
 }
 {%%%%}
 {
 mn:M
-~To Martha's left was the console prompt rossin had made for her~
 *Martha walked down the book alley, to a clearing*
+~To Martha's left was the console prompt rossin had made for her~
 `
 spear = ~Self~.~Hands (left)~.~Objects[0]~
 Global.setTrigger(
@@ -226,10 +249,11 @@ Global.setTrigger(
 *Flanagan was by her side*
 ~In front of her was herself, reading a book, next to a woman~
 ~The woman was ancient, crumpled by time, and a stranger to the sun~
-*As they stepped forward she was gone*
+*As She and Flanagan stepped forward the woman vanished*
 ~Flanagan wore a frown~
-*Martha and Flanagan approached herself - sitting at the corner window table*
-~As they did, the rest of Martha's view became an echo, a projected reflection of herself~
+*Martha and Flanagan approached herself*
+~Herself was sitting at the corner window table~
+~As they drew near, the rest of Martha's view became an echo, a projected reflection of herself~
 "FL::We're here at the edge, right through here is our target."
 *Martha nodded and stepped forward*
 "M::Why is it here at all, at this book store, where I am?"
@@ -288,13 +312,14 @@ Global.setTrigger(
 *Flanagan was screaming, not in pain but in rage*
 ~The yellow lines started melting, coating the tentacles with a rubbery glue~
 *Martha took a breath. Aimed. Then threw her spear*
-~It flew forward - breaking into a fractal all around her as it did so~
+*It flew forward - breaking into a fractal all around her as it did so*
 'M::Damn jet-pack would be convenient right about now'
 ~She was forming the grammar to summon one and saw Flanagan with out~
 'M::Or I could just give myself flying.'
 `~Self~.*Flying*=true`
-~It was every dream said it would be, as such, she flew with years of dreamt precision~
-*A tentacle shot out in the path of the spear*
+~It was what every dream said it would be, as such, she flew with years of dreamt precision~
+~She kept her eye on the descending spear~
+*A tentacle shot out in its path*
 *The spear glanced off at the ^collision, twisting off angle*
 ~She felt the impact in her heart~
 ~And her heart dropped, that was just a glancing blow - and in a second~
@@ -355,8 +380,8 @@ cmb [
 *It slid in*
 ~Like butter~
 `dome-shield = Globals.fan^-@$%`
+~She felt her rib crack~
 *^A Tentacle sent her flying to the side*
-~She felt her rib cracked~
 ~While her shield was impenetrable, it had no particular force distribution... so while the thorn/tooth did not puncture her, it had an sharp edge~
 *Her breath shot out from her*
 ~As she flew away from the spear, she could see it was still attached~
@@ -370,19 +395,34 @@ cmb [
 ~She saw Flanagan fall on to some sort of ball - they were too far too see, but he didn't bounce~
 'M::Hamster ball?'
 *It was flying toward her, dodging the tentacles on it's way down*
+~But it wasn't going to make it in time~
 ~She was half stuck in the tar-like fluid~
 *She stopped struggling*
 ~It was heading right for her~
 ~As it drew closer she could see it was clear, and it held two men, one along the floor and one in the center piloting~
 ~She recognized him, the Captain's first officer, Gerald~
 "M::Over here!"
-*The bubble stopped feet away from her*
+*The bubble was zipping toward her*
 ~He sat in a chair in the center of the bubble, a victorian contraption attached him to the floor of the bubble~
-*The bubble extended and morphed*
-~It reached out and engulfed her~
-*The black liquid slid off the bubble*
+~That was the last she saw before she was engulfed~
+*She held her breath*
+~Her rib seared in pain, like a burning knife was still stuck~
+*Something slithered around her ankle and pulled her down further*
+*Martha held her mouth and nose closed and sunk deeper*
+'M::anchor'
+~Martha still felt the slight tugging in her hand~
+'M::He is holding my hand...'
+~She thought of the bubble she saw him fall into~
+~She saw her hand disintegrate and that unraveling expanded to the rest of her~
+}
+{%%%%}
+{
+~The next thing she knew she was on the floor next to Flanagan, who was unconscious~
+"G::Good, I don't have to come get you."
+*Gerald pulled on a lever next to the seat he was in*
+~She felt heavier as the gravity shifted~
 *A tentacle tried to impale the bubble, but it just spun*
-~An interior platform Martha and Gerald were standing on stayed stationary~
+~The interior platform Martha and Gerald were standing on stayed stationary~
 "G::None of that now."
 *Gerald pulled down on a lever next to him*
 *they shot outwards from al-tok*
