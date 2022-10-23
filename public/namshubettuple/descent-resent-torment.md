@@ -33,19 +33,19 @@ mn:M
 *Flanagan stepped forward and opened the wire door*
 ~Beyond the wire door was a blackness reflecting back both her and Flanagan's face~
 ~Smooth as glass~
-'It reminds me of Obsidian'
+'It reminds me of obsidian'
 "M::What's with all the doors?"
 ~Martha saw the same copper color lead into the cube, a bridge~
 "FL::Privacy, my dear, from many things"
 *Martha walked to the wire gate*
 ~Beyond it she saw the black reflection was actually a colossal cube of obsidian~ 
 ~It was evenly surrounded by a gap then wire mesh, extending from the gate encompassing the dark oak room~
-'M::how far down is...'
+'M::How far down is...'
 ~They were a short distance away from the cube, less than 20 feet~
 *Martha looked down*
 ~Her stomach knotted, the sense of scale sunk in~
 ~It would be a long fall~
-~The air was unnaturally still - at that depth she thought even indoors there should have been a breeze~
+~The air was unnaturally still - at seeing that depth she thought even indoors there should have been a breeze~
 *Flanagan walked across the short bridge*
 ~The copper handrails crunched and rattled at Flanagan's grasp as he crossed~
 ~It was made of that same copper wire mesh~
@@ -84,7 +84,7 @@ mn:M
 "M::How?"
 "FL::We are heading into the link - We are going to boldly pierce through a collection of thoughts and ideas and steal the power behind them"
 `"Mosquito on a tick"`
-'R::awkward analogy - mosquitos do not feed on ticks'
+'R::Awkward analogy - mosquitos do not feed on ticks'
 "M::So what exactly does this look like?"
 "FL::Look like?"
 "M::What exactly are we going to do?"
@@ -106,7 +106,7 @@ How does that work?'
 "FL::Are you ready?"
 *Martha nodded her head, then a moment later squeezed his hand*
 "M::Let's go"
-'R::best of luck, and do not overwrite anything important'
+'R::Best of luck, and do not overwrite anything important'
 'M::Overwrite?'
 *Flanagan opened the door*
 ~Both felt gravity shift - towards the door~
@@ -126,7 +126,7 @@ mn:K
 'K::They made him mute, I doubt he is pretending'
 "K::Hey!"
 ~Felix had the top half of his screen covered, and below was a terminal~
-'He was writing some code'
+'He was writing some sort of code'
 *Felix held out a finger to him, and he kept on typing*
 ~Kent lost interest until~ 
 *Felix uncovered the other half of his screen*
@@ -219,7 +219,9 @@ That they were giving out"
 "F::And a homeless man has it now?"
 ~A silence fell over them~
 "F::We should find that man"
+*Kent sighed*
 "K::Got any nifty tricks to do that?"
+'K::Do not give him his phone back'
 *Felix reached out his hand for his phone*
 "F::A few"
 }
@@ -236,6 +238,7 @@ mn:M
 *She was falling toward some bottom*
 ~She saw below her a moving shadow-play: a reflection of her own movements~
 ~To her left and right, a full spectral spread of pieces of her life lined the edges~
+~~
 ~Those too moved like a slowed down projector~
 ~~
 ~There was a gap between each moment~
@@ -415,9 +418,9 @@ Occupied for a time by so much Algera."
 ~Martha looked at the funnel and the jar~
 'M::Default permissions: right.'
 `defaults.set(~permissions~, 750)`
-'M::okay - I can do this: this is easy...'
-"R::you can do this."
-'M::dream Rossin says so, does that count'
+'M::Okay - I can do this: this is easy...'
+"R::You can do this."
+'M::Dream Rossin says so, does that count'
 ~She decided it did: she would have to let him know~
 "M::Hand me that spike of yours"
 *Flanagan did so, *
@@ -531,7 +534,7 @@ Or in?"
 ~~
 ~Martha contemplated how she might kill this thing~
 ~~
-'M::you seem much bigger, but...'
+'M::You seem much bigger, but...'
 ~It couldn't actually be this big, it was just in her head, one brain...~
 ~~
 ~She had to be larger - she reasoned... but maybe not stronger~

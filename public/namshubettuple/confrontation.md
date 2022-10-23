@@ -1,6 +1,4 @@
 # confrontation
-
-
 {
 mn:J
 "J::We would be together too..."
@@ -10,7 +8,8 @@ mn:J
 "L::Flanagan said no link: means no link. 
 Besides, we can't move it through the link."
 *Jochek made a cutting motion with her hands*
-"J::Half the time, and the three of us would be together now. Do you know how long a plane trip between here and Romania is."
+"J::Half the time, and the three of us would be together now. 
+Do you know how long a plane trip between here and Romania is."
 *Lenny gripped the wheel tighter*
 "J::I got you."
 *Jochek grabbed his shoulder*
@@ -18,7 +17,7 @@ Besides, we can't move it through the link."
 *He let out a sigh*
 "L::Okay. 
 But we're going to be quick...
-We'll find some people close to her, put them in our bodies while we get back to new york."
+We'll find some people close to her, put them in our bodies while we get back to New York."
 "J::Sounds fine..."
 *Jochek smiled, and air-quoted*
 "J:: 'Our bodies' "
@@ -28,7 +27,7 @@ We'll find some people close to her, put them in our bodies while we get back to
 *She pressed a finger into his chest*
 "L::I didn't say I was, I'm saying I expended a lot of energy to..."
 ~She loved getting him flustered~
-"L::talking is so faulty - so inefficient... so many syllables"
+"L::Talking is so faulty - so inefficient... so many syllables"
 "J::Then come here"
 *She pulled him into a kiss*
 *Then into something deeper*
@@ -59,7 +58,7 @@ mn:K
 *The 10th person pointed down the street*
 *Felix turned to Kent and gestured with his head to hurry up*
 ~It went on like that, about one in ten would have seen him, pointing to where they last saw him go~
-'K::how far can he go, he has a shopping cart'
+'K::How far can he go, he has a shopping cart'
 *They walked around a corner, down another street*
 'K::All downhill'
 ~The cityscape looming above them~
@@ -68,7 +67,7 @@ mn:K
 *He pushed his shopping cart down the alley towards kent*
 ~He had just come out of some line - leading to a makeshift structure Kent had a poor view of~
 *Felix fiddled with his phone, then reached up to push it in the thief's face*
-"K::No. None of that."
+"K::No, none of that."
 *Kent snatched the phone out of Felix's grip*
 "F::What the fuck - how else are you going to get that syringe"
 "HM::That was your syringe - I thought it was just another street syringe"
@@ -128,13 +127,13 @@ I didn't stick no street syringe, that would be crazy"
 *He took notes in a pad to his right*
 "K::What you have there, is ours actually..."
 "C::Yours... 
-interesting, Then you know what this stuff is?"
+Interesting, Then you know what this stuff is?"
 *Felix raised his arm out to stop Kent*
 "F::What is it?"
 *The chemist held the vial up to them*
 ~Kent looked around but did not see the original syringe~
 ~A few cardboard boxes tall, a tower supported a desk fan - wet rags attached to the grill~
-'K::Two fans, wait? a ceiling fan'
+'K::Two fans, wait? a ceiling fan?!'
 ~The roof was cardboard~
 "C::I'mm'a be real with you, first though: if you don't know what this is: where the hell did you get it?"
 *The chemist put it back on the table and swept it between the light and the prism*
@@ -261,7 +260,7 @@ Global.setTrigger(
 "FL::She was here."
 `
 [the spider](the-spider.md)`
-*which she stepped though, Flanagan holding her hand*
+*Which she stepped though, Flanagan holding her hand*
 ~They were in the book store still, now outside of Martha's head~
 ~The shelves shimmered softly - the shifting projections of minds looking at those books were in subtle conflict~
 ~It was open currently, 7:30PM, and people were in the aisles~
@@ -286,7 +285,7 @@ Global.setTrigger(
 "FL::We can't assume we'll be lucky, at some point it will see us, follow behind me - I'll distract it, you go around and poke it"
 ~Martha nodded and tightened her grip on her spear~
 'M::Here goes...'
-"FL::quickly now."
+"FL::Quickly now."
 *Martha and Flanagan fell into darkness*
 ~The instinctual part of her panicked - going from stability to this~
 ~It wasn't merely a void - but an inevitably~
@@ -372,11 +371,10 @@ cmb [
 }
 {
 *Around her, tentacles started to shift*
-
 *She looked up*
 ~Toward her, tentacles out of Flanagan's reach raced toward her~
 *She slammed the spear down*
-~It made a terrible screeching~
+~There was a terrible screeching sound~
 *It slid in*
 ~Like butter~
 `dome-shield = Globals.fan^-@$%`
@@ -409,7 +407,9 @@ cmb [
 ~Her rib seared in pain, like a burning knife was still stuck~
 *Something slithered around her ankle and pulled her down further*
 *Martha held her mouth and nose closed and sunk deeper*
-'M::anchor'
+~She felt nothing against her skin directly~
+~Still, she didn't want to take the chance of anything getting in her lungs to a misplaced cough~
+'M::Anchor'
 ~Martha still felt the slight tugging in her hand~
 'M::He is holding my hand...'
 ~She thought of the bubble she saw him fall into~
@@ -418,6 +418,7 @@ cmb [
 {%%%%}
 {
 ~The next thing she knew she was on the floor next to Flanagan, who was unconscious~
+~Her vision was still a faint blue, her shield still around her~
 "G::Good, I don't have to come get you."
 *Gerald pulled on a lever next to the seat he was in*
 ~She felt heavier as the gravity shifted~
@@ -425,7 +426,7 @@ cmb [
 ~The interior platform Martha and Gerald were standing on stayed stationary~
 "G::None of that now."
 *Gerald pulled down on a lever next to him*
-*they shot outwards from al-tok*
+*They shot outwards from al-tok*
 ~Martha saw distant tentacles attached to different thoughts, ideas...~
 ~It wasn't just in her book store, she saw... but it was attached to memories of libraries, and university studies~
 ~She got the sense it was searching for something~
@@ -434,7 +435,7 @@ cmb [
 *Martha tried to breath, instead she coughed*
 *She touched at her side*
 ~It was tender~
-`['do I need to go to a hospital?', 'Am I an idea here, can I just fix myself?']`
+`['Do I need to go to a hospital?', 'Am I an idea here, can I just fix myself?']`
 ~She tried~
 `
 ~Self~.~enchantments~=[]
@@ -467,14 +468,16 @@ cmb [
 ~He spoke words and oddly, she didn't hear them~
 "G::I'm going to give you some of my fat - free energy"
 *Martha nodded her head*
-*He took the blade across his hand, then he made a small incision on her side and placed his hand there*
+"G::Lower your shield"
+*She did so, and winced when he took the blade across his hand*
+*He made a small incision on her side and placed his hand there*
 ~His arm rippled and bulged as did her side~
 ~Each breath she took was a little easier, her thoughts clearer~
 *She sat up*
 *He wiped at his hand and the cut was gone, he did the same at her side to the same effect*
 "G::You've got a lot to learn, but considering you started yesterday - I'd say you're off to a good start"
 *He stepped out of the bubble*
-~The thin layer wobbled back in forth with his passing~
+~The thin layer wobbled back and forth with his passing~
 *She looked back to Flanagan*
 "G::Quickly, we don't have all day - I'm afraid"
 *She pointed to Flanagan*
@@ -485,7 +488,7 @@ Just get to the captain."
 *She left the bubble*
 
 `{
-    next chapter: what alacira was having martha hunt - and the destruction of the end's dreadnought
+    Next chapter: what Alacira was having Martha hunt - and the destruction of the end's dreadnought
 }`
 }
 
