@@ -22,6 +22,7 @@ const speaker_map={
     N:"Nurse",
     P:"Police Officer",
     RO:"Officer Rogers",
+    RP:"Reporter",
     FA:"Flight Attendant",
     E:"Erin Mc'kay",
     S:"Students",

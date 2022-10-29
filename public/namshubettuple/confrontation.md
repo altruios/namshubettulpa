@@ -486,10 +486,6 @@ Just get to the captain."
 *Martha checked his pulse* 
 ~Which was fine~
 *She left the bubble*
-
-`{
-    Next chapter: what Alacira was having Martha hunt - and the destruction of the end's dreadnought
-}`
 }
 
 ## [seeds-of-a-new-world](seeds-of-a-new-world.md)
