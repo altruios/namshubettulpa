@@ -1,4 +1,4 @@
-# Seeds of a new world
+# Seeds of a New World
 {
 mn:K
 }
@@ -10,8 +10,8 @@ mn:K
 "K::Too early, no alarm"
 *He jolted up from the hospital bed*
 ~The walls around him were partial board, makeshift~
-'K::Shit... where am I?'
-*There was a single knock at the door*
+'K::Shit... where are you, Kent?'
+*There was a single knock at the door to his left*
 ~More of a slam really, a moment later it came again~
 ~Kent's head throbbed - pulsing in rhythm to the darkness receding from his vision~
 *Another slam on the door*
@@ -25,8 +25,8 @@ mn:K
 *Her leg jerked into the door again*
 *Kent looked both ways down the hallway she was in*
 ~All was silent - but down to the left there was another person on the floor~
-'K::Chemistry... 
-Should I be breathing though a filter?'
+'K::Right, fucking cardboard palace - chemistry... 
+Should you be breathing though a filter?'
 ~The air seemed fine~
 "K::Hello?"
 ~He was calling into a void~
@@ -34,15 +34,18 @@ Should I be breathing though a filter?'
 ~It was steady, and her breathing seemed fine~
 'K::The fuck is happening?'
 *Kent rushed over to the other person down the hall*
-~They to were stable~
+~They too were stable~
 ~Kent was in an abandon building~ 
 ~He supposed he must not have been moved far~
+'K::Is this the lab?'
 *Kent wandered down the hall*
+~It reminded him more of a hospital, the floors were linoleum~
+~But the walls were bare wood - free floating~
+~Unconnected to the hallway walls; And distant fluorescent lines flickered along a dark ceiling~
 ~There were no signs for exits, nothing was 'up to code'~
-~There were others - they were all in the same condition~
+~There were others lying on the ground - all in the same condition~
 ~In the distance he heard a sound~
-~A sort of static that grew to a high pitched whine~
-~The sound of a CRT TV~
+~A sort of static that grew to a high pitched whine: the sound of a CRT TV~
 *He walked toward that sound*
 ~He eventually made out a voice~
 "RP::If you are driving, stop driving, turn off your car and lie down"
@@ -63,13 +66,73 @@ Stop what your doing and lie down, we don't-"
 *She was caught by some arms racing in from off camera*
 ~The screen turned back into the logo~
 "SM::This is a recorded message."
+*The TV continued to loop*
+"K::Did that happen to me, I fell asleep right?"
+*Kent felt at himself*
+~He felt fine~
+"K::Hello!"
+'K::Okay kent, what to do, what to do'
+*His stomach growled*
+'K::Food soon, should start crawling - maybe carry a pillow'
+~He wondered if he could find some tape~
+~Then he thought of what he would find outside~
+*Kent kneeled down and started crawling*
+'K::Better safe than sorry'
+~Either way Kent had to see outside~
+~It was so quite~
+'K::Where did Felix go, or the chemist'
+~Kent ran through his options:~
+~Finding Felix in a place this large while crawling would be less than ideal~
+~He didn't know where the exits were anyway~
+'K::You could have a seizure at any moment'
+"K::How long had that been playing"
+'K::Maybe it was in a loop for hours'
+~He sat there and considered how long he could have been out for~
+~There were no clocks on the bare wood walls~
+~He waited, listening: nothing happened for several long minutes~
+*He stood up, and walked on*
+}
+{%%%%}
+{
+`{TODO: The lux become the Relux and find itself in romania in others bodies - heisting *the way out*}`
+`{rough outline:
+    Lovelace is introduced.
+    Background discourse is related to current events of the seizure illness.
+    Lenny and Jochek are in other bodies - join with lovelace are relux again.
+    link to heist wiki page    
+}`
+}
+{%%%%}
+{
+`{TODO: The end's dreadnought is attacked -  -
+  - rough line to martha from (someone?)
+ }`
+`{rough outline:
+    Reference to deal made in interludes 2 with robert glass.
+    Alacira chastises Martha for her actions of waking everyone up. -
+        "You know enough to be dangerous. 
+        Do you know why most people are kept ignorant, asleep? 
+        So they don't do stupid shit like that.
+        Knowledge itself is dangerous. 
+        The powers of creation in the mind of a toddler - that is what you did!
+        You gave everyone a gun glued to their foot - or worse"
+    the dreadnought is attacked
+    Martha does something clever but first order thinking only
+    link to dreadnought wiki page - with a footnote on its destruction
+        
+}`
+}
+{%%%%}
+{
+`{TODO: Kent wanders the world in transition - unsure of what he's seeing... someone wakes up and he sees whats what}`
+`{rough outline:
+    kent goes outside, everyone is still
+    in his search for food he wanders by someone who wakes up, they begin acting strangely - talking to people kent can't see
+    kent buys food from the store using a self checkout
+    everyone wakes up - Kent observes them objectively in their own worlds. 
+
+    }`
 }
 {
-    `{TODO: Kent wanders the world in transition - unsure of what he's seeing... someone wakes up and he sees whats what}`
-    `{TODO: The lux become the Relux and find itself in romania in others bodies - heisting 'the way out'}`
-    `{TODO: The end's dreadnought is attacked - Martha does something clever but first order thinking only - it results in the destruction of the end's dreadnought - rough line to martha from (someone?)'You know enough to be dangerous - Why most people are kept ignorant - knowledge itself is dangerous - that is what you did - gave everyone a weapon they don't realize how hard it is to use and not cause unintended damage'}`
-    `{TODO: structure change to non-linear story telling via a wiki pages for next section}`
-    `{TODO: wiki pages, 'the great awakening'}`
-    
-
+`{TODO: wiki pages, 'the great awakening' (disguised as next chapter)}`
 }

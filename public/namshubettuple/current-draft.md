@@ -21,4 +21,4 @@
 17. [descent-resent-torment](descent-resent-torment.md)
 18. [confrontation](confrontation.md)
 ### [index](index.md)
-date:10/29/22
+date:11/1/22
