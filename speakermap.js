@@ -10,6 +10,7 @@ const speaker_map={
     RG:"Robert Glass",
     U:"Uri Maca",
     JL:"Juan Long",
+    LX:"Lux",
     O:"Ozmind Yammin",
     AT:"Al-tok",
     L:"Lenny",

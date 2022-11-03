@@ -92,9 +92,53 @@ Stop what your doing and lie down, we don't-"
 ~He waited, listening: nothing happened for several long minutes~
 *He stood up, and walked on*
 }
-{%%%%}
+{%%%%
+mn:L
+}
+{
+~The Lux was not a human, it was more than the sum of two humans~
+~It was also the space between~
+~Syncretic thoughts and ideas unspoken but known in harmony~
+~There was no Lenny, no Jochek, only Lux~
+~The Lux was in the link~
+~And the link was disconnecting from itself~
+~Thoughts and memories, ideas - hopes... were selectively spreading apart~
+~Growing isolated into compressed islands, surrounded by both a blindingly white light, and what the Lux presumed to be Al-tok~
+~A gathering mass of void, hardened by some sort of dark despair~
+~The Lux felt a ripping sensation - from their center~
+'L::We can still get there'
+~Even the Lux themselves were breaking~
+'J::Lenny would find a way'
+~The Lux let themselves relax further apart~
+'L::They are spreading apart'
+~The ideas, the dreams...~
+'L::They are coalescing'
+'J::Into people?'
+~They thought so~
+'L::We need to pick one'
+'LX::Two, and sooner the better'
+'L::We were close - I think any of these will do'
+~What was happening to the link and why was of concern~
+~But getting out of it was greater~
+~The islands of thoughts and memories grew distant from each other~
+~They were unsure if they could span the distance~
+~Then they were sure they could not~
+"L::We're going to have to split"
+~Jochek was already on it~
+~The ripping sensation continued down the core of their being~
+~Leaving behind Lenny and Jochek~ 
+*both racing towards a separate collection of thoughts and dreams*
+~Neither were fast enough~
+*The moment they separated - their hearts too were filled with Algera*
+~Lenny finally recognized what that white light actually was~
+*He, along with Jochek, were assaulted by several smaller infinities*
+*As they traveled instantaneously from end to end a much larger infinity*
+~They did not know how much time this took~
+}
 {
 `{TODO: The lux become the Relux and find itself in romania in others bodies - heisting *the way out*}`
+
+
 `{rough outline:
     Lovelace is introduced.
     Background discourse is related to current events of the seizure illness.
