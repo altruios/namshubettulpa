@@ -126,15 +126,47 @@ mn:L
 "L::We're going to have to split"
 ~Jochek was already on it~
 ~The ripping sensation continued down the core of their being~
-~Leaving behind Lenny and Jochek~ 
-*both racing towards a separate collection of thoughts and dreams*
-~Neither were fast enough~
-*The moment they separated - their hearts too were filled with Algera*
+*Their hearts separated and filled with Algera*
 ~Lenny finally recognized what that white light actually was~
 *He, along with Jochek, were assaulted by several smaller infinities*
 *As they traveled instantaneously from end to end a much larger infinity*
 ~They did not know how much time this took~
+~The Lux had not fully dissolved~
+~Their hearts apart, the space between grew absent~
+*Their hearts drew together*
+~Reforming~
+"LX::What is happening"
+'L::The link is broken, flooded with Algera - we should get out of here.'
+'J::Well, first we find bodies'
+~The disconnecting was almost complete~
+~Their options thinning~
+'L::We just have to use one then, get them close to someone else'
+'J::There'
+~The Lux saw one of those options, a coach driver a few miles away in a small Romanian town~
+'L::Old, but has horses'
+'J::I love horses'
+*They fought their way into the old man*
+~What would normally have been easy they were repelled by~
+~Still, it was two against one~
+*His struggle subsided, then Lenny of the Lux took control*
+~Lenny felt the coach driver fall into a void~
+~He couldn't tell which, the blinding white, or the absent dark~
 }
+{
+~A physical link, a touch to the arm on the first person Lenny saw and a short moment later Jochek joined him~
+~It was the a portly man that was his fair, who had been slumped over in coach unconscious~
+~A short time later - after finding everyone around them unconscious, the Lux road in silence toward their destination~
+~The castle that held many, some say every, incredibly dangerous things~
+~Things more frightening than an atomic bomb: secret things~
+~Almost chief among them was The Way Out~
+'J::Should we use different bodies'
+'L::No, speed - we need to get there now.'
+'J::Think she is alright?'
+'L::She was disconnected as you can get... 
+So maybe?'
+~The Lux drove on in silence~
+}
+
 {
 `{TODO: The lux become the Relux and find itself in romania in others bodies - heisting *the way out*}`
 
