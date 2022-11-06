@@ -162,7 +162,7 @@ mn:L
 'J::Should we use different bodies'
 'L::No, speed - we need to get there now.'
 'J::Think she is alright?'
-'L::She was disconnected as you can get... 
+'L::She was as disconnected as you can get... 
 So maybe?'
 ~The Lux drove on in silence~
 }
@@ -177,6 +177,11 @@ So maybe?'
     Lenny and Jochek are in other bodies - join with lovelace are relux again.
     link to heist wiki page    
 }`
+~In the Romanian country side there was a ravine not on any map~
+~Earth riven in a jagged scar on the scale of legend~
+~A castle built into the cliff-face, flush and without entrance, at least visibly~
+~The main entrance was a hatchway that opened up top~
+~Though a road not on any map, winding along the lip of the ravine, the Lux reached their destination~
 }
 {%%%%}
 {
