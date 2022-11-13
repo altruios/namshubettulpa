@@ -87,7 +87,7 @@ async function transform_to_md(cwd,callback){
                 }
             })
         }
-        data=`<html><body style="background-color:${bg_colors[4]}; ${blocks? `font-size:3vh;display:flex;flex-flow:column nowrap;"`:''} >${data}</body></html>`
+        data=`<html><meta charset="UTF-8"><body style="background-color:${bg_colors[4]}; ${blocks? `font-size:3vh;display:flex;flex-flow:column nowrap;"`:''} >${data}</body></html>`
         data=data.replace(/([\<][\p][\>][\<][\/][\p][\>])/gm, "")
         callback(null,data);
     })        

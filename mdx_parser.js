@@ -1,4 +1,5 @@
 const speakers =require('./speakermap.js');
+const emoji_map = require('./emoji_map.js');
 const defaultnarrator = {current:speakers.M}
 const mdx_parser=(text)=>{
     const data = get_mdx_data(text);
@@ -94,6 +95,20 @@ const mdx_block_parser = (block,dfn)=>{
                 <div style="padding-${mainNB?'left':'right'}: 15; color:${colors[0]}">${txt}</div>
                 </div>`
         const speaker_regex = txt.match(/\w+[:][:]/gm);
+        const emoji_regex = txt.match(/[$][E][\w]*[:]/gm);
+        if(emoji_regex){
+            console.log(emoji_regex);
+            for(const match of emoji_regex){
+            let key = match.slice(2,emoji_regex.indexOf(":"));
+            let emoji = emoji_map[key];
+            console.log(key,emoji);
+            console.log(txt);
+            txt=txt.replace(match, emoji);
+            console.log(txt);
+            }
+        }
+
+
         const bg_colors=["#248bc5","#b5b5ba","#af80af","#b58782"] //blue // grey // red / greyred
         const fg_colors=["#fafafa","#000070"] //magenta//green
         switch(txt[0]){

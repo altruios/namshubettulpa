@@ -21,6 +21,7 @@ const speaker_map={
     SG:"Security Guard",
     T:"Tom Garland",
     N:"Nurse",
+    NT:"Navigator",
     P:"Police Officer",
     RO:"Officer Rogers",
     RP:"Reporter",

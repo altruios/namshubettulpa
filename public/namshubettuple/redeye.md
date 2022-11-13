@@ -302,8 +302,7 @@ mn:M
 Are you following me?"
 }
 {
-*He raised his hands in a confused gesture*
-*And he mimed that he wasn't - that he just met her*
+"NT::  $Edidnotmeet:"
 ~He didn't speak - not with words~
 ~But his hands, his whole body even, were excellent at conveying meaning~
 ~A regular charlie chaplin~
@@ -315,11 +314,11 @@ Are you following me?"
 {
 ~Martha regained her balance~
 ~Kent - or the navigator - just stood there easily keeping his~
-*He gestured with his head, she should follow him*
+"NT::$Eshrug:, $Efollow:"
 *He walked off to the edge of the gear*
 *He looked back with an expectant look*
 "M::Where are we going?"
-*He mimed out his death*
+"NT:: $Emydeath:"
 *Then stepped over the ledge*
 *He twisted strangely in the air to stand on the edge of the giant gear*
 ~He was on the teeth of the gear - perpendicular to Martha~
@@ -334,7 +333,7 @@ Are you following me?"
 ~She had too much momentum, and then was on the underside of the gear~
 }
 {
-*Kent held out his hand over the side*
+*The navigator held out his hand over the side*
 *He helped her slide back onto the teeth*
 ~The gear jolted again, backwards toward a set of interlocking teeth~
 *She lost her balance and fell backward*
@@ -345,7 +344,7 @@ Are you following me?"
 ~She had to wait for the gears to go forward again before pulling her leg out~
 *When the teeth rotated enough she threw herself up with Kent's helping hand*
 *Kent dusted himself off*
-*With a more urgent tilt of the head he mined: 'hurry up...'*
+"NT::$Ehurryup:..."
 ~That backwards slippage was only going to get worse~
 }
 {
@@ -363,16 +362,16 @@ Are you following me?"
 ~And this time Martha saw a ripple in the other gears around her~
 ~The wavelike effect gave her some warning~
 "M::What's causing that?"
-*Kent only mimed 'things breaking down, breaking apart'*
+"NT::$Efallapart:"
 *They made their way through the gears*
 ~Each slip getting more jarring~
 ~Each time the gears fell further back~
-'He did say it would get worse.'
+'He did say - say? mime: mime it would get worse.'
 }
 {
 ~Martha could see stone walls fading in from the void~
 "M::Where exactly are we?"
-~One of the gears to her left started flying toward her - twisting in the air~
+*One of the gears to her left flew towards her - twisting in the air*
 *Kent jumped at her*
 *He knocked her to the backside of the gear*
 ~Opposite where the one flying at her would hit~
@@ -384,31 +383,31 @@ Are you following me?"
 {
 *Kent pulled her to her feet*
 *They ran across the flat to the nearest connected gear*
-*Kent - still holding her hand, grabbed around her back*
+*The navigator - still holding her hand, grabbed around her back*
 *He led them to jump for the face of that gear*
 ~They landed in an awkward roll, the wind knocked out of Martha~
 ~She looked back to where they had just been only to see darkness~
-~She heard loud clattering from below~
+~She heard a loud clattering from below~
 'Okay, that is just great. 
 why is it slipping like that?'
 ~Which echoed in her left ear, but she was sure that was down at this point~
 'Or maybe that way is up?'
 ~She was lost - they were generally heading up~
-*Kent got up, and helped her to her feet - inspecting her for any damage*
-~He mimed looking at a watch and tilted his head more urgently~
+*The navigator got up, and helped her to her feet - inspecting her for any damage*
+"NT::$Ehurryup:!"
 }
 {
 *He ran - looking back as Martha jolted forward to match his pace*
 ~She felt something - a dread she remembered from a distant dream~
 ~!A prickling on the back of the neck.!~
-~Not wanting to turn around, not wanting to face it she caught up to Kent~
+~Not wanting to turn around, not wanting to face it she caught up to the Navigator~
 ~He had just jumped onto another gear's teeth~
 "M::I think it's here,"
-*Kent nodded, pointed to his eye, then behind her*
-*Then waved her forward*
+"NT:: $Eyes:, $Edontlookbehind:"
+
 *She jumped and landed where he was*
 ~They were running now and Martha noticed the wave of gears slipping~
-*She stopped while Kent did not*
+*She stopped while the Navigator did not*
 "M::Wait!"
 }
 {
@@ -420,13 +419,13 @@ why is it slipping like that?'
 *He started inching his way toward a gear further up that pole*
 ~he could drop down, which was sideways to Martha, and he could land on it~
 "M::I'll come get you!"
-*He raised one hand to stop her*
+"NT::$Eredx:"
 *And Martha stopped in her tracks*
 ~She watched him make his way to the safe landing~
 }
 {
 'Oh shit, that thing is right there!'
-~Below Kent was a dark figure with a tail~
+~Below the Navigator was a dark figure with a tail~
 *It crawled on all fours towards them*
 ~The alien~
 'No...'
@@ -436,19 +435,21 @@ why is it slipping like that?'
 *She shuddered*
 ~She hated that movie~
 ~Well: the second one with how they put people in those nests~
-*Kent dropped down with a thud*
+*The Navigator dropped onto the spinning gold gear with a thud*
 }
 {
 *He brushed himself off*
 "M::Keep going, it's behind you"
-*Kent looked behind him - seeing the thing only a few gears away*
+*He looked behind him* 
+~the thing was only a few gears away~
 *He rushed toward the side*
-*Twisting onto the teeth, and making his way back toward her*
+*He Twisted himself onto the teeth* 
+~On a path back toward her~
 ~Martha could only watch~
 ~The alien was closing in - he wasn't going to make it~
 ~She saw the ripple of gears around her -~
 "M::Ripple!"
-*Kent grabbed hold on the gear*
+*He  held onto the gear*
 }
 {
 ~The thing was right behind him~
@@ -465,14 +466,14 @@ why is it slipping like that?'
 ~Martha noticed another ripple~
 'Okay - that one was way faster...'
 *She shouted and they both took cover*
-'are they random...'
+'M::are they random...'
 ~The alien was thrown off the same way Kent had been a moment earlier~
 ~It didn't follow them~
-'Or is it getting faster?'
+'M::Or is it getting faster?'
 *Instead it started climbing back up the face of this gear*
 }
 {
-*Kent took her hand and they jumped across onto the face of the gear*
+*The Navigator took her hand and they jumped across onto the face of the gear*
 ~This one was lit differently, bluer - lighter~
 ~She looked up to see a lack of any more gears to the left and right~
 ~One above her connected to the same rod in the center of this gear~
@@ -481,10 +482,10 @@ why is it slipping like that?'
 *Then he took off his shirt*
 *He wrapped it around the rod, then tied it around his wrists*
 *He sat down with his legs crossed around the pillar and hugged it*
-'Pole dancing kent, navigator of dreams.'
+'M::Pole dancing Kent, navigator of dreams.'
 *Suddenly pulled away from the pole and towards the edge of the gear*
 *He started climbing*
-'Follow the leader.'
+'M::Follow the leader.'
 *She threw the jacket around the pole*
 *Then tied it to her wrists*
 ~The sleeves just long enough to tie in a knot around her arms~
@@ -510,10 +511,16 @@ why is it slipping like that?'
 }
 {
 *They landed on the underside of the gear*
-*Martha began to stand, Kent slapped the gear*
+~The navigator was sprawled along the face of the gear~
+*Martha began to stand*
+"NT::$Estaylow:"
 'Okay, staying low.'
-*Kent motioned to follow and he and Martha rolled to the edge of the gear, and then over it*
-~Kent was standing after a casual flourish~
+~She kept facing the gear, below her was darkness~
+"NT::$Efollow:"
+*The navigator rolled over the edge, onto the other side*
+*Martha followed*
+~The gravity shift was ~
+~The navigator was standing after a casual flourish~
 ~Martha stood up, inspecting the top of the gear~
 ~Empty besides the shiny thing in the center~
 ~A small marble laid at a small hollow rotating around the center. ~
@@ -538,7 +545,7 @@ why is it slipping like that?'
 *She bent down to roll it across the ground*
 ~But before she could - the ground lurched beneath her feet~
 *The marble slipped from her hand*
-*Kent with one hand grabbed the marble. *
+*The Navigator with one hand grabbed the marble*
 *With the other he grabbed Martha's shirt*
 ~He was on the other side of the center and together they stayed close~
 ~Ahead of her - she saw another tooth fall~
@@ -546,7 +553,7 @@ why is it slipping like that?'
 *She moved near the edge*
 "M::Quickly!"
 *He complied and she watched it roll*
-~The shape inside~
+'M::The shape inside'
 ~Barely even inside it twisted and morphed through a repeating pattern~
 ~A pattern that burned in her brain~
 ~It was circular, and repeated itself~
@@ -556,9 +563,7 @@ why is it slipping like that?'
 ~In front of her she saw a claw reach over the edge of the gear~
 ~The metal sizzled beneath it~
 "M::We have to go now, how do we get out of here?"
-*She nodded her head to right behind her*
-*Kent looked around - reached out his hand*
-*He then nodded his head toward the edge of the gear*
+"NT::$Eovertheedge:"
 *Another lurching threw them both near the creature*
 ~Not directly at it: off to it's side~
 *They rolled over the edge and felt gravity shift*
@@ -566,7 +571,7 @@ why is it slipping like that?'
 ~Martha saw themselves reflected in creature's eyes~
 ~It was so close~
 *Both of them rolled back onto the bottom of the gear, almost out of it's reach*
-*It grabbed Kent's face - with the cut hand*
+*It grabbed the Navigator's face - with the cut hand*
 *Acid poured onto him and he let out a silent scream*
 *He kicked at the alien and braced his back against the gear*
 *It's gravity shifted sideways, and the creature narrowly missed Martha*
@@ -595,9 +600,11 @@ why is it slipping like that?'
 ~She felt a small adjustment on her side, a movement~
 'Where had that...'
 *She looked down*
-~Kent's hand was curled into a pointing finger - pointing down~
+"NT::$Edown:"
+*His hand fell limp*
+'M::shit'
 *and she jumped with all her strength*
-~With Kent - the navigator - in tow~
+~With the Navigator - Kent - in tow~
 *She flew over the edge just as the alien at the center of the gear*
 *She fell - down*
 ~There were no more gears - just remnants of where they once had been~
@@ -615,7 +622,7 @@ why is it slipping like that?'
 }
 {
 ~They fell through the barrier - silence engulfed them~
-~Kent wasn't moving - she held him tight~
+~The Navigator wasn't moving - she held him tight~
 ~They landed on the deck of the ship~
 ~Captain alacira standing there~
 ~Whitewater behind her~
@@ -628,7 +635,7 @@ why is it slipping like that?'
 {
 "A::We got it from here."
 *She shouted for a medic* 
-*and one came in rushed in from below deck*
+*And one came in rushed in from below deck*
 ~A doctor with a big black purse - the kind from Victorian times~
 *He bent over to see Kent - pushing Martha back onto her feet*
 "A::Did you get it?"

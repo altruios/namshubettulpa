@@ -183,7 +183,9 @@ So maybe?'
 ~The main entrance was a hatchway that opened up top~
 ~Though a road not on any map, winding along the lip of the ravine, the Lux reached their destination~
 }
-{%%%%}
+{%%%%
+mn:M
+}
 {
 `{TODO: The end's dreadnought is attacked -  -
   - rough line to martha from (someone?)
@@ -202,6 +204,72 @@ So maybe?'
     link to dreadnought wiki page - with a footnote on its destruction
         
 }`
+~Martha was greeted to a scene of chaos~
+~Deckhands of all shapes and sizes, and~
+'M::Is that a fish?'
+~It was, manning a rope at the side of the ship~
+"A::Gerald, what happened!"
+~Outside the storm darkened, slowly in patches it was replace with a void~
+*Gerald looked around locating the captain's voice through a walkie-talkie on his hip*
+"G::Come on, she's at the helm"
+*He pressed the button on the walkie-talkie*
+"G::I picked up Miss Crisp, and Flanagan was there"
+"A::Did he do this? The link is breaking."
+~They reached the entrance to the tower in the center~
+*Gerald turned to Martha*
+"G::What exactly was your plan there?"
+*As they ran down the hall he clicked the button*
+"G::Flanagan is unconscious, and she wasn't much better."
+*Gerald took his finger's and whistled*
+"G::Sonny!"
+*Sonny stepped in from a corner room*
+~A short wiry red haired girl in a white coat, Martha guessed she was in her 40's~
+"G::Trouble in the bubble: one unconscious."
+*Sonny nodded and whistled herself*
+~It was a signal to two large spiders, about the same size as her~
+*They crawled out from the room on the side wall and ceiling*
+*Martha instinctively flinched*
+*The spiders followed Sonny, ignoring Martha as they passed*
+~Gerald was already at the elevator door, waving at her~
+'M::Keep it together'
+*The elevator doors opened*
+"G::What was your plan?"
+"M::Well. We were going to distract it, and poke it, and drain it."
+"G::Drain it?"
+"M::Of the Algera."
+"G::Drain it into where?"
+*The elevator doors closed and Gerald pressed a button*
+"M::It was supposed to be my heart, me, but..."
+~Gerald watched her patiently~
+"M::Now it's in everyone, but me."
+~Gerald moved from comprehension to shock~
+*Gerald examined his hand*
+"G::Not me... Not anyone running around out there still."
+"M::But Flanagan."
+*Gerald nodded*
+"G::I..."
+*He took a breath*
+"G::No... I'll let the captain explain"
+"M::I know what I did. 
+Now everyone has these powers."
+"G::No. 
+You don't."
+~He sighed~
+*The elevator button dinged, and the doors opened*
+~Alacira and a team of men were busy at control panels along the side of the room~
+~In front were several large windows revealing a shrinking storm~
+"G::So..."
+~Gerald explained what happened to the captain~
+*Alacira lowered her head*
+*Alacira turned back to the control panels*
+"A::Plan x everyone.
+Gerald, just get us down anywhere if you can, I'm going to speak to miss Crisp in my quarters"
+*She turned and strolled out of the room, Martha following*
+*The people previously at the controls scattered as Gerald took the helm*
+~Behind closed doors, The captain poured herself a drink~
+"A::So... 
+Why don't you tell me why you did what you did."
+
 }
 {%%%%}
 {
