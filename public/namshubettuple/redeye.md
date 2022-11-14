@@ -62,7 +62,7 @@ mn:M
 ~But it had a long row of teeth that she could see~
 ~Reflecting purely the red light~
 ~Its head could not fit through the opening~
-~And it's tiny claw couldn't swipe far enough to reach her~
+~And its tiny claw couldn't swipe far enough to reach her~
 *It opened its mouth*
 *And another set of teeth reached out with an appendage in its mouth*
 ~She stared at it, it couldn't reach her and she could only watch~
@@ -319,7 +319,7 @@ Are you following me?"
 *He looked back with an expectant look*
 "M::Where are we going?"
 "NT:: $Emydeath:"
-*Then stepped over the ledge*
+*Then he stepped over the ledge*
 *He twisted strangely in the air to stand on the edge of the giant gear*
 ~He was on the teeth of the gear - perpendicular to Martha~
 *Martha went to the edge of the gear*
@@ -333,7 +333,7 @@ Are you following me?"
 ~She had too much momentum, and then was on the underside of the gear~
 }
 {
-*The navigator held out his hand over the side*
+*The Navigator held out his hand over the side*
 *He helped her slide back onto the teeth*
 ~The gear jolted again, backwards toward a set of interlocking teeth~
 *She lost her balance and fell backward*
@@ -343,7 +343,7 @@ Are you following me?"
 ~Her leg wasn't crushed, but only just~
 ~She had to wait for the gears to go forward again before pulling her leg out~
 *When the teeth rotated enough she threw herself up with Kent's helping hand*
-*Kent dusted himself off*
+*The Navigator dusted himself off*
 "NT::$Ehurryup:..."
 ~That backwards slippage was only going to get worse~
 }
@@ -352,10 +352,10 @@ Are you following me?"
 *They made their way along the edge*
 ~Until they met another gear on the other side~
 ~This one mostly facing to their right~
-*With a skip and a hop Kent jumped just so - and landed on that gear's teeth*
+*With a skip and a hop The Navigator jumped just so - and landed on that gear's teeth*
 *With his hand out and some prep time Martha made the jump*
-'Not so hard this time.'
-*When she landed Kent more urgently ran - Martha in tow*
+'M::Not so hard this time.'
+*When she landed the Navigator more urgently ran - Martha in tow*
 }
 {
 ~A moment later the gears skipped backwards again~
@@ -372,7 +372,7 @@ Are you following me?"
 ~Martha could see stone walls fading in from the void~
 "M::Where exactly are we?"
 *One of the gears to her left flew towards her - twisting in the air*
-*Kent jumped at her*
+*He jumped at her*
 *He knocked her to the backside of the gear*
 ~Opposite where the one flying at her would hit~
 ~A resounding ringing echoed against her skin~
@@ -381,9 +381,9 @@ Are you following me?"
 'Shit - this one was coming loose.'
 }
 {
-*Kent pulled her to her feet*
+*The Navigator pulled her to her feet*
 *They ran across the flat to the nearest connected gear*
-*The navigator - still holding her hand, grabbed around her back*
+*Still holding her hand, he grabbed around her back*
 *He led them to jump for the face of that gear*
 ~They landed in an awkward roll, the wind knocked out of Martha~
 ~She looked back to where they had just been only to see darkness~
@@ -417,7 +417,7 @@ why is it slipping like that?'
 ~He clung to that twisting rod, just taking a moment to breathe~
 *He Looked up at Martha - then down below him*
 *He started inching his way toward a gear further up that pole*
-~he could drop down, which was sideways to Martha, and he could land on it~
+~He could drop down, which was sideways to Martha, and he could land on it~
 "M::I'll come get you!"
 "NT::$Eredx:"
 *And Martha stopped in her tracks*
@@ -441,7 +441,7 @@ why is it slipping like that?'
 *He brushed himself off*
 "M::Keep going, it's behind you"
 *He looked behind him* 
-~the thing was only a few gears away~
+~The thing was only a few gears away~
 *He rushed toward the side*
 *He Twisted himself onto the teeth* 
 ~On a path back toward her~
@@ -449,16 +449,16 @@ why is it slipping like that?'
 ~The alien was closing in - he wasn't going to make it~
 ~She saw the ripple of gears around her -~
 "M::Ripple!"
-*He  held onto the gear*
+*He held onto the gear*
 }
 {
-~The thing was right behind him~
+~The alien was right behind him~
 *The gear flung back and the alien's tail caught in the gears behind it*
 *It cried out in a shrieking hiss*
 ~The metal itself hissed and fumed loudly as the acid ate away~
-*Kent got to his feet and ran*
-*The gears slowly released the alien just as Kent rushed up to her*
-~Carefully he moved past her - and took the lead again~
+*The Navigator got to his feet and ran*
+*The gears slowly released the alien just as he rushed up to Martha*
+~Carefully the Navigator moved past her - and took the lead again~
 }
 {
 ~The tail of the creature leaked acid~
@@ -466,8 +466,8 @@ why is it slipping like that?'
 ~Martha noticed another ripple~
 'Okay - that one was way faster...'
 *She shouted and they both took cover*
-'M::are they random...'
-~The alien was thrown off the same way Kent had been a moment earlier~
+'M::Are they random...'
+~The alien was thrown off the same way the Navigator had been a moment earlier~
 ~It didn't follow them~
 'M::Or is it getting faster?'
 *Instead it started climbing back up the face of this gear*
@@ -499,13 +499,13 @@ why is it slipping like that?'
 ~She felt the pole she was climbing spin violently~
 ~The gear below was loose~
 ~It gave way into the darkness just as a claw grabbed the rod~
-~It's gravity had not changed and it was struggling to hold on~
+~Its gravity had not changed and it was struggling to hold on~
 ~To her right she saw a tooth from the gear above her fall~
 ~A think chunk of metal the size of her forearm~
 ~It grazed the creature's claw~
 ~Spilling acid blood that splattered onto the metal rod~
 ~As it climbed, pieces of the metal dripped away~
-~Leaving only it's two front claws any purchase to keep climbing~
+~Leaving only its two front claws any purchase to keep climbing~
 *Martha kept moving as she looked down*
 ~They reached the top gear, sliding onto it~
 }
@@ -535,7 +535,7 @@ why is it slipping like that?'
 *She rushed to the center and grabbed the marble*
 ~That's what she was here for - that's the only thing that didn't fit~
 ~Inspecting it she couldn't find anything out of the ordinary with it~
-~Other than it's glow~
+~Other than its glow~
 *She rolled it in her hand and there*
 ~That same kind of symbol~
 ~Different but undulating and twisting the same way as the one in the book~
@@ -565,16 +565,16 @@ why is it slipping like that?'
 "M::We have to go now, how do we get out of here?"
 "NT::$Eovertheedge:"
 *Another lurching threw them both near the creature*
-~Not directly at it: off to it's side~
+~Not directly at it: off to its side~
 *They rolled over the edge and felt gravity shift*
 *They landed on the bear gear - where teeth used to be*
 ~Martha saw themselves reflected in creature's eyes~
 ~It was so close~
-*Both of them rolled back onto the bottom of the gear, almost out of it's reach*
+*Both of them rolled back onto the bottom of the gear, almost out of its reach*
 *It grabbed the Navigator's face - with the cut hand*
 *Acid poured onto him and he let out a silent scream*
 *He kicked at the alien and braced his back against the gear*
-*It's gravity shifted sideways, and the creature narrowly missed Martha*
+*Its gravity shifted sideways, and the creature narrowly missed Martha*
 *She pulled him away*
 ~She heard a screech from across the gear~
 ~A sizzling of metal, she did not look~
@@ -602,8 +602,8 @@ why is it slipping like that?'
 *She looked down*
 "NT::$Edown:"
 *His hand fell limp*
-'M::shit'
-*and she jumped with all her strength*
+'M::Shit'
+*And she jumped with all her strength*
 ~With the Navigator - Kent - in tow~
 *She flew over the edge just as the alien at the center of the gear*
 *She fell - down*
