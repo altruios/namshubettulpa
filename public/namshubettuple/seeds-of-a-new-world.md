@@ -318,6 +318,7 @@ Evil cheats - every chance it gets - it will always gain ground."
 "A::That's not the worst of it.
 This ship is breaking apart because the Link is falling apart.
 Everyone is awaking up, and the dream is ending."
+*The floor vibrated, a loud shearing from some other part of the ship*
 
 
 }
