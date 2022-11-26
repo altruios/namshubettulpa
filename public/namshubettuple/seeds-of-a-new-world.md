@@ -210,29 +210,16 @@ So maybe?'
 mn:M
 }
 {
-`{rough outline:
-    Reference to deal made in interludes 2 with robert glass.
-    Alacira chastises Martha for her actions of waking everyone up. -
-        "You know enough to be dangerous. 
-        Do you know why most people are kept ignorant, asleep? 
-        So they don't do stupid shit like that.
-        Knowledge itself is dangerous. 
-        The powers of creation in the mind of a toddler - that is what you did!
-        You gave everyone a gun glued to their foot - or worse"
-    the dreadnought is attacked
-    Martha does something clever but first order thinking only
-    link to dreadnought wiki page - with a footnote on its destruction
-        
-}`
+`{TODO:Reference to deal made in interludes 2 with robert glass.}`
 ~Martha was greeted to a scene of chaos~
 ~Deckhands of all shapes and sizes, and~
 'M::Is that a fish?'
 ~It was, manning a rope at the side of the ship~
 "A::Gerald, what happened!"
 ~Outside the storm darkened, slowly in patches it was replace with a void~
-*Gerald looked around locating the captain's voice through a walkie-talkie on his hip*
+*Gerald looked around locating the captain's voice through a radio on his hip*
 "G::Come on, she's at the helm"
-*He pressed the button on the walkie-talkie*
+*He pressed the button on the radio*
 "G::I picked up Miss Crisp, and Flanagan was there"
 "A::Did he do this? The link is breaking."
 ~They reached the entrance to the tower in the center~
@@ -304,7 +291,7 @@ Why don't you tell me why you did what you did."
 *She coughed lightly*
 "A::Do you know why most people are kept ignorant, asleep? 
 So they don't do stupid shit like that.
-Knowledge itself is dangerous. 
+Knowledge itself is dangerous.
 Do you think this power is more powerful than a gun?
 The powers of creation in the mind of a toddler - that is what you did!
 You just gave everyone, children, toddler's even apparently in your recklessness, a power more dangerous than a gun.
@@ -315,12 +302,88 @@ You have given every terrible person the power to amplify their vitriol."
 "A::Good people fight fairly - it's what makes them good and why good loses.
 Evil cheats - every chance it gets - it will always gain ground."
 *Alacira sighed and poured herself another drink*
-"A::That's not the worst of it.
-This ship is breaking apart because the Link is falling apart.
-Everyone is awaking up, and the dream is ending."
+"A::This ship is breaking apart because the Link is falling apart.
+Everyone is awaking up, and the dream is ending.
+And that's not the worst of it."
 *The floor vibrated, a loud shearing from some other part of the ship*
-
-
+"A::Shit, come on."
+*Alacira stood up, and walked out into the bridge.
+Martha Followed*
+~She saw beyond the glass a void - encompassing the ship~
+~She saw emptiness for the first time clearly~
+~It wasn't a color, it was the lack  of color, the lack of space~
+"A::Gerald, we have anything?"
+"G::Aye - we can park the ship in the Navigator, most of the crew too."
+"A::How many?"
+"G::Everyone below 0.1/aps"
+*Alacira surveyed the ship through the glass*
+"A::The bubble then, for the rest - we should fit in there"
+*She turned and walked to the elevator in the back*
+*Gerald and Martha followed*
+"G::Flanagan is with Sonny"
+"A::She comes too, how bad is he"
+*The elevator doors opened and they stepped inside*
+"G::Bad"
+"A::The worst part about what you did."
+*Alacira turned to Martha*
+"A::This is what happens to someone experienced who was blindsided.
+His brain was built for this - through years of training.
+It still fried his brain.
+Even with ways to channel that Algera - that was too much - even for him.
+And you gave that to everyone...
+You have erased hopes, memories and dreams and overwrote those precious things with power.
+Power that will be twisted, abused, stolen and consolidated again into something echoing what we had before.
+You haven't made people better by giving them this power - you've just given the chance for new scum to rise to the top."
+"M::He wanted to put all of that into me."
+*Alacira paused*
+"A::That would have killed you"
+*The elevator doors opened*
+~Alacira set the pace between brisk and turbo~
+"A::Regardless - we'll see the..."
+*Alacira stopped*
+"A::Over 0.1... Gerald - what about the waypoints?"
+"G::We're ejecting that part of the ship"
+*Alacira frowned but nodded, then started walking*
+"A::We won't be able to recollect all of those"
+*Gerald pulled out a small mirror as they started walling again*
+~Out on the deck of the ship, before it was bustling: now quiet~
+"G::I snagged this one - it was the last one for her."
+~Martha saw the red haired girl in the bubble next to Flanagan - who was still laying down~
+~She didn't see the spiders~
+*They entered the bubble*
+~Before Martha passed the membrane she heard footsteps behind her~
+*Martha waited halfway in the bubble, and turned around*
+~That fish-man was running toward the bubble raising his arm~
+'M::Is that a watch?'
+*He brushed passed her and into the bubble*
+~It was getting crowded in the bubble~
+~Gerald had taken the seat, and Sonny was over Flanagan in the back~
+~And there were the spiders, above her - clinging to the ceiling~
+~Long strings of web hung down from them - as sonny had fashioned those streams of silk into nets~
+~Large glowing sacks of spider silk were next to Sonny~
+*She scoped out with the net some of the Algera inside Flanagan*
+~The process was like using a bucket on a sinking canoe~
+~Flanagan remained solid - so far as Martha could see~
+~But she saw Sonny push her hands and wave the net deeply inside him~
+*She turned away*
+~The fish-man was showing his watch to Alacira~
+*The fish-man kneeled down next to Gerald, settling in*
+"SM::Count is down to 2."
+*Gerald picked up the radio at his side and replied*
+"G::I have Sonny and Wilbert here."
+"SM::Count's at zero"
+*Gerald pulled down on a lever, and pushed a button*
+*Outside the ship shook*
+*With a horrible metal's cry of cracking - the tower shaped like a wing broke off*
+*It was ripped into the void by some turbulence*
+~It turned to dust - and then to nothing as it passed the outer shield of the ship~
+*Gerald nodded*
+"G::This might be a rough ride everyone, Sonny get us some seat belts"
+*Sonny nodded, looking at the spiders above*
+~A moment later Sonny had passed out small belts of silk with two sticky ends~
+"G::Everyone ready?"
+~They were~
+~Gerald detached the ship - and it too was flung into the void~
 }
 {%%%%}
 {
