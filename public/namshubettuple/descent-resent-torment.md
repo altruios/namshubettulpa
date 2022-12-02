@@ -181,9 +181,9 @@ But that wasn't her that we killed"
 "K::Everything?"
 "F::Everything - every thought - every dream, every conscious action taken in its name"
 ~Kent contemplate that~
-"F::So like: fanatical religious nuts?"
+"K::So like: fanatical religious nuts?"
 *Felix let out a sigh*
-"F::Okay, walk and talk - we need to get back to Flanagan's"
+"F ::Okay, walk and talk - we need to get back to Flanagan's"
 'K::That a bar, or a person?'
 ~Kent kept his question quite~
 "K::First we head back there."

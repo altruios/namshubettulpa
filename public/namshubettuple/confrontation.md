@@ -39,9 +39,9 @@ We'll find some people close to her, put them in our bodies while we get back to
 {%%%%}
 {
 mn:K
-"F::Have you seen this man"
+"F::Look at this for me"
 *Felix twisted the fellow around*
-~He was momentarily offended~
+~Whom was momentarily offended~
 *Felix then placed his phone in their face*
 ~It was the 9th time~
 'K::Keep it cool Kent'
@@ -51,11 +51,13 @@ mn:K
 'K::It was earlier... no, it was yesterday morning'
 'K::How long have I been awake'
 ~Felix was just asking a question, and putting a memory of the thief's face in their brain~
+~A memory extracted from Felix - then encoded into his phone, and finally implanted into another brain~
 ~It wasn't mind control~
 'K::Or so he tells me'
 ~Kent silently fumed~
 'K::I had nothing better, it was this or blind searching'
 *The 10th person pointed down the street*
+'K::brain hacking - is a good word for this'
 *Felix turned to Kent and gestured with his head to hurry up*
 ~It went on like that, about one in ten would have seen him, pointing to where they last saw him go~
 'K::How far can he go, he has a shopping cart'
@@ -84,7 +86,7 @@ I didn't stick no street syringe, that would be crazy"
 "K::Where's your chemist friend?"
 "HM::He's right back there - in the refrigerator boxes"
 *Kent leaned to his right to get a better view around the man*
-~Behind  was a line of homeless, exchanging things at a window in the cardboard~
+~Behind was a line of homeless, exchanging things at a window in the cardboard~
 ~The cardboard structure was several dozen refrigerator-sized (or larger) boxes attached in a row~
 ~The alley was bowed, and from the street looking in: it was near invisible~
 'K::The fuck am I looking at here.'
@@ -135,6 +137,7 @@ Interesting, Then you know what this stuff is?"
 ~A few cardboard boxes tall, a tower supported a desk fan - wet rags attached to the grill~
 'K::Two fans, wait? a ceiling fan?!'
 ~The roof was cardboard~
+'K::How does it support the weight'
 "C::I'mm'a be real with you, first though: if you don't know what this is: where the hell did you get it?"
 *The chemist put it back on the table and swept it between the light and the prism*
 ~The vial's shadow on the rainbow was not an absence of light - but an inversion of the color, a photo-negative~
@@ -171,7 +174,8 @@ Where is the equipment?'
 *The chemist pointed to inverted section of the rainbow*
 "C::You know what color is..."
 "K::Yeah, I've seen trees of green"
-"F::Red roses too"
+*The chemist tilted his head*
+"K::Red roses too"
 ~He added flatly~
 "C::Color happens in our brain.
 The photon never reaches our brain.

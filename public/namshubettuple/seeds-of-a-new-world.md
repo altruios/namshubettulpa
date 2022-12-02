@@ -381,8 +381,10 @@ You haven't made people better by giving them this power - you've just given the
 "G::This might be a rough ride everyone, Sonny get us some seat belts"
 *Sonny nodded, looking at the spiders above*
 ~A moment later Sonny had passed out small belts of silk with two sticky ends~
-"G::Everyone ready?"
-~They were~
+*She petted them as she chittered and clicked at them*
+"A::Everyone ready?"
+~They `were~
+*Alacira nodded to Gerald*
 ~Gerald detached the ship - and it too was flung into the void~
 }
 {%%%%}
