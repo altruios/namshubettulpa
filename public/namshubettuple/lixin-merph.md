@@ -52,7 +52,7 @@ mn:F
 ~The really expensive brand only douches drove~
 ~He always wondered what the appeal was - now was his turn~
 ~He should check that Martha was listening - that she found somewhere safe~
-~He accessed the back of the mind - searching - only to not find her~
+~He accessed the back of the mind, the link - searching - only to not find her~
 *He nodded to himself*
 ~He did not know how she hid from the ping~
 ~But that she was clearly holding back~
@@ -62,8 +62,8 @@ mn:F
 ~He drove aimlessly for a long while~
 ~He watched the fuel plummet on the inefficient vehicle~
 ~He was weaving through traffic just for the fun of it~
-~So far he hadn't caused any traffic~
-~In the rear view mirror - he saw flashing blue lights~
+~So far he hadn't caused any accidents~
+~In the rear view mirror - he saw flashing blue and red lights~
 *He sighed and calmly pulled over*
 ~He waited for the motorcycle cop to knock on his window~
 *He rolled it down*
@@ -72,7 +72,7 @@ mn:F
 *The cop tilted his head - and put his hand on his gun*
 "F::Oh relax - I'm harmless - I've got my license and registration here"
 *He held out his phone for the cop to see*
-*He stiffened slightly - his eye had started twitching*
+*The cop stiffened slightly - his eye had started twitching*
 "F::Who's a good boy?"
 ~The cop didn't answer~
 "F::When I say, who's a good boy, you say: I am, sir, now - who's a good boy?"
@@ -84,7 +84,7 @@ mn:F
 'wait a minute.'
 "F::Come back here."
 *The officer complied, suddenly turning back to him*
-"F::Am I to understand that - when I asked 'who was a good boy', that you couldn't answer because you were not a good boy?"
+"F::Am I to understand that - when I asked 'who was a good boy', that you couldn't answer because you were not in fact a good boy?"
 *The officer responded the moment he understood*
 "P::Yes sir."
 "F::have you been a...
@@ -92,7 +92,7 @@ A bad cop?"
 "P::Yes sir."
 "F::Have you intentionally ruined people's lives?"
 "P::Yes sir."
-'Not going to tolerate that'
+'f::Not going to tolerate that'
 "F::Do you know any other bad cops."
 "P::Yes sir."
 *Felix nodded*
@@ -100,13 +100,15 @@ A bad cop?"
 *The officer pulled out the gun* 
 'bit of a quick draw... good.'
 "F::Now here's the important bit - do you want to be a good cop?"
-*The cop shook his head*
-"P::No sir."
-"F::Too Bad - Now: go and shoot the bad cops.
+*The cop paused*
+~He struggled~
+"P::I want to want to be good."
+"F::We can work with that - Now: go and shoot the bad cops.
 Shoot them in the head. 
 Until they shoot you in the head.
 That'll make you a good cop."
 ~He watched the Officer walk back to his car~
+"F::Oh and be smart about it: get as many as you can."
 ~He even heard some of the radio chatter - an invitation to a donut shop~
 "F::That'll do pig, that'll do."
 }
@@ -115,7 +117,9 @@ That'll make you a good cop."
 ~His stomach growled: he had breakfast, but not second breakfast~
 ~He exited the highway and scanned the streets for somewhere fancy to eat~
 ~Not that there was much around here~
+'F::Nothing but trash food for disgusting people.'
 ~But he would find something~
+~He always did~
 }
 {
 %%%%

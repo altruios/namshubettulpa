@@ -115,37 +115,37 @@ This isn't a virus outbreak..."
 ~And into a city on fire~
 }
 {%%%%
-mn:L
+mn:LX
 }
 {
 ~The Lux was not a human, it was more than the sum of two humans~
 ~It was also the space between~
 ~Syncretic thoughts and ideas unspoken but known in harmony~
 ~There was no Lenny, no Jochek, only Lux~
-~The Lux was in the link~
-~And the link was disconnecting from itself~
+~And the Lux was in the link~
+~Which was disconnecting from itself~
 ~Thoughts and memories, ideas - hopes... were selectively spreading apart~
 ~Growing isolated into compressed islands, surrounded by both a blindingly white light, and what the Lux presumed to be Al-tok~
 ~A gathering mass of void, hardened by some sort of dark despair~
 ~The Lux felt a ripping sensation - from their center~
-'L::We can still get there'
+'LX::We can still get there'
 ~Even the Lux themselves were breaking~
 'J::Lenny would find a way'
 ~The Lux let themselves relax further apart~
-'L::They are spreading apart'
+'LX::They are spreading apart'
 ~The ideas, the dreams...~
 'L::They are coalescing'
 'J::Into people?'
 ~They thought so~
-'L::We need to pick one'
-'LX::Two, and sooner the better'
+'LX::We need to pick one'
+'J::Two, and sooner the better'
 'L::We were close - I think any of these will do'
 ~What was happening to the link and why was also of concern~
 ~But getting out of it was greater~
 ~The islands of thoughts and memories grew distant from each other~
 ~They were unsure if they could span the distance~
 ~Then they were sure they could not~
-"L::We're going to have to split"
+"LX::We're going to have to split"
 ~Jochek was already on it~
 ~The ripping sensation continued down the core of their being~
 *Their hearts separated and filled with Algera*
@@ -160,9 +160,10 @@ mn:L
 "LX::What is happening"
 'L::The link is broken, flooded with Algera - we should get out of here.'
 'J::Well, first we find bodies'
-~The disconnecting was almost complete~
+~The disconnecting link was almost complete~
 ~Their options thinning~
-'L::We just have to use one then, get them close to someone else'
+~Every island of thoughts and ideas isolated from every other island of thoughts and ideas~
+'L::We just have to use one then, get them close to someone else, physical link'
 'J::There'
 ~The Lux saw one of those options, a coach driver a few miles away in a small Romanian town~
 'L::Old, but has horses'
@@ -178,6 +179,11 @@ mn:L
 {
 ~A physical link, a touch to the arm on the first person Lenny saw and a short moment later Jochek joined him~
 ~It was the a portly man that was his fair, who had been slumped over in coach unconscious~
+~Jocheck looked down at their new body~
+"J::could have waited to find someone more fit?"
+*Lenny shrugged*
+"L::These are temporary, I'm not putting any work into this one."
+'LX:: onward to Ada, us two.'
 ~A short time later - after finding everyone around them unconscious, the Lux road in silence toward their destination~
 ~The castle that held many incredibly dangerous things~
 ~Things more frightening than an atomic bomb: secret things~
@@ -193,19 +199,7 @@ So maybe?'
 ~A castle built into the cliff-face, flush and without entrance, at least visibly~
 ~The main entrance was a hatchway that opened up top~
 ~Though a road not on any map, winding along the lip of the ravine, the Lux reached their destination~
-
 }
-
-{
-`{TODO: The lux become the Relux and find itself in romania in others bodies - heisting *the way out*}`
-
-
-`{rough outline:
-    Lovelace is introduced.
-    Background discourse is related to current events of the seizure illness.
-    Lenny and Jochek are in other bodies - join with lovelace are relux again.
-    link to heist wiki page    
-}`}
 {%%%%
 mn:M
 }
@@ -387,17 +381,5 @@ You haven't made people better by giving them this power - you've just given the
 *Alacira nodded to Gerald*
 ~Gerald detached the ship - and it too was flung into the void~
 }
-{%%%%}
-{
-`{TODO: Kent wanders the world in transition - unsure of what he's seeing... someone wakes up and he sees whats what}`
-`{rough outline:
-    kent goes outside, everyone is still
-    in his search for food he wanders by someone who wakes up, they begin acting strangely - talking to people kent can't see
-    kent buys food from the store using a self checkout
-    everyone wakes up - Kent observes them objectively in their own worlds. 
 
-    }`
-}
-{
-`{TODO: wiki pages, 'the great awakening' (disguised as next chapter)}`
-}
+## [the great awakening](the-great-awakening.md)

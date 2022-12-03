@@ -20,5 +20,6 @@
 16. [the-plan](the-plan.md)
 17. [descent-resent-torment](descent-resent-torment.md)
 18. [confrontation](confrontation.md)
+19: [seeds of a new world](seeds-of-a-new-world.md)
 ### [index](index.md)
-date:12/01/22
+date:12/02/22
