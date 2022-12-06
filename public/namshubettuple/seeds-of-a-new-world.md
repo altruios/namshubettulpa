@@ -104,14 +104,15 @@ This isn't a virus outbreak..."
 ~Kent felt like he should have realized that earlier~
 ~Regardless of the adrenaline, his mind was still groggy~
 *He stood up, and walked on*
-~Felix wasn't hard to find, nor the Chemist: they were right next to each other~
-~Had he gone out the room he was in the other way, he would have found them right there around a corner~
+~Felix was nowhere to be found, but the Chemist...~
+~Had he gone out the room he was in the other way, he would have found the Chemist right around a corner~
 ~After a brief inspection he found that both the bed would fit though the door, and was on wheels~
-~It was wide enough for two... with some imagination, and using the guard rails~
+*Kent placed the Chemist on the bed*
+~It was a struggle, the Chemist was small but portly~
 "K::right, vial"
 ~Kent found it rolled next to where the chemist had been - thankfully intact~
 'K::Time to go outside'
-~With Felix and the Chemist in tow, Kent found his way out of the building~
+~With the Chemist in tow, Kent found his way out of the building~
 ~And into a city on fire~
 }
 {%%%%
