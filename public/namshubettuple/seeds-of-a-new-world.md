@@ -365,11 +365,18 @@ You haven't made people better by giving them this power - you've just given the
 ~He had is head turned to the side - so that one of his eyes, was looking at the captain~
 'M::God how awful to not be able to look straight forward'
 *The fish-man kneeled down next to Gerald, settling in*
-"SM::Count is down to 2."
+"SM::Count is down to 3."
 *Gerald picked up the radio at his side and replied*
 "G::I have Sonny and Wilbert here."
-"SM::Count's at zero"
-"AL::right then, gerald?"
+"SM::Count's at one"
+~Martha caught movement at the corner of her eye~
+"NT::$Ewait:"
+~The navigator was running up to them, out of breath~
+*He stepped into the bubble*
+"G::Counts at zero"
+"A::right then, gerald?"
+*Gerald pushed the button on the radio*
+"G::Breaking off the tower now!"
 ~Gerald looked outside at the tower in the center of the ship, and sighed~
 *Gerald pulled down on a lever, and pushed a button*
 *Outside the ship shook*

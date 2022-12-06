@@ -16,6 +16,7 @@ const emoji_map= new (function(){
     this.fallapart='\u{23F2}\u{1F3C3}\u{200D}\u{2642}\u{FE0F}\u{2B07}'
     this.staylow='\u{2699}\u{2B07}'
     this.overtheedge='\u{2699}\u{2935}\u{1FA82}\u{1F4FF}'
+    this.wait='\u{231B}\u{270B}'
 })()
 
 module.exports = emoji_map
