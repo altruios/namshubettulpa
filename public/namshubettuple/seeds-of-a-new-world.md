@@ -362,14 +362,19 @@ You haven't made people better by giving them this power - you've just given the
 ~But she saw Sonny push her hands and wave the net deeply inside him~
 *She turned away*
 ~The fish-man was showing his watch to Alacira~
+~He had is head turned to the side - so that one of his eyes, was looking at the captain~
+'M::God how awful to not be able to look straight forward'
 *The fish-man kneeled down next to Gerald, settling in*
 "SM::Count is down to 2."
 *Gerald picked up the radio at his side and replied*
 "G::I have Sonny and Wilbert here."
 "SM::Count's at zero"
+"AL::right then, gerald?"
+~Gerald looked outside at the tower in the center of the ship, and sighed~
 *Gerald pulled down on a lever, and pushed a button*
 *Outside the ship shook*
-*With a horrible metal's cry of cracking - the tower shaped like a wing broke off*
+~With a horrible metal's cry of shearing - the tower shaped like a wing broke off~
+~The tower floated away lazily until it touched the barrier against the void~
 *It was ripped into the void by some turbulence*
 ~It turned to dust - and then to nothing as it passed the outer shield of the ship~
 *Gerald nodded*
@@ -378,7 +383,7 @@ You haven't made people better by giving them this power - you've just given the
 ~A moment later Sonny had passed out small belts of silk with two sticky ends~
 *She petted them as she chittered and clicked at them*
 "A::Everyone ready?"
-~They `were~
+~They were~
 *Alacira nodded to Gerald*
 ~Gerald detached the ship - and it too was flung into the void~
 }

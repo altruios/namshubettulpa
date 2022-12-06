@@ -1,15 +1,8 @@
 ## the great awakening
 
 {
-`{TODO: Kent wanders the world in transition - unsure of what he's seeing... someone wakes up and he sees whats what}`
-`{rough outline:
-    kent goes outside, everyone is still
-    in his search for food he wanders by someone who wakes up, they begin acting strangely - talking to people kent can't see
-    kent buys food from the store using a self checkout
-    everyone wakes up - Kent observes them objectively in their own worlds. 
 
-    }`
-nm:K
+mn:K
 ~Car alarms blared in the distance, echoing in the still air between buildings~
 ~The smell of smoke filled the air, acrid tire smoke~
 *Kent moved over the unconscious homeless*
@@ -52,7 +45,7 @@ nm:K
 "K::Why aren't you asleep?"
 *Felix took another bite of steak*
 "F::disconnected - as much as one can be: I assume you are as well"
-"K:Disconnected... from?"
+"K::Disconnected... from?"
 "F::The link."
 ~Kent waited~
 'K::The fuck is the link?'
@@ -67,12 +60,12 @@ nm:K
 ~Little locking wheels on a hospital bed were useful~
 'K::At least the Chemist will stay put'
 "K::Who would know?"
-"F::Flanagan, either this his him or that Al-tok thing."
+"F::Flanagan, either this is him or that Al-tok thing."
 ~Kent waited~
 "F::Did Martha tell you anything?"
 *Kent shook his head*
-~Felix caught Kent up to speed~
-"K::So this Al-tok this is an Idea?"
+~Felix sighed and spend the next several minutes catching Kent up to speed~
+"K::So this Al-tok this is an idea?"
 *Felix twisted his hand out noncommittally*
 "F::It isn't human, or a human thought... well, not a natural human thought"
 *Felix held out a syringe*
@@ -129,13 +122,13 @@ Shouldn't we be going?"
 mn:AD
 }
 {
-`{TODO: The lux become the Relux and find itself in romania in others bodies - heisting *the way out*}`
 
 
 `{rough outline:
     Lovelace is introduced.
     Background discourse is related to current events of the seizure illness.
     Lenny and Jochek are in other bodies - join with lovelace are relux again.
+    some sort of obstacle?
     link to heist wiki page    
 }`
 
