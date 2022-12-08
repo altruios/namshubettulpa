@@ -46,7 +46,7 @@ Should you be breathing though a filter?'
 *Kent wandered down the hall*
 ~It reminded him more of a hospital, the floors were linoleum~
 ~But the walls were bare wood - free floating~
-~Unconnected to the hallway walls; And distant fluorescent lines flickered along a dark ceiling~
+~The ceiling unconnected to the hallway walls; And distant fluorescent lines flickered along a dark expanse above~
 ~There were no signs for exits, nothing was 'up to code'~
 ~There were others lying on the ground - all in the same condition~
 ~In the distance he heard a sound~
@@ -144,7 +144,7 @@ mn:LX
 ~What was happening to the link and why was also of concern~
 ~But getting out of it was greater~
 ~The islands of thoughts and memories grew distant from each other~
-~They were unsure if they could span the distance~
+~The lux were unsure if they could span the distance~
 ~Then they were sure they could not~
 "LX::We're going to have to split"
 ~Jochek was already on it~
@@ -160,6 +160,7 @@ mn:LX
 ~Reforming~
 "LX::What is happening"
 'L::The link is broken, flooded with Algera - we should get out of here.'
+~Pressed together, their heats rung dry, dripping Algera into the aether~
 'J::Well, first we find bodies'
 ~The disconnecting link was almost complete~
 ~Their options thinning~
@@ -192,14 +193,14 @@ mn:LX
 'J::Should we use different bodies'
 'L::No, speed - we need to get there now.'
 'J::Think she is alright?'
-'L::She was as disconnected as you can get... 
+'LX::She was as disconnected as you can get... 
 So maybe?'
 ~The Lux drove on in silence~
 ~In the Romanian country side there was a ravine not on any map~
 ~Earth riven in a jagged scar on the scale of legend~
 ~A castle built into the cliff-face, flush and without entrance, at least visibly~
 ~The main entrance was a hatchway that opened up top~
-~Though a road not on any map, winding along the lip of the ravine, the Lux reached their destination~
+~Though an unknown road, winding along the lip of the ravine, the Lux reached their destination~
 }
 {%%%%
 mn:M
@@ -242,12 +243,17 @@ mn:M
 "G::Drain it into where?"
 *The elevator doors closed and Gerald pressed a button*
 "M::It was supposed to be my heart, me, but..."
-"G::That would have killed you, is that what happened to Flanagan?"
+"G::Do you know how much that thing has eaten? 
+That would have... 
+Is that what happened to Flanagan?"
 ~Gerald watched her patiently~
 "M::Him and everyone else, but me"
+"G::Everyone but..."
 ~Gerald moved from comprehension to shock~
 *Gerald examined his hand*
-"G::Not everyone... not me, or anyone out there."
+"G::Not everyone... 
+Not me, or anyone out there.
+The ship is properly encapsulated."
 *Gerald nodded*
 "G::I..."
 *He took a breath*

@@ -106,6 +106,7 @@ Shouldn't we be going?"
 'K::All of them'
 }
 {
+mn:M
 `{TODO: Martha directs them back to the 'real world'}`
 `{rough outline:
     they be in the bubble, al-tok has spread.
@@ -115,6 +116,27 @@ Shouldn't we be going?"
     the fish-man wilbert complains that he can only go outside on halloween
     flanagan admits martha was a sacrifice - to go to or bring a walker to deal with al-tok.
 }`    
+~It was cramped with seven people in the bubble~
+~Martha was holding tightly to the chair in the center~
+~They all were, due to the turbulence~
+~Martha didn't see anything outside the bubble, a blank void~
+~The bubble was shaking, as if unsure of it's position without any other points of reference~
+~A shaky memory, shifting every time it was examined~
+"G::I have some bad news, it's worse than we thought"
+*Gerald pulled a lever up*
+*The ship calmed*
+"G::There's nothing out there, no where to go."
+~A silence fell over them~
+"M::I might have a way."
+~Everyone turned their head to Martha, besides Wilbert, whose eye was already on her~
+*Alacria rowed her hand*
+~A gesture to continue~
+"M::Well, Flanagan did: The way we came into the link, we should be able to get out the same way."
+"G::Martha - when I say there's nothing out there, there is nothing, even if we have a way back we wouldn't be able to get to it right now."
+"NT::$Ewhichway:"
+"M::through me, through that thing in my head"
+*Alacria leaned over and looked at the unconscious Flanagan*
+
 }
 
 {

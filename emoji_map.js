@@ -2,6 +2,7 @@ const emoji_map= new (function(){
     this.shrug='\u{1F937}';
     this.footprints='\u{1F463}'
     this['Right Pointing Backhand Index']='\u{1F449}';
+    this['backhand index pointing left']='\u{1f448}'
     this.follow=`${this.footprints}\u{1F449}`;
     this.eyebrow='\u{1F928}';
     this.redx='\u{274C}'
@@ -17,6 +18,10 @@ const emoji_map= new (function(){
     this.staylow='\u{2699}\u{2B07}'
     this.overtheedge='\u{2699}\u{2935}\u{1FA82}\u{1F4FF}'
     this.wait='\u{231B}\u{270B}'
+    this.compass='\u{1F9ED}'
+    this.shamrock='\u{2618}'
+    this.whichway=`${this["backhand index pointing left"]}${this.compass}${this["Right Pointing Backhand Index"]}`
+    
 })()
 
 module.exports = emoji_map
