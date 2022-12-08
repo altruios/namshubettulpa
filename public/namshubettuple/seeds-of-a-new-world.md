@@ -3,14 +3,20 @@
 mn:K
 }
 {
-~Kent did not dream~
-~He never did~
+~Kent could not remember the last time he had a dream~
+~But today...~
+~He dreamed of a ship: one he vaugly remembered from his childhood, imposing and nonsensical - he knew every detail about it~
+~It was a continuation of a dream he had long ago, he had been here before~
+~He saw the tear across the deck of the ship where the tower used to be~
+~He knew every person - each hiding below deck~
+~And he knew people were missing, but not who~
 *He woke up*
+~He stared up at the ceiling absorbing that dream~
 ~Around him was a heavy silence, what sounded like static in the distance~
 ~He was on a bed~
 'K::Too early, no alarm'
 ~He had his clothes on still - as if someone had just tossed him there~
-~He saw distance fluorescent tubes, and a ceiling of empty darkness~
+~He saw distant fluorescent tubes, and a ceiling of empty darkness~
 *He jolted up from the hospital bed*
 ~The walls around him were particle board, makeshift~
 ~The top of the wall did not reach the ceiling~
@@ -27,7 +33,7 @@ mn:K
 *Kent rushed to the door*
 *He nearly slipped on a hospital gown by the bed*
 ~He found a woman on the floor, having some sort of seizure~
-*Her leg jerked into the door again*
+*Her leg jerked. It banged against the door again*
 *Kent looked both ways down the hallway she was in*
 ~All was silent - but down to the left there was another person on the floor~
 'K::Right, fucking cardboard palace - chemistry... 
@@ -68,7 +74,7 @@ If you are driving, stop driving, turn off your car and lie down.
 Stop what your doing and lie down, we don't-"
 ~The reporter's face twitched violently to the side and they let out what looked like a silent scream~
 *The reporter fell*
-*She was caught by some arms racing in from off camera*
+*They were caught by some arms racing in from off camera*
 ~The screen turned back into the logo~
 "SM::This is a recorded message."
 *The TV continued to loop*
@@ -80,6 +86,7 @@ Stop what your doing and lie down, we don't-"
 *His stomach growled*
 'K::Food soon, should start crawling - maybe carry a pillow'
 ~He wondered if he could find some tape~
+'K:: duck tape and pillows - a perfect helmet'
 ~Then he thought of what he would find outside~
 *Kent kneeled down and started crawling*
 'K::Better safe than sorry'
@@ -95,23 +102,39 @@ Stop what your doing and lie down, we don't-"
 ~He sat there and considered how long he could have been out for~
 ~There were no clocks on the bare wood walls~
 ~He waited, listening: nothing happened for several long minutes~
+~He considered going back to sleep, he was still tired~
+'K::And it seems like you would not be missing much, them being asleep and all'
 'K::Okay... What could be up'
-"K::You got everyone doing a thing besides you... 
-This is just a mass hypnosis thing... 
-Again...
-This isn't a virus outbreak..."
-'K::How much sleep did you actually get?'
-~Kent felt like he should have realized that earlier~
-~Regardless of the adrenaline, his mind was still groggy~
-*He stood up, and walked on*
-~Felix was nowhere to be found, but the Chemist...~
-~Had he gone out the room he was in the other way, he would have found the Chemist right around a corner~
+"K::You got everyone doing this thing except for you..."
+*Kent started crawling back the way he came*
+"K::I didn't see any squigglies on the TV, so if it's that - didn't spread through the TV"
+~Kent considered more~
+'K::Could be a virus, bacteria...'
+*He reached the room he was in, and stopped*
+"K::Back to square one - what do you know?
+I woke up in this room:"
 ~After a brief inspection he found that both the bed would fit though the door, and was on wheels~
-*Kent placed the Chemist on the bed*
+*Kent inspected the woman who was still twitching by that door*
+'K::Her watch!'
+~A mechanical watch with shattered glass, broken from the fall~
+"K::Okay - perfect - how long has it been?"
+~He asked, politely~
+'K::As you do to unconscious people you are asking for information'
+~Across his room was a station for a person, computer and all~
+~Comparing the times between the watch and computer, Kent saw hours had already passed~
+*He sat there, absorbing that*
+"K::Now, million dollar question, am I going to have a seizure like these nice folks?"
+*Kent continued down the hallway, crawling*
+'K::If you fall and break your hip like your grandmother, Kent: I am going to be so mad at you'
+~Felix was nowhere to be found, but the Chemist...~
+~The Chemist was right around the first corner he encountered~
+*Still crawling, Kent dragged and heaved the Chemist to, and then on to the bed*
 ~It was a struggle, the Chemist was small but portly~
 "K::right, vial"
 ~Kent found it rolled next to where the chemist had been - thankfully intact~
 'K::Time to go outside'
+*Kent stood up*
+~Hunching over the bed, keeping it to brace his fall if it should happen~
 ~With the Chemist in tow, Kent found his way out of the building~
 ~And into a city on fire~
 }
@@ -121,8 +144,9 @@ mn:LX
 {
 ~The Lux was not a human, it was more than the sum of two humans~
 ~It was also the space between~
-~Syncretic thoughts and ideas unspoken but known in harmony~
-~There was no Lenny, no Jochek, only Lux~
+~Synchronistic thoughts and ideas unspoken but known in harmony~
+~Merged together: Lenny and Jocheck were but voices in the mind of this new entity~
+~The Lux~
 ~And the Lux was in the link~
 ~Which was disconnecting from itself~
 ~Thoughts and memories, ideas - hopes... were selectively spreading apart~
@@ -149,18 +173,18 @@ mn:LX
 "LX::We're going to have to split"
 ~Jochek was already on it~
 ~The ripping sensation continued down the core of their being~
-*Their hearts separated and filled with Algera*
-~Lenny finally recognized what that white light actually was~
+*Their hearts separated and were immediately filled with Algera*
+~Lenny finally recognized what that white light actually was, he had tasted Algera before~
 *He, along with Jochek, were assaulted by several small infinities*
-*As they traveled instantaneously from end to end a much larger infinity*
+*As they traveled instantaneously from the beginning to end of a much larger infinity*
 ~They did not know how much time this took~
-~The Lux had not fully dissolved~
-~Their hearts apart, the space between grew absent~
+~The Lux had not fully dissolved, and realizing something was wrong:~
 *Their hearts drew together*
 ~Reforming~
 "LX::What is happening"
+~Half of them knew~
 'L::The link is broken, flooded with Algera - we should get out of here.'
-~Pressed together, their heats rung dry, dripping Algera into the aether~
+~Pressed together, their hearts rung dry, dripping Algera into the aether~
 'J::Well, first we find bodies'
 ~The disconnecting link was almost complete~
 ~Their options thinning~
@@ -213,11 +237,13 @@ mn:M
 ~It was, manning a rope at the side of the ship~
 "A::Gerald, what happened!"
 ~Outside the storm darkened, slowly in patches it was replace with a void~
-*Gerald looked around locating the captain's voice through a radio on his hip*
+*Gerald looked around*
+~He located the captain's voice through a radio on his hip~
 "G::Come on, she's at the helm"
 *He pressed the button on the radio*
 "G::I picked up Miss Crisp, and Flanagan was there"
-"A::Did he do this? The link is breaking."
+"A::Did he do this? 
+The link is breaking."
 ~They reached the entrance to the tower in the center~
 *Gerald turned to Martha*
 "G::What exactly was your plan there?"
@@ -229,7 +255,8 @@ mn:M
 ~A short wiry red haired girl in a white coat, Martha guessed she was in her 40's~
 "G::Trouble in the bubble: one unconscious."
 *Sonny nodded and whistled herself*
-~It was a signal to two large spiders, about the same size as her~
+~It was a signal to two large tarantulas, about the same size as her, covered in fur~
+'M::oh fuck - fucking spiders'
 *They crawled out from the room on the side wall and ceiling*
 *Martha instinctively flinched*
 *The spiders followed Sonny, ignoring Martha as they passed*
@@ -274,11 +301,14 @@ You don't."
 *Gerald nodded*
 *Alacira lowered her head*
 ~A look of defeat, yet fighting for the best loss~
-*Alacira turned back to the control panels*
-"A::Plan x everyone.
-Gerald, just get us down anywhere if you can, I'm going to speak to miss Crisp in my quarters"
-*She turned and strolled out of the room, Martha following*
+*Alacira turned back to the control panels, she pressed a button and a red light flashed*
+~Her voice echoed throughout the ship, tinny though the speakers~
+"A::Emergency plan x everyone!"
+*Alacria lifted a covered button and pressed it*
+~Impossible to miss blaring beeps sounded~
 *The people previously at the controls scattered as Gerald took the helm*
+"A::Gerald, just get us down anywhere if you can, I'm going to talk to miss Crisp in my quarters"
+*She turned and strolled out of the room, Martha following*
 ~Behind closed doors, The captain poured herself a drink~
 "A::So... 
 Why don't you tell me why you did what you did."
@@ -304,7 +334,7 @@ You have given every terrible person the power to amplify their vitriol."
 Evil cheats - every chance it gets - it will always gain ground."
 *Alacira sighed and poured herself another drink*
 "A::This ship is breaking apart because the Link is falling apart.
-Everyone is awaking up, and the dream is ending.
+Everyone is waking up, and the dream is ending.
 And that's not the worst of it."
 *The floor vibrated, a loud shearing from some other part of the ship*
 "A::Shit, come on."
@@ -312,7 +342,7 @@ And that's not the worst of it."
 Martha Followed*
 ~She saw beyond the glass a void - encompassing the ship~
 ~She saw emptiness for the first time clearly~
-~It wasn't a color, it was the lack  of color, the lack of space~
+~It wasn't a color, it was the lack of color, the lack of space~
 "A::Gerald, we have anything?"
 "G::Aye - we can park the ship in the Navigator, most of the crew too."
 "A::How many?"
@@ -339,14 +369,14 @@ You haven't made people better by giving them this power - you've just given the
 *Alacira paused*
 "A::That would have killed you"
 *The elevator doors opened*
-~Alacira set the pace between brisk and turbo~
+~Alacira set the pace between brisk and velocious~
 "A::Regardless - we'll see the..."
 *Alacira stopped*
 "A::Over 0.1... Gerald - what about the waypoints?"
 "G::We're ejecting that part of the ship"
 *Alacira frowned but nodded, then started walking*
 "A::We won't be able to recollect all of those"
-*Gerald pulled out a small mirror as they started walling again*
+*Gerald pulled out a small mirror as they started walking again*
 ~Out on the deck of the ship, before it was bustling: now quiet~
 "G::I snagged this one - it was the last one for her."
 ~Martha saw the red haired girl in the bubble next to Flanagan - who was still laying down~
@@ -356,31 +386,36 @@ You haven't made people better by giving them this power - you've just given the
 *Martha waited halfway in the bubble, and turned around*
 ~That fish-man was running toward the bubble raising his arm~
 'M::Is that a watch?'
+~He hand human arms, but a catfish's head: sticking straight up, not angled like a human at all~
 *He brushed passed her and into the bubble*
-~It was getting crowded in the bubble~
+~It was getting crowded in there~
 ~Gerald had taken the seat, and Sonny was over Flanagan in the back~
 ~And there were the spiders, above her - clinging to the ceiling~
 ~Long strings of web hung down from them - as sonny had fashioned those streams of silk into nets~
 ~Large glowing sacks of spider silk were next to Sonny~
-*She scoped out with the net some of the Algera inside Flanagan*
+*She scooped out with the net some of the Algera inside Flanagan*
 ~The process was like using a bucket on a sinking canoe~
 ~Flanagan remained solid - so far as Martha could see~
 ~But she saw Sonny push her hands and wave the net deeply inside him~
 *She turned away*
-~The fish-man was showing his watch to Alacira~
+~The fish-man was showing his watch to Alacira, which was emitting a beep every few moments~
+'M::More like a geiger counter, not a watch.'
 ~He had is head turned to the side - so that one of his eyes, was looking at the captain~
 'M::God how awful to not be able to look straight forward'
 *The fish-man kneeled down next to Gerald, settling in*
-"SM::Count is down to 3."
+"SM::Count is down to three."
 *Gerald picked up the radio at his side and replied*
 "G::I have Sonny and Wilbert here."
+~Wilbert made a gurgling noise: an affirmation, Sonny followed suit with some high pitched chittering~
 "SM::Count's at one"
 ~Martha caught movement at the corner of her eye~
 "NT::$Ewait:"
 ~The navigator was running up to them, out of breath~
+~His face was partially carved out, from where the acid from that alien had splattered him~
+~He had only one eye - he was wearing an eye patch~
 *He stepped into the bubble*
 "G::Counts at zero"
-"A::right then, gerald?"
+"A::right then, Gerald?"
 *Gerald pushed the button on the radio*
 "G::Breaking off the tower now!"
 ~Gerald looked outside at the tower in the center of the ship, and sighed~
