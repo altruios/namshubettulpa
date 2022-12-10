@@ -5,9 +5,9 @@ mn:K
 {
 ~Kent could not remember the last time he had a dream~
 ~But today...~
-~He dreamed of a ship: one he vaugly remembered from his childhood, imposing and nonsensical - he knew every detail about it~
+~He dreamt of a ship: one he vaguely remembered from his childhood, imposing and nonsensical - he knew every detail about it~
 ~It was a continuation of a dream he had long ago, he had been here before~
-~He saw the tear across the deck of the ship where the tower used to be~
+~He saw the tear across the deck of the ship where a tower used to be~
 ~He knew every person - each hiding below deck~
 ~And he knew people were missing, but not who~
 *He woke up*
@@ -152,24 +152,28 @@ mn:LX
 ~Thoughts and memories, ideas - hopes... were selectively spreading apart~
 ~Growing isolated into compressed islands, surrounded by both a blindingly white light, and what the Lux presumed to be Al-tok~
 ~A gathering mass of void, hardened by some sort of dark despair~
+~It was a storm of sorts, a rushing sensation - not wind, but gravity, pelted them from all sides~
+*The Lux steadied themselves*
 ~The Lux felt a ripping sensation - from their center~
 'LX::We can still get there'
-~Even the Lux themselves were breaking~
+~Even the Lux themselves were breaking apart~
+~A zippering sensation down the center of their being~
 'J::Lenny would find a way'
 ~The Lux let themselves relax further apart~
 'LX::They are spreading apart'
-~The ideas, the dreams...~
+~It was like a storm receding in the distance~
+~The ideas, the dreams were funneling away from the Lux~
 'L::They are coalescing'
+'LX::But where?'
 'J::Into people?'
 ~They thought so~
-'LX::We need to pick one'
-'J::Two, and sooner the better'
+'LX::We need to pick one, quickly'
+'J::Two preferably'
 'L::We were close - I think any of these will do'
-~What was happening to the link and why was also of concern~
-~But getting out of it was greater~
 ~The islands of thoughts and memories grew distant from each other~
 ~The lux were unsure if they could span the distance~
-~Then they were sure they could not~
+~Physical distance was not a factor - it was mental distance - each island of thought was unconnected to every other island of thought~
+~The distance grew great enough that they were sure they could not find two islands close enough together~
 "LX::We're going to have to split"
 ~Jochek was already on it~
 ~The ripping sensation continued down the core of their being~
@@ -209,14 +213,14 @@ mn:LX
 "J::could have waited to find someone more fit?"
 *Lenny shrugged*
 "L::These are temporary, I'm not putting any work into this one."
-'LX:: onward to Ada, us two.'
+'LX::Onward to Ada, us two.'
 ~A short time later - after finding everyone around them unconscious, the Lux road in silence toward their destination~
 ~The castle that held many incredibly dangerous things~
 ~Things more frightening than an atomic bomb: secret things~
 ~Almost chief among them was The Way Out~
 'J::Should we use different bodies'
-'L::No, speed - we need to get there now.'
-'J::Think she is alright?'
+'LX::No, speed - we need to get there now.'
+'L::Think she is alright?'
 'LX::She was as disconnected as you can get... 
 So maybe?'
 ~The Lux drove on in silence~
@@ -241,7 +245,7 @@ mn:M
 ~He located the captain's voice through a radio on his hip~
 "G::Come on, she's at the helm"
 *He pressed the button on the radio*
-"G::I picked up Miss Crisp, and Flanagan was there"
+"G::I picked up Miss Crisp, and Flanagan was there."
 "A::Did he do this? 
 The link is breaking."
 ~They reached the entrance to the tower in the center~
@@ -295,6 +299,7 @@ You don't."
 ~The crew were a rhythmic hum of activity~
 ~Coordinated, choreographed~
 ~In front were several large windows revealing a shrinking storm~
+~And a growing void~
 "G::So..."
 ~Gerald explained what happened to the captain~
 "A::Are we sure that's what happened?"
@@ -358,7 +363,7 @@ Martha Followed*
 "A::The worst part about what you did."
 *Alacira turned to Martha*
 "A::This is what happens to someone experienced who was blindsided.
-His brain was built for this - through years of training.
+He was built for this - through years of training.
 It still fried his brain.
 Even with ways to channel that Algera - that was too much - even for him.
 And you gave that to everyone...
