@@ -59,7 +59,7 @@ async function transform_to_md(cwd,callback){
         })
         const script_bypass={data:""}
         const script = data.match(/<script[^>]*>[\s\S]*?<\/script>/gim)
-        script_bypass.data=script[0]||""
+        script_bypass.data=script?script[0]:"";``
         data=data.replaceAll(script,"");
         const blocks =mdx_parser(data)
         if(blocks){

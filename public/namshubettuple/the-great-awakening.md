@@ -205,8 +205,8 @@ mn:AD
 'AD::quick peek, then get out of here'
 *She walked to and opened the door*
 ~Beyond the door was a dark empty space - and in the center a flashing cursor~
-`PW:<input id='input' style="background-color:inherit;color:green;border:none"></input><div id="key" max-height="10vh" overflow-x="scroll"></div>`
 "AD::Password -well, of course"
+`PW:<input id='input' style="background-color:inherit;color:green;border:none"></input><div id="key" max-height="10vh" overflow-x="scroll"></div>`
 
 
 
@@ -267,7 +267,7 @@ const errorscreen = (key)=>{
                     child.remove()
                 }
 
-                const text8 ="Face has been saved"
+                const text8 ="identity validated"
                 const text9 = "Just a reminder: don't die too often"
                 const text10 = "admin_rights_granted:"
                 const input = document.createElement("input");
@@ -285,6 +285,8 @@ const errorscreen = (key)=>{
         screen.remove()
     },3000)
 }
+let accessed2=false
+let attempts=0;
 input.addEventListener("keydown", (event)=>{
     if(event.key === "Enter"&&accessed==false){
         if(input.value == pw){
@@ -297,25 +299,31 @@ input.addEventListener("keydown", (event)=>{
             const text4 = "downloading ..."
             const text5 = "updating..."
             const text6 = "/facial mismatch.sh"
-            const make_button_row=(text)=>{
-                const spacer = document.createElement("text")
-                spacer.innerText=" | "
-                const b1 = document.createElement("button");
-                b1.innerText = "update";
-                b1.addEventListener("click",()=>errorscreen(key));
-                const b2 = b1.cloneNode(true);
-                b2.addEventListener("click",()=>errorscreen(key));
-                const b3 = b1.cloneNode(true);
-                b3.addEventListener("click",()=>errorscreen(key));
-                text.append(b1)
-                text.appendChild(spacer);
-                text.append(b2)
-                text.appendChild(spacer);
-                text.append(b3)
-                text.appendChild(spacer);
+            const make_input_row=(div)=>{
+                const text = document.createElement("text");
+                text.textContent="$:"
+                const input = document.createElement("input")
+                input.style.backgroundColor='inherit'
+                input.style.boarder='none';
+                input.style.color="green";
+                div.appendChild(text)
+                div.appendChild(input)
+                input.addEventListener('keydown',(event)=>{
+                    if(event.key == "Enter"&&accessed2==false){
+                        if(input.value==pw&&attempts<2){
+                            accessed2=true;
+                            console.log("success")
+                        }else if(attempts<2){
+                            errorscreen(key);
+                        }else{
+                            console.log("lock out")
+                        }
+                    }
+                })
+
             }
             const text7 = document.createElement("div")
-            make_button_row(text7);
+            make_input_row(text7);
             const note = document.createElement("text")
             note.textContent="\n// make this next part interactive with the style of the page itself"
             const text = "chose wisely"
