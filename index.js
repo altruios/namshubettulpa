@@ -7,12 +7,8 @@ const {readFile, readFileSync } = require('fs')
 var os = require('os');
 var qrcode = require('qrcode-terminal');
 var networkInterfaces = os.networkInterfaces();
-const _mdx = require("./mdx_parser");
 const MDXP = require("./mdxparser2");
-console.log(MDXP,"is pulled");
 const parser = new MDXP();
-//const mdx_parser=_mdx.mdx_parser;
-//const transform_to_md=_mdx.transform_to_md;
 
 //console.log(mdx_parser,"is parser")
 const BASE_DIR = path.join(__dirname, 'public');;
@@ -28,8 +24,8 @@ app.get("/*",(req,res)=>{
     const image_types = [".png",".jpg",".gif","favicon.ico"]
     const is_image = (image_types.some(it=>file_request.includes(it)))
     if(is_image){
-        const rs = path.join(BASE_DIR,req.params[0]);
-        
+        const rs = path.join(BASE_DIR,req.params[0]); 
+        console.log("is image");
         res.send(readFileSync(rs));
         return
     }
@@ -37,7 +33,19 @@ app.get("/*",(req,res)=>{
     cwd = is_md_file?  path.join(BASE_DIR,req.params[0]) :
                         path.join(BASE_DIR,req.params[0],"index.md");
     
-    parser.parse(cwd,(err,r)=>err?res.send(err):res.send(r))
+    readFile(cwd,"utf-8",(err,text)=>{
+        if(text==undefined||err){
+            console.log("hit error")
+            res.send("<h1>there is no file here</h1>",null);
+            return;
+        }
+        console.log("parsing")
+        console.log("cwd:",cwd)
+        const rval = parser.parse(cwd,text);
+        console.log("past parsing");
+        res.send(rval);
+    
+    });
 })
 
 app.listen(port, () => {
