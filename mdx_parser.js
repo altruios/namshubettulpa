@@ -9,7 +9,7 @@ const mdx_parser=(text)=>{
     for(let i=0;i<blocks.length;i++){
         blockstr+=mdx_block_parser(blocks[i],defaultnarrator)
     }
-    blockstr+="</block>"
+    blockstr+="</block>";
     return blockstr;
 }
 const get_mdx_data=(text)=>{
@@ -75,16 +75,29 @@ const mdx_block_parser = (block,dfn)=>{
         dfn.current=current;
         settings=current;
     }
-    const pw = ref.match(/\`([^`]*)\`/gm)||[];
+
+
+//escaped sequences
+
+
+
+
+
+//main story
+    const pw = ref.match(/\\{0}\`([^`]*)\`/gm)||[];
     pw.forEach(r=>ref=ref.replace(r,""))
-    const aw = ref.match(/\*([^*]*)\*/gm)||[];
+    const aw = ref.match(/\\{0}\*([^*]*)\*/gm)||[];
     aw.forEach(r=>ref=ref.replace(r,""))
-    const dw = ref.match(/\~([^~]*)\~/gm)||[];
+    const dw = ref.match(/\\{0}\~([^~]*)\~/gm)||[];
     dw.forEach(r=>ref=ref.replace(r,""))
-    const sw = ref.match(/\"([^"]*)\"/gm)||[];
+    const sw = ref.match(/\\{0}\"([^"]*)\"/gm)||[];
     sw.forEach(r=>ref=ref.replace(r,""))
-    const tw = ref.match(/\'([^']*)\'/gm)||[];
+    const tw = ref.match(/\\{0}\'([^']*)\'/gm)||[];
     tw.forEach(r=>ref=ref.replace(r,""));
+
+
+
+
     const scp=(txt,internal_data_flag)=>{
         //console.log(txt,"is raw text")
         const text_div =(txt,mainNB,speaker,colors)=> `
@@ -197,6 +210,7 @@ const mdx_block_parser = (block,dfn)=>{
             console.log(fl,links[i],"replaceing")
             obj.t=obj.t.replaceAll(fl,links[i])
         })
+
 
         return obj;
     })

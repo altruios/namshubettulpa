@@ -205,10 +205,125 @@ mn:AD
 'AD::quick peek, then get out of here'
 *She walked to and opened the door*
 ~Beyond the door was a dark empty space - and in the center a flashing cursor~
-`PW:<input style="background-color:inherit;color:green;border:none"></input>`
-
+`PW:<input id='input' style="background-color:inherit;color:green;border:none"></input><div id="key" max-height="10vh" overflow-x="scroll"></div>`
 "AD::Password -well, of course"
 
 
 
 }
+
+<script>
+const pw = 12345
+let accessed = false;
+console.log(pw);
+
+const input = document.getElementById("input")
+const key = document.getElementById("key")
+const time = 224
+const make_text_line = (key,text) =>{
+        if(typeof text == "string"){
+        const div = document.createElement("text")
+        div.textContent=text+"\n";
+        key.appendChild(div)
+        }else{
+            const div = document.createElement("text");
+            div.textContent="\n";
+            key.appendChild(text);
+            key.appendChild(div);
+        }
+        console.log(time,"waiting should be that long")
+    
+}
+const render_texts=async(key,texts)=>{
+        for(let i=0;i<texts.length;i++){
+            const t = texts[i];
+            setTimeout(make_text_line,time*i,key,t);
+
+            }
+    
+}
+const errorscreen = (key)=>{
+    console.log("errorscreen")
+    const screen = document.createElement("div");
+    screen.innerText="\n\n\n\n\n\n\n\nYOU CHOSE POORLY: ONE MORE GO\n\n\n\n\n\n\n\n"
+    screen.style.minHeight="100vh !important"
+    screen.style.width="100vw !important"
+    screen.style.position=""
+    screen.style.zIndex="100"
+    screen.style.backgroundColor="red"
+    const originalKey = key.cloneNode(true);
+    for (const child of Array.from(key.children)){
+        child.remove();
+    }
+    key.appendChild(screen)
+    setTimeout(()=>{
+        for(const child of Array.from(originalKey.children)){
+            key.append(child);
+        }
+        for(const button of Array.from(document.querySelectorAll("button"))){
+            button.addEventListener("click",()=>{
+                console.log("to do add next step here")
+                for(const child of Array.from(key.children)){
+                    child.remove()
+                }
+
+                const text8 ="Face has been saved"
+                const text9 = "Just a reminder: don't die too often"
+                const text10 = "admin_rights_granted:"
+                const input = document.createElement("input");
+                input.style.backgroundColor="inherit";
+                input.style.color="green"
+                input.style.border="none"
+                const input_text_div = document.createElement("text");
+                input_text_div.textContent = "$: ";
+                input_text_div.appendChild(input);
+                const next_texts=[text8,text9,text10,input_text_div];
+                render_texts(key,next_texts);
+            })
+        }
+
+        screen.remove()
+    },3000)
+}
+input.addEventListener("keydown", (event)=>{
+    if(event.key === "Enter"&&accessed==false){
+        if(input.value == pw){
+            accessed=true
+            input.remove()
+            const text0 = "..."
+            const text1 = "/"
+            const text2 = "/home/"
+            const text3 = "/home/sovereign/"
+            const text4 = "downloading ..."
+            const text5 = "updating..."
+            const text6 = "/facial mismatch.sh"
+            const make_button_row=(text)=>{
+                const spacer = document.createElement("text")
+                spacer.innerText=" | "
+                const b1 = document.createElement("button");
+                b1.innerText = "update";
+                b1.addEventListener("click",()=>errorscreen(key));
+                const b2 = b1.cloneNode(true);
+                b2.addEventListener("click",()=>errorscreen(key));
+                const b3 = b1.cloneNode(true);
+                b3.addEventListener("click",()=>errorscreen(key));
+                text.append(b1)
+                text.appendChild(spacer);
+                text.append(b2)
+                text.appendChild(spacer);
+                text.append(b3)
+                text.appendChild(spacer);
+            }
+            const text7 = document.createElement("div")
+            make_button_row(text7);
+            const note = document.createElement("text")
+            note.textContent="\n// make this next part interactive with the style of the page itself"
+            const text = "chose wisely"
+            const texts = [text0,text1,text2,text3,text4,text5,text6,text7,text,note]
+            render_texts(key, texts);
+
+            }
+        }
+    });
+</script>
+

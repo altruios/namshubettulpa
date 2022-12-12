@@ -57,6 +57,10 @@ async function transform_to_md(cwd,callback){
             const replace = `<img src="${url}" alt="${altText}" style="${style}"/>`
             data=data.replace(img,replace)
         })
+        const script_bypass={data:""}
+        const script = data.match(/<script[^>]*>[\s\S]*?<\/script>/gim)
+        script_bypass.data=script[0]||""
+        data=data.replaceAll(script,"");
         const blocks =mdx_parser(data)
         if(blocks){
 
@@ -103,8 +107,10 @@ async function transform_to_md(cwd,callback){
             100% {
               visibility: visible;
             }
-          }</style><body style="background-color:${bg_colors[4]}; ${blocks? `font-size:3vh;display:flex;flex-flow:column nowrap;"`:''} >${data}</body></html>`
+          }</style><body style="background-color:${bg_colors[4]}; ${blocks? `font-size:3vh;display:flex;flex-flow:column nowrap;"`:''} >${data}</body>${script_bypass.data}</html>`
         data=data.replace(/([\<][\p][\>][\<][\/][\p][\>])/gm, "")
+        console.log(data)
+        console.log()
         callback(null,data);
     })        
 }
