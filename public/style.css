@@ -18,3 +18,19 @@
     background-color: #15ff00;
 
 }
+.cursor {
+    animation: 2s linear infinite b;
+  }
+  
+  @keyframes b {
+    0% {
+      visibility: hidden;
+    }
+    50% {
+      visibility: hidden;
+    }
+    100% {
+      visibility: visible;
+    }
+  }
+  

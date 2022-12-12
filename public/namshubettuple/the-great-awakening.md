@@ -153,6 +153,62 @@ mn:AD
     some sort of obstacle?
     link to heist wiki page    
 }`
+~Ada walked through the halls~
+'AD::What a golden opportunity'
+~If she wanted she could peruse the library of mnemonic info-hazards~
+~It was to her left as she walked down the hall~
+~Her heels clacked on the red marble floor and echoed down an otherwise eerie silence~
+~Above hung a sign, not of wood, but of fact~
+*Dangerous!*
+'AD::dangerous for a reason'
+~The door had been left opened~
+'AD::As long as I use the right filters'
+*She looked in*
+'AD::Naked facts hanging everywhere'
+~Facts dangerous to understand, facts that could destroy minds~
+~But with the right filters of perception - looked at from only a particular viewpoint - they were safe to consume~
+*She continued on*
+~Part of her wanted to know - things other's have tried to understand only to have been brought to madness~
+~But she walked on, content in her brief encounter~
+'AD::At least I get to enjoy this silence'
+*She stepped over an body*
+~Which occasionally spasmed~
+~They all were: as far as she could tell at least~
+'AD::which way...'
+~To the vault of infectious memes~
+'AD::The vocal fry bitch voice got out a few decades ago'
+~It had been used as a tool to make someone who was aware (but not awakened) very rich~
+'AD::If I cared about making money, or if any of my friends did'
+~No, she decided - up the stairs~
+'AD::onwards to the prize'
+~The stairs were majestic, made of the same red tile~
+*She climbed them*
+~Upstairs was the sovereign's personal development environment~
+~Even most people at the gathering didn't know about this room~
+'AD::hell, most people who did know about this chose to forget'
+~Not her though, she had to know, this and more~
+*She entered a room*
+~A bedroom - the bed was surrounded by a lake of water lined with mirror~
+~And another door: behind which was the most dangerous place in this reality~
+~As it edited this reality~
+~The truth she knew and chose to remember was that this reality was just a dream in the link~
+~A dream made solid by everyone's participation~
+~That there was nothing but the link~
+~That 'objective' reality was only a narrow part of the link~
+~And that narrow part kept minds bound to it~
+~And that room would edit not just that... but the link entire~
+~So of course she had to at least look inside~
+~She had to know~
+~She heard footsteps from below~
+"L::Hello!"
+~The voice of a gruff carriage driver, one she didn't recognized~
+'AD::quick peek, then get out of here'
+*She walked to and opened the door*
+~Beyond the door was a dark empty space - and in the center a flashing cursor~
+`PW:<input style="background-color:inherit;color:green;border:none"></input>`
+
+"AD::Password -well, of course"
+
 
 
 }

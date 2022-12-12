@@ -87,7 +87,23 @@ async function transform_to_md(cwd,callback){
                 }
             })
         }
-        data=`<html><meta charset="UTF-8"><body style="background-color:${bg_colors[4]}; ${blocks? `font-size:3vh;display:flex;flex-flow:column nowrap;"`:''} >${data}</body></html>`
+        data=`<html><meta charset="UTF-8"><style>
+
+        .cursor {
+            animation: 2s linear infinite b;
+          }
+          
+          @keyframes b {
+            0% {
+              visibility: hidden;
+            }
+            50% {
+              visibility: hidden;
+            }
+            100% {
+              visibility: visible;
+            }
+          }</style><body style="background-color:${bg_colors[4]}; ${blocks? `font-size:3vh;display:flex;flex-flow:column nowrap;"`:''} >${data}</body></html>`
         data=data.replace(/([\<][\p][\>][\<][\/][\p][\>])/gm, "")
         callback(null,data);
     })        
