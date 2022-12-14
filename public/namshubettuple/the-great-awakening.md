@@ -136,7 +136,13 @@ mn:M
 "NT::$Ewhichway:"
 "M::through me, through that thing in my head"
 *Alacria leaned over and looked at the unconscious Flanagan*
+`TODO:martha goes out in the link - they find a way back - it is more difficult this time going though the thing in her head,
+she realizes if Rossin was compliant then he knew it would kill her, but maybe not him - she thinks - she was a pawn`
 
+`{TODO:for when they get out - Gerald gives a 'thar be dragons speech'}`
+`{premise: thoughts themselves can be dangerous. 
+examining too closely a thing can cause a thought to fractal - which each fact having a counter fact having a counter fact. 
+this shape of thinking is sharp - and grows sharper the more you think about it - and cuts deep between things:}`
 }
 
 {
@@ -144,29 +150,32 @@ mn:M
 mn:AD
 }
 {
-
-
-`{rough outline:
-    Lovelace is introduced.
-    Background discourse is related to current events of the seizure illness.
-    Lenny and Jochek are in other bodies - join with lovelace are relux again.
-    some sort of obstacle?
-    link to heist wiki page    
-}`
 ~Ada walked through the halls~
+~The palace she was in, underground the Romanian countryside, had a particular quality:~
+~Everyone saw their own version of it~
+~Were the walls red, or green, or plum?~
+~There were details rendered individually by the brains that saw it~
+`
+[looser details](looser-details-fit-more-brains.md)`
+~Though many details were indeterminate there were some commonalities~
+~The floor was shades of copper, steel, iron, coal, tiled in a  [dragon curve](https://en.wikipedia.org/wiki/Dragon_curve), for one~
+~And rooms were all the same... 
+Well: mostly~
 'AD::What a golden opportunity'
-~If she wanted she could peruse the library of mnemonic info-hazards~
+~If she wanted she could peruse the library of  [memetic info-hazards](https://en.wikipedia.org/wiki/Information_hazard)~
 ~It was to her left as she walked down the hall~
-~Her heels clacked on the red marble floor and echoed down an otherwise eerie silence~
-~Above hung a sign, not of wood, but of fact~
+~Her heels clacked on the floor and echoed down an otherwise eerie silence~
+~Above hung a sign, not of wood, or iron, as most chose to see it, but of fact~
 *Dangerous!*
 'AD::dangerous for a reason'
 ~The door had been left opened~
 'AD::As long as I use the right filters'
 *She looked in*
-'AD::Naked facts hanging everywhere'
+*Naked facts hang everywhere*
 ~Facts dangerous to understand, facts that could destroy minds~
 ~But with the right filters of perception - looked at from only a particular viewpoint - they were safe to consume~
+'AD::Well... 
+Safe-ish'
 *She continued on*
 ~Part of her wanted to know - things other's have tried to understand only to have been brought to madness~
 ~But she walked on, content in her brief encounter~
@@ -181,7 +190,6 @@ mn:AD
 'AD::If I cared about making money, or if any of my friends did'
 ~No, she decided - up the stairs~
 'AD::onwards to the prize'
-~The stairs were majestic, made of the same red tile~
 *She climbed them*
 ~Upstairs was the sovereign's personal development environment~
 ~Even most people at the gathering didn't know about this room~
@@ -206,132 +214,56 @@ mn:AD
 *She walked to and opened the door*
 ~Beyond the door was a dark empty space - and in the center a flashing cursor~
 "AD::Password -well, of course"
-`PW:<input id='input' style="background-color:inherit;color:green;border:none"></input><div id="key" max-height="10vh" overflow-x="scroll"></div>`
-
-
-
+`<div id="key" max-height="10vh" overflow-x="scroll"></div>`
+~She heard footsteps on the stairs, more than one~
+'AD::Time to go'
+"J::Ada - are you awake?"
+~A voice that sounded like guitars broken in glass and tar~
+`
+ -relux  [sampoa](sampoa.md).verify(~Self~) 
+`
+~Ada paused, a particular link formed  from a command line interface...~
+`true`
+~It was for emergencies - she kept enabled despite being told to server all open connections~
+~That was near impossible, to server all ties to the links~
+~But besides that one she had gotten close~
+*She closed the doors, and left the room*
+~Out in the hallway stood two people, old and frail and lumpy~
+"J::Awake, I win. 
+Come on darling - much to catch up"
+"L::We got to get The Way Out: and get out of here - sooner the better"
+*Ada walked toward them*
+"AD::Is the link safe?"
+~Jochek and Lenny shook their heads~
+*Jochek embraced her, and Lenny shortly after*
+~It was an hour's ride and ditching the carriage and riding horse back was physically demanding~
+~Particularly on bodies not accustom to it - they were in need of a bath~
+~Still: Ada embraced them back~
+"J::Physical link is fine."
+~And shorter than a heartbeat later Ada was one of three~
+~She felt the loss of self, to bring something greater into being~
+}
+{
+mn:RX
+}
+{
+'AD::The Way Out is downstairs. 
+what gives with the unconscious?'
+*Footsteps fell on the stairs behind them*
+~Understanding flooded Ada - sharing a mind, sharing memories with the others she was both herself and not herself~
+~She was part of the  [egregore](egregore.md)  the Relux~
+'RX::Someone is awake'
+'L::All of them'
+~Lenny had been furthest back towards the stairs. He kept watch: hearing multiple sets of feet below~
+'RX::Hiding would be prudent'
+*Ada led them towards a door across the hall*
+~It led to a library for old dusty books~
+~shelves lined the wall extending into the ceiling~
+*Lenny locked the door*
+~They took a moment to rejoice: in their reunion ; their being one again~
+~A moment cut short by banging on the door~
 }
 
-<script>
-const pw = 12345
-let accessed = false;
-console.log(pw);
+## [consequences](consequences.mp)
 
-const input = document.getElementById("input")
-const key = document.getElementById("key")
-const time = 224
-const make_text_line = (key,text) =>{
-        if(typeof text == "string"){
-        const div = document.createElement("text")
-        div.textContent=text+"\n";
-        key.appendChild(div)
-        }else{
-            const div = document.createElement("text");
-            div.textContent="\n";
-            key.appendChild(text);
-            key.appendChild(div);
-        }
-        console.log(time,"waiting should be that long")
-    
-}
-const render_texts=async(key,texts)=>{
-        for(let i=0;i<texts.length;i++){
-            const t = texts[i];
-            setTimeout(make_text_line,time*i,key,t);
-
-            }
-    
-}
-const errorscreen = (key)=>{
-    console.log("errorscreen")
-    const screen = document.createElement("div");
-    screen.innerText="\n\n\n\n\n\n\n\nYOU CHOSE POORLY: ONE MORE GO\n\n\n\n\n\n\n\n"
-    screen.style.minHeight="100vh !important"
-    screen.style.width="100vw !important"
-    screen.style.position=""
-    screen.style.zIndex="100"
-    screen.style.backgroundColor="red"
-    const originalKey = key.cloneNode(true);
-    for (const child of Array.from(key.children)){
-        child.remove();
-    }
-    key.appendChild(screen)
-    setTimeout(()=>{
-        for(const child of Array.from(originalKey.children)){
-            key.append(child);
-        }
-        for(const button of Array.from(document.querySelectorAll("button"))){
-            button.addEventListener("click",()=>{
-                console.log("to do add next step here")
-                for(const child of Array.from(key.children)){
-                    child.remove()
-                }
-
-                const text8 ="identity validated"
-                const text9 = "Just a reminder: don't die too often"
-                const text10 = "admin_rights_granted:"
-                const input = document.createElement("input");
-                input.style.backgroundColor="inherit";
-                input.style.color="green"
-                input.style.border="none"
-                const input_text_div = document.createElement("text");
-                input_text_div.textContent = "$: ";
-                input_text_div.appendChild(input);
-                const next_texts=[text8,text9,text10,input_text_div];
-                render_texts(key,next_texts);
-            })
-        }
-
-        screen.remove()
-    },3000)
-}
-let accessed2=false
-let attempts=0;
-input.addEventListener("keydown", (event)=>{
-    if(event.key === "Enter"&&accessed==false){
-        if(input.value == pw){
-            accessed=true
-            input.remove()
-            const text0 = "..."
-            const text1 = "/"
-            const text2 = "/home/"
-            const text3 = "/home/sovereign/"
-            const text4 = "downloading ..."
-            const text5 = "updating..."
-            const text6 = "/facial mismatch.sh"
-            const make_input_row=(div)=>{
-                const text = document.createElement("text");
-                text.textContent="$:"
-                const input = document.createElement("input")
-                input.style.backgroundColor='inherit'
-                input.style.boarder='none';
-                input.style.color="green";
-                div.appendChild(text)
-                div.appendChild(input)
-                input.addEventListener('keydown',(event)=>{
-                    if(event.key == "Enter"&&accessed2==false){
-                        if(input.value==pw&&attempts<2){
-                            accessed2=true;
-                            console.log("success")
-                        }else if(attempts<2){
-                            errorscreen(key);
-                        }else{
-                            console.log("lock out")
-                        }
-                    }
-                })
-
-            }
-            const text7 = document.createElement("div")
-            make_input_row(text7);
-            const note = document.createElement("text")
-            note.textContent="\n// make this next part interactive with the style of the page itself"
-            const text = "chose wisely"
-            const texts = [text0,text1,text2,text3,text4,text5,text6,text7,text,note]
-            render_texts(key, texts);
-
-            }
-        }
-    });
-</script>
-
+<script src="./great-awakening-terminal.js"></script>

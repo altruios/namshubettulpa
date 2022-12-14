@@ -26,6 +26,7 @@ const speaker_map={
     RG:"Robert Glass",
     RO:"Officer Rogers",
     RP:"Reporter",
+    RX:"The Relux",
     S:"Students",
     SO:"Sonny Seraphim",
     SM:"Male Voice",

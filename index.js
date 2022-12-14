@@ -23,6 +23,7 @@ async function transform_to_md(cwd,callback){
     var re3 = /\{(.*?)\}/g
     return  readFile(cwd,"utf-8",(err,data)=>{
         if(data==undefined||err){
+            console.log("got this - ",data,err,cwd);
             callback("<h1>there is no file here</h1>",null);
             return;
         }
@@ -91,7 +92,10 @@ async function transform_to_md(cwd,callback){
                 }
             })
         }
-        data=`<html><meta charset="UTF-8"><style>
+        data=`<html><meta charset="UTF-8"><meta
+        name="viewport"
+        content="width=device-width, initial-scale=1, maximum-scale=1"
+      /><style>
 
         .cursor {
             animation: 2s linear infinite b;
@@ -109,8 +113,6 @@ async function transform_to_md(cwd,callback){
             }
           }</style><body style="background-color:${bg_colors[4]}; ${blocks? `font-size:3vh;display:flex;flex-flow:column nowrap;"`:''} >${data}</body>${script_bypass.data}</html>`
         data=data.replace(/([\<][\p][\>][\<][\/][\p][\>])/gm, "")
-        console.log(data)
-        console.log()
         callback(null,data);
     })        
 }
@@ -121,15 +123,18 @@ app.get("/*",(req,res)=>{
 
     const image_types = [".png",".jpg",".gif","favicon.ico"]
     const is_image = (image_types.some(it=>file_request.includes(it)))
-    if(is_image){
+
+    const code_types=['.cpp','.js','.ts','.c','.go']
+    const is_code = (code_types.some(it=>file_request.includes(it)))
+    if(is_image||is_code){
         const rs = path.join(BASE_DIR,req.params[0]);
         
         res.send(readFileSync(rs));
         return
     }
-
-    cwd = is_md_file?  path.join(BASE_DIR,req.params[0]) :
-                        path.join(BASE_DIR,req.params[0],"index.md");
+    cwd = is_md_file?  path.join(BASE_DIR,req.params[0]) : //pass straight thorough
+                        path.join(BASE_DIR,req.params[0],"index.md"); //add index if no file extension found
+    
     transform_to_md(cwd,(err,r)=>err?res.send(err):res.send(r))
 })
 
