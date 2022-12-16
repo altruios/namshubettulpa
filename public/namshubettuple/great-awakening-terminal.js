@@ -1,12 +1,69 @@
 //not finished - once the mdx parser is upgrade and everything is using a class properly - this can target the page accurately - and interface with the parser directly
 let last_screen=[];
 const screen = document.getElementById("key")
-
+screen.style.display="block";
+const do_to_co=(val,o_r,n_r)=>(val - o_r[0]) * (n_r[1] - n_r[0]) / (o_r[1] - o_r[0]) + n_r[0]
+const pad = (st,n,pd)=>{
+    while(st.length<n){
+        st=pd+st
+    }
+    return st
+}
 const wait_time=248;
 const History = (node)=>{
     //make an array of nodes , removed from the DOM with eventlisteners preserved
     return Array.from(node.children).map(child=>child.parentElement.removeChild(child));
 }
+class state{
+    constructor(){
+        this.state={
+            color:{
+            speech:{fg:"#000000",bg:"#FFFFFF"},
+        
+            thought:{fg:"#000000",bg:"#FFFFFF"},
+
+            description:{fg:"#000000",bg:"#FFFFFF"},
+
+            action:{fg:"#000000",bg:"#FFFFFF"},
+
+            code:{fg:"#000000",bg:"#FFFFFF"},
+            },
+            size:{
+                speech:{text:"5",space:"70vh"},
+           
+                thought:{text:"5",space:"70vh"},
+           
+                description:{text:"5",space:"70vh"},
+           
+                action:{text:"5",space:"70vh"},
+           
+                code:{text:"5",space:"70vh"},
+            }
+        }
+    }
+
+    update_parser_state(typeflag,accessflag,af2,prop){
+        this.state[typeflag][accessflag][af2]=prop; //prop is always a string
+        console.log(typeflag,accessflag,af2,prop);
+        console.log(this.state);
+    }
+    update(){
+        const options ={
+          
+                method:"POST",
+
+            
+            body: JSON.stringify(this.state)
+        } 
+        fetch("/parer_request",options)
+            .then(res=>res.json())
+            .then(data=>{
+                console.log("data",data);
+                console.log("to - do - target based on input, change on screen - so it parses");
+        });
+    }
+}
+const PMDXS = new state();
 class terminal{
     constructor(div){
         this.wait_time=345;
@@ -96,6 +153,9 @@ class terminal{
             this.accessed2=true;
         }
     }
+    parser_access(elementType, ){
+
+    }
 };
 const TERMINAL = new terminal(screen);
 
@@ -118,72 +178,93 @@ const option = (typeflag,accessflag)=>{
       }
     switch(typeflag.toLowerCase()){
         case "size":
+            const size_sleeve = document.createElement("div");
             const inner_option = document.createElement('input');
             inner_option.type="range";
             inner_option.min="1"
             inner_option.max="100";
-            switch(accessflag){
-                case 1:
-                    inner_option.addEventListener("change",(event)=>{
-                        console.log("change size of speech")
-                    })
-                    option_div.appendChild(inner_option);
-                    break;
-                case 2:
-                    inner_option.addEventListener("change",(event)=>{
-                        console.log("change size of thought")
-                    })
-                    option_div.appendChild(inner_option);
-                    break;
-                case 3:
-                    inner_option.addEventListener("change",(event)=>{
-                        console.log("change size of action")
-                    })
-                    option_div.appendChild(inner_option);
-                    break;
-                case 4:
-                    inner_option.addEventListener("change",(event)=>{
-                        console.log("change size of description")
-                    })
-                    option_div.appendChild(inner_option);
-                    break;
-                case 5:
-                    inner_option.addEventListener("change",(event)=>{
-                        console.log("change size of code")
-                    })
-                    option_div.appendChild(inner_option);
-                    break;
-            }
+            let size_cases = ["speech","thought","action","description","code"];
+            console.log(accessflag,"is target num")
+            let target = size_cases[accessflag-1];
+            inner_option.id = `size-${target}`
+            console.log("target is ,",target)
+            inner_option.addEventListener("change",(e)=>{
+                PMDXS.update_parser_state(typeflag,target,"text-size",e.target.value);
+            })
+
+            size_sleeve.appendChild(labeled_div(target,inner_option));
+            option_div.appendChild(size_sleeve);
+
         break;
         case "color":
+            option_div.style.display="flex";
+            option_div.style.border="inset";
             console.log("case color",accessflag)
             const red_input = document.createElement('input');
             red_input.type="range";
             red_input.min="1"
-            red_input.max="100";
+            red_input.max="255";
             const blue_input = red_input.cloneNode()
             const green_input = red_input.cloneNode()
+            const fg_color_nodes = [["red",red_input],["blue",blue_input],["green",green_input]];
+            const bg_color_nodes = [["red",red_input.cloneNode()],["blue",blue_input.cloneNode()],["green",green_input.cloneNode()]];
+            
+            //give proper ids
+            fg_color_nodes.forEach((c,i)=>{
+                c[1].id =`color-${accessflag}-fg-${c[0]}`
+            })            
+            bg_color_nodes.forEach((c,i)=>{
+                c[1].id =`color-${accessflag}-bg-${c[0]}`
+            })
 
-            switch(accessflag){
-                case "speech":
-                    red_input.addEventListener("change",(event)=>{
-                        console.log("change color of speech red")
-                    })
-                    blue_input.addEventListener("change",(event)=>{
-                            console.log("change color of speech green")
-                        })
-                    green_input.addEventListener("change",(event)=>{
-                            console.log("change color of speech blue")
-                        })
-                    break;
-                    }
             const input_drawer=labeled_div(accessflag,document.createElement("div"));
-            option_div.appendChild(input_drawer);
-            console.log(input_drawer,"in input drawer")
+            input_drawer.id=`${typeflag}-${accessflag}`
+            //input_drawer.style.display="flex";
+            const fg_input_drawer=labeled_div("foreground: ",document.createElement("div"));
+            const bg_input_drawer=labeled_div("background: ",document.createElement("div"));
+            fg_input_drawer.style.display="flex";
+            bg_input_drawer.style.display="flex";
 
-            input_drawer.appendChild(labeled_div("red",red_input));
-            input_drawer.appendChild(labeled_div("blue",blue_input));
-            input_drawer.appendChild(labeled_div("green",green_input));
+            option_div.appendChild(input_drawer);
+            input_drawer.appendChild(fg_input_drawer);
+            input_drawer.appendChild(bg_input_drawer);
+            console.log(input_drawer,"in input drawer")
+            const drawer_colors = [
+                ...fg_color_nodes.map(color=>labeled_div(color[0],color[1])),
+                ...bg_color_nodes.map(color=>labeled_div(color[0],color[1]))]
+            drawer_colors.forEach((dc,i)=>{
+                const inp = Array.from(dc.children)[0];
+                const t_input_drawer = inp.id.includes("fg")?fg_input_drawer:bg_input_drawer;
+                t_input_drawer.appendChild(dc);
+                dc.addEventListener("change",(e)=>{
+                    let cases = ["red","blue","green"];
+                    let fb_or_bg_s = e.target.id.includes("fg")?"fg":"bg"
+                    let target = PMDXS.state[typeflag][accessflag][fb_or_bg_s]
+                    cases.forEach((c,i)=>{
+                        let p1=i*2+1;// 1, 3,5
+                        let p2=p1+2;//3,5,7
+                        if(e.target.id.includes(c)){
+                            //transform to hex
+                            const n = pad(e.target.value.toString(16));
+                            //splice it in
+                            target = `${target.slice(0,p1)}${n}${target.slice(p2)}`
+                        }                       
+                    })
+                    PMDXS.update_parser_state(typeflag,accessflag,fb_or_bg_s,target);
+            
+                })})
+            break;
+        case "submit":
+                const sub_btn = document.createElement("button");
+                sub_btn.id="SUBMIT"
+                sub_btn.addEventListener('click',()=>{
+                    PMDXS.update();
+                })
+                sub_btn.innerText = "Submit"
+                const drawr_div = document.createElement("div")
+                drawr_div.style.display="flex"
+                drawr_div.appendChild(sub_btn);
+                option_div.appendChild(drawr_div);
             break;
         case "back":
             const btn = document.createElement('button');
@@ -205,14 +286,10 @@ const option = (typeflag,accessflag)=>{
                         },TERMINAL.wait_time*4);
                     }
                 }
-            }
-
-              
-              let observer = new IntersectionObserver(callback, options);
-              
+            }  
+            let observer = new IntersectionObserver(callback, options); 
             observer.observe(option_div);
-//            option_div.addEventListener("on",()=>TERMINAL.page(accessflag))
-              break;
+            break;
         case "fn":
             option_div.innerText="~~~"
             const callback2= (ml,o)=>ml.forEach(m=>(m.isIntersecting)?accessflag():null)
@@ -226,6 +303,11 @@ const option = (typeflag,accessflag)=>{
 }
 const color_access_nodes=[
     option("color","speech"),
+    option("color","thought"),
+    option("color","action"),
+    option("color","description"),
+    option("color","code"),
+    option("submit"),
     option("back")
 ]
 const size_access_nodes=[
@@ -235,7 +317,8 @@ const size_access_nodes=[
     option("size",3),
     option("size",4),
     option("size",5),
-    
+    option("submit"),
+
     option("back"),
 ]
 const under_construction_access_nodes=[
@@ -243,13 +326,6 @@ const under_construction_access_nodes=[
     option("back")
 ]
 const cmdlist=["color","size","edit","exit"]
-
-
-
-
-
-
-
 
 const good_bye_nodes = [
     "ending session...",

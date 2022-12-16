@@ -107,15 +107,6 @@ Shouldn't we be going?"
 }
 {
 mn:M
-`{TODO: Martha directs them back to the 'real world'}`
-`{rough outline:
-    they be in the bubble, al-tok has spread.
-    the link is 'wrong' al-tok is everywhere now
-    they get back into martha's memory and from there near the cube.
-    flanagan wakes up and opens the way through the cube
-    the fish-man wilbert complains that he can only go outside on halloween
-    flanagan admits martha was a sacrifice - to go to or bring a walker to deal with al-tok.
-}`    
 ~It was cramped with seven people in the bubble~
 ~Martha was holding tightly to the chair in the center~
 ~They all were, due to the turbulence~
@@ -134,15 +125,49 @@ mn:M
 "M::Well, Flanagan did: The way we came into the link, we should be able to get out the same way."
 "G::Martha - when I say there's nothing out there, there is nothing, even if we have a way back we wouldn't be able to get to it right now."
 "NT::$Ewhichway:"
-"M::through me, through that thing in my head"
+"M::Through me, through that thing in my head"
 *Alacria leaned over and looked at the unconscious Flanagan*
-`TODO:martha goes out in the link - they find a way back - it is more difficult this time going though the thing in her head,
-she realizes if Rossin was compliant then he knew it would kill her, but maybe not him - she thinks - she was a pawn`
-
-`{TODO:for when they get out - Gerald gives a 'thar be dragons speech'}`
-`{premise: thoughts themselves can be dangerous. 
-examining too closely a thing can cause a thought to fractal - which each fact having a counter fact having a counter fact. 
-this shape of thinking is sharp - and grows sharper the more you think about it - and cuts deep between things:}`
+"G::She'd have to go outside the bubble for that"
+"A::That's the easy part"
+~Sonny was still weaving webs, the glowing sacks stuck to the walls~
+~Every addition making the bubble smaller - hotter~
+"NT::$Ewait:"
+"NT::$Ejoin:"
+"M::Does anyone have a better idea?"
+"G::Waiting it out is less than ideal: we don't know how long this will be"
+*Martha looked around the room*
+"G::And There is nothing out there."
+"A::If there was nothing out there we wouldn't be here in this bubble."
+~Alacira was staring out the bubble~
+"A::I don't think that nothing is nothing.
+Just nothing we can use."
+*Alacira turned to Gerald and Martha*
+"A::She's offering to act like rudolph - light our way home.
+A single light in a dark forest attracts the wrong kind of attention."
+~She turned to Sonny~
+"A::Smaller: marble sized - give them a seam to break at"
+*Sonny chittered at the spiders above.*
+"A::And a harness for her"
+~Alacira pointed at Martha~
+"A::What are we looking for?"
+~Martha took a moment to think~
+"M::A recent memory, outside of a mansion"
+*Martha blew out her breath*
+"M::Then from there - we go into that hollow, fractal, echo of me.
+Up the rabbit hole to the real world."
+'M::yes, saying out loud, it sounded crazy.'
+~Alacira only Nodded~
+*Sonny walked up to her and handed her a vest*
+~made of webs and attached to a rope in the center~
+*Martha put it on*
+~Martha securing herself, she looked out into that nothing~
+*She stepped out of the bubble*
+~Her self ripped open, like a ballon with suddenly no pressure~
+`<br />
+[memories](martha/memories.md)<br /><br />
+[system](martha/system.md)<br /><br />
+[data](martha/data.md)<br /><br />
+`
 }
 
 {
@@ -158,11 +183,11 @@ mn:AD
 `
 [looser details](looser-details-fit-more-brains.md)`
 ~Though many details were indeterminate there were some commonalities~
-~The floor was shades of copper, steel, iron, coal, tiled in a  [dragon curve](https://en.wikipedia.org/wiki/Dragon_curve), for one~
+~The floor was shades of copper, steel, iron, coal, tiled in a  [dragon curve](dragon-curve.md), for one~
 ~And rooms were all the same... 
 Well: mostly~
 'AD::What a golden opportunity'
-~If she wanted she could peruse the library of  [memetic info-hazards](https://en.wikipedia.org/wiki/Information_hazard)~
+~If she wanted she could peruse the library of  [memetic info-hazards](memetic-info-hazard.md)~
 ~It was to her left as she walked down the hall~
 ~Her heels clacked on the floor and echoed down an otherwise eerie silence~
 ~Above hung a sign, not of wood, or iron, as most chose to see it, but of fact~
@@ -264,6 +289,6 @@ what gives with the unconscious?'
 ~A moment cut short by banging on the door~
 }
 
-## [consequences](consequences.mp)
+## [consequences](consequences.md)
 
 <script src="./great-awakening-terminal.js"></script>

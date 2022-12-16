@@ -1,68 +1,174 @@
 # PLOT
+{
 
-## chapter structure
+`
+notes: chapter structure:
+[a-stone-walled-kink](a-stone-walled-kink.md) might make a good starting point. 
 
-#### a stone walled kink might make a good start chapter. With the perspective of kent starting and martha in a police station: it would cast doubt on the reality of Rossin.
+PART 1:
+1. [reset-2](reset-2.md)
+2. [the-start-of-bad-things](the-start-of-bad-things.md)
+3. [where-things-go-wrong](where-things-go-wrong.md)
+4. [a-stone-walled-kink](a-stone-walled-kink.md)
+5. [enter-the-den](enter-the-den.md)
+6. [lions-tigers-and-bears](lions-tigers-and-bears.md)
+7. [tests](tests.md)
+8. [inside-the-unknown](inside-the-unknown.md)
+9. [vows](vows.md)
+10. [lixin-merph](lixin-merph.md)
+11. [errors](errors.md)
+12. [redeye](redeye.md)
+13. [the-undernet](the-undernet.md)
+14. [restructuring](restructuring.md)
+15. [interludes](interludes.md)
+
+PART 2:
+16. [the-plan](the-plan.md)
+17. [descent-resent-torment](descent-resent-torment.md)
+18. [confrontation](confrontation.md)
+19. [seeds of a new world](seeds-of-a-new-world.md)
+20. [the great awakening](the-great-awakening.md)
+21. [consequences](consequences.md)
+  {
+    A surviving ${}-tok in the lab of Alice - directing the manufacture of her serum among themselves, laments their inability to find a needle in a haystack.
+    Goals: scene is to hammer home what al-tok is, his limitations, and a better picture of his immediate goals.
+    
+    
+    Flanagan abandons his body, which dies when they enter the real world.
+    He takes over Felix, who is kept in the back-seat of his mind.
+
+    Flanagan rifles though his brain //links to chapters and events with Kent\\: walking the chemist on the hospital bed.
+    pragmatic reasons to keep the charade going - (he finds them).
+    ~Everyone was in their own world, and trying to force everyone else to join them.
+    But by pulling equally in all directions: commonalities appeared, ripples and echos of coherence.
+    harmonizing waves in a sea of minds bound the desires of the outliers, often in persecution.
+    ~
 
 
 
-## unwritten so far: and thus subject to change
+    Rossin and Martha have a conversation:
+        - Martha thinks Rossin knew that much algera would kill her,
+        - Hedges her bets against Alacira if she is mistaken or lying: she keeps her suspicions close to herself,
+        - Rossin is excited at the prospect of exiting the link physically, if he could get into it,
+    Wilbert complains that he only can go out on Halloween now, Wilbert is not awake... just a fish-man,
 
-### part 2:
-#### al-tok took control of the undernet to lure out a walker.
-#### his goal is to take over a walker and spread 'beyond just this iteration'.
 
-#### Flanagan proposes a solution of locating al-tok through the undernet - which appears infecting with al-tok's influence.
-#### he sends the group off to go find him by going to the group kent has found himself in.
+  }
 
-#### kent in a sleep deprived state has a suggestible conversation with one of the members of the undernet.
+22.
+{
 
-#### Martha learns to throw a namshub saving kent's life - from a conflict that arises with the undernet.
+    Flanagan in Felix returns with Kent to his home
 
-#### al-tok in alice's lab - directing the manufacture of her serum.
+    The Relux plot-line lines...
 
-#### Joeck talks Martha through what it is to be part of a hivemind.
 
-#### they nuke alice's lab - destroying al-tok's physical presence.
 
-#### Robert enters and informs them why they messed up in the second interludes
+}
+23. 
+{
+    Al-tok discovering the needle in his haystack - a link to every human heart.
+    everyone awake is under control of al-tok, who wants to talk to martha
 
-### part 3:
+        The Relux plot-line lines...
 
-#### Martha sleeps and Al-tok destroys Alacira's ship in their last encounter.
-#### Kent becomes susceptible to hooks with the destruction of her ship.
-#### talks are had - discussions of choices.
+}
+24.
+{
+    The Relux plot-line lines...
 
-#### Martha finds the destruction of her hometown through passing mention. she reels
+    Jochek talks Martha what it is to be part of a hivemind.
 
-#### Lenny takes a plane to fetch the third Relux.
+    al-tok starts giving people heart attacks just to distress Martha
+    
+    they nuke the lab - destroying the physical presence of al-tok.
+    
+    Robert enters and informs them why they messed up in the second interludes
 
-#### Al-tok attacks Lenny and the third Relux - but through bonding into a hivemind - they stave it off.
+}
+25. [interludes 2](interludes.m2)
 
-#### after lenny gets back Martha suggests a giant hivemind - for all humanity.
 
-#### Al-tok attacks Martha - Rossin sacrifices himself to prevent him from re-planting a seed.
+PART 3
 
-### part 4:
+26
+{
+Robert and Alice have a road trip - hiding in the physical world
+~al-tok is just controlling puppets, he is not actually in any of them, and can remove himself quickly~
+~It needs a 'physical' presence - 'equivalent to showing a vein' in order to inject it. ~
+}
 
-#### Martha has nightmares, is nearly taken over by al-tok, and instead joins the Relux.
-#### Alice in Robert's head suggests them taking the serum and her inviting al-tok back into the physical world.
+27{
+Martha finds the destruction of her hometown through a phone call. she reels
 
-#### Alice convinces Robert the creature with billions of eyes and mouths feeding on humanity isn't a good thing.
-#### that it watches everything - so Robert tries to make the case of using al-tok as a chip to renegotiation.
-#### Martha joins the Relux - they bring al-tok back through alice and attempt to reach a bargain - but are forced to try to sterilize... which fails.
-#### they end up killing al-tok again - with no serum left.
-#### Martha convinces Felix to join the Relux, instead of death from al-tok.
+}
 
-### part 5: epilogue
-#### montage of various small scenes of people falling into al-tok and The Relux getting larger.
-#### Martha ruminating on her failings to save her town - by failing to ask where the nuke was going to land.
-#### Flanagan meets with Alacira in an old woman's body - gives her a book - which she destroys then disappears in thin air.
-#### their conversation is about her setting up shop on an 'adjacent angle, in a different link - hunting for al-tok', flanagan is sure al-tok is dealt with.
-#### felix overhears - as a relux - they all do and see Alacira disappear - felix breaks from the relux.
-#### When Martha arrives, felix is gone, Flanagan is bleeding out on the floor - when he dies - he uses the landing pad on martha.
-#### He explains about the reality walkers - and to his surprise - is found to be without 'admin rights' in her head, a consequence of Rossin being in there first.
-#### she burns a stack of papers that may or may not be a catchall cure for cancer written in exactly one place.
-#### she herself disappears - with a little help from Flanagan.
+28{
+Al-tok attacks the Relux - but being a hivemind - they stave it off.
+
+Martha suggests a giant hivemind - for all humanity.
+}
+
+29{
+Al-tok attacks Martha - Rossin sacrifices himself to prevent him from re-planting a seed.
+}
+29.5 interludes 3?{
+    //not sure what to put here
+}
+part 4:
+
+30{
+Martha has nightmares, is nearly taken over by al-tok, and instead joins the Relux.
+Alice in Robert suggests them taking the serum and her inviting al-tok back into the physical world.
+}
+31{
+Alice convinces Robert the creature with billions of eyes and mouths feeding on humanity is not a good thing.
+Robert tries to make the case of using al-tok as a chip to renegotiation.
+}
+32{
+Martha joins the Relux.
+They bring al-tok back through Robert/Alice and attempt to reach a bargain - but are forced to sterilize, fail to do so - with no serum left.
+}
+33{
+Martha convinces Felix to join the Relux, instead of death from al-tok.
+
+}
+part 5: epilogue
+
+34{
+montage of various small scenes of people falling into al-tok and The Relux getting larger.
+
+Martha talks with Alacira:
+    - alacira talks about setting up shop on an adjacent angle, in a different link - hunting for al-tok.
+    - Martha gives her a book - which Alacira destroys: disappearing.
+    - Felix overheads (as a Relux) tries to keep it a secret: fails ; breaks from the Relux
+flanagan is sure al-tok is dealt with.
+
+Felix overhears - as a relux - they all do and see Alacira disappear - felix breaks from the relux.
+
+}
+35{
+When Martha arrives, felix is gone, Flanagan is bleeding out on the floor - when he dies - he uses the landing pad on martha.
+Flanagan explains about the reality walkers - and to his surprise - is found to be without admin rights in her head, a consequence of Rossin being in there first.
+
+She burns a stack of papers that may or may not be a catchall cure for cancer written in exactly one place.
+
+She herself disappears - with a little help from Flanagan.
+}
+
+
+
+
+
+big notes:: 
+  
+  plot line threads to keep track of: 
+    the way out needs to be added.
+  
+  A lot of this is old - and needs to be revamped.
+
+
+`
+}
 
 [index](index.md)
