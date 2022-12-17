@@ -289,6 +289,4 @@ what gives with the unconscious?'
 ~A moment cut short by banging on the door~
 }
 
-## [consequences](consequences.md)
-
 <script src="./great-awakening-terminal.js"></script>

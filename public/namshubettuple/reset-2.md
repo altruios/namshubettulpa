@@ -304,7 +304,7 @@ People non-physical.'
 To everyone else, they would see you knocking over the chair with your hand'
 "M::So I'm basically crazy"
 'R::No your reality is just a bit realigned'
-"M::hat's what crazy is!"
+"M::That's what crazy is!"
 ~And a moment later, and a bit quieter~
 "M::I'm not crazy."
 }
