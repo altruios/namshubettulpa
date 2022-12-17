@@ -120,7 +120,7 @@ class terminal{
         input.addEventListener('keydown',(event)=>{
             if(event.key!="Enter"){return}
             try{
-            this.terminal_fn(input.value,pages)
+            this.terminal_fn(input.value.toLowerCase(),pages)
             }catch{
                 this.unhappy_path();
             }
@@ -223,7 +223,9 @@ const option = (typeflag,accessflag)=>{
             const fg_input_drawer=labeled_div("foreground: ",document.createElement("div"));
             const bg_input_drawer=labeled_div("background: ",document.createElement("div"));
             fg_input_drawer.style.display="flex";
+            fg_input_drawer.style.flexFlow="column nowrap"
             bg_input_drawer.style.display="flex";
+            bg_input_drawer.style.flexFlow="column nowrap"
 
             option_div.appendChild(input_drawer);
             input_drawer.appendChild(fg_input_drawer);
@@ -233,6 +235,8 @@ const option = (typeflag,accessflag)=>{
                 ...fg_color_nodes.map(color=>labeled_div(color[0],color[1])),
                 ...bg_color_nodes.map(color=>labeled_div(color[0],color[1]))]
             drawer_colors.forEach((dc,i)=>{
+                dc.style.display="flex";
+                dc.style.textAlign="center";
                 const inp = Array.from(dc.children)[0];
                 const t_input_drawer = inp.id.includes("fg")?fg_input_drawer:bg_input_drawer;
                 t_input_drawer.appendChild(dc);
