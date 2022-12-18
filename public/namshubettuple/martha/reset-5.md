@@ -87,4 +87,4 @@ Join the society that controls everything at the deepest levels.'
 *Rossin turned to her*
 'R::And help my author bring it all down.'
 }
-## [the start of bad things](../the-start-of-bad-things.md)
+## [first](reset-1.md)

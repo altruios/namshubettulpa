@@ -3,29 +3,39 @@
 {
 
 mn:K
-~Car alarms blared in the distance, echoing in the still air between buildings~
-~The smell of smoke filled the air, acrid tire smoke~
-*Kent moved over the unconscious homeless*
-~Making way for his cart with the Chemist on it~
-~Some clearly fell the wrong way~
+~Car alarms blared in the distance. 
+Echoing in the still air between buildings~
+~Acrid tire smoke filled the air~
+*Kent moved the unconscious homeless clear of his path*
+~He was hunched over the rolling bed, using his leg to adjust the bodies below~
+*He pulled the bed forward out of the alley*
+~Clearing a path through the alley was easier to do from the front~
+~Bodies below lay at unnatural angles.
+Clearly by having fell the wrong way~
+~The chemist lay unconscious on top of the bed~
+*The chemist rolled over, falling into the railing*
+~A few uneven surfaces would have been troublesome without the bed's side guards~
 'K::They said you were in over your head, Kent'
-~After exiting the alley and approaching the street, Kent saw the fires~
-~Cars were still running, but all of them crashed into each other - on the sides of streets~
+~Kent exited the alley approaching the street. 
+Then he saw the fires~
+~Cars were still running, but most had crashed.
+Many had turned over on the sides of streets~
 'K::They were fucking right'
 *Kent walked down the sidewalk, pushing the bed*
 ~He listened~
-~There was no sound of life, no screams, yelling - no footfalls in the distance~
+~There was no sound of life.
+No screams, no yelling - no footfalls in the distance~
 'K::An air-raid siren would be appropriate'
 ~He passed a wreck - a car rolled upside down after some impact~
 ~They were dead, he knew: the cabin had been crushed below human capacity~
 ~It was a family, he saw that much before he looked away~
-"K::Hello!"
+"K::HELLO!"
 ~It was screaming into the wind, but maybe~
 ~Kent was only around the first corner - he continued on~
 ~Behind him there was a whistle, loud and sharp: calling~
 *Kent turned around*
 ~He didn't see the source~
-"K::Hello?"
+"K::HELLO?"
 ~He called out again~
 *A flowerpot burst through a window of a steakhouse*
 *Kent ducked behind a line of parked cars*
@@ -61,7 +71,8 @@ mn:K
 'K::At least the Chemist will stay put'
 "K::Who would know?"
 "F::Flanagan, either this is him or that Al-tok thing."
-~Kent waited~
+*Kent sat at the seat across from Felix*
+"K::Al-tok, is that an app?"
 "F::Did Martha tell you anything?"
 *Kent shook his head*
 ~Felix sighed and spend the next several minutes catching Kent up to speed~
@@ -104,6 +115,25 @@ Shouldn't we be going?"
 *Kent looked around the room*
 ~He found movement everywhere~
 'K::All of them'
+*Kent turn to Felix*
+"K::Ah, hell."
+*Felix was choking on his food*
+~Kent could hear the lack of breathing. 
+Felix was unnaturally still, his body on automatic~
+*Kent moved in and applied the heimlich*
+~Around him patrons had started to stand up~
+*Felix spat up some steak*
+~He was still unresponsive but breathing clearly~
+'K::Well, at least the bed has room for two'
+*Kent snapped his fingers in front of Felix*
+~And when no answer was forthcoming~ 
+*Kent handcuffed Felix* 
+*And carried him to the bed outside*
+~Around him the patrons seemed uninterested, carrying on as if they weren't there~
+}
+
+{
+%%%%
 }
 {
 mn:M
