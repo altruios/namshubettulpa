@@ -209,7 +209,7 @@ mn:LX
 {
 ~A physical link, a touch to the arm on the first person Lenny saw and a short moment later Jochek joined him~
 ~It was the a portly man that was his fair, who had been slumped over in coach unconscious~
-~Jocheck looked down at their new body~
+~Jochek looked down at their new body~
 "J::could have waited to find someone more fit?"
 *Lenny shrugged*
 "L::These are temporary, I'm not putting any work into this one."
