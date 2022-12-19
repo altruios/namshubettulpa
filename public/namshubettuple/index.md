@@ -1,12 +1,14 @@
 # NAMSHUB ET TUPLE
+{
+`
+~Definition~:  [~readme~](current-draft.md)
 
-[current-draft](current-draft.md)
+~Plot~:  [events](plot.md)
 
-[plot](plot.md)
+~Characters~:  [~List~](characters.md)
 
-[characters](characters.md)
+~Word~:  [~map~](world.md)
 
-[world](world.md)
-
-[magic-system](magic-system.md)
-
+~Magic~:  [~System~](magic-system.md)
+`
+}

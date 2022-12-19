@@ -277,7 +277,7 @@ We'll start to my right."
 ~It wasn't until he made it to front door that he heard scrambling from inside~
 }
 {
-~He made it to the corner of the alley of the street before he heared the metal door open behind him~
+~He made it to the corner of the alley of the street before the metal door open behind him~
 *He turned to look as he rounded the corder*
 ~At the hallway entrance was that woman in the red cardigan~
 ~He knew she saw him make a right~
@@ -347,7 +347,7 @@ She does not recognize me'
 "U::It felt like her"
 ~Kent watched two men hurriedly run toward the intersection he was at~
 'K::That fucker, Felix.'
-~Kent was tired, the adreneline masked it: but now that he felt a little relieve~
+~Kent was tired, the adrenaline masked it: but now that he felt a little relieve~
 'K::I am just not going to sleep again, am I? Never going to catch a break.'
 *He got up and walked a short distance behind them*
 ~Close enough to hear~

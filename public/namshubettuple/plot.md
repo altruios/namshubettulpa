@@ -49,7 +49,6 @@ PART 2:
     Rossin and Martha have a conversation:
         - Martha thinks Rossin knew that much algera would kill her,
         - Hedges her bets against Alacira if she is mistaken or lying: she keeps her suspicions close to herself,
-        - Rossin is excited at the prospect of exiting the link physically, if he could get into it,
     Wilbert complains that he only can go out on Halloween now, Wilbert is not awake... just a fish-man,
 
 

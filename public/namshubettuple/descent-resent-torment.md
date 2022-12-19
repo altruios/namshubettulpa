@@ -427,14 +427,15 @@ Occupied for a time by so much Algera."
 ~She thought a moment longer - then started~
 `
 -cmb ~this~ => [...self.hands[0].Objects[0], 
-    -cp G.Objects.armor{~carbon fiber~,*Moulded*}, 
-    ...(for x in 10: 
-        -cp G.Objects.spike{
-                ~Prototype~:self.hands[1].Objects[0],
-                ~style~:*Barbed*,
-                *length:*~1ft~, 
-                ~Location~:~Front corner at {{2xπ(this.front.radius)}}~
-            }    
+  -cp G.Objects.armor{~carbon fiber~,*Moulded*}, 
+  ...(for x in 10: 
+    -cp G.Objects.spike{
+      ~Prototype~:self.hands[1].Objects[0],
+      ~style~:*Barbed*,
+      *length:*~1ft~, 
+    ~Location~:~Front corner at {2xπ(this.front.radius)}~
+    }
+    )    
     ] --auto-format --light-weight --resizable{
         (*curling pinky*)=>~left~?*grow* | ~right~?*shrink*
         }

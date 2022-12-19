@@ -205,7 +205,7 @@ Up the rabbit hole to the real world."
 mn:AD
 }
 {
-~Ada walked through the halls~
+~Ada walked through the halls of Șolomanță~
 ~The palace she was in, underground the Romanian countryside, had a particular quality:~
 ~Everyone saw their own version of it~
 ~Were the walls red, or green, or plum?~

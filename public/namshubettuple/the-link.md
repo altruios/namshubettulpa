@@ -1,5 +1,6 @@
 ## the-link
-
+{
+`
 #### The link is a connection created by the shared consciousness of life.
 #### Humans are only aware of human thoughts.
 #### People asleep 'run' the link, in sync globally with other people's thoughts.
@@ -12,8 +13,9 @@
 
 ## solid places in the link
 
-### [the-ends-ark](the-ends-ark.md)
+### [the ends dreadnought](the-ends-dreadnought.md)
 
 ### [the-dream-of-tok](the-dream-of-tok.md)
-
+`
+}
 [magic-system](magic-system.md)

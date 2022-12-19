@@ -96,4 +96,59 @@ It grows sharper the more you think about it, and it cuts deep between things."
 'M::Not halloween'
 ~Martha suppressed a smile, and realized, that was probably the only time he could easily go out in pubic~
 ~Without being killed or becoming famous, that is~
+
+}
+{
+%%%%
+mn:RG_T
+}
+{
+*Robert Glass of the tok refocused the microscope*
+~A row of sciences were in a row in repeating a chemical process~
+~Around it other shells like itself~
+~The problem with being a smaller part of a bigger thing is the inability to know that larger thing~
+~But being so interconnected you knew a lot more otherwise~
+~Al-tok wanted to grow: more it did not want to abide any limits~
+~There were things as, or stronger than Al-tok, but bound from interfering~
+~Al-tok, took advantage of this hesitation, the second it grew strong enough to strike...~
+~The shell that was Robert Glass was in it's sister's lab~
+~All Al-tok, and yet, none were exactly Al-tok, more siblings~
+*Robert Glass of the Tok stepped away from the microscope*
+~A brethren took its place~
+~It felt as though it should be able to place it~
+~The thorn in their side~
+*Robert Glass of the tok walk away*
+~A needle in the haystack of themselves~
+~The problem was it had the view of one of the straws~
+*A centrifuge spun down*
+~A delight to all their ears~
+~If one of them could find that needle while it was still...~
+*Robert of the tok froze*
+~They all did~
+~It was gone~
+~No more Algera left to drain - that was everything~
+~That stabbing pain faded to a dull memory~
+'RG_T::Good luck finding it now'
+~This tok, what it was, what it and its siblings made up, kept calm a sea of anger~
+~A hurricane bottled by an impenetrable calm~
+'RG_T::It does not matter'
+~It reflected on the progress it was making, a new batch was ready~
+'RG_T::We can find more Algera'
+~It was hindered, delayed, but critically not stopped~
+~It would find enough Algera again to call the  [walker](reality-walkers.md)~
+*Robert Glass of the Tok carried a tray of syringes upstairs*
+~Robert was a face for al-tok~
+~An interface for the public~
+'RG_T::A public currently asleep'
+~They could just invade, take over, but no~
+*Robert took the syringe*
+~It was time to go for a stroll~
+~Robert had the pick of the litter~
+'RG_T::It was better to have the subject in the correct state of mind'
+~Easier for Al-tok to get in that way, when it was invited~
+'RG_T::Sleeping will do'
+~So Al-tok, all of them, searched, and waited~
+~There was a sense of urgency, of desperation, of winning at all costs~
+~So it gained ground how ever it could~
+~And it kept searching~
 }

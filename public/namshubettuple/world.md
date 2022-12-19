@@ -1,10 +1,33 @@
-# WORLD
+# World
 
+{
+~global~
+`
+Definition : {
+    ~Armor~: (args) ~Armor of type(s) ${...args}~
+    ~hearts~:~Every single*entity* heart~,
+    ~hooks~:~~,
+        
 
-#### There exists a society, a history and culture hidden from the masses. [The Awakened](the-awakened.md)
-#### This society in fact - controls the masses, via a mechanism called  [namshubs](namshubs.md)
-#### life on this earth as evolved a subconscious psychic  [link](the-link.md).
-#### Most people have been suppressed all their lives, a privileged few knowing the truth.
-#### They have buildings the masses are blind to. 
+},
+tf(caller,...args){ //transform
+    {TODO:Code for transform}
+},
+cp(caller,...args){//copy
+    {TODO:code for copy}
+}
+set(caller,a,b){//set a property
+    caller.a=b;
+}
+Objects:{ //list of objects how to do sanely
 
+}
+
+~What this is is the 'back-end' of the code seen in the book~
+~This is going to be a reference: a place to get a better understanding of what the code is doing~
+~It should be newbie friendly~
+~This is an on going project, and eventually this should be readable/parsable/and interactive to in  world characters~
+
+`
+}
 [index](index.md)

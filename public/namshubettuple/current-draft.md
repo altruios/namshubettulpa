@@ -1,9 +1,9 @@
-# CURRENT DRAFT 
+# readme 
 
 ## CHAPTERS
 
 {`
- 1. [reset 2](reset 2.md)
+ 1. [reset 2](reset-2.md)
 
  2. [the start of bad things](the-start-of-bad-things.md)
  
@@ -44,4 +44,4 @@
  20. [the great awakening](the-great-awakening.md)
 `}
 ### [index](index.md)
-date:12/17/22
+date:12/19/22
