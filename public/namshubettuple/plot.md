@@ -6,29 +6,29 @@ notes: chapter structure:
 [a-stone-walled-kink](a-stone-walled-kink.md) might make a good starting point. 
 
 PART 1:
-1. [reset-2](reset-2.md)
-2. [the-start-of-bad-things](the-start-of-bad-things.md)
-3. [where-things-go-wrong](where-things-go-wrong.md)
-4. [a-stone-walled-kink](a-stone-walled-kink.md)
-5. [enter-the-den](enter-the-den.md)
-6. [lions-tigers-and-bears](lions-tigers-and-bears.md)
-7. [tests](tests.md)
-8. [inside-the-unknown](inside-the-unknown.md)
-9. [vows](vows.md)
-10. [lixin-merph](lixin-merph.md)
-11. [errors](errors.md)
-12. [redeye](redeye.md)
-13. [the-undernet](the-undernet.md)
-14. [restructuring](restructuring.md)
-15. [interludes](interludes.md)
+1. [reset-2](reset-2.md) //written
+2. [the-start-of-bad-things](the-start-of-bad-things.md) //written
+3. [where-things-go-wrong](where-things-go-wrong.md) //written
+4. [a-stone-walled-kink](a-stone-walled-kink.md) //written
+5. [enter-the-den](enter-the-den.md) //written
+6. [lions-tigers-and-bears](lions-tigers-and-bears.md) //written
+7. [tests](tests.md) //written
+8. [inside-the-unknown](inside-the-unknown.md) //written
+9. [vows](vows.md) //written
+10. [lixin-merph](lixin-merph.md) //written
+11. [errors](errors.md) //written
+12. [redeye](redeye.md) //written
+13. [the-undernet](the-undernet.md) //written
+14. [restructuring](restructuring.md) //written
+15. [interludes](interludes.md) //written
 
 PART 2:
-16. [the-plan](the-plan.md)
-17. [descent-resent-torment](descent-resent-torment.md)
-18. [confrontation](confrontation.md)
-19. [seeds of a new world](seeds-of-a-new-world.md)
-20. [the great awakening](the-great-awakening.md)
-21. [consequences](consequences.md)
+16. [the-plan](the-plan.md) //written
+17. [descent-resent-torment](descent-resent-torment.md) //written
+18. [confrontation](confrontation.md) //written
+19. [seeds of a new world](seeds-of-a-new-world.md) //written
+20. [the great awakening](the-great-awakening.md) //written
+21. [consequences](consequences.md) //writing
   {
     A surviving ${}-tok in the lab of Alice - directing the manufacture of her serum among themselves, laments their inability to find a needle in a haystack.
     Goals: scene is to hammer home what al-tok is, his limitations, and a better picture of his immediate goals.
@@ -85,7 +85,7 @@ PART 2:
     Robert enters and informs them why they messed up in the second interludes
 
 }
-25. [interludes 2](interludes.m2)
+25. [interludes 2](interludes.m2) //written
 
 
 PART 3
@@ -170,4 +170,4 @@ big notes::
 `
 }
 
-[index](index.md)
+## [index](index.md)

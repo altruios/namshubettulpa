@@ -1,13 +1,13 @@
 # NAMSHUB ET TUPLE
 {
 `
-~Definition~:  [~readme~](current-draft.md)
+~Definition~:  [book proper](current-draft.md)
 
-~Plot~:  [events](plot.md)
+~Plot~:  [to do list and what the current plan is](plot.md)
 
-~Characters~:  [~List~](characters.md)
+~Characters~:  [list of characters](characters.md)
 
-~Word~:  [~map~](world.md)
+~Word~:  [global definitions](world.md)
 
 ~Magic~:  [~System~](magic-system.md)
 `

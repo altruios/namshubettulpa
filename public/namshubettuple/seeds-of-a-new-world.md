@@ -215,7 +215,7 @@ mn:LX
 "L::These are temporary, I'm not putting any work into this one."
 'LX::Onward to Ada, us two.'
 ~A short time later - after finding everyone around them unconscious, the Lux road in silence toward their destination~
-~The castle that held many incredibly dangerous things~
+~Șolomanță, a palace that held many incredibly dangerous things~
 ~Things more frightening than an atomic bomb: secret things~
 ~Almost chief among them was The Way Out~
 'J::Should we use different bodies'

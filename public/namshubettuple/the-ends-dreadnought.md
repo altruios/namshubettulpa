@@ -1,14 +1,22 @@
 ## The End's Dreadnought
+{
+`
+~Location~:[
+  ~At the end of all things~,
+  ~at the edges of all things~
+  ]
+~Description~:[
+  ~The end's surrounding the ship manifest as a storm - without a sea~ ,
+  ~This storm surrounds all sides~,
+  ~There is shield, protecting the ship from any of the Ends~,
+  ~The ship does not map to 3 dimensions cleanly~,
+  ~It maps to 5 dimensions~,
+  ~Most rotation through the 2 extra dimensions is by an elevator in the tower~,
+  ~Most, but not all~
 
-### Location
-#### The End's Dreadnought is located at the end of all things, at the edges of all things.
-#### The end's surrounding the Dreadnought manifest as a storm - without a sea, surrounded by all sides.
-#### There is shield, protecting the End's Dreadnought from any of the Ends.
+]
 
-### Description
-#### The End's Dreadnought does not map to 3 dimensions, but 5 spacial dimensions.
-#### Most rotation through the 2 extra spacial dimensions is handled by an elevator
-
-#### Captained by [lana Alacira](captain-lana-alacira.md)
-
+~Captained by~: [lana Alacira](captain-lana-alacira.md)
+`
+}
 [the world](world.md)

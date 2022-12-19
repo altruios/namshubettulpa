@@ -1,21 +1,35 @@
 ## the-link
 {
 `
-#### The link is a connection created by the shared consciousness of life.
-#### Humans are only aware of human thoughts.
-#### People asleep 'run' the link, in sync globally with other people's thoughts.
-#### All living things sleeping run a part of the link.
+~definition~[
+    ~A set of connected ideas and thoughts~,
+    ~A space where movement is emotional, not directional~,
+    ],
+~created by~:~the shared consciousness of life~
+~hosted by~:~conscious beings asleep~
+~accessible by~:[~Humans~]
 
-## experiencing the link
+`
+~experiencing in the link~
+` 
+~If you experienced every memory you had at once, and were those memories~
+~Moving through the link requires space, emptiness.
+If everyone was awake, no one would have the room to move~
 
-#### The link exists as set of connected ideas and thoughts, where moving through that space is emotional - not directional. 
+
 #### There exists islands of solid dream inside the link, these tend to have fuzzy edges.
+~These islands are larger than you~
 
-## solid places in the link
+`
 
-### [the ends dreadnought](the-ends-dreadnought.md)
+~solid places in the link~
+`
 
-### [the-dream-of-tok](the-dream-of-tok.md)
+[the ends dreadnought](the-ends-dreadnought.md)
+
+
+[the-dream-of-tok](the-dream-of-tok.md)
+
 `
 }
 [magic-system](magic-system.md)
