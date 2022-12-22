@@ -8,13 +8,33 @@
 Well, this is a book that is written to be read on your phone.
 It uses a specific format and a bit of interactivity to tell a story
 
-# sample 
+# Sample 
 
 ![example](sample.jpg)
 
-# okay, so what's it about?
+# Okay, so what's it about?
 
 {todo: summary}
+
+
+# But how do I read it?
+
+//if link add here
+
+## Self Hosting
+
+  requires git and node
+    install instruction for [git](https://github.com/git-guides/install-git) and [node](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+
+  1. open a terminal
+  2. navigate to a folder you want to save to
+  3. run the command "git clone {the address of this repo}"
+  4. run the command "npm install"
+  5. run the command "npm start"
+  6. scan the qr code that comes up with your phone
+    - you have to be on the same wifi network
+
+
 
 ## todo:
 
