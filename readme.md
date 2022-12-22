@@ -1,4 +1,4 @@
-# Namshub et Tuple
+# Namshub et'Tuple
 
 ![cover art](coverart.jpg)
 
