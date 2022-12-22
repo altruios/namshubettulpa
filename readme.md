@@ -1,3 +1,24 @@
+# Namshub et Tuple
+
+![cover art](coverart.png)
+
+
+# What is this?
+
+Well, this is a book that is written to be read on your phone.
+It uses a specific format and a bit of interactivity to tell a story
+
+# sample 
+
+![example](sample.jpg)
+
+# okay, so what's it about?
+
+{todo: summary}
+
+## todo:
+
+### Effects to add:
 okay, since I've fixed the script tag - there are a few programmatic effects to add:
 
 1: In Martha's dream sections
@@ -20,7 +41,7 @@ okay, since I've fixed the script tag - there are a few programmatic effects to 
       - hooked up to be able to change source while running, should work no back end code changes
       - sounds like not a single source, but series of containers for each user.
 
-# Coding to do:
+### Coding to do:
 
 1: Finish and improve the mxd-parser-upgrade branch. 
  a- and integrate with terminal on the great awakening page
@@ -28,11 +49,11 @@ okay, since I've fixed the script tag - there are a few programmatic effects to 
 2: Get a proper md parser and deffer to that for not mdx files
  a- rename .md files that are mdx files to .mdx and handle
 
-# 'Coding' to do
+### 'Coding' to do
 
 1: Formalize code styles in world - base on the good parts of python & js
 2: sub-wiki of code definitions
 
-# writing to do
+### writing to do
 
 finish book.

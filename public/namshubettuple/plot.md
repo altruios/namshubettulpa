@@ -2,11 +2,34 @@
 {
 
 `
-notes: chapter structure:
+# rotating your phone will give better results
+## notes: chapter structure:
 [a-stone-walled-kink](a-stone-walled-kink.md) might make a good starting point. 
 
 PART 1:
 1. [reset-2](reset-2.md) //written
+{
+  Narrator ~Martha~
+    ~Martha wakes up~
+      she has no recent memory
+      in a rich stranger's house
+    ~Martha~ talks with ~Rossin~
+      discusses namshubs, hooks, and related
+      philosophy of what an idea is
+      don't look left
+        a monster is there
+        it ate ~Rossin's author~
+        ~Rossin subdued it~
+          but at a high cost
+          ~Martha~ is a bit hollow
+    ~Martha~ pushes ~Rossin~ and exits the house
+     ~She concerns herself with her work~  
+    ~Rossin~ gets hit by a car
+      he is fine, asks what is real
+    ~Martha~ can't do certain weird things:
+      proprioception is messed with her ear and hands    
+}
+
 2. [the-start-of-bad-things](the-start-of-bad-things.md) //written
 3. [where-things-go-wrong](where-things-go-wrong.md) //written
 4. [a-stone-walled-kink](a-stone-walled-kink.md) //written
@@ -30,136 +53,202 @@ PART 2:
 20. [the great awakening](the-great-awakening.md) //written
 21. [consequences](consequences.md) //writing
   {
-    A surviving ${}-tok in the lab of Alice - directing the manufacture of her serum among themselves, laments their inability to find a needle in a haystack.
-    Goals: scene is to hammer home what al-tok is, his limitations, and a better picture of his immediate goals.
-    
-    
-    Flanagan abandons his body, which dies when they enter the real world.
-    He takes over Felix, who is kept in the back-seat of his mind.
 
-    Flanagan rifles though his brain //links to chapters and events with Kent\\: walking the chemist on the hospital bed.
+  Narrator "Martha Crisp"
+    ~Rossin~ and ~Martha~ have a conversation:
+      ~Martha~ thinks ~Rossin~ knew that much algera would kill her,
+      Hedges her bets against ~Alacira~ if she is mistaken or lying: she keeps her suspicions close to herself,
+    ~Wilbert~ worries that he only can go out on Halloween now 
+    ~Wilbert~ is not awake... just a fish-man,
+
+
+
+
+  Narrator "Robert Glass of the Tok"
+    A surviving ~Robert Glass of the Tok~ in the lab of ~Alice Glass~ 
+    directing the manufacture of her serum among themselves, laments their inability to find a needle in a haystack.
+    Goals: scene is to hammer home what ~Al-Tok~ is, its limitations, and a better picture of its immediate goals.
+    
+    
+  Narrator "Flanagan"
+    ~Flanagan~ abandons his body, which dies when they enter the real world.
+    ~Flanagan~ takes over ~Felix~ 
+    ~Felix~ is kept in the 'back-seat' of own his mind.
+
+    ~Flanagan~ rifles though his brain
+    links to chapters and events with ~Kent~: [
+      from: the meeting of the undernet,
+      to: walking ~The Chemist~ on the hospital bed,
+      ]
     pragmatic reasons to keep the charade going - (he finds them).
+    
+    {TO USE}
     ~Everyone was in their own world, and trying to force everyone else to join them.
     But by pulling equally in all directions: commonalities appeared, ripples and echos of coherence.
-    harmonizing waves in a sea of minds bound the desires of the outliers, often in persecution.
-    ~
+    harmonizing waves in a sea of minds bound the desires of the outliers, often in persecution.~
 
-
-
-    Rossin and Martha have a conversation:
-        - Martha thinks Rossin knew that much algera would kill her,
-        - Hedges her bets against Alacira if she is mistaken or lying: she keeps her suspicions close to herself,
-    Wilbert complains that he only can go out on Halloween now, Wilbert is not awake... just a fish-man,
 
 
   }
 
 22.
 {
-
-    Flanagan in Felix returns with Kent to his home
-
-    The Relux plot-line lines...
+  Narrator: ~Kent~
+    ~Flanagan~ in ~Felix~ returns with ~Kent~ to his home
+    
+  Narrator: ~The Relux~
+    ~The Relux~ plot-line *lines*... //heist stuff
 
 
 
 }
 23. 
 {
-    Al-tok discovering the needle in his haystack - a link to every human heart.
-    everyone awake is under control of al-tok, who wants to talk to martha
-
-        The Relux plot-line lines...
+    ~Al-tok~ discovering the needle in its haystack - a link to every human heart.
+    ~Al-tok~ now has a direct line to every human heart,
+    It wants to talk to the person who put the needle there: ~Martha~
+  Narrator: ~The Relux~
+    ~The Relux~ plot-line *lines*... //heist stuff
 
 }
 24.
 {
-    The Relux plot-line lines...
+  Narrator: ~The Relux~
+    ~The Relux~ plot-line *lines*... //heist stuff
 
-    Jochek talks Martha what it is to be part of a hivemind.
+    ~Jochek~ talks ~Martha~ what it is to be part of a hivemind.
 
-    al-tok starts giving people heart attacks just to distress Martha
+  Narrator: ~Martha~
+    ~Robert Glass of the Tok~ starts giving people heart attacks just to distress ~Martha~
+    ~Al-tok~'s access to any human heart means it can take over for a short time.
+      this is a death sentence
+
+  Narrator:~Kent~
+
+    ~Alacira~ and ~Flanagan~ nuke the lab - destroying the physical presence of ~Al-Tok~.
+    When ~Kent~ proves resistant to their manipulations, violence ensues?
     
-    they nuke the lab - destroying the physical presence of al-tok.
-    
-    Robert enters and informs them why they messed up in the second interludes
+    ~Robert in the body of ${}~enters and informs them why they messed up in the second interludes
 
 }
-25. [interludes 2](interludes.m2) //written
+25. [interludes 2](interludes.m2) //writing
+{
+
+}
 
 
 PART 3
 
 26
 {
-Robert and Alice have a road trip - hiding in the physical world
-~al-tok is just controlling puppets, he is not actually in any of them, and can remove himself quickly~
-~It needs a 'physical' presence - 'equivalent to showing a vein' in order to inject it. ~
+  Narrator: ~Robert Glass~
+  Time: shortly after summoning ~Al-tok~  
+    ~Robert Glass~, and ~Alice Glass~ (Who shares his mind) have a road trip
+     They are hiding in the physical world
+    They have a conversation:
+      ~Al-tok~ is just controlling puppets, 
+      It is not actually in any of them.
+      And it can remove himself quickly.
+      It needs a *physical* presence: 
+        in order to inject it.
+        'equivalent to showing a vein' 
 }
 
 27{
-Martha finds the destruction of her hometown through a phone call. she reels
-
+  Narrator ~The Relux~
+    ~Al-tok~ attacks ~the Relux~
+      but being a hivemind - they stave it off.
+  Narrator ~Martha~
+    ~Martha~ suggests a giant hivemind 
+      for all humanity.
+    ~Al-tok~ attacks ~Martha~ -
+      ~Rossin~ sacrifices himself
+        to prevent ~Al-tok~ from re-planting a seed.
 }
-
-28{
-Al-tok attacks the Relux - but being a hivemind - they stave it off.
-
-Martha suggests a giant hivemind - for all humanity.
-}
-
-29{
-Al-tok attacks Martha - Rossin sacrifices himself to prevent him from re-planting a seed.
-}
-29.5 interludes 3?{
+29 interludes 3?{
     //not sure what to put here
 }
 part 4:
 
 30{
-Martha has nightmares, is nearly taken over by al-tok, and instead joins the Relux.
-Alice in Robert suggests them taking the serum and her inviting al-tok back into the physical world.
+  Narrator ~Martha~
+    ~Martha~ has nightmares, 
+      Is nearly taken over by ~Al-tok~ 
+      instead joins ~The Relux~
+
+  Narrator ~Robert~
+    ~Alice~ in ~Robert~ suggests taking the serum
+      inviting ~Al-tok~ into the physical world.
+        Expose a vein
+    ~Alice~ convinces ~Robert~: 
+      ~the creature~ 
+        with billions of eyes and mouths
+        feeding on humanity
+          is not a good thing.
+    ~Robert~ wants to use ~Al-tok~ 
+      as a chip to renegotiation.
+
 }
 31{
-Alice convinces Robert the creature with billions of eyes and mouths feeding on humanity is not a good thing.
-Robert tries to make the case of using al-tok as a chip to renegotiation.
-}
-32{
-Martha joins the Relux.
-They bring al-tok back through Robert/Alice and attempt to reach a bargain - but are forced to sterilize, fail to do so - with no serum left.
-}
-33{
-Martha convinces Felix to join the Relux, instead of death from al-tok.
+  Narrator ~Martha~
+    They bring ~Al-tok~ back 
+      Through ~Robert~/~Alice~ 
+      They attempt to reach a bargain
+        The are forced to sterilize 
+          Fail to sterilize
+          No serum left.
 
+    ~Martha~ convinces ~Felix~ to join ~The Relux~
 }
 part 5: epilogue
 
-34{
-montage of various small scenes of people falling into al-tok and The Relux getting larger.
+32{
+  Narrator: ~various~
+    montage of various small scenes
+      In the form of links:
+        stories of 
+          falling into ~Al-tok~ 
+          ~The Relux~ getting larger.
 
-Martha talks with Alacira:
-    - alacira talks about setting up shop on an adjacent angle, in a different link - hunting for al-tok.
-    - Martha gives her a book - which Alacira destroys: disappearing.
-    - Felix overheads (as a Relux) tries to keep it a secret: fails ; breaks from the Relux
-flanagan is sure al-tok is dealt with.
-
-Felix overhears - as a relux - they all do and see Alacira disappear - felix breaks from the relux.
-
+  Narrator ~Martha~
+    ~Martha~ talks with ~Alacira~:
+      ~Alacira~ talks about setting up shop
+        on an adjacent angle, 
+        in a different link
+        hunting for ~Al-tok~
+    ~Martha~ gives ~Alacira~ a book
+      ~Alacira~ destroys: disappearing.
+        ~Felix~ overheads (as a Relux): 
+          He tries to keep it a secret 
+          fails
+          breaks from ~The Relux~
+    
+    ~Felix~ is sure ~Al-Tok~ is dealt with.
+    ~something goes here to get martha away~
 }
-35{
-When Martha arrives, felix is gone, Flanagan is bleeding out on the floor - when he dies - he uses the landing pad on martha.
-Flanagan explains about the reality walkers - and to his surprise - is found to be without admin rights in her head, a consequence of Rossin being in there first.
+33{
 
-She burns a stack of papers that may or may not be a catchall cure for cancer written in exactly one place.
+  Narrator
+    ~Martha~ arrives at ~Flanagan's~, 
+      ~Felix~ is gone 
+      ~Flanagan~ is bleeding out on the floor 
+        when he dies - he uses the landing pad on ~Martha~
+        ~Flanagan~ explains about the reality walkers
+        to his surprise - he has no admin rights in her head, 
+          a consequence of ~Rossin~ being in there first
 
-She herself disappears - with a little help from Flanagan.
+    ~Martha~ burns a stack of papers 
+      that may or may not be a catchall cure for cancer 
+        written in exactly one place.
+      She herself disappears
+        with a little guidance from ~Flanagan~
 }
 
 
 
 
 
-big notes:: 
+# big notes:: 
   
   plot line threads to keep track of: 
     the way out needs to be added.
@@ -167,7 +256,23 @@ big notes::
   A lot of this is old - and needs to be revamped.
 
 
+## Notes on appending to this document:
+### Format should be:
+### 2-spaces for indentation
+
+### describes both a new scene, and the narrator for that scene
+  
+  Narrator: {{name}}     
+    plot point
+      consequences/explanations
+        consequences of consequence... etc
+      sub-plot point
+        sub-consequences/explanations
+          sub-sub-plot point
+            etc
+
 `
+
 }
 
 ## [index](index.md)
