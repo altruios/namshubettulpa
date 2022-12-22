@@ -1,7 +1,7 @@
 # NAMSHUB ET TULPA
 {
 `
-~Definition~:  [book proper](current-draft.md)
+~Definition~:  [book](current-draft.md)
 
 ~Plot~:  [to do list and what the current plan is](plot.md)
 

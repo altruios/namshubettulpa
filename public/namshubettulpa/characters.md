@@ -5,31 +5,31 @@
     {TODO: folder format normalize all characters like martha is currently}
  [Rossin](rossin.md)
 
- [Martha-Crisp](martha-crisp.md)
+ [Martha Crisp](/martha/index.md)
 
- [Kent-Barbado](kent-barbado.md)
+ [Kent Barbado](kent-barbado.md)
 
- [Felix-Danabrus](felix-danabrus.md)
+ [Felix Danabrus](felix-danabrus.md)
 
- [Professor-Flanagan](professor-flanagan.md)
+ [Professor Flanagan](professor-flanagan.md)
 
- [Captain-Lana-Alacira](captain-lana-alacira.md)
+ [Captain Lana-Alacira](captain-lana-alacira.md)
 
- [Gerald-Whitewater](gerald-whitewater.md)
+ [Gerald Whitewater](gerald-whitewater.md)
 
- [robert-glass](robert-glass.md)
+ [Alice Glass](alice-glass.md)
 
- [uri-maca](uri-maca.md)
+ [Robert Glass](robert-glass.md)
 
- [juan-long](juan-long.md)
+ [Uri Maca](uri-maca.md)
 
- [ozmind-yammin](ozmind-yammin.md)
+ [Juan Long](juan-long.md)
 
- [alice-glass](alice-glass.md)
+ [Ozmind Yammin](ozmind-yammin.md)
 
- [al-tok](al-tok.md)
+ [Al-tok](al-tok.md)
 
- [relux](relux.md)
+ [The Relux](relux.md)
 `
 }
 

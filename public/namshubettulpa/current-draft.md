@@ -1,4 +1,4 @@
-# readme 
+# Current Draft 
 
 ## CHAPTERS
 
@@ -44,4 +44,4 @@
  20. [the great awakening](the-great-awakening.md)
 `}
 ### [index](index.md)
-date:12/19/22
+date:12/21/22
