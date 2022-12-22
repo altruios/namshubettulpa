@@ -1,6 +1,6 @@
 # Namshub et Tuple
 
-![cover art](coverart.png)
+![cover art](coverart.jpg)
 
 
 # What is this?
