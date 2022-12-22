@@ -1,4 +1,4 @@
-# NAMSHUB ET TUPLE
+# NAMSHUB ET TULPA
 {
 `
 ~Definition~:  [book proper](current-draft.md)

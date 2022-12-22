@@ -79,7 +79,7 @@ Was he to be that helpful little paperclip in the speech center of my brain?'
 ~Again, she felt a distinct awareness in her brain on the ordering of her thoughts~
 *She shook her head clear and said*
 "M::Are you a virus, or a program?"
-'R::I am a tuple. 
+'R::I am a tulpa. 
 But if you are asking if you can exorcise me from your head, then yes.
 I will go freely.
 But then you will likely go to prison for that murder, or you can learn from me. 

@@ -341,7 +341,7 @@ If it exists: it's physical."
 "FL::We used the backdoor for a reason, we do not want to be noticed...
 And we want certain privileges..."
 "M::Also - Why can't Rossin be here?"
-"FL:: He's a tuple, He's not a person - like you or I..."
+"FL:: He's a tulpa, He's not a person - like you or I..."
 *Flanagan and Rossin shook their heads*
 ~For separate reasons~
 "FL::Time to go either way - we don't have forever"
