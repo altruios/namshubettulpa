@@ -9,7 +9,7 @@
 PART 1:
 1. [reset-2](reset-2.md) //written
 {
-  Narrator ~Martha~
+  Narrator:"Martha"
     ~Martha wakes up~
       she has no recent memory
       in a rich stranger's house
@@ -54,7 +54,7 @@ PART 2:
 21. [consequences](consequences.md) //writing
   {
 
-  Narrator "Martha Crisp"
+  Narrator:"Martha Crisp"
     ~Rossin~ and ~Martha~ have a conversation:
       ~Martha~ thinks ~Rossin~ knew that much algera would kill her,
       Hedges her bets against ~Alacira~ if she is mistaken or lying: she keeps her suspicions close to herself,
@@ -64,13 +64,13 @@ PART 2:
 
 
 
-  Narrator "Robert Glass of the Tok"
+  Narrator:"Robert Glass of the Tok"
     A surviving ~Robert Glass of the Tok~ in the lab of ~Alice Glass~ 
     directing the manufacture of her serum among themselves, laments their inability to find a needle in a haystack.
     Goals: scene is to hammer home what ~Al-Tok~ is, its limitations, and a better picture of its immediate goals.
     
     
-  Narrator "Flanagan"
+  Narrator:"Flanagan"
     ~Flanagan~ abandons his body, which dies when they enter the real world.
     ~Flanagan~ takes over ~Felix~ 
     ~Felix~ is kept in the 'back-seat' of own his mind.
@@ -93,10 +93,10 @@ PART 2:
 
 22.
 {
-  Narrator: ~Kent~
+  Narrator:"Kent"
     ~Flanagan~ in ~Felix~ returns with ~Kent~ to his home
     
-  Narrator: ~The Relux~
+  Narrator:"The Relux"
     ~The Relux~ plot-line *lines*... //heist stuff
 
 
@@ -104,26 +104,28 @@ PART 2:
 }
 23. 
 {
+  Narrator:"Al-tok"
     ~Al-tok~ discovering the needle in its haystack - a link to every human heart.
     ~Al-tok~ now has a direct line to every human heart,
     It wants to talk to the person who put the needle there: ~Martha~
-  Narrator: ~The Relux~
+  
+  Narrator:"The Relux"
     ~The Relux~ plot-line *lines*... //heist stuff
 
 }
 24.
 {
-  Narrator: ~The Relux~
+  Narrator:"The Relux"
     ~The Relux~ plot-line *lines*... //heist stuff
 
     ~Jochek~ talks ~Martha~ what it is to be part of a hivemind.
 
-  Narrator: ~Martha~
+  Narrator:"Martha"
     ~Robert Glass of the Tok~ starts giving people heart attacks just to distress ~Martha~
     ~Al-tok~'s access to any human heart means it can take over for a short time.
       this is a death sentence
 
-  Narrator:~Kent~
+  Narrator:"Kent"
 
     ~Alacira~ and ~Flanagan~ nuke the lab - destroying the physical presence of ~Al-Tok~.
     When ~Kent~ proves resistant to their manipulations, violence ensues?
@@ -141,7 +143,7 @@ PART 3
 
 26
 {
-  Narrator: ~Robert Glass~
+  Narrator:"Robert Glass"
   Time: shortly after summoning ~Al-tok~  
     ~Robert Glass~, and ~Alice Glass~ (Who shares his mind) have a road trip
      They are hiding in the physical world
@@ -155,10 +157,11 @@ PART 3
 }
 
 27{
-  Narrator ~The Relux~
+  Narrator:"The Relux"
     ~Al-tok~ attacks ~the Relux~
       but being a hivemind - they stave it off.
-  Narrator ~Martha~
+  
+  Narrator:"Martha"
     ~Martha~ suggests a giant hivemind 
       for all humanity.
     ~Al-tok~ attacks ~Martha~ -
@@ -171,12 +174,12 @@ PART 3
 part 4:
 
 30{
-  Narrator ~Martha~
+  Narrator:"Martha"
     ~Martha~ has nightmares, 
       Is nearly taken over by ~Al-tok~ 
       instead joins ~The Relux~
 
-  Narrator ~Robert~
+  Narrator:"Robert"
     ~Alice~ in ~Robert~ suggests taking the serum
       inviting ~Al-tok~ into the physical world.
         Expose a vein
@@ -190,7 +193,7 @@ part 4:
 
 }
 31{
-  Narrator ~Martha~
+  Narrator:"Martha"
     They bring ~Al-tok~ back 
       Through ~Robert~/~Alice~ 
       They attempt to reach a bargain
@@ -203,14 +206,14 @@ part 4:
 part 5: epilogue
 
 32{
-  Narrator: ~various~
+  Narrator:"Various"
     montage of various small scenes
       In the form of links:
         stories of 
           falling into ~Al-tok~ 
           ~The Relux~ getting larger.
 
-  Narrator ~Martha~
+  Narrator:"Martha"
     ~Martha~ talks with ~Alacira~:
       ~Alacira~ talks about setting up shop
         on an adjacent angle, 
@@ -228,7 +231,7 @@ part 5: epilogue
 }
 33{
 
-  Narrator
+  Narrator:"Martha"
     ~Martha~ arrives at ~Flanagan's~, 
       ~Felix~ is gone 
       ~Flanagan~ is bleeding out on the floor 
