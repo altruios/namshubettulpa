@@ -110,14 +110,14 @@ const mdx_block_parser = (block,dfn)=>{
         const speaker_regex = txt.match(/\w+[:][:]/gm);
         const emoji_regex = txt.match(/[$][E][\w]*[:]/gm);
         if(emoji_regex){
-            console.log(emoji_regex);
+          //  console.log(emoji_regex);
             for(const match of emoji_regex){
             let key = match.slice(2,emoji_regex.indexOf(":"));
             let emoji = emoji_map[key];
-            console.log(key,emoji);
-            console.log(txt);
+           // console.log(key,emoji);
+           // console.log(txt);
             txt=txt.replace(match, emoji);
-            console.log(txt);
+           // console.log(txt);
             }
         }
 
@@ -207,7 +207,7 @@ const mdx_block_parser = (block,dfn)=>{
         obj.t=obj.t.replaceAll(/([-][-][\w][\w-]*)/gm,`<span style="color:#ff4499">$1</span>`)
         obj.t=obj.t.replaceAll(/([.][\w]+)/gm,`<span style="color:#ca7922">$1</span>`)
         fake_links.forEach((fl,i)=>{
-            console.log(fl,links[i],"replaceing")
+         //   console.log(fl,links[i],"replaceing")
             obj.t=obj.t.replaceAll(fl,links[i])
         })
 
