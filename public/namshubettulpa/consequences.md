@@ -1,18 +1,28 @@
-# consequences
+# Consequences
 {
 mn:M
 
-~Martha stood inside the bubble watching herself unfold outside in a fractal pattern of her life~
+~Martha stood inside the bubble~ 
+~outside was a fractal pattern of her memories~
+~There were new edges. 
+They filled out the part of her that was empty before.
+They were sharp~
+*The bubble flew up*
+~Into a more solid section of this fractal self~
+~What had been a hole she fell through, was a tunnel now~
+'M::This bubble must mess with gravity'
+`
+[gravity](martha/thoughts/gravity.md)`
 ~In front of them was a cube that reflected no light~
 "M::In there"
 'M::Why would Rossin want you dead?'
 ~The more she thought about it, the more she didn't think that was the case~
 ~He was in her, after all, her death would have meant his~
 ~Thoughts of the scorpion and the frog crossing a river danced fleetly in her mind~
-*The reached the cube*
-~They were cast into darkness~
-~The interior lights flipped on~
-~They were along metal rings at the perimeter of the bubble~
+*They reached the cube*
+~Darkness encompassed all around them~
+*The interior lights in the bubble flipped on.*
+~Which were along the metal rings at the perimeter of the bubble~
 ~As long as they went straight, Martha was sure, they would reach that hallway~
 'M::In any case, we have Flanagan here - '
 *She turned to Flanagan*
@@ -29,17 +39,30 @@ mn:M
 *Gerald lowered a lever*
 ~The bubble slowed~
 "M::There"
-~Martha saw it - as a long concept - a hallway in the darkness~
+~Martha saw it - as a lone concept - a hallway in the darkness~
 ~Around it could have been anything~
 ~So Gerald piloted the bubble to be right next to it~
 ~He put it into park~
 "A::We should all exit the bubble before exiting that hallway"
 ~Martha led the way, extending her hand to find the handle~
-~She waited until all were outside the bubble, then she opened the door~
+~She waited until all were outside the bubble~ 
+"M::Close that interior door"
+~It was cramped, but the six of them fit~
+~The spiders had room on the ceiling~
+~Not that Martha could see any of them~
+~She waited until she was sure it was closed~
+*Then she opened the door*
+*She flipped a switch at the side*
+~A faint buzzing died~
 ~A brass bridge met them, followed by wooden doors, and a hallway made of lead~
+*They crossed it, and after their passage Martha flipped another switch*
+~A faint buzzing came to life behind them~
+*Martha closed the door*
 "M::It's a long way up."
 ~She was not looking forward to the climb~
 ~As they started up the stairs they heard chittering behind them~
+~Sonny with her spiders had stayed back~
+~A short while later Martha heard shouting from behind her~
 "G::Gangway"
 ~Sonny was in a hammock of silk~
 ~Which both spiders were carrying by its ends~
@@ -76,7 +99,9 @@ And me isolating of that thing in your head.
 You were, are, an empty bucket.
 Most of your person has been been eaten by that thing already.
 A sponge, you would have been fine.'
+'M::Flanagan was not fine'
 *The spiders came for her*
+'M::And he had what - about 1/8 billionth or something?'
 ~They were, a short time later they were in Flanagan's study~ 
 ~Alacira was ruffling though Flanagan's desk~
 ~Gerald was just across the room, pouring brandy~
@@ -96,6 +121,9 @@ It grows sharper the more you think about it, and it cuts deep between things."
 'M::Not halloween'
 ~Martha suppressed a smile, and realized, that was probably the only time he could easily go out in pubic~
 ~Without being killed or becoming famous, that is~
+"A::I don't see any notes about Al-tok"
+"G::Then what's the plan?"
+`{TODO:finish}`
 
 }
 {
