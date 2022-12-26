@@ -3,7 +3,7 @@
 mn:M
 
 ~Martha stood inside the bubble~ 
-~outside was a fractal pattern of her memories~
+~Outside was a fractal pattern of her memories~
 ~There were new edges. 
 They filled out the part of her that was empty before.
 They were sharp~
@@ -67,32 +67,39 @@ They were sharp~
 ~Sonny was in a hammock of silk~
 ~Which both spiders were carrying by its ends~
 ~From the ceiling they which were racing up~
+~It was a spider makeshift gondola lift~
 *Sonny made a few more chitters as she passed by Martha*
 'R::She is asking if you want a ride as well'
 ~Rossin was besides her~
+'M::Rossin knows how to speak spider, sure.'
+~Martha shuddered~
+'M::Does that mean I know spider, deep down.'
 "G::They'll be back for us - one at a time"
 ~Martha took the last one~
-~Using her hesitancy to ride the spider elevator to cover for her hesitancy in speaking to rossin~
+~She was hesitant about riding the spider lift~
+~She used that to cover her hesitancy to speak to Rossin~
 ~She wrote on the console to her left~
 `"Flanagan is dead."`
-'R::Well and truly, or is he going to come back'
+'R::Well and truly, or is he going to come back?'
 ~Gerald was second to last to go up~
-"M::Was wilbert born here?"
+`"Probably the latter"`
+"M::Was Wilbert born here?"
 "G::What? 
 No. 
-He is from a dream"
-"M::And he's in the real world now"
-"G::Martha, life is but a dream, and don't think about it too hard, some thoughts are dangerous"
-"M::Dangerous"
+He is from a dream."
+"M::And he's in the real world now."
+"G::Martha, life is but a dream, and don't think about it too hard, such thoughts are dangerous."
+"M::Dangerous?"
 *Gerald sat down in the web*
-"G::I'll tell you up there"
+"G::I'll tell you up there."
 'R::Martha, is something wrong?'
 "M::No, well."
 *Rossin paced in front of her*
-"M::That much Algera would have killed me"
+~She was the last one below, and the spiders well out of earshot~
+"M::That much Algera would have killed me."
 'R::Who said that?'
 *Martha nodded upstairs*
-"M::Captain Alacira up there"
+"M::Captain Alacira up there."
 'R::You have a rather large hole in you.
 Made bigger by that thing in your head... 
 And me isolating of that thing in your head.
@@ -101,7 +108,13 @@ Most of your person has been been eaten by that thing already.
 A sponge, you would have been fine.'
 'M::Flanagan was not fine'
 *The spiders came for her*
-'M::And he had what - about 1/8 billionth or something?'
+`'Flanagan had about 1/8 billionth of the stored Algera - and he died'`
+~Rossin grew quite~
+'1/8 billionth: as in...'
+`"Everyone"`
+'R::And Flanagan died?'
+~Sitting in the web hammock, Martha saw Rossin keeping pace with her.
+He didn't have legs - he just floated there besides her, racing up~
 ~They were, a short time later they were in Flanagan's study~ 
 ~Alacira was ruffling though Flanagan's desk~
 ~Gerald was just across the room, pouring brandy~
@@ -121,6 +134,12 @@ It grows sharper the more you think about it, and it cuts deep between things."
 'M::Not halloween'
 ~Martha suppressed a smile, and realized, that was probably the only time he could easily go out in pubic~
 ~Without being killed or becoming famous, that is~
+'M::No, wait...'
+`['They could just tattoo brand Wilbert's forehead',
+  'he could wear a hat' => ~360 view of a namshub~,
+]
+`
+'M::A hat might blow off, and a branding, or tattoo is a bit much, but still: something'
 "A::I don't see any notes about Al-tok"
 "G::Then what's the plan?"
 `{TODO:finish}`
@@ -132,22 +151,28 @@ mn:RG_T
 }
 {
 *Robert Glass of the tok refocused the microscope*
-~A row of sciences were in a row in repeating a chemical process~
+~A row of scientists were in a row in repeating a chemical process~
 ~Around it other shells like itself~
 ~The problem with being a smaller part of a bigger thing is the inability to know that larger thing~
 ~But being so interconnected you knew a lot more otherwise~
 ~Al-tok wanted to grow: more it did not want to abide any limits~
 ~There were things as, or stronger than Al-tok, but bound from interfering~
-~Al-tok, took advantage of this hesitation, the second it grew strong enough to strike...~
+~Al-tok took advantage of this hesitation~ 
+~and the moment it grew strong enough to strike...~
 ~The shell that was Robert Glass was in it's sister's lab~
+~It, along with more husks: working on the serum~
 ~All Al-tok, and yet, none were exactly Al-tok, more siblings~
+'RG_T::No, more like leaves on a tree'
+~Soaking in attention - growing the trunk~
 *Robert Glass of the Tok stepped away from the microscope*
 ~A brethren took its place~
 ~It felt as though it should be able to place it~
 ~The thorn in their side~
-*Robert Glass of the tok walk away*
+*Robert Glass of the tok walked toward the exit*
 ~A needle in the haystack of themselves~
 ~The problem was it had the view of one of the straws~
+~Each of them had that view.
+And none of them could find it~
 *A centrifuge spun down*
 ~A delight to all their ears~
 ~If one of them could find that needle while it was still...~
@@ -157,6 +182,7 @@ mn:RG_T
 ~No more Algera left to drain - that was everything~
 ~That stabbing pain faded to a dull memory~
 'RG_T::Good luck finding it now'
+~What little pain there was to guide them to that needle was practically gone~
 ~This tok, what it was, what it and its siblings made up, kept calm a sea of anger~
 ~A hurricane bottled by an impenetrable calm~
 'RG_T::It does not matter'
@@ -165,18 +191,41 @@ mn:RG_T
 ~It was hindered, delayed, but critically not stopped~
 ~It would find enough Algera again to call the  [walker](reality-walkers.md)~
 *Robert Glass of the Tok carried a tray of syringes upstairs*
-~Robert was a face for al-tok~
+~Robert was a face for Al-tok~
 ~An interface for the public~
+~They all had their roles, like bees, ants, or societies - they all had tasks~
+~Robert was to recruit~
 'RG_T::A public currently asleep'
 ~They could just invade, take over, but no~
 *Robert took the syringe*
+~That would be over too soon~
+'RG_T::More than that'
+~Beyond the serum Al-tok needed a hole, a space to grow in~
+*Robert walked out the door*
 ~It was time to go for a stroll~
 ~Robert had the pick of the litter~
+~It was raining, and most of the car fires had been put out~
+~The air smelt of a rich texture of ozone and smoke~
 'RG_T::It was better to have the subject in the correct state of mind'
 ~Easier for Al-tok to get in that way, when it was invited~
 'RG_T::Sleeping will do'
+~At least sleeping wasn't active resistance~
 ~So Al-tok, all of them, searched, and waited~
 ~There was a sense of urgency, of desperation, of winning at all costs~
 ~So it gained ground how ever it could~
-~And it kept searching~
+~And it kept searching for that needle~
+}
+{
+%%%%
+mn:FL
+}
+{
+`{TODO: Flanagan returns by taking over Felix, keeping him the back of the mind like Ozmind did to Yuri}`
+`
+Flanagan takes over Felix as everyone was waking up - Flanagan having that room that burns in your mind.
+Flanagan, pretending to be Felix - interacts with Kent, while everyone around them starts wielding their newfound power at each other
+`
+}
+{
+`{TODO: next chapter}`
 }
