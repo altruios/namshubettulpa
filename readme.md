@@ -1,6 +1,13 @@
-# Namshub et'Tuple
+<h1 align="center">
 
-![cover art](coverart.jpg)
+
+Namshub et'Tulpa
+</h1>
+
+<p align="center">
+
+  <img src="coverart.jpg" alt="cover art" />
+</p>
 
 
 # What is this?
@@ -8,23 +15,66 @@
 Well, this is a book that is written to be read on your phone.
 It uses a specific format and a bit of interactivity to tell a story
 
+# Okay, so what's it about?
+
+Martha wakes up finding she may have killed someone.
+And a stranger named rossin, claiming to be effectivly an imaginary friend warns of a creature bound in her head.
+
+He tells her of a world controlled by the Awakened, people able to use namshubs: crafted peices of information designed to control and bind minds.
+And that this complete control of the populus was pedestrian to what they could do, and what she could eventually do. 
+
+Rossin tells her she was pulled into a plot to kill his's author, and asks her to help him extract revenge.
+
+
+
 # Sample 
 
 ![example](sample.jpg)
 
-# Okay, so what's it about?
 
-{todo: summary}
+
+## Why does it look like that?
+So with code, you have environments that color text based on it's function
+```js
+//function
+function(){}
+//object
+{key:property}
+//number
+1234;
+//string/text
+"hello world"
+```
+the point of those colors is to help someone coding to easily parse what these words do.
+Its a way of conveying information that is very effective.
+
+And it's missed opertunity for creative writing.
+By having a sentance serve one function, that sentance can be reinforced: this is a sepration of description and action.
+
+## parsing this book
+
+the following delimiters are used:
+
+\~description\~
+
+\*action\*
+
+\"speech\"
+
+\'thought\'
+
+\`code\`
+
 
 
 # But how do I read it?
 
-//if link add here
+//if link add here (once book is done and hosted)
 
 ## Self Hosting
 
-  requires git and node
-    install instruction for [git](https://github.com/git-guides/install-git) and [node](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+  Requires git and node
+    Install instruction for [git](https://github.com/git-guides/install-git) and [node](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
 
   1. open a terminal
   2. navigate to a folder you want to save to
