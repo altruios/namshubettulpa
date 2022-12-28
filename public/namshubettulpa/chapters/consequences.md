@@ -214,7 +214,20 @@ And none of them could find it~
 ~They were all awake~
 ~People on the street, examining the wreckage of cars.
 Searching for survivers.~
-
+~But more than that:~
+~Robert saw in the distance saw a new group of people approach the ones looking for survivers~
+~He saw one leader in that new group~
+*The group descended upon those looking for survivers*
+~It was over in a few moments: the searchers not even aware of what the stakes were~
+'RG_T::They are using namshubs'
+~It was one person, the leader - collecting a drone army~
+~Growing exponentially~
+~Al-tok understood at that moment where the Algera had been placed~
+~Into all of them~
+*Robert of the tok turned and walked back inside*
+~If that group was any indication, The Algera would congeal onto few hosts again~
+~It would just take a little time~
+~But if it could find that needle...~
 ~So Al-tok, all of them, searched, and waited~
 ~There was a sense of urgency, of desperation, of winning at all costs~
 ~So it gained ground how ever it could~
@@ -225,15 +238,55 @@ Searching for survivers.~
 mn:FL
 }
 {
-`{TODO: Flanagan returns by taking over Felix, keeping him the back of the mind like Ozmind did to Yuri}`
-`
-Flanagan takes over Felix as everyone was waking up - Flanagan having that room that burns in your mind.
-Flanagan, pretending to be Felix - interacts with Kent, while everyone around them starts wielding their newfound power at each other
-`
+~Flanagan was free~
+~From his physical body, from that old age~
+~It wasn't his body first, nor would it be his last~
+~He was looking for a new one~
+~Slim pickings~
+'FL::With Martha in the link, that leaves'
+~To his surprise he could not find Uri or Ozmind~
+~Uri would have been perfect~
+'FL::He was hollowed out by Ozmind'
+~He considered briefly the Relux, and dismissed that as a bad idea~
+~He conceded that any one of them would be stronger than him, and together - so much faster~
+~Felix~
+'FL::Ah, where is Felix?'
+~Felix could be a good host, at least temporarily, Flanagan reasoned~
+'FL::He is close by too'
+~Flanagan was in the link, it was blossoming anew~
+~A moment of awakening, new connections being made~
+~He found the connection he needed~
+~It was old: it was the scaring of his rooms into the mind of Felix~
+~A connection Felix would not be able to remove himself~
+~Flanagan was in his rooms, a version of them, at least~
+*Flanagan grabbed a small remote from the side of entrance, then opened the door*
+~The front door, from his perspective lead to a void with only a few doors~
+~He had the impression that: once, this was filled~
+*He pulled the door to Felix's mind to him and opened it*
+~Felix's attention fell on the door~
+*Flanagan strolled in*
+'F::What are you doing in here?'
+"FL::Things went south in the link, I need a body for a bit"
+'F::Get another body'
+"FL::Slim pickings, I'm afraid"
+*Flanagan pressed a button on the remote*
+~It was full of prepared namshubs, isolating the mind, binding it to the back, overwriting controls~
+~Soon Flanagan was in control, and Felix in the the back of the mind~
+~This was not without a struggle, Felix has implemented some deadman switch~
+~If Felix lost control of his body - it would go catatonic~
+~Flanagan riffled through Felix's memories~
+~And he found the implementation of the deadman switch~
+*A moment later he disabled it*
+*Flanagan took in a lungful*
+~It tasted and felt like steak~
+*Flanagan gagged*
+"K::Oh come on, I just fixed that"
+
+`{TODO:Flanagan, pretending to be Felix - interacts with Kent, while everyone around them starts wielding their newfound power at each other
+}`
+
+
 }
 {
 `{TODO: next chapter}`
-}
-{
-    `{TODO: fix - put al-tok stuff earlier, or fix the timeline a bit}`
 }
