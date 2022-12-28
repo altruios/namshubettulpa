@@ -69,7 +69,7 @@ WITH hooks(
 "FL::Clever. If the link is not safe... neither would our sleep be."
 "J::Our dreams?"
 "R::Are what make up the link."
-'M::Rossin, come over here'
+`'Rossin, come over here'`
 ~Martha was still standing by the window~
 *Rossin got up, and moved to her*
 ~Martha heard Flanagan behind Rossin~

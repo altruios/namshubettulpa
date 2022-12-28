@@ -227,20 +227,20 @@ It's a front for chemistry."
 {
 mn:M
 *Martha walked down the book alley, to a clearing*
-~To Martha's left was the console prompt rossin had made for her~
+~To Martha's right was the console prompt rossin had made for her~
 `
 spear = ~Self~.~Hands (left)~.~Objects[0]~
 Global.setTrigger(
-    doesExist(ref), (ref)=> spear.heart = ref
-    )
+  doesExist(ref), (ref)=> spear.heart = ref
+  )
 `
 'M::Okay now for a timer...'
 `t= Global.setTrigger(
-    *^Collision*=>spear, ~wait (1 second)~=>
-        ref=Global.reduce((combined,*human*)=>
-            combined+=*human*.*heart*
-        ).filter(x=> x != ~Martha Crisp~)
-    )
+  *^Collision*=>spear, ~wait (1 second)~=>
+    ref=Global.reduce((combined,*human*)=>
+      combined+=*human*.*heart*
+    ).filter(x=> x != ~Martha Crisp~)
+  )
 `
 ~She let her focus drift forward, bringing her closer to the present moment~
 *The console faded from view*

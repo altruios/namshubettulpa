@@ -391,9 +391,9 @@ So - imagine your vision is in front of you,'
 Imagine you are a little dot - looking at that screen. 
 Right now it is black - that is all you can see.'
 ~Rossin sighed~
-'R::This is not easy to explain, you are going to look to your left. 
+'R::This is not easy to explain, you are going to look to your right. 
 Not with your vision, but at that point where you are looking at your vision. 
-Shift your focus to the left of your vision - it will be a blank wall.'
+Shift your focus to the right of your vision - it will be a blank wall.'
 ~Martha tried to do that~
 "M::I just see darkness, I don't know"
 *She opened her eyes, and looked to the right: to where Rossin was*
@@ -404,19 +404,19 @@ Shift your focus to the left of your vision - it will be a blank wall.'
 Your vision is just part of your brain. 
 Lighting up from some chemical signals from your eyes. 
 You are focused on that when you see. 
-Just - with your eyes close: focus to your left. 
+Just - with your eyes close: focus to your right. 
 Pivot your attention away from where you see.'
 ~Martha tried for a bit~
 ~A few minutes passed~  
-~She was pretty sure she was just trying to look left with her eyes~
+~She was pretty sure she was just trying to look right with her eyes~
 ~No matter how she tried she wasn't able to just~
 ~Turn her brain like that, was that the best phrase, she wondered~
 'Turn my brain....'
 ~Eventually - with her eyes closed - she allowed her mind to wander~
-~She was in a motel room trying to look left and~
+~She was in a motel room trying to look right and~
 ~A flash of white appeared, and was gone~
 ~Just a hair bit out of her vision~
-~It wasn't in front of her eyes but to the left side of her head~ 
+~It wasn't in front of her eyes but to the right side of her head~ 
 ~And she could see it~
 ~A blinking, white light, rectangular in shape, pulsing evenly~
 "M::I think I found something?"
@@ -453,20 +453,20 @@ Turn back the other way.'
 }
 {
 ~For the next hour that's all Martha did~ 
-~She looked back and forth between her vision, and that text to her left~
+~She looked back and forth between her vision, and that text to her right~
 `['Was look even the right word if she was not using her eyes?',
 'Was there a right word?']`
 "M::Rossin, is there a...
 Word for this - what I'm doing.
-I'm not looking to my left - I'm not using my eyes"
+I'm not looking to my right - I'm not using my eyes"
 'R::Inter-seeing, is the definition. 
 There are other places you can look. 
 There is not much there - and I would not go poking around...
 You still have...
 That thing inside you, what is left of it anyway...
 Best not to accidentally look at it.'
-"M::But the left is safe?"
-'R::The left is safe, I built that myself.
+"M::But the right is safe?"
+'R::The right is safe, I built that myself.
 Fancy, no?'
 "M::It's just text"
 *Rossin waved dismissively*
