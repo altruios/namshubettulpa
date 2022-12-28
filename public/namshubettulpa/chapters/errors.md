@@ -27,10 +27,10 @@ Probably in the holding cell.'
 mn:R
 *Once they were done trading places, Rossin turned toward the front desk again*
 `WITH(
-    (hooks)
+  (hooks)
     .go(~Location of the prisoners facing the wall~)
     .break("Thank you")
-    )`
+)`
 *The man behind the desk got up, and ushered them to follow*
 *They passed the burnt out room*
 ~A large portion of the walls were black~
