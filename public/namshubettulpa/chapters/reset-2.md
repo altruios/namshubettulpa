@@ -18,41 +18,41 @@ mn:M
 ~And the pain plunged her experience,  nothing but this ringing pain~
 ~A totality of existence~
 `exe R (
-    -T(
-        --pain(
-            --ctl(true)
-            --mutable(true)
-            --a-o(true, *Clap*)
-        )
-        --pressure(~__std_opt~)
-        --heat(~__std_opt~)
-    ) 
-    -P(
-        --uv(
-            --ir(~Night~).hook=>(~Delight~)
-            --af().hooks=>(
-                ~Deadly things~=>(*DistΔ+%10*)||
-                ~Limbs~=>(*DistΔ+%10*)
-                )
-        )
-    ), 
-    -H(
-        --pp(~Perfect~)
-        --amp(${--self.hooks=>(~Focus~)}).hooks=>("Anxiety")
-        --syn(12).hooks=>(~Anxiety~)
-    ) 
-    -ST(
-        --range(~All~)
-        --ppm(5)
-        --reprofile(false)
-        --o(true, ~Disappointment~)
-       )
-    --default(~...Remaining Options~).
+  -T(
+    --pain(
+      --ctl(true)
+      --mutable(true)
+      --a-o(true, *Clap*)
     )
-    --TEMPORAL(
-        --factor(11).hook("Fear")
-        --o(true, ~Danger~)
-    )`
+    --pressure(~__std_opt~)
+    --heat(~__std_opt~)
+  ) 
+  -P(
+    --uv(
+      --ir(~Night~).hook=>(~Delight~)
+      --af().hooks=>(
+        ~Deadly things~=>(*DistΔ+%10*)||
+        ~Limbs~=>(*DistΔ+%10*)
+        )
+    )
+  ), 
+  -H(
+    --pp(~Perfect~)
+    --amp(${--self.hooks=>(~Focus~)}).hooks=>("Anxiety")
+    --syn(12).hooks=>(~Anxiety~)
+  ) 
+  -ST(
+    --range(~All~)
+    --ppm(5)
+    --reprofile(false)
+    --o(true, ~Disappointment~)
+     )
+  --default(~...Remaining Options~).
+  )
+  --TEMPORAL(
+    --factor(11).hook("Fear")
+    --o(true, ~Danger~)
+  )`
 
 ~An unknowable amount of time passed, and then the pain subsided~
 ~Feeling crept along her extremities, a white hot prickling fire that ran through her skin~
@@ -265,18 +265,18 @@ You have been doing great so far.'
 *A small corner of her eye twitched up*
 "M::Complete?"
 `self.explain=>( 
-    definition:[
+  definition:[
     ~A pattern capable of calculation~
     ~Akin to a virus~, 
     ~Mimics life~ 
     ~Requires a host brain~ 
     ~May or may not spread~ 
     ~Imaginary friend~
-    ], 
-    name:"Rossin", 
-    writer:"R. Aelera Haniurn", 
-    brainLinked:false^,;//<>']...
-    *ERROR*)`
+  ], 
+  name:"Rossin", 
+  writer:"R. Aelera Haniurn", 
+  brainLinked:false^,;//<>']...
+  *ERROR*)`
 ~^A click, and then sharp pain stabbing somewhere inside her brain~
 *She hissed, and groaned*
 'R::Sorry, I seem to have some restricted features. 

@@ -189,7 +189,7 @@ And none of them could find it~
 ~It reflected on the progress it was making, a new batch was ready~
 'RG_T::We can find more Algera'
 ~It was hindered, delayed, but critically not stopped~
-~It would find enough Algera again to call the  [walker](/namshubettulpa/world/reality-walkers.md)~
+~It would find enough Algera again to call the  [walker](/namshubettulpa/world/reality-walkers.md) ~
 *Robert Glass of the Tok carried a tray of syringes upstairs*
 ~Robert was a face for Al-tok~
 ~An interface for the public~
@@ -210,6 +210,11 @@ And none of them could find it~
 ~Easier for Al-tok to get in that way, when it was invited~
 'RG_T::Sleeping will do'
 ~At least sleeping wasn't active resistance~
+*Robert froze*
+~They were all awake~
+~People on the street, examining the wreckage of cars.
+Searching for survivers.~
+
 ~So Al-tok, all of them, searched, and waited~
 ~There was a sense of urgency, of desperation, of winning at all costs~
 ~So it gained ground how ever it could~

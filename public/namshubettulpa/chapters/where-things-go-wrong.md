@@ -27,8 +27,8 @@ Not that you can actually do that yet, but you can let me take over and I can sp
 {
 ~It was a few seconds later and he continued~
 `statusQuo=>{_
-    _placeholder for all data for foreshadowing purposes, 
-    meant to be a long list of dramatic-ironic statements __}
+  _placeholder for all data for foreshadowing purposes, 
+  meant to be a long list of dramatic-ironic statements __}
 `
 "M::And that was what?"
 'R::Information, particularly about the leaders of the awoken, basic affairs really'
