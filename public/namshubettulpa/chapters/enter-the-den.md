@@ -67,10 +67,10 @@ Just let me keep control from me while I am connected and we will be fine'
 mn:R
 ~Before she knew it she was outside herself in that shadowy perspective~
 `WITH(
-    (hooks)
-        .turn=>(~Wall~)
-        .ignore=>(~Self~=>(!"Stop"))
-        .end=>(~Self~=>("Stop"))
+  (hooks)
+    .turn=>(~Wall~)
+    .ignore=>(~Self~=>(!"Stop"))
+    .end=>(~Self~=>("Stop"))
  ).`
 *Her three cellmates stood up, and walked to the front bars* 
 ~Each standing in a row - facing outwards~
@@ -84,24 +84,22 @@ mn:R
 "R::Again, it really doesn't matter, but..." 
 *Rossin turn toward the camera*
 `
-EVENTS = ~Self~=>hooks.memory(~Visual~~Audio~).located(~Here~)
+target_mems = ~Self~ =>
+  ~memory~(~All~)
+    .located(~Here~)
 WITH(
-    (hooks)
-        .temp_set_mem(EVENTS)
-        WHILE(.knowing(~Existance~=>(EVENTS)))(
-            .remove_all=>(
-                ~Reminders~,
-                ~Evidence~,
-                ~Memory~
-                )
-            TRY(
-                .propogate(~This~=>(~Human~))
-            )CATCH(
-                .sleep(10)
-                .repeate(~This~);
-            )
-        )
+  (hooks)=>(
+    FOREACH(target_mems(hooks.target))(
+      TRY(
+        .propagate(~Self~=>(~Human~))
+        .erase(~Memory~)
+      )CATCH(
+        .sleep(sec=10)
+        .repeat(~This~,max=10)
+      )
     )
+  )
+)
 `
 *Rossin looked back to her* 
 "R::Anyone who sees this will forget they saw you, and also destroy any tapes or recordings. 

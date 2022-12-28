@@ -36,14 +36,13 @@ power is limited, no matter how vast, and:'
 }
 {
 ~It was noon, and he was on a yacht in the caribbean sea~
-~Four servants surrounded him, two physical, none were conscious, not in the way he was~
-~He had just picked up the two physical servants from an island where they had been celebrating their honeymoon~
+~He had just picked up the two servants from an island where they had been celebrating their honeymoon~
 ~No prior servant experience required with the right namshub~
 'F::Catch and release.'
 ~He kept to that rule at least~
 'F::Do not hurt them, do not ruin their lives, return them where you found them.'
 ~He would at least be considerate in that regard, considering he was overwriting them~
-~He tried at least to leave them as ‘better people'~
+~He tried at least to leave them as 'better people'~
 ~It was a warm summer day, and  nothing to look forward to but for the cool breeze and a margarita in his hand~
 ~And his thoughts drifted ideally~
 ~Webs of gossip in his mind were unfolding to gossamer tendrils of conspiracy~
@@ -73,10 +72,11 @@ Dole it out all day to particular people.'
 ~But it's like a muscle - the more you do it, the stronger you get~
 ~So he practiced~
 ~Every single day after his training, until he could stomach it~ 
-~but still - he fainted~
+*but still - he fainted*
 ~It wasn't for long, just for an instant~
 ~The more experienced one's, the one's doing this for hundreds of years, didn't even black out~
-~It's been 24 years since he 'woke up', and he, like everyone in that year's awakening, still blacked out~
+~It's been 4 years since he 'woke up'~ 
+~and he, like everyone who woke up so soon: still blacked out~
 ~Yet he was the only one who didn't fall and convulse on the floor~
 ~All the info was in his head, the location, details~
 ~Most of her life condensed down into a pattern in his brain he could unfold, examine, and plan~
@@ -113,7 +113,7 @@ Dole it out all day to particular people.'
 'F::It was hard to police a society of...'
 ~He wanted to say gods, but that sounded too arrogant~
 ~Awakened was always too nebulous for him to take seriously~
-~But regardless, it was hard to police beings that could warp other's realities.
+~But regardless, it was hard to police beings that could warp other's realities~
 ~Perhaps his reality on the boat was a delusion, but that thought always came up when he thought of such things~
 'F::Do not doubt your own reality if you want to affect others'
 ~Words from the first year of training he had~
