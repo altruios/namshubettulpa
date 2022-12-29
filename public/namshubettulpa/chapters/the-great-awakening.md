@@ -124,14 +124,39 @@ Felix was unnaturally still, his body on automatic~
 ~Around him patrons had started to stand up~
 *Felix spat up some steak*
 ~He was still unresponsive but breathing clearly~
-'K::Well, at least the bed has room for two'
+'K::The bed has room for two'
 *Kent snapped his fingers in front of Felix*
 ~And when no answer was forthcoming~ 
 *Kent handcuffed Felix* 
 *And carried him to the bed outside*
-~Around him the patrons seemed uninterested, carrying on as if they weren't there~
+~Around him the patrons were confused. 
+Some were looking at him and the damage caused.
+Others were looking at their own hands~
+*Kent put Felix on the bed*
+~Next to the chemist~
+~He heard a commotion inside~
+*He rolled them down the street*
+'K::Away from the broken glass'
+~He took in a few breaths~
+~Around him people were examining the car crashes~
+~But there were others: roaming groups descending on the unsuspecting~
+~It wasn't with guns, or knives or sticks - but words and pictures~
+*Kent looked around himself*
+~He was at an intersection touching the park~
+'K::Okay Kent, where to?'
+~He kept an eye out for anyone, any group, approaching him~
+'K::Where did Felix come from, Where did you first see him'
+~He remembered seeing Felix walking in the park~
+*Kent turned left*
+~It was a guess, but if Felix and who he was with was making a bee-line~
+'K::Eh, close enough - he can tell me different when he wakes up'
+*Kent looked down at Felix*
+~He was not moving~
+'K::If he wakes up... 
+Shit is he still -'
+~Kent worried about when He put Felix on his back in the rolling bed~
+*Felix started coughing*
 }
-
 {
 %%%%
 }
@@ -186,7 +211,7 @@ A single light in a dark forest attracts the wrong kind of attention."
 "M::Then from there - we go into that hollow, fractal, echo of me.
 Up the rabbit hole to the real world."
 'M::yes, saying out loud, it sounded crazy.'
-~Alacira only Nodded~
+~Alacira only nodded~
 *Sonny walked up to her and handed her a vest*
 ~made of webs and attached to a rope in the center~
 *Martha put it on*
@@ -235,20 +260,19 @@ Safe-ish'
 ~Part of her wanted to know - things other's have tried to understand only to have been brought to madness~
 ~But she walked on, content in her brief encounter~
 'AD::At least I get to enjoy this silence'
-*She stepped over an body*
-~Which occasionally spasmed~
-~They all were: as far as she could tell at least~
-'AD::which way...'
+*She stepped over another body*
+~All of which occasionally spasmed~
+'AD::Which way...'
 ~To the vault of infectious memes~
 'AD::The vocal fry bitch voice got out a few decades ago'
 ~It had been used as a tool to make someone who was aware (but not awakened) very rich~
 'AD::If I cared about making money, or if any of my friends did'
 ~No, she decided - up the stairs~
-'AD::onwards to the prize'
+'AD::Onwards to the prize'
 *She climbed them*
 ~Upstairs was the sovereign's personal development environment~
 ~Even most people at the gathering didn't know about this room~
-'AD::hell, most people who did know about this chose to forget'
+'AD::Hell, most people who did know about this chose to forget'
 ~Not her though, she had to know, this and more~
 *She entered a room*
 ~A bedroom - the bed was surrounded by a lake of water lined with mirror~
@@ -258,6 +282,7 @@ Safe-ish'
 ~A dream made solid by everyone's participation~
 ~That there was nothing but the link~
 ~That 'objective' reality was only a narrow part of the link~
+~Special, yes, but small~
 ~And that narrow part kept minds bound to it~
 ~And that room would edit not just that... but the link entire~
 ~So of course she had to at least look inside~
@@ -265,7 +290,7 @@ Safe-ish'
 ~She heard footsteps from below~
 "L::Hello!"
 ~The voice of a gruff carriage driver, one she didn't recognized~
-'AD::quick peek, then get out of here'
+'AD::Quick peek, then get out of here'
 *She walked to and opened the door*
 ~Beyond the door was a dark empty space - and in the center a flashing cursor~
 "AD::Password -well, of course"
@@ -311,6 +336,7 @@ what gives with the unconscious?'
 'L::All of them'
 ~Lenny had been furthest back towards the stairs. He kept watch: hearing multiple sets of feet below~
 'RX::Hiding would be prudent'
+~They weren't supposed to be on this floor: none of the guests were~
 *Ada led them towards a door across the hall*
 ~It led to a library for old dusty books~
 ~shelves lined the wall extending into the ceiling~

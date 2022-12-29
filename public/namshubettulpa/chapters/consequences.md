@@ -240,7 +240,7 @@ mn:FL
 {
 ~Flanagan was free~
 ~From his physical body, from that old age~
-~It wasn't his body first, nor would it be his last~
+~It wasn't his first body, nor would it be his last~
 ~He was looking for a new one~
 ~Slim pickings~
 'FL::With Martha in the link, that leaves'
@@ -253,11 +253,14 @@ mn:FL
 'FL::Ah, where is Felix?'
 ~Felix could be a good host, at least temporarily, Flanagan reasoned~
 'FL::He is close by too'
-~Flanagan was in the link, it was blossoming anew~
-~A moment of awakening, new connections being made~
+~Flanagan was in the link.
+It was blossoming anew.
+A moment of awakening, new connections being made~
 ~He found the connection he needed~
 ~It was old: it was the scaring of his rooms into the mind of Felix~
 ~A connection Felix would not be able to remove himself~
+*Flanagan entered through a window*
+~Into his mind, into his rooms~
 ~Flanagan was in his rooms, a version of them, at least~
 *Flanagan grabbed a small remote from the side of entrance, then opened the door*
 ~The front door, from his perspective lead to a void with only a few doors~
@@ -266,14 +269,14 @@ mn:FL
 ~Felix's attention fell on the door~
 *Flanagan strolled in*
 'F::What are you doing in here?'
-"FL::Things went south in the link, I need a body for a bit"
-'F::Get another body'
-"FL::Slim pickings, I'm afraid"
 *Flanagan pressed a button on the remote*
 ~It was full of prepared namshubs, isolating the mind, binding it to the back, overwriting controls~
+"FL::Things went south in the link, I need a body for a bit"
+'F::Get another body'
 ~Soon Flanagan was in control, and Felix in the the back of the mind~
-~This was not without a struggle, Felix has implemented some deadman switch~
-~If Felix lost control of his body - it would go catatonic~
+"FL::Slim pickings, I'm afraid"
+~This was not without a struggle, Felix had implemented a deadman switch~
+~If Felix lost control of his body: it would go catatonic~
 ~Flanagan riffled through Felix's memories~
 ~And he found the implementation of the deadman switch~
 *A moment later he disabled it*
@@ -281,6 +284,8 @@ mn:FL
 ~It tasted and felt like steak~
 *Flanagan gagged*
 "K::Oh come on, I just fixed that"
+*Flanagan punched at his new chest*
+~A few coughing hacks later the chunk of steak flew out~
 
 `{TODO:Flanagan, pretending to be Felix - interacts with Kent, while everyone around them starts wielding their newfound power at each other
 }`
