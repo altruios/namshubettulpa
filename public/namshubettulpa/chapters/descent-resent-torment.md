@@ -6,7 +6,7 @@ mn:M
 "M::How far down does this go."
 "FL::A safe distance."
 ~Martha walked down smooth lead-layed passage~
-~There was a slight curve to the steps, outlining some huge pillar to her left~
+~There was a slight curve to the steps, outlining some huge pillar to her right~
 'M::Hands and arms away from the lead walls, inside the staircase at all times'
 ~She felt the hair rise up on her arms, due to cold or a faint buzzing of electricity~
 ~Small LEDs in sconces spilt orange, reflecting on the lead~
@@ -131,7 +131,7 @@ mn:K
 ~Kent lost interest until~ 
 *Felix uncovered the other half of his screen*
 ~It was a bunch of squiggles~
-*Felix convulsed in place - his left eye twitched*
+*Felix convulsed in place - his right eye twitched*
 'K::Sort of like what I saw on that one building'
 ~Kent noticed Felix spasms just as they stopped~
 *Felix groaned and stretched his neck*
@@ -190,12 +190,12 @@ But that wasn't her that we killed"
 *Felix stared at kent*
 ~Blankly~
 "F::Why?"
-"K::I left a thing I stole from them, near the gutter"
+"K::I dropped a thing I stole from them, near the gutter"
 *Kent held out Felix's phone, and started walking*
 "K::Come on."
 *Felix groaned*
 ~The two walked onwards in silence back to the alley~
-~When they arrived the scene was as they had left it~
+~When they arrived the scene was as it had been~
 ~People walked down the street not even looking~
 "K::Keep an eye out"
 *Kent pointed to the alley door*
@@ -237,7 +237,7 @@ mn:M
 'M::A bit cramped'
 *She was falling toward some bottom*
 ~She saw below her a moving shadow-play: a reflection of her own movements~
-~To her left and right, a full spectral spread of pieces of her life lined the edges~
+~All around her: a full spectral spread of pieces of her life lined the edges~
 ~~
 ~Those too moved like a slowed down projector~
 ~~
@@ -248,7 +248,7 @@ mn:M
 ~~
 ~~
 ~~
-*Martha leaned to her left*
+*Martha leaned to her right*
 ~~
 ~~
 ~~
@@ -272,8 +272,8 @@ mn:M
 
 ~She found herself on the grass~ 
 ~It was night, and she was in a large grass field, trees surrounding all sides except~
-~She heard a noise to her left, a wooden impact~
-*She looked left*
+~She heard a noise to her right, a wooden impact~
+*She looked right*
 ~And was watching herself storm out of the back of the mansion she had been in a few nights ago~
 "M::Oh... well then."
 *Martha sat up on the grass*
@@ -290,7 +290,7 @@ But - I think I can get him here - that I am here, sort of a switcheroo"
 *Martha sat up*
 "M::Anything I need to do?"
 "R::Let him through"
-*Rossin pointed to the left* 
+*Rossin pointed to the right* 
 ~There was an edge to the memory - leading back to that space~
 ~And between the memory, and that space was a gap - wide as a small field~
 ~~
@@ -436,9 +436,7 @@ Occupied for a time by so much Algera."
     ~Location~:~Front corner at {2xπ(this.front.radius)}~
     }
     )    
-    ] --auto-format --light-weight --resizable{
-        (*curling pinky*)=>~left~?*grow* | ~right~?*shrink*
-        }
+    ] --auto-format --light-weight --resizable
 `
 *The cup and funnel morphed in her hands* 
 ~mostly like she pictured in her head~

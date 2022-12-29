@@ -30,18 +30,18 @@ mn:M
 ~The walls jutted out in strange directions from the crash~
 ~They reminding her of the sliding mechanism for a drawer~
 ~Only much more jagged~
-~The red lights shown in here too - dimmer than the main passage~
-~It was unable to light the dark hole in front of her~
+~The red lights shown in here too - dimmer than the main passage.
+Fading into a dark hole in front of her~
 ~As she grew closer she saw the opening was a narrow spot~
 ~One she just barely fit though~
 ~Beyond was a short circular room the shape of a coin~
 *She tumbled out, hunching over doing a sort of crab walk to continue on*
 ~She heard rustling behind her~
 *Turning, she found nothing*
-~To her left was a squeak, she found it - a small rodent~
+~To her right was a squeak, she found it - a small rodent~
 'How was she going to get it out?'
 ~It sat on its hind legs and was a cross between a squirrel and a beaver~
-~Grey in color with extremely large eyes wider than she had ever seen~
+~Grey in color with extremely large eyes, wider than she had ever seen~
 ~Those eyes looked at her, reflected her in them~
 *And it scampered off, to the side of the room*
 ~There were only two exits~
@@ -49,7 +49,6 @@ mn:M
 ~The entrance she tumbled though being the one above~
 ~She heard a noise again, behind her~
 ~Something large moving in one of the tunnels~
-~Behind her were stacked entrances~
 *She fell from the top one, but something was there below*
 ~A glistening black form, that hid against the busted lights~
 ~All she could tell was it was moving~
@@ -103,9 +102,9 @@ Then think of the last place I sent you"
 "A::That thing...
 It's not what you see, it's just wearing a costume. 
 Don't make assumptions about what's underneath based on what it wears. 
-Where to gerald?"
+Where to Gerald?"
 *Gerald stumbled about - shifting the horn and clipboard's place*
-*He lifted a few pages,*
+*He lifted a few pages*
 "G::13,i4...
 You'll have a navigator this time, make sure to stay with him - alright?"
 ~They reached the elevator at the end of the narrow hall~
@@ -138,12 +137,12 @@ Just what you need to know"
 {
 ~Beyond them was a hallway stretching on into the dark like before~
 ~But this one was lined with snow globes: glowing with a faint blue static~
-~In front of them - to the left, was a man she could have sworn she recognized~
+~In front of them - to the right, was a man she could have sworn she recognized~
 ~A tall thin man in an overcoat - rubbing the back of his head~
 ~She just couldn't place him~
 "M::The navigator?"
 *He bowed*
-"G::He doesn't speak,"
+"G::He doesn't speak."
 *Gerald brushed path both of them*
 }
 {
@@ -157,7 +156,7 @@ Some of them the last anyone has had"
 }
 {
 "A::Gerald - which number?"
-"G::Right,"
+"G::Right."
 *He glanced back at his clipboard*
 "G::42.
 It's on our right."
@@ -172,10 +171,10 @@ It's on our right."
 }
 {
 ~Looking at the gold plate inlaid below Martha saw it read 42~
-~The snow globe lay on the pedestal before her. ~
-~It showed a network of twisting interlocking gears~
+~The snow globe lay on the pedestal before her.
+It showed a network of twisting interlocking gears~
 "M::What am I looking for - another book?"
-*Gerald shook his head,*
+*Gerald shook his head*
 "G::This one might be harder to find...
 We don't exactly know this time.
 This isn't going to be like your last time...
@@ -184,18 +183,18 @@ It's a dream...
 His dream actually...
 So out of place things...
 Are less out of place there..."
-*Gerald gestured toward the navigator who straightened his tie,*
+*Gerald gestured toward the navigator who straightened his tie*
 "A::That's why he's going with you."
-~Captain alacira studied at her pocket watch~
+~Captain Alacira studied at her pocket watch~
 ~Martha heard a small crash in the distance, like thunder only deeper~
 "G::That's the first threshold - we can't keep her here much longer."
 *Gerald nodded*
 }
 {
-"A::If you get in trouble: Kent here will take you back,"
-*Gerald took her hand and placed it in Kent's*
+"A::If you get in trouble: Kent here will take you back."
+*Gerald took her hand and placed it in the navigator's*
 *And before Martha could speak - he placed both on the snow globe*
-"G::Good luck,"
+"G::Good luck!"
 ~Was the last she heard before a feeling of cold ice permeated her skin~
 }
 {
@@ -210,7 +209,7 @@ mn:K
 'Why were they all doing the same thing?'
 'Was this a case of a mass confidence trick?'
 'No - this was something else...'
-~Everyone's left eye had twitched and then they donned a blank stare~
+~Everyone's right eye had twitched and then they donned a blank stare~
 ~When it was his turn he faked the same - he was sure the other's weren't faking~
 }
 {
@@ -262,7 +261,7 @@ mn:K
 ~With a good view of everyone else~
 *But frisking everyone so far yielded nothing*
 *Methodically he made his way towards the front of the plane: looking for*
-~His left hand felt something solid~
+~His right hand felt something solid~
 ~It was underneath the jacket of the man in the window seat about half way up~
 "K::Sorry about this,"
 *He unbuttoned the sky marshal's jacket and took the glock*
@@ -371,7 +370,7 @@ Are you following me?"
 {
 ~Martha could see stone walls fading in from the void~
 "M::Where exactly are we?"
-*One of the gears to her left flew towards her - twisting in the air*
+*One of the gears to her right flew towards her - twisting in the air*
 *He jumped at her*
 *He knocked her to the backside of the gear*
 ~Opposite where the one flying at her would hit~
@@ -390,7 +389,7 @@ Are you following me?"
 ~She heard a loud clattering from below~
 'Okay, that is just great. 
 why is it slipping like that?'
-~Which echoed in her left ear, but she was sure that was down at this point~
+~Which echoed in her right ear, but she was sure that was down at this point~
 'Or maybe that way is up?'
 ~She was lost - they were generally heading up~
 *The navigator got up, and helped her to her feet - inspecting her for any damage*
@@ -475,7 +474,7 @@ why is it slipping like that?'
 {
 *The Navigator took her hand and they jumped across onto the face of the gear*
 ~This one was lit differently, bluer - lighter~
-~She looked up to see a lack of any more gears to the left and right~
+~She looked up to see a lack of any more gears to either side~
 ~One above her connected to the same rod in the center of this gear~
 ~All around her were stained glass windows~
 *He took off his jacket - gave it to her*
@@ -531,7 +530,7 @@ why is it slipping like that?'
 }
 {
 ~At her foot another tooth fell - she looked around~
-~Only three were left - scattered across the perimeter~
+~Only three were remaining - scattered across the perimeter~
 *She rushed to the center and grabbed the marble*
 ~That's what she was here for - that's the only thing that didn't fit~
 ~Inspecting it she couldn't find anything out of the ordinary with it~
@@ -640,7 +639,7 @@ why is it slipping like that?'
 *He bent over to see Kent - pushing Martha back onto her feet*
 "A::Did you get it?"
 *Alacira looked back up at Martha, who nodded*
-*The marble left her pocket to her hand then to Alacira who inspected it*
+*The marble exited her pocket to her hand then to Alacira who inspected it*
 }
 {
 "A::Good job...

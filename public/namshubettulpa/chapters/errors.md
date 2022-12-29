@@ -6,7 +6,7 @@ mn:M
 *Martha strolled in*
 ~She noticed the wet floor first, then everyone's demeanor~
 ~It didn't take long to spot the burn marks~
-~They covered a small door down the hallway to the left~
+~They covered a small door down the hallway to the right~
 *Walking up to the front desk she asked*
 "M::What happened here?"
 "PO::Fire"
@@ -43,7 +43,7 @@ mn:R
 {
 *Rossin entered the room with the holding cell*
 ~Three people stood facing the back wall~
-*Once they had entered the room, the officer turned and left*
+*Once they had entered the room, the officer turned and walked away*
 "R::Thank you"
 *The officer shook and returned to normal*
 ~He looked around the room~
@@ -99,7 +99,8 @@ mn:K
 ~It was a nice single level home - not spacious, but clearly not cheap either~
 }
 {
-*He sighed - and left, cutting across the lawn to check on the neighbor*
+*He sighed - walked to the house next door*
+~cutting across the lawn to check on the neighbor~
 *He waited only a short time after knocking on the door*
 *An officer he knew with a brand on his forehead open the door*
 ~Kent stared at the brand, it had a name on it, below a strange symbol~
@@ -154,8 +155,8 @@ Rogers, what are you playing at?"
 "K::Have you seen your neighbor recently?"
 "RO::She was in our house, she ran off, I don't know where..."
 *Rogers shut the door and Kent walked away*
-~He drove off - pondering where Martha might be~
-~Just minutes before Martha herself arrived~
+*He drove off*
+~Pondering where Martha might be, just minutes before she arrived~
 }
 {
 %%%%
@@ -175,17 +176,16 @@ Rogers, what are you playing at?"
 Something about an eye.
 A red eye."
 "K::Was there anything else she mentioned?"
-"P::I don't know man, she was talking to herself - then she just left."
+"P::I don't know man, she was talking to herself - then she was gone."
 *Kent nodded, steepling his fingers under his chin*
 ~How much sleep he had gotten~
-'Too little regardless how much.'
+'K::Too little, regardless how much'
 "K::And you don't remember anything about the walls."
 *The man across from him shook his head*
 "P::Not even a little bit"
-~When Kent told him about how he was just~
-~Facing the wall~
+~When Kent told him about how he was just facing the wall~
 ~Bewilderment was the response~
-~More and more he questioned his sanity~
+~More and more Kent questioned his sanity~
 ~And when he wasn't~
 ~He was becoming deeply troubled by who or what he might be dealing with~
 "K::You sure she said something about a redeye?"
@@ -195,20 +195,28 @@ A red eye."
 A time when...
 You know what...
 Never mind"
+"P::Hey, also: there's a surprise party happening down at the donut shop on fifth, only certain people are supposed to be in the know, you know, but you know..."
+*He leaned in*
+"P::Smith let me in on it, now you."
+"K::Not interested."
 *Kent got up to leave, he knew where he had to go*
-*He looked at the clock - 6:40pm*
+*He looked at the clock - 9:25pm*
 ~He wouldn't be able to make it in time~
 ~Not unless~
+'K::No, parking there is a bitch...'
+"K::Feel like driving?"
 }
 {
 %%%%
 }
 {
-~7:15pm~
+~10:30pm~
 *The blue lights stopped flashing, the cruiser door opened*
 *Kent stepped out*
+"P::I'm going to be late"
+"K::You'll be fine"
 *The beat cop waved him off and drove through the airport traffic*
-'The Redeye planes leave at what, 8?'
+'The Redeye planes leave at what, 11?'
 ~He had time to get through security~
 *He walked in through the sliding glass door to the ticket counter*
 ~It was bent at a slight angle - showing the direction towards the ports~
@@ -240,13 +248,13 @@ Never mind"
 ~Nearly 10 minutes ago now~
 'Redeye...'
 ~He repeated in his head~
-*He Looked at the flight boards as he ran down the terminal*
+*He looked at the flight boards as he ran down the terminal*
 'Where was she going?'
 *He stopped and looked at the board more carefully*
 ~He was next to terminal 23, and it was going up~
 ~He scanned the board for flights leaving that direction~
-~8 o'Clock - new york, 8 o'clock - florida 8:15, new york again~
-~All at terminals down to his left~
+~11 o'Clock - New York, 11 o'Clock - Florida 8:15, New York again~
+~All at terminals down to his right~
 }
 {
 *He stopped when he saw her*
@@ -255,7 +263,7 @@ Never mind"
 *Kent took a chair next to them - behind Martha and out of sight*
 *He leaned back a bit and listened in - pretending to be on a cellphone call*
 ~Saying yes, and other affirmations repeatedly while he listened in~
-"F::I'll grab the 8:00, do you need me to...?"
+"F::I'll grab the 11:00, do you need me to...?"
 "M::I can manage."
 "F::Have you ever flown first class?"
 "M::Can't say that I have. 
@@ -264,7 +272,7 @@ It was always too expensive - but that's not really a problem now is it?"
 With 'rich' people, there's always a chance there's one of us among them. 
 So if you ever need to hide, fly coach."
 "M::Where should I meet you, when we land?"
-"F::Baggage claim - we'll ride together, they're boarding now...
+"F::Baggage claim, they're boarding now...
 You sure you can do this...
 Your neighbor."
 "M::Was a fluke - I got...
@@ -272,12 +280,12 @@ Distracted"
 ~There was a pause~
 "F::Well.
 Don't get distracted again."
-*There was a scuffling of chairs, and Kent turned around to see they had left*
+*There was a scuffling of chairs, and Kent turned around to see they were gone*
 }
 {
 ~Both were going to the same place~
 ~And he was faced with a choice~
-'Continue following Martha? 
+'K::Continue following Martha? 
 Or tail this new person for a while? 
 Someone who has never seen his face.'
 ~To his right was a flight board~
@@ -315,7 +323,7 @@ If not, coach will be fine."
 *The man held a phone to the boarding booth's attendant's face*
 ~The attendant's eye twitched a little bit and they let the man pass~
 *The next in line snapped fingers in the attendant's face*
-~The blank stare left the attendant~
+~The blank stare lifted from the attendant~
 }
 {
 *After everyone had boarded he went back up to the attendant*

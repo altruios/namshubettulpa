@@ -135,7 +135,7 @@ Look - this is not..."
 "M::Good to know."
 "K::So, want to tell me why you were comatose next to your neighbor's dead body."
 *Martha paused*
-'Glancing to her left again.'
+'Glancing to her right again.'
 "M::I... well, I was in shock"
 "K::Normally shock doesn't make you go catatonic"
 "M::Normally you don't see a dead body,"
@@ -156,7 +156,7 @@ Fell over?"
 *Martha nodded*
 *Kent paused*
 "K::What's so weird about that?"
-*Martha's eyes darted to the left again*
+*Martha's eyes darted to the right again*
 }
 {
 *And she sighed*
@@ -176,7 +176,7 @@ Was it speaking?'
 }
 {
 "K::Martha?"
-*She paused her head tilted to the left*
+*She paused her head tilted to the right*
 "R::You don't watch a lot of TV, do you?"
 *Kent tilted his head*
 "K::No: can't say that I do."
@@ -201,7 +201,7 @@ Not literal - figurative...
 No they really exist, just not a literal hook - you don't have any apparently."
 }
 {
-*Martha paused again and looked to her left*
+*Martha paused again and looked to her right*
 "K::Okay you keep doing that"
 "M::What?"
 "K::Looking off to your side."

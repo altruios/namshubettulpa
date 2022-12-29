@@ -78,7 +78,7 @@ They were sharp~
 ~Martha took the last one~
 ~She was hesitant about riding the spider lift~
 ~She used that to cover her hesitancy to speak to Rossin~
-~She wrote on the console to her left~
+~She wrote on the console to her right~
 `"Flanagan is dead."`
 'R::Well and truly, or is he going to come back?'
 ~Gerald was second to last to go up~
@@ -179,7 +179,7 @@ And none of them could find it~
 *Robert of the tok froze*
 ~They all did~
 ~It was gone~
-~No more Algera left to drain - that was everything~
+~No more Algera to drain - that was everything~
 ~That stabbing pain faded to a dull memory~
 'RG_T::Good luck finding it now'
 ~What little pain there was to guide them to that needle was practically gone~
@@ -286,6 +286,7 @@ A moment of awakening, new connections being made~
 "K::Oh come on, I just fixed that"
 *Flanagan punched at his new chest*
 ~A few coughing hacks later the chunk of steak flew out~
+
 
 `{TODO:Flanagan, pretending to be Felix - interacts with Kent, while everyone around them starts wielding their newfound power at each other
 }`

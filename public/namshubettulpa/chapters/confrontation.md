@@ -107,7 +107,7 @@ I didn't stick no street syringe, that would be crazy"
 ~He was the only one in the room, which was filled with various household chemicals~
 ~The floor was still asphalt, but it had a large rug, red and gold, covering most of the room~
 "HM::So these are the owners of that syringe - come to have a little chat, I'll just see myself out."
-*The homeless man turned his cart around and left the way they came*
+*The homeless man turned his cart around and exited the way they came*
 "K::We'll be on our way shortly - once we have it back"
 ~Kent looked more around the room~
 ~Things he took for scrapes of metal and glass on the desk to the right were actually improvised beakers and distilling gear~
@@ -257,7 +257,7 @@ Global.setTrigger(
 *Martha and Flanagan approached herself*
 ~Herself was sitting at the corner window table~
 ~As they drew near, the rest of Martha's view became an echo, a projected reflection of herself~
-"FL::We're here at the edge, right through here is our target."
+"FL::We're here at the edge, through here is our target."
 *Martha nodded and stepped forward*
 "M::Why is it here at all, at this book store, where I am?"
 ~Herself was a door, all around her~ 
@@ -316,7 +316,7 @@ Global.setTrigger(
 ~The yellow lines started melting, coating the tentacles with a rubbery glue~
 *Martha took a breath. Aimed. Then threw her spear*
 *It flew forward - breaking into a fractal all around her as it did so*
-'M::Damn jet-pack would be convenient right about now'
+'M::Damn jet-pack would be convenient about now'
 ~She was forming the grammar to summon one and saw Flanagan with out~
 'M::Or I could just give myself flying.'
 `~Self~.*Flying*=true`
@@ -400,7 +400,7 @@ cmb [
 ~But it wasn't going to make it in time~
 ~She was half stuck in the tar-like fluid~
 *She stopped struggling*
-~It was heading right for her~
+~It was heading directly for her~
 ~As it drew closer she could see it was clear, and it held two men, one along the floor and one in the center piloting~
 ~She recognized him, the Captain's first officer, Gerald~
 "M::Over here!"
@@ -453,7 +453,7 @@ cmb [
 `
 ~And it worked~
 *Her bones let out a snap as they bound together*
-~A coldness left her stomach and her heart as a heat rushed into her bruised rib~
+~Heat rushed into her bruised rib, her stomach and her heart ~
 ~It healed rapidly, but she was immediately hungry, worse... starving~
 ~She was breathing rapidly~
 ~She had not accounted for the energy use of healing, there's a reason people stay in bed for it~
@@ -465,7 +465,7 @@ cmb [
 "M::I am, hungry"
 ~Gerald looked her over and saw her condition~
 "G::Good excuse to use this"
-*He pushed down on the lever to his left and got out of the chair*
+*He pushed down on the lever to his right and got out of the chair*
 ~It seemed to be on some automatic setting~
 ~Martha looked around and saw they were about to land on a familiar ship~
 *Gerald took a knife*
@@ -489,7 +489,7 @@ cmb [
 Just get to the captain."
 *Martha checked his pulse* 
 ~Which was fine~
-*She left the bubble*
+*She stepped out of the bubble*
 }
 
 ## [seeds-of-a-new-world](seeds-of-a-new-world.md)
