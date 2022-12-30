@@ -12,7 +12,7 @@ mn:M
 ~They were far apart but she could make it out in the distance~ 
 ~A faintly yellow glow revealed the oak leaves more than the structure~ 
 *She crested a hill and saw a sidewalk next to a small canal* 
-~A circle bridge twisted into the sky to her right - the same direction of the tree-house~
+~A circle bridge twisted into the sky further down the way - the same direction of the tree-house~
 *She moved that direction - running on the sidewalk*
 }
 {
@@ -128,10 +128,10 @@ Gerald!"
 "G::Which one is this?"
 "A::The first one," 
 ~The captain's gaze fell across Martha, assessing her~
-"G::Right," 
-*He cleared his throat, *
+"G::Let's see" 
+*He cleared his throat*
 "G::So you'll be going to a monastery in italy - 1450, december 13th, 4:23pm. 
-You'll be a few feet from the tower right before the fire."
+You'll be a few feet from the tower just before the fire."
 "M::Fire?" 
 ~Her brain was still processing this~
 `['Did they say it was a dream...',
@@ -146,7 +146,7 @@ You'll have a minute or two before it starts, and a few minutes during"
 ~Around 23 she saw e to the pi~
 "A::To get the information you need. 
 We're connected there - moments where no one else would look.  
-Right at the destruction."
+At the destruction."
 "M::What information do I need?" 
 ~Martha felt like she was obeying a script~
 ~A feeling of still being in a dream - unable to control or wake from it~
@@ -184,7 +184,7 @@ It's as solid as a fresh dream."
 ~This hallway was missing those victorian lamps~
 ~And the corners held shadows~ 
 ~Shadows thick enough to stick to you~
-"G::The number 132, it's on our right," 
+"G::The number 132, it's on our left," 
 *The man said, inspecting his clipboard*
 *The captain walked out at a brisk pace - urgent*
 *She took out a golden pocket watch from her breast pocket*  
@@ -205,9 +205,9 @@ Isn't your concern - don't try to find us, we'll find you"
 *He pushed his glasses back up to his nose*
 "G::Gerald Whitewater, nice to meet you" 
 *He shook her hand*
-*Abruptly the captain stopped, and faced to her right*
+*Abruptly the captain stopped, and faced to her left*
 ~Below her was a golden placard inlaid into the floor, reading CXXXII~
-"A::Alright - here it is." 
+"A::Here it is." 
 *She stepped to the side and Martha got a good look*
 ~It was near sunset through the portal~
 ~It showed a picture of a single moment~
@@ -226,7 +226,7 @@ More south than they should, that is."
 ~The monks did not notice her:~ *one stepped through her as she stood up. *
 ~She felt nothing, surprised - but nothing~
 ~She looked around at the idyllic scene~
-~The tower stretching up to her right~
+~The tower stretching up to her left~
 ~Heavy double doors stuck partially open by a small wooden block~
 *She moved toward it and pressed her hand against it*
 ~It was solid to her touch~ 
@@ -260,10 +260,10 @@ It stung her nose - an acrid smell, faint but detectable~
 *She continued up the stairs at a hurried pace* 
 ~Trying and failing to outrun the smell of smoke~
 ~She reached the top~ 
-~A set of closed double doors lay in front of her and a slit opening of a window on her right~
+~A set of closed double doors lay in front of her and a slit opening of a window on her left~
 ~Bits of black smoke covered the view of the countryside~
 ~A small village in the distance~
-*She pulled the handle of the left, then the right*
+*She pulled the handle of the left, then the other direction*
 *Then pushed on both*
 ~It was locked~
 *She banged on the doors*  
@@ -474,7 +474,7 @@ mn:M
 ~All with similar books~ 
 'They said it would stand out.' 
 ~She looked around the room - looking for anything out of place~ 
-~She spotted a desk to the right of the door she entered from - papers in a haphazard mess~ 
+~She spotted a desk next to the door she entered from - papers in a haphazard mess~ 
 ~And~
 'There!' 
 ~She spotted it~
@@ -537,7 +537,7 @@ mn:M
 *It streaked toward her as she fell through the earth* 
 ~She never felt an impact~
 ~Instead the dirt becoming translucent and grey twisted about her~
-~She saw purple lightning in the distance off to her right~ 
+~She saw purple lightning in the distance off~ 
 ~A flash, then thunder in her ears~
 ~The storm was deafening - and all of the sudden - it stopped~
 ~A twisting film of translucent color filled her vision and there was silence~
@@ -560,8 +560,8 @@ mn:M
 *Martha jumped back*
 ~And that sensation of jumping back, of suddenly moving back spread~
 ~It spread though her body, into her back, her limbs~
-~It drew into her arms right into her clutched hands holding the covers~
-~The covers of the motel bed. ~
+~It drew into her arms, into her clutched hands holding the covers~
+~The covers of the motel bed~
 *She was panting* 
 ~She realized she was on her back - staring at the popcorn ceiling~
 ~Suddenly ejected from her dream~

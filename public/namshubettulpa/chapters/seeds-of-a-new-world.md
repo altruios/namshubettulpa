@@ -22,7 +22,7 @@ mn:K
 ~The top of the wall did not reach the ceiling~
 ~The gap was ten... fifteen meters or more~
 'K::Shit... where are you, Kent?'
-*There was a single knock at the open door to his left*
+*There was a single knock at the open door to his right*
 ~More of a slam really, a moment later it came again~
 ~Kent's head throbbed - pulsing in rhythm to the darkness receding from his vision~
 *Another slam on the door*
@@ -35,7 +35,7 @@ mn:K
 ~He found a woman on the floor, having some sort of seizure~
 *Her leg jerked. It banged against the door again*
 *Kent looked both ways down the hallway she was in*
-~All was silent - but down to the left there was another person on the floor~
+~All was silent - but down to the right there was another person on the floor~
 'K::Right, fucking cardboard palace - chemistry... 
 Should you be breathing though a filter?'
 ~The air seemed fine~

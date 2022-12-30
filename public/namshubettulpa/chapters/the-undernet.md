@@ -5,7 +5,7 @@ mn:M
 ~Felix still had not shown up, and neither had Rossin~
 ~She recounted her dream~
 ~Lists she made while in the dream were still just as fresh as any other~
-~She closed her eyes - her message still written off to her left~
+~She closed her eyes - her message still written off to her right~
 `['Had another dream',
 'That police officer was in it',
 'Sort of....'
@@ -18,12 +18,12 @@ mn:M
 ~It had been already an hour since she landed~
 ~A small moment of panic hit her, she was stranded - in New York~
 `['With no real money.'
-'Left here',
-'Maybe Felix already left', 
+'Stuck here',
+'Maybe Felix is already gone', 
 'Maybe Rossin would not wake up...',
 'Maybe...']`
 ~She didn't write this list to the board~
-~She would have kept going except she heard a noise to her left~
+~She would have kept going except she heard a noise to her right~
 *Rossin sat down next to her*
 *She turned to him*
 "M::What took you so long?"
@@ -76,7 +76,7 @@ I was finding things for her.
 And they made these - patterns. 
 These shapes in my brain - I still see them."
 'R::I see...
-And can you put these patterns on that board to your left?'
+And can you put these patterns on that board to your right?'
 ~She tried to fit those shapes into a list, but they refused~
 ~Bulging out from that boundary~
 ~Shattering the well-ordering of her thoughts~
@@ -84,7 +84,7 @@ And can you put these patterns on that board to your left?'
 ~And since she hadn't learned how to put anything but lists~
 ~She tried just without the lists and to her surprise, it worked~
 //(IMAGE LINKS GO HERE)
-~They exploded out of the board to the left of her perception~
+~They exploded out of the board to the right of her perception~
 ~Fading into nothing - they were still burned into her brain, but that had~
 ~Hurt - she had a splitting headache~
 'R::Oh...
@@ -354,7 +354,7 @@ Get out of here now!'
 *Any direction would do - she turned to face the man*
 ~He was on all fours - galloping toward her~
 ~She waiting in anticipation~
-*She braced herself and jumped to the side just as he left the ground for the last time*
+*She braced herself and jumped to the side just as he did*
 *He slammed face first into the elevator*
 ~Her hearing was slowed down but not de-pitched~
 *She ran back down the hall*
@@ -411,7 +411,7 @@ Fill me in?"
 "K::Well, you broke out of the holding cell. 
 No one remembers you, and oh yeah, my friend is dead."
 *Kent looked up at her as she turned to Rossin*
-"M::I told you, we shouldn't have left yet."
+"M::I told you, we should have stayed."
 *Rossin shrugged*
 'R::We can bring him...'
 ~He trailed off, looking at Kent~

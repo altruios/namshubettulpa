@@ -10,7 +10,7 @@ mn:F
 ~Felix said without turning back~
 ~Inside the closet was a mirror. ~
 ~Inside of which several drawers for cufflinks. ~
-~To his left were suits - from white, to black and most colors in between~
+~To his right were suits - from white, to black and most colors in between~
 ~He felt like standing out today~
 'A nice red suit'
 ~Something to catch the eyes~
@@ -48,7 +48,8 @@ mn:F
 'They were probably horrible people - why not make them better.'
 }
 {
-*He left them, taking the keys to their large SUV*
+*He walked off*
+~Taking the keys to their large SUV~
 ~The really expensive brand only douches drove~
 ~He always wondered what the appeal was - now was his turn~
 ~He should check that Martha was listening - that she found somewhere safe~
@@ -273,7 +274,7 @@ You know about hooks but have at least some trouble using them.
 And you have a firewall on your brain...
 But you spent the night in prison because you...
 Felt like it..."
-~He left the end hanging almost like a question~
+~He kept the end hanging almost like a question~
 *Martha continued to eat*
 "M::So where would you rank me?"
 }

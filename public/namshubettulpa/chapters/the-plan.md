@@ -398,7 +398,7 @@ She does not recognize me'
 'Is he dead?'
 *Felix gasped*
 'Alright, here comes the cavalry, ass-hat'
-~Kent left the syringe in the crook of the sidewalk and street~
+~Kent dropped the syringe in the crook of the sidewalk and street~
 'If I arrested her...'
 'No one would believe me, and she would make them not believe me'
 *He picked up a small two by four*
@@ -407,7 +407,8 @@ She does not recognize me'
 *As Kent crept closer he looked between her and the black ichor*
 ~It was still sizzling, he didn't think it would stop~
 "AG_T::I wouldn't speak if I were you."
-*She look to the left, down at the bodies*
+*She looked to the left* 
+~Down at the bodies~
 *Kent glided to the right*
 ~Closing the distance~
 *He swung*
@@ -438,7 +439,7 @@ She does not recognize me'
 "AG_T::Those aren't the words"
 "K::STAY TRUE, THROUGH THE RUSE"
 ~Kent heard the sudden wack against her head and flinched~
-*Alice fell to his left, he rolled to his right*
+*Alice fell to his left - he rolled to his right*
 ~A round older man stopped his shopping cart full of junk at the mouth to the alley~
 *He was rummaging around the ground*
 ~Kent looked himself over - making sure there was no contamination~

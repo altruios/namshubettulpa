@@ -96,7 +96,7 @@ Dole it out all day to particular people.'
 *The servants obeyed* 
 "F::And you - go take us in to the harbor, get a car - take us to the airport."
 ~Soon to take a jet to America, to deal with his one job~
-*As the servants left, he watched them*
+~He watched as the servants departed~
 ~He picked them mostly for their physicality, to satisfy his plans later, which would be put on hold~
 ~And others would be found instead~
 'Work before pleasure.'

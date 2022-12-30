@@ -204,7 +204,7 @@ From the dream?'
 ~And the book~
 ~The image of that symbol flashed in her memory~
 ~An undulating pattern that rotated in on itself~
-~It left an afterimage of itself in her mind's eye~
+~It burned an afterimage of itself in her mind's eye~
 }
 {
 ~That pattern had been a language - one she could almost understand~
@@ -463,7 +463,7 @@ I'm not looking to my right - I'm not using my eyes"
 There are other places you can look. 
 There is not much there - and I would not go poking around...
 You still have...
-That thing inside you, what is left of it anyway...
+That thing inside you, what is remaining of it anyway...
 Best not to accidentally look at it.'
 "M::But the right is safe?"
 'R::The right is safe, I built that myself.

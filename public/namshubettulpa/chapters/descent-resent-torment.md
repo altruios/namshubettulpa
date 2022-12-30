@@ -248,7 +248,7 @@ mn:M
 ~~
 ~~
 ~~
-*Martha leaned to her right*
+*Martha leaned to her left*
 ~~
 ~~
 ~~
@@ -272,8 +272,8 @@ mn:M
 
 ~She found herself on the grass~ 
 ~It was night, and she was in a large grass field, trees surrounding all sides except~
-~She heard a noise to her right, a wooden impact~
-*She looked right*
+~She heard a noise to her left, a wooden impact~
+*She looked left*
 ~And was watching herself storm out of the back of the mansion she had been in a few nights ago~
 "M::Oh... well then."
 *Martha sat up on the grass*
@@ -290,7 +290,7 @@ But - I think I can get him here - that I am here, sort of a switcheroo"
 *Martha sat up*
 "M::Anything I need to do?"
 "R::Let him through"
-*Rossin pointed to the right* 
+*Rossin pointed to the left* 
 ~There was an edge to the memory - leading back to that space~
 ~And between the memory, and that space was a gap - wide as a small field~
 ~~
@@ -303,7 +303,7 @@ But - I think I can get him here - that I am here, sort of a switcheroo"
 ~In that gap Rossin appeared, partially immaterial, bounded behind some barrier~
 *There was a crack*
 ~~
-~Another Rossin to her right was banging on the barrier~
+~Another Rossin to her left was banging on the barrier~
 *The Rossin in front of her shook his head and backed away*
 ~More and more appeared until it was not empty~
 ~Just a writhing mass of Rossin's stuck together~

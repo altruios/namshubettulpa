@@ -248,7 +248,7 @@ Well: mostly~
 ~Above hung a sign, not of wood, or iron, as most chose to see it, but of fact~
 *Dangerous!*
 'AD::dangerous for a reason'
-~The door had been left opened~
+~The doors had been opened~
 'AD::As long as I use the right filters'
 *She looked in*
 *Naked facts hang everywhere*
@@ -307,7 +307,7 @@ Safe-ish'
 ~It was for emergencies - she kept enabled despite being told to server all open connections~
 ~That was near impossible, to server all ties to the links~
 ~But besides that one she had gotten close~
-*She closed the doors, and left the room*
+*She closed the doors, and exited the room*
 ~Out in the hallway stood two people, old and frail and lumpy~
 "J::Awake, I win. 
 Come on darling - much to catch up"

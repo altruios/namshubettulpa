@@ -242,7 +242,7 @@ mn:M
 "F::Hello Flanagan, how are things?"
 *Flanagan shifted his robe, and leaned against the door, inviting them in*
 "FL::Better now that you're here."
-~Off to the left of the door was a set of inlaid plaques~
+~Off to the right of the door was a set of inlaid plaques~
 *Rossin walked off and stared at one*
 "FL::Come in, inside: you're the first to arrive."
 ~Martha turned her head to the plaques~
@@ -260,10 +260,10 @@ mn:M
 *Flanagan closed the door, then walked up to Martha*
 'R::Okay, so - this either works or... 
 See that keypad?'
-~She did, it was below the plaque, slightly off to the left~
+~She did, it was below the plaque, slightly off to the right~
 'R::Put in these numbers:'
 ~A list followed - she typed them in~
-~As she entered the last one a pleasant chirp came from the tiny speaker attached to the left~
+~As she entered the last one a pleasant chirp came from the tiny speaker attached to the right~
 }
 {
 ~Flanagan nodded~
@@ -312,7 +312,7 @@ I - Rossin, think that he's typical."
 "FL::And you?"
 "M::If he's fixable - good core in a bad wrapping or rotten through?"
 *Martha repeated the gesture*
-*Flanagan nodded, then left the threshold*
+*Flanagan nodded, then crossed the threshold*
 }
 {
 ~Martha let out a sigh~
@@ -342,7 +342,7 @@ And we really do not have time right now - here.'
 ~Nothing was a right angle~
 ~Everywhere the eye look every burned into her brain~
 'R::A landing pad.'
-*Rossin walked down the little alcove stairs in the left*
+*Rossin walked down the little alcove stairs to the right*
 "FL::Watch your step on these..."
 `"Landing pad?"`
 *Rossin poked his head back inside this small section of the room*
@@ -367,7 +367,7 @@ Sort of a: if I die I can come for your body from your dreams, kind of thing.'
 "FL::Oh, that would be two of the Relux"
 "F::Where's the third"
 "FL::Still in Romania: now If you'll excuse me."
-~After Flanagan left the room for the center door, Martha had to know:~
+~After Flanagan was out of the room, Martha had to know:~
 "M::Relux?"
 "F::Name of a hivemind - three people sharing three bodies."
 ~Martha paused~
@@ -483,7 +483,7 @@ I think it's a coup too, and the undernet is being pushed in the spotlight"
 "L_R::Heavy handed."
 "FL::It would imply,"
 *Flanagan sipped his tea*
-"FL::That it's still a minority of what's left"
+"FL::That it's still a minority of who's still around"
 "F::So what, the undernet's the scapegoat"
 "J_R::That's possible, but a scapegoat general is innocent - that's to be determined."
 "F::When did all this start"

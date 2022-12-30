@@ -2,7 +2,8 @@
 {
 mn:M
 *Martha sat in the center of a wooden bench while Rossin paced around the cell* 
-~Avoiding stepping over her 3 cell mates - his left arm wrapped around him providing a supporting anchor for his right, which he used to scratch his chin and hold his head~
+~Avoiding stepping over her 3 cell mates~ 
+*He was scratching his chin*
 'R::He literally has no link, not just hooks - as if he is a robot'
 *One of the cellmates leaned back - stretched their foot out* 
 *Rossin pass through it, unnoticed* 
@@ -309,7 +310,7 @@ Right - you're new."
 *Rossin put his hands up in a calming gesture* 
 'R::Let this play out, it is what I was trying to tell you earlier' 
 *She backed down* 
-*Albert left the room, and was back in moments* 
+*Albert walked out of the room, and was back in moments* 
 ~He was holding another scrawny police officer by the collar~ 
 ~In Albert's grip raised just enough for his black shoes to leave the floor~
 "F::Well that was fast. Looks like... 
@@ -328,7 +329,7 @@ It's bad form to trash the playground."
 *Rossin leaned over to her* 
 'R::This is a stroke of luck - him not trying to erase you... 
 I think that is lucky at least...'
-~They left the room the holding cell was in~
+~They exited the room the holding cell was in~
 ~Only to find the police station quiet and still~
 ~With no police officer, or anyone in the station moving or making a sound. ~
 ~They stood where they had been doing something~  
