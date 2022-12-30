@@ -135,14 +135,23 @@ It grows sharper the more you think about it, and it cuts deep between things."
 ~Martha suppressed a smile, and realized, that was probably the only time he could easily go out in pubic~
 ~Without being killed or becoming famous, that is~
 'M::No, wait...'
-`['They could just tattoo brand Wilbert's forehead',
+`['They could just that tattoo brand Thing Felix had',
   'he could wear a hat' => ~360 view of a namshub~,
 ]
 `
 'M::A hat might blow off, and a branding, or tattoo is a bit much, but still: something'
 "A::I don't see any notes about Al-tok"
 "G::Then what's the plan?"
-`{TODO:finish}`
+"A::We wait it out, algera has a tendency to pool. 
+When it is safely soaked back into a few people, we retrieve the ship."
+*Alacira walked to the coffee table and couch and sat down*
+"A::But I don't know how long that will be, so Flanagan has some guests for a time"
+
+`
+{TODO:finish - what needs to be accomplished still:
+  Rossin to understands he was wrong about the initial scale of the awakened (make the numbers make sense) 
+  loss of trust 'R::I am winging it here, just like everyone else'
+}`
 
 }
 {
@@ -183,7 +192,7 @@ And none of them could find it~
 ~That stabbing pain faded to a dull memory~
 'RG_T::Good luck finding it now'
 ~What little pain there was to guide them to that needle was practically gone~
-~This tok, what it was, what it and its siblings made up, kept calm a sea of anger~
+~This tok, what it was, what it and its siblings made up, kept still a sea of anger~
 ~A hurricane bottled by an impenetrable calm~
 'RG_T::It does not matter'
 ~It reflected on the progress it was making, a new batch was ready~
@@ -224,6 +233,9 @@ Searching for survivers.~
 ~Growing exponentially~
 ~Al-tok understood at that moment where the Algera had been placed~
 ~Into all of them~
+~Everyone was in their own world, and trying to force everyone else to join them.
+But by pulling equally in all directions: commonalities appeared, ripples and echos of coherence.
+Harmonizing waves in a sea of minds bound the desires of the outliers, often in persecution.~
 *Robert of the tok turned and walked back inside*
 ~If that group was any indication, The Algera would congeal onto few hosts again~
 ~It would just take a little time~
@@ -285,12 +297,35 @@ A moment of awakening, new connections being made~
 *Flanagan gagged*
 "K::Oh come on, I just fixed that"
 *Flanagan punched at his new chest*
+~His hands were cuffed together~
 ~A few coughing hacks later the chunk of steak flew out~
-
-
-`{TODO:Flanagan, pretending to be Felix - interacts with Kent, while everyone around them starts wielding their newfound power at each other
-}`
-
+~He was on a bed, rolling down the street~
+'FL::Where have you been'
+`{TODO:Add brain riffling bit}`
+"K::You alright there?"
+"FL::Fine, just fine."
+~They were deep inside the park~
+~Kent was watching all around~
+"FL::What's wrong?"
+"K::We're taking a little detour through the park.
+We have a bit of company around us."
+*Flanagan lean up*
+~Around him just the park~
+"K::So, people are awake now, they seem to be able to control anyone around them."
+"FL::Everyone?"
+*Kent nodded*
+*Flanagan gripped the side rails*
+~The bed had bounced against a particularly large hole in the sidewalk~
+~Was that movement to the left?~
+"K::Some people wanted to help, another group..."
+~Kent paused~
+"K::They took them over.
+It was one asshole at the helm.
+He wasn't the only group doing that."
+*Kent looked down at Flanagan*
+"K::You got any idea why they're doing that"
+"FL::The sooner we can get to Flanagan's the sooner he can explain"
+*Flanagan, in Felix's body, pointed towards his home*
 
 }
 {

@@ -345,4 +345,6 @@ what gives with the unconscious?'
 ~A moment cut short by banging on the door~
 }
 
+##### next: Martha//data//memories/ [mansion_outside](/namshubettulpa/characters/martha/reset-3.md)
+
 <script src="/namshubettulpa/code/great-awakening-terminal.js"></script>

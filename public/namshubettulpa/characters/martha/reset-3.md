@@ -32,7 +32,7 @@
 {
 "M::Fuck, it's night."
 ~It was a bright light in the sky, but no - not the moon~
-~It was a bubble, decending~
+~It was a bubble, descending~
 *She walked more determinedly*
 ~Forcing each foot to the ground as a stop-measure against her rising panic~
 }
@@ -41,7 +41,7 @@
 ~A lush and wet lawn spanning what looked like an acre, surrounded by trees... 
 She went around the corner as Rossin stepped out of the door behind her~
 *He walked lazily down the steps, letting the door bang behind him*
-~Martha remembered this before, a jolting de-javue~
+~Martha remembered this before, a jolting deja vu~
 "A::Reel her in!" 
 ~She felt a tugging on her vest~
 ~The rope behind her split into every fiber of her memory~
@@ -58,7 +58,7 @@ She went around the corner as Rossin stepped out of the door behind her~
 
 }
 {
-~Alacria shuffeled~
+~Alacria shuffled~
 "A::If we don't go through soon, she'll land right back in"
 "A::It's right below us, and catching up."    
 *Martha looked down below*
@@ -71,7 +71,7 @@ She went around the corner as Rossin stepped out of the door behind her~
 "M::You're following me now?"
 *He shifted his tie, adjusted his hat now that it was on him*
 'R::Well, I am in your head, you put two and two together.'
-*Leaving him behind she walked past the side of the… mansion… yes it was a mansion*
+*Leaving him behind she walked past the side of the... mansion... yes it was a mansion*
 ~Complete with a ridiculously long driveway and hedges blocking all surrounding views~
 *She continued out to the street, Rossin making his way behind her*
 'R::There is more.'

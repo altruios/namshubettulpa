@@ -464,7 +464,8 @@ cmb [
 "G::Are you alright?"
 "M::I am, hungry"
 ~Gerald looked her over and saw her condition~
-"G::Good excuse to use this"
+"G::Good excuse to lose some of this"
+~He had a hand on his stomach~
 *He pushed down on the lever to his right and got out of the chair*
 ~It seemed to be on some automatic setting~
 ~Martha looked around and saw they were about to land on a familiar ship~
