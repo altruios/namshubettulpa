@@ -135,7 +135,7 @@ It grows sharper the more you think about it, and it cuts deep between things."
 ~Martha suppressed a smile, and realized, that was probably the only time he could easily go out in pubic~
 ~Without being killed or becoming famous, that is~
 'M::No, wait...'
-`['They could just that tattoo brand Thing Felix had',
+`['They could just do that tattoo brand thing Felix had',
   'he could wear a hat' => ~360 view of a namshub~,
 ]
 `
@@ -160,7 +160,7 @@ mn:RG_T
 }
 {
 *Robert Glass of the tok refocused the microscope*
-~A row of scientists were in a row in repeating a chemical process~
+~A row of scientists were in a row: repeating a chemical process~
 ~Around it other shells like itself~
 ~The problem with being a smaller part of a bigger thing is the inability to know that larger thing~
 ~But being so interconnected you knew a lot more otherwise~
@@ -328,6 +328,5 @@ He wasn't the only group doing that."
 *Flanagan, in Felix's body, pointed towards his home*
 
 }
-{
-`{TODO: next chapter}`
-}
+
+## [Meeting of Minds](meeting-of-minds.md)

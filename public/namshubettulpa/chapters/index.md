@@ -42,6 +42,10 @@
  19. [seeds of a new world](seeds-of-a-new-world.md)
 
  20. [the great awakening](the-great-awakening.md)
+
+ 21. [Consequences](consequences.md)
+
+ 22. [Meeting of Minds](meeting-of-minds.md)
 `}
 ### [index](../index.md)
-date:12/30/22
+date:01/01/23

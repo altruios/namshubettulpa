@@ -21,6 +21,9 @@ const emoji_map= new (function(){
     this.compass='\u{1F9ED}'
     this.shamrock='\u{2618}'
     this.whichway=`${this["backhand index pointing left"]}${this.compass}${this["Right Pointing Backhand Index"]}`
+    this['waving hand']='\u{1F44B}';
+    this.detective='\u{1F575}'
+    this.hime = `${this['waving hand']}${this.detective}`
     
 })()
 

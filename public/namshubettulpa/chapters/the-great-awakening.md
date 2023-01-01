@@ -82,7 +82,7 @@ No screams, no yelling - no footfalls in the distance~
 *Felix held out a syringe*
 "F::Takes something like this to make anyone think that"
 ~Kent had a vial of that same liquid - hidden now in his pocket~
-"F::impossible chemicals, for impossible thoughts"
+"F::Impossible chemicals, for impossible thoughts"
 "K::That sounds like bullshit, I can think anything I want to right now"
 *Felix shook his head*
 "F::No, you can't think any thought you want.
@@ -107,7 +107,7 @@ Shouldn't we be going?"
 ~Kent heard screaming in the distance~
 *Felix turned his head*
 ~Listening~
-~Kent felt something hit is leg by the ankle~
+~Kent felt something hit his leg by the ankle~
 ~Felix had knocked over some people sitting together to get at their food~
 *Kent stood up*
 *He dodged a twitch of a fallen patron's leg*
@@ -139,8 +139,8 @@ Others were looking at their own hands~
 'K::Away from the broken glass'
 ~He took in a few breaths~
 ~Around him people were examining the car crashes~
-~But there were others: roaming groups descending on the unsuspecting~
-~It wasn't with guns, or knives or sticks - but words and pictures~
+~But there were others: roaming groups descending on the unsuspecting.
+It wasn't with guns, or knives or sticks - but words and pictures~
 *Kent looked around himself*
 ~He was at an intersection touching the park~
 'K::Okay Kent, where to?'
@@ -154,7 +154,6 @@ Others were looking at their own hands~
 ~He was not moving~
 'K::If he wakes up... 
 Shit is he still -'
-~Kent worried about when He put Felix on his back in the rolling bed~
 *Felix started coughing*
 }
 {
@@ -163,7 +162,7 @@ Shit is he still -'
 {
 mn:M
 ~It was cramped with seven people in the bubble~
-~Martha was holding tightly to the chair in the center~
+~Martha held tightly to the chair in the center~
 ~They all were, due to the turbulence~
 ~Martha didn't see anything outside the bubble, a blank void~
 ~The bubble was shaking, as if unsure of it's position without any other points of reference~
@@ -175,19 +174,17 @@ mn:M
 ~A silence fell over them~
 "M::I might have a way."
 ~Everyone turned their head to Martha, besides Wilbert, whose eye was already on her~
-*Alacria rowed her hand*
+*Alacira rowed her hand*
 ~A gesture to continue~
 "M::Well, Flanagan did: The way we came into the link, we should be able to get out the same way."
 "G::Martha - when I say there's nothing out there, there is nothing, even if we have a way back we wouldn't be able to get to it right now."
 "NT::$Ewhichway:"
 "M::Through me, through that thing in my head"
-*Alacria leaned over and looked at the unconscious Flanagan*
+*Alacira leaned over and looked at the unconscious Flanagan*
 "G::She'd have to go outside the bubble for that"
 "A::That's the easy part"
 ~Sonny was still weaving webs, the glowing sacks stuck to the walls~
 ~Every addition making the bubble smaller - hotter~
-"NT::$Ewait:"
-"NT::$Ejoin:"
 "M::Does anyone have a better idea?"
 "G::Waiting it out is less than ideal: we don't know how long this will be"
 *Martha looked around the room*
@@ -213,7 +210,7 @@ Up the rabbit hole to the real world."
 'M::yes, saying out loud, it sounded crazy.'
 ~Alacira only nodded~
 *Sonny walked up to her and handed her a vest*
-~made of webs and attached to a rope in the center~
+~It was made of webs and attached to a rope in the center~
 *Martha put it on*
 ~Martha securing herself, she looked out into that nothing~
 *She stepped out of the bubble*
