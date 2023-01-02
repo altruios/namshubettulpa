@@ -287,6 +287,11 @@ A moment of awakening, new connections being made~
 'F::Get another body'
 ~Soon Flanagan was in control, and Felix in the the back of the mind~
 "FL::Slim pickings, I'm afraid"
+}
+{
+mn:FL__F
+}
+{
 ~This was not without a struggle, Felix had implemented a deadman switch~
 ~If Felix lost control of his body: it would go catatonic~
 ~Flanagan riffled through Felix's memories~
@@ -303,16 +308,16 @@ A moment of awakening, new connections being made~
 'FL::Where have you been'
 `{TODO:Add brain riffling bit}`
 "K::You alright there?"
-"FL::Fine, just fine."
+"FL__F::Fine, just fine."
 ~They were deep inside the park~
 ~Kent was watching all around~
-"FL::What's wrong?"
+"FL__F::What's wrong?"
 "K::We're taking a little detour through the park.
 We have a bit of company around us."
 *Flanagan lean up*
 ~Around him just the park~
 "K::So, people are awake now, they seem to be able to control anyone around them."
-"FL::Everyone?"
+"FL__F::Everyone?"
 *Kent nodded*
 *Flanagan gripped the side rails*
 ~The bed had bounced against a particularly large hole in the sidewalk~
@@ -324,7 +329,7 @@ It was one asshole at the helm.
 He wasn't the only group doing that."
 *Kent looked down at Flanagan*
 "K::You got any idea why they're doing that"
-"FL::The sooner we can get to Flanagan's the sooner he can explain"
+"FL__F::The sooner we can get to Flanagan's the sooner he can explain"
 *Flanagan, in Felix's body, pointed towards his home*
 
 }
