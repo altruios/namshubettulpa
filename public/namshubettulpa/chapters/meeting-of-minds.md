@@ -112,7 +112,7 @@ Your first death is the scariest."
 "K::She did it with her neighbor, new body - right?"
 "M::You want me to bring him back?"
 ~Martha paused~
-"M::Did he have any friends, or family"
+"M::Did he have any friends, or family?"
 "K::Me."
 "M::Other than you?"
 "K::I'm not sure actually, people that knew him, sure... but friends?"
