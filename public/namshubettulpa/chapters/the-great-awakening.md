@@ -51,6 +51,8 @@ No screams, no yelling - no footfalls in the distance~
 *Kent pushed the bed towards the steakhouse*
 ~Felix was at a window seat - eating a steak~
 "F::Get some nice beauty sleep, did you?"
+*Felix pointed at the bed with is fork*
+"F::Making friends?"
 ~Kent shook his head~
 "K::Why aren't you asleep?"
 *Felix took another bite of steak*
@@ -111,7 +113,7 @@ Shouldn't we be going?"
 ~Felix had knocked over some people sitting together to get at their food~
 *Kent stood up*
 *He dodged a twitch of a fallen patron's leg*
-'K::They were waking up'
+'K::People are waking up'
 *Kent looked around the room*
 ~He found movement everywhere~
 'K::All of them'
@@ -120,6 +122,8 @@ Shouldn't we be going?"
 *Felix was choking on his food*
 ~Kent could hear the lack of breathing. 
 Felix was unnaturally still, his body on automatic~
+"K::Hey, you there?"
+~Felix did not respond~
 *Kent moved in and applied the heimlich*
 ~Around him patrons had started to stand up~
 *Felix spat up some steak*
@@ -141,14 +145,18 @@ Others were looking at their own hands~
 ~Around him people were examining the car crashes~
 ~But there were others: roaming groups descending on the unsuspecting.
 It wasn't with guns, or knives or sticks - but words and pictures~
+*He pushed the bed down the street*
+~It wasn't just one group absorbing another, but multiple each clawing for control of the people of the others. 
+Together it was a chaos~
 *Kent looked around himself*
 ~He was at an intersection touching the park~
 'K::Okay Kent, where to?'
 ~He kept an eye out for anyone, any group, approaching him~
 'K::Where did Felix come from, Where did you first see him'
 ~He remembered seeing Felix walking in the park~
+~It was a guess, but...~ 
+'K::If Felix (and who he was) with was making a bee-line'
 *Kent turned left*
-~It was a guess, but if Felix and who he was with was making a bee-line~
 'K::Eh, close enough - he can tell me different when he wakes up'
 *Kent looked down at Felix*
 ~He was not moving~
@@ -174,8 +182,7 @@ mn:M
 ~A silence fell over them~
 "M::I might have a way."
 ~Everyone turned their head to Martha, besides Wilbert, whose eye was already on her~
-*Alacira rowed her hand*
-~A gesture to continue~
+*Alacira gestured for her to continue*
 "M::Well, Flanagan did: The way we came into the link, we should be able to get out the same way."
 "G::Martha - when I say there's nothing out there, there is nothing, even if we have a way back we wouldn't be able to get to it right now."
 "NT::$Ewhichway:"
@@ -191,7 +198,7 @@ mn:M
 "G::And There is nothing out there."
 "A::If there was nothing out there we wouldn't be here in this bubble."
 ~Alacira was staring out the bubble~
-"A::I don't think that nothing is nothing.
+"A::I don't think <i>that</i> nothing out there is nothing.
 Just nothing we can use."
 *Alacira turned to Gerald and Martha*
 "A::She's offering to act like rudolph - light our way home.
@@ -228,8 +235,9 @@ mn:AD
 }
 {
 ~Ada walked through the halls of Șolomanță~
-~The palace she was in, underground the Romanian countryside, had a particular quality:~
+~The palace she was in, had a particular quality:~
 ~Everyone saw their own version of it~
+~Everyone knew it was underground the Romanian countryside, but...~
 ~Were the walls red, or green, or plum?~
 ~There were details rendered individually by the brains that saw it~
 `
@@ -248,7 +256,7 @@ Well: mostly~
 ~The doors had been opened~
 'AD::As long as I use the right filters'
 *She looked in*
-*Naked facts hang everywhere*
+*Naked facts hung everywhere*
 ~Facts dangerous to understand, facts that could destroy minds~
 ~But with the right filters of perception - looked at from only a particular viewpoint - they were safe to consume~
 'AD::Well... 
@@ -313,8 +321,7 @@ Come on darling - much to catch up"
 "AD::Is the link safe?"
 ~Jochek and Lenny shook their heads~
 *Jochek embraced her, and Lenny shortly after*
-~It was an hour's ride and ditching the carriage and riding horse back was physically demanding~
-~Particularly on bodies not accustom to it - they were in need of a bath~
+~Their bodies unaccustomed to hard riding; they were in need of a bath~
 ~Still: Ada embraced them back~
 "J::Physical link is fine."
 ~And shorter than a heartbeat later Ada was one of three~
@@ -324,6 +331,7 @@ Come on darling - much to catch up"
 mn:RX
 }
 {
+*Lenny broke the embrace and moved to the stairs*
 'AD::The Way Out is downstairs. 
 what gives with the unconscious?'
 *Footsteps fell on the stairs behind them*
@@ -331,12 +339,12 @@ what gives with the unconscious?'
 ~She was part of the  [egregore](/namshubettulap/world/egregore.md)  the Relux~
 'RX::Someone is awake'
 'L::All of them'
-~Lenny had been furthest back towards the stairs. He kept watch: hearing multiple sets of feet below~
+~Lenny, at the stairs, heard multiple sets of feet below~
 'RX::Hiding would be prudent'
 ~They weren't supposed to be on this floor: none of the guests were~
 *Ada led them towards a door across the hall*
 ~It led to a library for old dusty books~
-~shelves lined the wall extending into the ceiling~
+~Shelves lined the wall extending into the ceiling~
 *Lenny locked the door*
 ~They took a moment to rejoice: in their reunion ; their being one again~
 ~A moment cut short by banging on the door~
