@@ -4,15 +4,17 @@ mn:K
 }
 {
 *Kent stuck out his hand*
-~Keeping the lift doors from closing~
-~Kent had the Chemist over one shoulder~
-~The hospital bed would not fit in the elevator~
+~The lift doors bounced back, once... twice...~
+~Kent had the Chemist over one shoulder, the hospital bed would not fit in the elevator~
 ~Felix had said some 'not-words' to the dingy looking security guard~
 'K::So he just uses words, why was he relying on his phone earlier?'
 *Felix entered and pressed some numbers on a keypad*
+~Kent relaxed his hand and the doors finally closed~
 ~They made their descent~
 'K::Okay Kent, they think you are in the know.
 Just keep calm - and bluff your ass off.'
+*He shifted the chemist*
+~The chemist was short, but he ate well~
 *The lift opened*
 ~A hallway of dark wood, leading to a door with an alcove on the right~
 *Felix lead the way*
@@ -53,7 +55,7 @@ Is Felix dead now?'
 *Kent gave a subtle nod*
 "A::It is Kent, correct?"
 *Again Kent nodded*
-~More broadly this time~
+~More noticeably this time~
 ~This captain looked to Kent's double, then back to him~
 "A::Interesting"
 ~Sonny chittered at a balding man in an ill-fitted uniform~
@@ -74,12 +76,12 @@ I think we grossly underestimated the amount of algera it had accumulated."
 "FL__F::And it was that much, that was probably the best way forward"
 "G::What do you mean?"
 "M::So it could have killed me."
-~She said it to herself~
+~She said it to herself, Kent could hear, but flanagan went on~
 "FL__F::Well, it's not accumulating that much Algera to do anything good.
 Dispersing it means it will be harder to recollect."
 "A::No, assholes will just funnel it to themselves.
 That'll keep happening until there's a tight nit group that doesn't hate each other."
-*Felix took a sip of his tea, and sat down*
+*Flanagan took a sip of his tea, and sat down*
 "FL__F::Still, that will take time, and it's better than destroying that much Algera."
 "A::What was your plan?"
 "FL__F::Put the Algera in Martha over there."
@@ -103,16 +105,16 @@ How about you not look at the good spiders'
 "A::Yeah, he's supposed to be in a coma"
 "M::That's it?
 Not even an apology you almost killed me?"
+*Flanagan turn to her*
 "FL__F::Yes, yes: sorry you almost died.
 Your first death is the scariest."
-*Flanagan turn to her*
+*He gave a light cough*
 "FL__F::The plan was to get back here use Uri...
 Who's also dead now... 
 Ozmind hasn't shown back up yet..."
-*He gave a light cough*
+~Kent glanced to see the captain in white cover a slight scoff~
 "FL__F::My point is, What you did was right.
 We would have poured all the excess Algera into the population eventually"
-~Kent glanced to see the captain in white cover a slight scoff~
 ~When he looked back he saw Flanagan's eyes were both hard, wondering, and on him~
 "FL__F::Now, Kent - how do you know Martha?"
 ~Kent took a moment, enclosed as he was he couldn't panic~
@@ -130,7 +132,7 @@ Tom back - and that seemed achievable now~
 "FL__F::Felix is saying that was actually him, and Martha shouldn't be taking credit"
 "M::I didn't say anything about that to him."
 *Kent raised his hands pointing at himself*
-"K::That's on me, That was Felix then.
+"K::That's on me, That was Felix then?
 I thought that was Martha."
 "FL__F::He's also rudely insinuating you are a bad detective"
 ~Martha had been quite for a bit - she was listening off her side: no one was sitting there~
@@ -179,7 +181,75 @@ She was about to kill Kent here at the time.
 This here:"
 *He walked over to his desk and placed the vial on top*
 "FL__F::Uri told us this is what Al-tok is trying to produce en mass"
-
-
-
+"K::What exactly is that?"
+*Flanagan inspected the vial*
+"FL__F::Exactly?
+Only Alice could tell you that.
+But more generally: it appears to be a required precursor to host Al-tok."
+'K::Okay, if you had taken that syringe and you are immune to all of this, what would have happened?'
+"M::So how does that help us?"
+"FL__F::Not much, I'm afraid."
+"C::I'm not hallucinating those spiders, am I?"
+"G::They're quite friendly, once you get to know them"
+"K::know them, they talk?"
+~The redhead sitting on the floor started chittering at him.
+Gerald a moment later started to translate~
+"G::What, you don't think those giant prosomas are empty?"
+"K::Also, what's up with the spiders -  does she speak spider?"
+"G::Yes, she and the spiders are from a dream, nightmare actually"
+"K::A Dream?"
+*Gerald nodded*
+"FL__F::We can all focus now, yes?"
+~Flanagan cleared his throat with a hacking cough~
+"FL__F::The Relux are on their way to getting The Way Out. 
+All we need to do is wait, by tomorrow night - they should be back."
+"K::All those people up there..."
+~The people Kent saw were not even acting like people.
+It was an apocalypse of the individual not to a wholistic entity, but many smaller fighting ones.
+Entities structured exactly the same, one person was in control.
+The whole processes reminded him of growing mold in a petri dish~
+"K::Its feudalism."
+~But they hadn't been actually hurting one another, there was no need that words became so powerful~
+"K::But they weren't using guns. just words..."
+"M::Words that would turn you into a mindless soulless automaton for some control freak"
+"K::Yeah, but what can we do, against billions?"
+"FL__F::A fair bit, actually."
+*Flanagan gave a nod to Alacira*
+"FL__F::You want to take point here, get started."
+~Alacira's face lost it's scrunched up quality when she turned to Kent~
+"A::What exactly did you see up there"
+~He relayed incidences he saw.
+A case where people were helping other's out of cars, only to be taken over by another group.
+They had used phones, and had written on signs - strange symbols.
+And another where two groups fought and merged~
+~Flanagan, during this, had moved an old dial phone from some cabinet and connected it~
+"A::Okay"
+"FL__F::Got it?"
+*Alacira nodded*
+"K::Got what?"
+*Flanagan held out the phone, then dialed on the base.
+Alacira walked over and picked up the receiver*
+"FL__F::She's got a namshub ready"
+*He turned to Martha*
+"K::Namshub?"
+*She raised and shook her hand noncommittally*
+"M::Spell?"
+'K::Dealing with <i>not zombies</i>, cults, cardboard chemists.'
+*Kent looked up*
+'Spiders, from a dream...
+A fish-man, who is rather quiet'
+~Kent again heard not words coming from Alacira as she talked into the phone~
+*He scanned the room*
+'K::Wizards...
+what the hell is next?
+Dragons - Cthulhu?'
+*Alacira put down the phone*
 }       
+{
+    %%%%
+}
+{
+`todo: Relux plotline`
+}
+
+## [mistakes](mistakes.md)
