@@ -49,7 +49,7 @@ the point of those colors is to help someone coding to easily parse what these w
 Its a way of conveying information that is very effective.
 
 And it's missed opertunity for creative writing.
-By having a sentance serve one function, that sentance can be reinforced: this is a sepration of description and action.
+By having a sentence serve one function, that sentence can be reinforced: this is a sepration of description and action.
 
 ## parsing this book
 
