@@ -5,8 +5,9 @@ mn:K
 {
 *Kent stuck out his hand*
 ~The lift doors bounced back, once... twice...~
-~Kent had the Chemist over one shoulder, the hospital bed would not fit in the elevator~
-~Felix had said some 'not-words' to the dingy looking security guard~
+~Kent was instructed to watch the security guard, right in the eyes~
+~He had the Chemist over one shoulder, the hospital bed would not fit in the elevator~
+~Felix had said some 'not-words' to the dingy looking security guard sitting in the corner~
 'K::So he just uses words, why was he relying on his phone earlier?'
 *Felix entered and pressed some numbers on a keypad*
 ~Kent relaxed his hand and the doors finally closed~
@@ -17,12 +18,12 @@ Just keep calm - and bluff your ass off.'
 ~The chemist was short, but he ate well~
 *The lift opened*
 ~A hallway of dark wood, leading to a door with an alcove on the right~
-*Felix lead the way*
+*Felix led the way*
 "K::Why do you think this one hasn't woken up yet?"
-*Felix paused then shrugged*
+*Felix paused, then shrugged*
 "FL__F::Chemistry?"
 *Felix again pushed some buttons on a pin pad and the door opened*
-~Kent followed into room seemingly designed to be as garish as possible~
+~Kent followed into a room seemingly designed to be as garish as possible~
 "FL__F::To the right after the foyer, there are fainting couches, put him there"
 *Kent moved to the other room*
 ~To find Martha, and a fish-man talking~
@@ -194,7 +195,7 @@ But more generally: it appears to be a required precursor to host Al-tok."
 "K::know them, they talk?"
 ~The redhead sitting on the floor started chittering at him.
 Gerald a moment later started to translate~
-"G::What, you don't think those giant prosomas are empty?"
+"G::What, you don't think those giant prosomas are empty?/s"
 "K::Also, what's up with the spiders -  does she speak spider?"
 "G::Yes, she and the spiders are from a dream, nightmare actually"
 "K::A Dream?"
@@ -240,11 +241,41 @@ Alacira walked over and picked up the receiver*
 A fish-man, who is rather quiet'
 ~Kent again heard not words coming from Alacira as she talked into the phone~
 *He scanned the room*
+~He heard words that were not words~
 'K::Wizards...
 what the hell is next?
 Dragons - Cthulhu?'
+*The Navigator put his hand on kent's shoulder*
+`
+'todo: add code bit here'
+`
+~A clarity pieced his hearing: burrowing to his brain~
+*The navigator pulled his hand away*
+~As he did that Kent felt a muteness, not of hearing but of mind~
+~He remembered what he understood in that moment, but Alacira's voice returned to nonsense to him~
 *Alacira put down the phone*
-}       
+"A::Almost nothing to do now but wait."
+"FL__F::Cheese anyone... brandy?"
+*Flanagan walked into the next room leading to the kitchen*
+~Kent watched the Navigator sit down across from him. 
+It was unnerving: his attention on him~
+"K::Almost?"
+*Gerald pulled a small black hand mirror from his inside pocket*
+"G::Once more into the fray."
+~Gerald was holding the mirror out - toward Martha~
+"M::How about you tell me what that's all about first, we have time now."
+"G::Captain?"
+~Alacira was standing next to the desk, focused on the vial of dark liquid on top~
+*She absently waved her hand, and Gerald turned back*
+"G::Right, so you've been gathering information, key..."
+~Gerald fumbled for the right words~
+"G::...components to a knowledge..."
+~Again he hesitated~
+"G::Bomb is close, but - remember how I said ideas can be dangerous in of themselves...
+Well, when you start combining dangerous ideas together: you can make a weapon..."
+
+
+}
 {
     %%%%
 }
