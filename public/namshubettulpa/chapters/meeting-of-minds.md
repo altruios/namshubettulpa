@@ -3,8 +3,8 @@
 mn:K
 }
 {
-*Kent stuck out his hand*
-~The lift doors bounced back, once... twice...~
+*Kent stuck out his hand.
+The lift doors bounced back, once... twice...*
 ~Kent was instructed to watch the security guard, right in the eyes~
 ~He had the Chemist over one shoulder, the hospital bed would not fit in the elevator~
 ~Felix had said some 'not-words' to the dingy looking security guard sitting in the corner~
@@ -59,7 +59,8 @@ Is Felix dead now?'
 ~More noticeably this time~
 ~This captain looked to Kent's double, then back to him~
 "A::Interesting"
-~Sonny chittered at a balding man in an ill-fitted uniform~
+~A frail red head  woman sat cross legged at the edge of the table.
+She chittered at a balding man in an ill-fitted uniform~
 "G::How are things outside?"
 "K::Not good."
 'K::Why was she chittering?'
@@ -136,7 +137,7 @@ Tom back - and that seemed achievable now~
 "K::That's on me, That was Felix then?
 I thought that was Martha."
 "FL__F::He's also rudely insinuating you are a bad detective"
-~Martha had been quite for a bit - she was listening off her side: no one was sitting there~
+~Martha had been quite for a bit - she was listening off to her side: no one was sitting there~
 "M::Did he have any friends, or family?"
 "K::Me."
 "M::Other than you?"
@@ -170,8 +171,15 @@ It darkly shimmered in the light~
 "FL__F::I'm not actually Felix, but it wasn't us.
 Everyone is awake."
 *The chemist was staring at his hands*
+~His eyes were wide, holding back terror and wonder~
 "C::Everyone has this?"
-"FL__F::Apparently: now"
+*The chemist looked around the room again*
+~His eyes landed on the fish-man~
+"W::It's wilbert."
+*Wilbert held out his hand*
+~It was a fin attached to an arm, it reminded Kent of an folding fan~
+*The chemist gingerly shook wilber's hand*
+"FL__F::Apparently yes, everyone. now:"
 *Flanagan leaned in*
 "FL__F::Alice Glass made this.
 I had a quick scroll through Felix's memories of the past few hours.
@@ -196,12 +204,14 @@ But more generally: it appears to be a required precursor to host Al-tok."
 ~The redhead sitting on the floor started chittering at him.
 Gerald a moment later started to translate~
 "G::What, you don't think those giant prosomas are empty?/s"
-"K::Also, what's up with the spiders -  does she speak spider?"
-"G::Yes, she and the spiders are from a dream, nightmare actually"
+"K::Also, what's up with her - she only speaks spider?"
+"G::Yes. And she and the spiders are from a dream, nightmare actually"
 "K::A Dream?"
 *Gerald nodded*
 "FL__F::We can all focus now, yes?"
-~Flanagan cleared his throat with a hacking cough~
+~Flanagan cleared his throat with a hacking cough, and spoke quietly to himself~
+"FL__F::Chew your damn food felix, you still have steak in your lungs."
+~He addressed the room~
 "FL__F::The Relux are on their way to getting The Way Out. 
 All we need to do is wait, by tomorrow night - they should be back."
 "K::All those people up there..."
@@ -210,7 +220,7 @@ It was an apocalypse of the individual not to a wholistic entity, but many small
 Entities structured exactly the same, one person was in control.
 The whole processes reminded him of growing mold in a petri dish~
 "K::Its feudalism."
-~But they hadn't been actually hurting one another, there was no need that words became so powerful~
+~But they hadn't been actually hurting one another physically, there was no need that words became so powerful~
 "K::But they weren't using guns. just words..."
 "M::Words that would turn you into a mindless soulless automaton for some control freak"
 "K::Yeah, but what can we do, against billions?"
@@ -249,7 +259,7 @@ Dragons - Cthulhu?'
 `
 'todo: add code bit here'
 `
-~A clarity pieced his hearing: burrowing to his brain~
+~A clarity pierced his hearing: burrowing to his brain~
 *The navigator pulled his hand away*
 ~As he did that Kent felt a muteness, not of hearing but of mind~
 ~He remembered what he understood in that moment, but Alacira's voice returned to nonsense to him~
@@ -260,6 +270,7 @@ Dragons - Cthulhu?'
 ~Kent watched the Navigator sit down across from him. 
 It was unnerving: his attention on him~
 "K::Almost?"
+~Gerald and Alacira shared a look~
 *Gerald pulled a small black hand mirror from his inside pocket*
 "G::Once more into the fray."
 ~Gerald was holding the mirror out - toward Martha~
@@ -272,9 +283,39 @@ It was unnerving: his attention on him~
 "G::...components to a knowledge..."
 ~Again he hesitated~
 "G::Bomb is close, but - remember how I said ideas can be dangerous in of themselves...
-Well, when you start combining dangerous ideas together: you can make a weapon..."
-
-
+Well, when you start combining dangerous ideas together: you can make a weapon.
+A weapon which is undefinable to humans, and renders things undefined."
+"K::A knowledge bomb?"
+"G::Just a label: a bad one at that."
+"K::Undefined?"
+"G::In other words, completely ignorable."bre on blue canister gas
+"M::You said this was the last one?"
+*Gerald slowly nodded, and held out the mirror*
+"M::What about the Way Out?"
+"A::Two plans - better than one plan"
+"FL__F::What cheeses?"
+"G::All the cheeses, please"
+"A::You trust his plans?"
+~Martha waited, her eyes were on the Navigator, his face.~
+"M::Where's this one go to?"
+"G::Someplace dangerous, then dying mind of the first host of Al-tok - this time around."
+"M::This time around?"
+"A::Those monks in Italy, Kent here.
+They all had contact with this entity."
+"K::Wait - when did I have contact?"
+"A::You're supposed to be in a coma - Al-tok is the reason why.
+I took you, the part of you al-tok wanted on my ship..."
+"N::$Ehime:"
+'K::But that was not Al-tok, was it...
+That was just depression.'
+~Kent thought back to the days leading to the incident~
+"M::Same deal? 
+Something out of place?"
+*Gerald nodded and Martha took the mirror and looked into it*
+"A::Let's hope she doesn't screw us..."
+*Alacira took a swig from a flask in her right pocket*
+~Kent didn't have time to ask questions. 
+He started to form the words when his left ear was deafened by Martha's scream~
 }
 {
     %%%%
