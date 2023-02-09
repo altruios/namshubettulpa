@@ -321,7 +321,111 @@ He started to form the words when his left ear was deafened by Martha's scream~
     %%%%
 }
 {
-`todo: Relux plotline`
+mn:RX
+}
+
+{
+~Ada was hunched by the door, bracing it closed~
+~While it had a lock: we were not taking chances~
+'L_R::If we wait maybe they will go away'
+*Another knock*
+~It was was followed by several attempts at turning the latch.
+The knock itself was subdued, urgent, but not as loud as it could be.
+Between each attempt was the small bright rattle of keys~
+'AD_R::It sounds like it is just one out there'
+'J_R::numbers in our favor...'
+'RX::Let them in'
+*Ada moved away, and unlocked the door*
+~Silently we moved out of the line of sight.
+Ada stood by the door as it open~
+~From behind Ada saw a short woman with long brown hair walk in~
+*Ada closed the door*
+~A startled meep and a jump back later the woman was in the center of the room.
+She was holding a broken champagne glass stem as a makeshift brass-knuckle pointed at Ada.
+In her other hand she held a set of keys~
+"D::Who are you?"
+~She held out the pointed glass stem at Ada, her hand was trembling~
+"D::Don't move, just stay there."
+"L_R::Easy now..."
+*She spun toward Lenny*
+"L_R::Why don't you tell us what's got you so worked up?"
+*She spun toward Jochek, when she emerged from behind a book shelf*
+"D::You're not?..."
+~She took a moment to process~
+"J_R::What's going on out there?"
+*She lowered her hand*
+~Not completely, she relaxed it in front of her~
+"D::One person, the chef, seems to have taken control of everyone downstairs"
+"AD_R::The chef?"
+"D::Da, I ran upstairs, this is the farthest down the hallway"
+"AD_R::Why the chef?"
+*She shrugged*
+'AD_R::Everyone downstairs...'
+'L_R::Means if anyone sees us...'
+'J_R::We just take the stairs - they go down to the cellar.
+But getting out...'
+~There were no windows, no exits except for one~
+'RX::We will have get everyone out of the foyer, the dinning room'
+'J_R::Distraction?'
+'L_R::Everyone - maybe a fire.'
+'AD_R::Fire is not always the answer'
+'RX::Although in this case...'
+"D::Why are you staring at each-other?"
+"AD_R::Just making plans, love.
+If you would be so kind as to follow us?"
+*Ada unlocked the door*
+'AD_R::On this floor there is a lab'
+~Ada led the way, down the hall, around a corner~
+*Lenny rubbed his hands together*
+'L_R::How well stocked? 
+Pretty sure I could do a bit better than fire.'
+'J_R::Well stocked, How long do you need?'
+'L_R::You two grab the Way Out, 10 minutes maybe'
+~A stainless steel door inlaid in the stone wall was the last to the left in the hallway~
+*It opened with a woosh*
+~Lenny and Jochek, still in the bodies of the coach driver and their fare, were blinded.
+Ada however, could see the stainless steel coating every surface inside~
+*Ada flipped a switch as Lenny stumbled inside*
+~Inside the room a fain buzzing in the ceiling stopped, and the quality of light became softer, easier on the eyes~
+"L_R::What was the chef doing?"
+*Dana shrugged*
+"D::I wasn't down there long."
+"J_R::Stay with him"
+*Jochek grabbed Ada's hand and led her away*
+"L_R::Shut the door, would you?"
+*She did, finding a latch she also locked it*
+'L_R::Maybe just the chef'
+*Lenny filled through the cupboards - taking inventory*
+*Ada and Jochek walked down the hall*
+'AD_R::That a point for my theory'
+'J_R::One point, fine - I grant you'
+~They took a moment at the stairs, listening for activity~
+'AD_R::Want to bet it is like that everywhere: one person in control of a horde?'
+'J_R::most places, granted - not everywhere'
+*They descended the stairs*
+~A main set of stairs, and behind it - a smaller, more subdued set of stairs led to the floors below~
+'L_R::This argument, again - let me concentrate'
+'RX::We should add more to us'
+'J_R::If we choose the right people'
+~Jochek led the way - keeping a watch on the hallway entrance~
+'AD_R::It only takes one to ruin it'
+~A few more floors down the cellar held the Way Out~
+"D::Anything I can do to help?"
+~Lenny, was lost in thought~
+*He waved his hand at the open cupboards*
+"L_R::Do we need the chef alive?"
+'J_R::I doubt he has any knowledge of what happened'
+'AD_R::If we can easily help it - you do have a whole lab there'
+"D::Strictly speaking, I guess not"
+'L_R::Chemistry is harder than you think'
+"L_R::You know how much the chef weights?"
+*Again, Dana Shrugged*
+"D::I never actually saw him"
+"L_R::Then how do you know he's doing anything?"
+"D::People were going around saying - and I quote - 'in the name of the sioux chef supreme'"
+*Ada flipped a switch in near the cellar door*
+~Through iron bars in a half moon shape - a cramped hallway illuminated~
+`[... more to be written]`
 }
 
 ## [mistakes](mistakes.md)

@@ -5,6 +5,7 @@ const speaker_map={
     AL:"Ada Lovelace",
     AT:"Al-tok",
     C:"The Chemist",
+    D:"Dana Ixari",
     E:"Erin Mc'kay",
     F:"Felix Danabrus",
     FA:"Flight Attendant",
