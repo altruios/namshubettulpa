@@ -33,7 +33,7 @@ He carried on with his work laying down more cable.
 "You! 
 With me, if you would." 
 He walked out the doors and into the fellowship hall: which the scientists had also taken over.
-Lilly glance to her pastor, who was in the midsts of a conversation between a group of those scientists regarding acoustics.
+Lilly glanced to her pastor, who was in the midsts of a conversation between a group of those scientists regarding acoustics.
 He nodded: approval that she should follow. 
 She bowed in response.
 
@@ -145,7 +145,7 @@ The energy whipped up and held to a breaking point.
 And the pastor awkwardly paused as the music suddenly stopped.
 As he always did as he got on with the main subject.
 "You may have noticed our guests here. 
-They are students from MIT, about to graduate. 
+They are students from the University, about to graduate. 
 And they're working on a project, a thesis. 
 I've happily agreed to submit our congregation to this project."
 There was the faintest of murmurs running through the pews in the back.
@@ -207,7 +207,9 @@ With no clear place to put his arms, he passionlessly flailed them in agitation.
 No one else was paying her attention, instead breaking down equipment.
 "Are you going to take all that tonight?"
 As he turned his head, she grabbed the papers and folded and tucked them in her shirt.
-"We'll be out of here by night, it takes a hot second to load all this back up." 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"We'll be out of here by night, it takes a hot second to load all this back up." 
+He turned back to her, "Now would you please go?"
 She nodded and left quickly, eager to read somewhere safe.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Later: in the moderately well lit bathroom in the back of the church, Lilly locked the stall. 
