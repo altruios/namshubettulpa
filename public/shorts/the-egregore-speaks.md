@@ -263,7 +263,7 @@ Which is where things got interesting.
 'TELL THEM AND YOU DIE: AS IT SHOULD BE.
 THEY ARE OF ME AND WILL PROTECT ME.'
 ```
-It continued. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It continued. 
 There was a note scribbled in pen that the pastor left at this point.
 It called itself an egrogore.
 It said that it would be the only egregore.
