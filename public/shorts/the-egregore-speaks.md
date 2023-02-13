@@ -221,7 +221,7 @@ She read the first lines.
 'Did we get something? hello? Sir, you need to lift the button to...'
 '<unintelligible gibberish>'
 ```
-She read through the first lines again. 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;She read through the first lines again. 
 Along the edges in pen were marks indicating a timestamp.
 The pen scribbled notes such as, 'people entered', 'song started','predicted start'.
 Which is where things got interesting.
