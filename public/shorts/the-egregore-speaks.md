@@ -114,10 +114,10 @@ In any case, the pastor is telling us what's happening after the bake-sale, duri
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"Again, the younglings at the the table were talking. 
 They mentioned walking in on the pastor practicing exactly that."
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Andrea asked if she was going to be there Wednesday at the soup kitchen.
+Andrea asked if she was going to be there Wednesday at the soup kitchen.
 Lilly obliged.
-They sat in silence, during Andrea's brief respite from the bake-sale, sharing a secret flask.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;They sat in silence, during Andrea's brief respite from the bake-sale, sharing a secret flask.
 It made the time go by much more quickly. 
 Soon the line was done.
 Everyone had on a green wristband and was back at the bake-sale.
@@ -132,7 +132,7 @@ They all waited in silence.
 She had been one of the last to enter, but the stragglers were taking their time.
 Eventually the doors closed and the pastor walked to the pulpit.
 He started with a prayer, everyone joined him, echoing through the church walls.
-They prayers turned to song when the organ began.
+Their prayers turned to song when the organ began.
 The music picked up: the drums, guitar, the choir.
 It drove everyone into a frenzy. 
 The notes they sung tuned together, with the sudden backing of a saxophone blaring over the speakers.
