@@ -8,7 +8,7 @@
  a- and integrate with terminal on the great awakening page
     A. change color or size of any element, screen padding and opacity.
 2: Get a proper md parser and deffer to that for not mdx files
- a- rename .md files that are mdx files to .mdx and handle
+ a- rename .md files that are mdx files to .md(x/book/etc) and handle
 
 ### 'Coding' to do
 
@@ -37,3 +37,7 @@ okay, since I've fixed the script tag - there are a few programmatic effects to 
     - choose your own adventure in the open source community
       - hooked up to be able to change source while running, should work no back end code changes
       - sounds like not a single source, but series of containers for each user.
+
+### general clean up
+
+1: refactor to make it look nicer
