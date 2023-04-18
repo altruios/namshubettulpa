@@ -17,13 +17,14 @@ It uses a specific format and a bit of interactivity to tell a story
 
 # Okay, so what's it about?
 
-Martha wakes up finding she may have killed someone.
-And a stranger named rossin, claiming to be effectivly an imaginary friend warns of a creature bound in her head.
 
-He tells her of a world controlled by the Awakened, people able to use namshubs: crafted peices of information designed to control and bind minds.
-And that this complete control of the populus was pedestrian to what they could do, and what she could eventually do. 
+Martha wakes up finding she may have killed someone. 
+And a stranger named Rossin, claiming to be effectively an imaginary friend warns of a creature bound in her head.
 
-Rossin tells her she was pulled into a plot to kill his's author, and asks her to help him extract revenge.
+He tells her of a world controlled by the Awakened, people able to use namshubs: crafted pieces of information designed to control and bind minds. 
+And that this complete control of the populous was pedestrian to what they could do, and what she could eventually do.
+
+Rossin tells her she was pulled into a plot to kill his author, and asks her to help him extract revenge.
 
 
 
