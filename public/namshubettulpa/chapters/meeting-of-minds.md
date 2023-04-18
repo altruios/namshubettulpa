@@ -29,9 +29,9 @@ Just keep calm - and bluff your ass off.'
 ~To find Martha, and a fish-man talking~
 'K::Keep it together, so there is a fish-man, so what?'
 "NT::$Ehime:"
-~Kent saw a man that looked almost exactly like him: except the part of his face that was missing~
+~Kent saw a man that looked almost exactly like him: except the part of his face that was missing. the remaining edges looking like a plastic figure too long in a microwave~
 "A::You're supposed to be in a coma."
-~A woman in a white captain's coat was standing at a desk to his right~
+~A woman in a white captain's coat was standing at a desk to his right, her eyes trained on him~
 *She walked up to him*
 "A::Shit, Flanagan?"
 "FL__F::No, over here."
@@ -47,7 +47,7 @@ Is Felix dead now?'
 "K::Where's Felix?"
 "FL__F::He's right here, just in the back seat"
 *Felix wandered over to a corner coffee desk and made himself some tea*
-"FL__F::Also, hello Alacira, Gerald: I didn't think you were still alive"
+"FL__F::Also, hello Alacira, Gerald: I didn't think you were still around"
 *Kent sat down on the couch across from Martha, and leaned in*
 ~He more mouthed the words than used his voice~
 "K::Do you have my gun?"
@@ -288,7 +288,7 @@ A weapon which is undefinable to humans, and renders things undefined."
 "K::A knowledge bomb?"
 "G::Just a label: a bad one at that."
 "K::Undefined?"
-"G::In other words, completely ignorable."bre on blue canister gas
+"G::In other words, completely ignorable."
 "M::You said this was the last one?"
 *Gerald slowly nodded, and held out the mirror*
 "M::What about the Way Out?"
@@ -355,9 +355,9 @@ In her other hand she held a set of keys~
 "J_R::What's going on out there?"
 *She lowered her hand*
 ~Not completely, she relaxed it in front of her~
-"D::One person, the chef, seems to have taken control of everyone downstairs"
+"D::One person, the chef, seems to have gathering control of everyone downstairs"
 "AD_R::The chef?"
-"D::Da, I ran upstairs, this is the farthest down the hallway"
+"D::Da, I ran upstairs, this: the farthest down the hallway"
 "AD_R::Why the chef?"
 *She shrugged*
 'AD_R::Everyone downstairs...'
@@ -392,23 +392,26 @@ Ada however, could see the stainless steel coating every surface inside~
 "D::I wasn't down there long."
 "J_R::Stay with him"
 *Jochek grabbed Ada's hand and led her away*
+"L_R::Wait, take these."
+*Lenny tossed them two gas masks hanging on the side wall*
 "L_R::Shut the door, would you?"
-*She did, finding a latch she also locked it*
+*Ada did, finding a latch she also locked it*
 'L_R::Maybe just the chef'
 *Lenny filled through the cupboards - taking inventory*
 *Ada and Jochek walked down the hall*
-'AD_R::That a point for my theory'
-'J_R::One point, fine - I grant you'
+'L_R::We can do an irritant, or... oh - will gas masks protect against that...'
+~Lenny was looking at a vial labeled~
+'J_R::Nothing fancy Lenny.'
 ~They took a moment at the stairs, listening for activity~
-'AD_R::Want to bet it is like that everywhere: one person in control of a horde?'
-'J_R::most places, granted - not everywhere'
+'AD_R::One bad seed, Jochek'
+'J_R::Do you know how long we vetted you?'
 *They descended the stairs*
 ~A main set of stairs, and behind it - a smaller, more subdued set of stairs led to the floors below~
 'L_R::This argument, again - let me concentrate'
 'RX::We should add more to us'
 'J_R::If we choose the right people'
 ~Jochek led the way - keeping a watch on the hallway entrance~
-'AD_R::It only takes one to ruin it'
+'AD_R::It only takes one'
 ~A few more floors down the cellar held the Way Out~
 "D::Anything I can do to help?"
 ~Lenny, was lost in thought~
@@ -423,8 +426,51 @@ Ada however, could see the stainless steel coating every surface inside~
 "D::I never actually saw him"
 "L_R::Then how do you know he's doing anything?"
 "D::People were going around saying - and I quote - 'in the name of the sioux chef supreme'"
+'J_R::Someone has an ego'
 *Ada flipped a switch in near the cellar door*
-~Through iron bars in a half moon shape - a cramped hallway illuminated~
+~Through iron bars in a half moon shape  hole in the door - a cramped hallway illuminated by orange sconces~
+*Jochek tried the door* 
+~it was locked~
+"L_R:: The cellar door is locked."
+"D::Da, as it is."
+"L_R::Is there a key?"
+"D::The seneschal has it."
+~Lenny waited~
+"D::He's somewhere in that..."
+'L_R::Can you break down the door?'
+'AD_R::No, but I have a hairpin.'
+*Jochek stretched out their hand expectantly*
+'J_R::Keep look out.'
+*Lenny poured vials into a vat*
+*Ada climbed the stairs, and stopped short at the sound of footsteps above*
+"L_R::Hey, go outside and make some noise - see if you can get their attention"
+"D::Who's attention?"
+"L_R::Downstairs, main floor, sounds like three of them"
+*Lenny grabbed another tub of white powder off of the shelf*
+*Dana opened the large metal door*
+~It slid open with a hiss~
+*Lenny tossed Dana a gas mask*
+~A short time later, above her Ada heard~
+"D::Hello, is anyone there!"
+~Followed by footsteps up the stairs, followed by several more sets~
+'A_R::Sounds a bit more than three.'
+*Lenny looked out the door, waiting, holding one vial above a vat*
+~He was wearing a gas mask~
+*Dana ran up the steps*
+*Lenny pointed to his mask*
+~Behind Dana were several dozen people, most perhaps in the castle~
+~Lenny waited for Dana to get her mask on, and then~
+*He dropped the vial into the tub*
+*An explosion of vapor, sticky and white clouded the room, then the hallway*
+*Screams and coughs and cries sounded out as shadowed shapes hit the ground*
+~The vapor expanded like a foam down the hall, down the stairs, flooding into the castle~
+"L_R::What does the seneschal look like?"
+*Dana looked down through the fallen bodies, twisting and moaning, then she pointed*
+"D::That one."
+~And as Lenny inspected him he found a ring of keys... just as:~
+'J_R::Got it.'
+*The cellar door flung open*
+
 `[... more to be written]`
 }
 

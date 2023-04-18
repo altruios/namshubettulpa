@@ -121,13 +121,30 @@ Lilly obliged.
 It made the time go by much more quickly. 
 Soon the line was done.
 Everyone had on a green wristband and was back at the bake-sale.
+And Lilly watched the people move like ants.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A young man in a black shirt came up to her and sat down.
+"I'm not supposed to ask you questions," he said, sipping at his drink.
+She was sure, like hers, it was alcoholic.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"What did you want to know?" Lilly replied.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The man shrugged, "What your deal is, I guess."
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"My deal?" 
+She didn't make deals, covenants, but not deals.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"This church, Originalists?"
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;"We just believe in the real God, the one before the catholic church, the God of Jesus."
+He nodded slowly and left her.
 And sooner than she realized, even the bake-sale was done.
 The sun well past noon: people started to enter the church.
 Lilly followed suit, realizing Andrea had left her at some point long ago.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When she entered the church she found each person standing with a microphone in front of them.
 In fact, above them there were several microphones: five of them in a circle, pointed to record the entire congregation.
-She didn't talk to Betty at her side, not with the microphones.
+She didn't talk to Andrea at her side, not with the microphones.
 They all waited in silence. 
 She had been one of the last to enter, but the stragglers were taking their time.
 Eventually the doors closed and the pastor walked to the pulpit.

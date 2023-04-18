@@ -120,7 +120,8 @@ app.get("/*",(req,res)=>{
 
     const file_request = req.params[0];
     const is_md_file =file_request.includes(".md");
-
+    const is_short_story = file_request.includes("shorts")
+    console.log("is short stroy ",is_short_story,file_request)
     const image_types = [".png",".jpg",".gif","favicon.ico"]
     const is_image = (image_types.some(it=>file_request.includes(it)))
 
@@ -135,9 +136,29 @@ app.get("/*",(req,res)=>{
     cwd = is_md_file?  path.join(BASE_DIR,req.params[0]) : //pass straight thorough
                         path.join(BASE_DIR,req.params[0],"index.md"); //add index if no file extension found
     
-    transform_to_md(cwd,(err,r)=>err?res.send(err):res.send(r))
-})
+    is_short_story?readFile(cwd,"utf-8",(err,data)=>{
 
+        const script_bypass={data:""}
+        const script = data.match(/<script[^>]*>[\s\S]*?<\/script>/gim)
+        script_bypass.data=script?script[0]:"";``
+        data=data.replaceAll(script,"");
+        data=escapeHtml(data)
+        data=data.replaceAll(/\`\`\`(.*)\`\`\`/gm,'<code>$1</code>')
+        data=data.replaceAll(/####(.*)/gm,'<h4>$1</h4>')
+        data=data.replaceAll(/###(.*)/gm,'<h3>$1</h3>')
+        data=data.replaceAll("&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;","</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;")
+        console.log(data);
+        data=`<html><meta charset="UTF-8"><meta
+        name="viewport"
+        content="width=device-width, initial-scale=1, maximum-scale=1"
+      /><body style="background-color:${bg_colors[4]};white-space: pre-wrap;" ><p>${data}</p></body>${script_bypass.data}</html>`
+
+        res.send(data)
+    }):transform_to_md(cwd,(err,r)=>err?res.send(err):res.send(r))
+})
+function escapeHtml  (unsafe) {
+    return unsafe.replaceAll('<', '&lt;').replaceAll('>', '&gt;').replaceAll('"', '&quot;').replaceAll("'", '&#039;');
+}
 app.listen(port, () => {
 //    console.log(networkInterfaces)
     Object.values(networkInterfaces).forEach(network=>{

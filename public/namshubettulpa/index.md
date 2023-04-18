@@ -7,7 +7,8 @@
 
 ~Characters~:  [list of characters](characters/index.md)
 
-~Word~:  [global definitions](world/index.md)
+~World~:  [global definitions](world/index.md)
 
+~Shorts~: [short stories](shorts/index.md)
 `
 }
