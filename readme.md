@@ -48,7 +48,7 @@ function(){}
 the point of those colors is to help someone coding to easily parse what these words do.
 Its a way of conveying information that is very effective.
 
-And it's missed opertunity for creative writing.
+And it's missed opportunity for creative writing.
 By having a sentence serve one function, that sentence can be reinforced: this is a sepration of description and action.
 
 ## parsing this book
