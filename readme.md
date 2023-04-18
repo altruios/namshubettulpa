@@ -1,9 +1,9 @@
+(unfinished project - still in alpha draft)
 <h1 align="center">
 
 
 Namshub et'Tulpa
 </h1>
-
 <p align="center">
 
   <img src="coverart.jpg" alt="cover art" />
