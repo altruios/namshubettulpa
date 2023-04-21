@@ -19,7 +19,7 @@ It uses a specific format and a bit of interactivity to tell a story
 
 
 Martha wakes up finding she may have killed someone. 
-And a stranger named Rossin, claiming to be effectively an imaginary friend warns of a creature bound in her head.
+And a stranger named Rossin - claiming to be effectively an imaginary friend - warns of a creature bound in her head.
 
 He tells her of a world controlled by the Awakened, people able to use namshubs: crafted pieces of information designed to control and bind minds. 
 And that this complete control of the populous was pedestrian to what they could do, and what she could eventually do.
@@ -46,11 +46,11 @@ function(){}
 //string/text
 "hello world"
 ```
-the point of those colors is to help someone coding to easily parse what these words do.
-Its a way of conveying information that is very effective.
+The point of those colors is to help someone coding to easily parse what these words do.
+It's a way of conveying information that is very effective.
 
-And it's missed opportunity for creative writing.
-By having a sentence serve one function, that sentence can be reinforced: this is a sepration of description and action.
+And it's a missed opportunity for creative writing.
+By having a sentence serve one function, that sentence can be reinforced: this is a separation of description and action.
 
 ## parsing this book
 
