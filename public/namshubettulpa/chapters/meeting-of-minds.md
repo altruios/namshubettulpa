@@ -334,14 +334,13 @@ The knock itself was subdued, urgent, but not as loud as it could be.
 Between each attempt was the small bright rattle of keys~
 'AD_R::It sounds like it is just one out there'
 'J_R::numbers in our favor...'
-'RX::Let them in'
+'RX::We let them in'
 *Ada moved away, and unlocked the door*
-~Silently we moved out of the line of sight.
-Ada stood by the door as it open~
-~From behind Ada saw a short woman with long brown hair walk in~
+~Silently we moved out of the line of sight~
+~From behind the door Ada saw a short woman with long brown hair walk in~
 *Ada closed the door*
-~A startled meep and a jump back later the woman was in the center of the room.
-She was holding a broken champagne glass stem as a makeshift brass-knuckle pointed at Ada.
+*The stranger meeped and jump to the center of the room*
+~She was holding a broken champagne glass stem as a makeshift brass-knuckle pointed at Ada.
 In her other hand she held a set of keys~
 "D::Who are you?"
 ~She held out the pointed glass stem at Ada, her hand was trembling~
@@ -390,19 +389,23 @@ Ada however, could see the stainless steel coating every surface inside~
 "L_R::What was the chef doing?"
 *Dana shrugged*
 "D::I wasn't down there long."
+*Jochek pointed at Lenny*
+~Whom had already started pilfering the lab~
 "J_R::Stay with him"
-*Jochek grabbed Ada's hand and led her away*
+*Jochek grabbed Ada's hand and we led her away*
 "L_R::Wait, take these."
 *Lenny tossed them two gas masks hanging on the side wall*
-"L_R::Shut the door, would you?"
+'L_R::Shut the door, would you?'
 *Ada did, finding a latch she also locked it*
-'L_R::Maybe just the chef'
+'L_R::Maybe just the chef, if we take him out...'
+~We had doubts if that would work, how far had the mind of the chef spread through the crowd~
 *Lenny filled through the cupboards - taking inventory*
 *Ada and Jochek walked down the hall*
 'L_R::We can do an irritant, or... oh - will gas masks protect against that...'
-~Lenny was looking at a vial labeled~
+~Lenny was looking at a vial labeled...~
 'J_R::Nothing fancy Lenny.'
 ~They took a moment at the stairs, listening for activity~
+~In the silence, Ada broke it with an old sharpened point~
 'AD_R::One bad seed, Jochek'
 'J_R::Do you know how long we vetted you?'
 *They descended the stairs*
@@ -433,19 +436,22 @@ Ada however, could see the stainless steel coating every surface inside~
 ~it was locked~
 "L_R:: The cellar door is locked."
 "D::Da, as it is."
-"L_R::Is there a key?"
+"L_R::...Is there a key?"
 "D::The seneschal has it."
 ~Lenny waited~
 "D::He's somewhere in that..."
+~...that throng, well shit...~
 'L_R::Can you break down the door?'
 'AD_R::No, but I have a hairpin.'
 *Jochek stretched out their hand expectantly*
-'J_R::Keep look out.'
-*Lenny poured vials into a vat*
+~Ada might have nimbler hands, but her hearing was better too~
 *Ada climbed the stairs, and stopped short at the sound of footsteps above*
+'LX::How many is that?'
+~About 20 Ada guessed~
+*Lenny stopped what he was doing, and took out jugs of liquid on the table*
 "L_R::Hey, go outside and make some noise - see if you can get their attention"
 "D::Who's attention?"
-"L_R::Downstairs, main floor, sounds like three of them"
+"L_R::Downstairs, main floor, sounds  most of them"
 *Lenny grabbed another tub of white powder off of the shelf*
 *Dana opened the large metal door*
 ~It slid open with a hiss~
@@ -453,25 +459,33 @@ Ada however, could see the stainless steel coating every surface inside~
 ~A short time later, above her Ada heard~
 "D::Hello, is anyone there!"
 ~Followed by footsteps up the stairs, followed by several more sets~
-'A_R::Sounds a bit more than three.'
+'A_R::Sounds a bit more than 20.'
 *Lenny looked out the door, waiting, holding one vial above a vat*
 ~He was wearing a gas mask~
 *Dana ran up the steps*
 *Lenny pointed to his mask*
 ~Behind Dana were several dozen people, most perhaps in the castle~
+~Lenny watched their shoes, their feet move, pointedly not looking at anything the storming crowd was holding~
+~Lenny hummed tunes in his head, his current hearing was terrible and that helped, he didn't need it~
+~He had our help, to forget, not that he needed it~
 ~Lenny waited for Dana to get her mask on, and then~
 *He dropped the vial into the tub*
 *An explosion of vapor, sticky and white clouded the room, then the hallway*
 *Screams and coughs and cries sounded out as shadowed shapes hit the ground*
 ~The vapor expanded like a foam down the hall, down the stairs, flooding into the castle~
-"L_R::What does the seneschal look like?"
+"L_R::Is the seneschal here, what does he look like?"
 *Dana looked down through the fallen bodies, twisting and moaning, then she pointed*
 "D::That one."
 ~And as Lenny inspected him he found a ring of keys... just as:~
 'J_R::Got it.'
 *The cellar door flung open*
-
-`[... more to be written]`
+~Stone walls, and wooden doors, unmarked~
+'LX::Do we know which one?'
+~Ada, our representative, was never down here~
+~We did not know what else was down here~
+~Lenny was wheezing through the mask, his old body not ready for such activity~
+~He had to use the handrail down the stairs, and we let the potential carry his weight~
+~Deep down, everyone was a potential to add to us~
 }
 
 ## [mistakes](mistakes.md)
