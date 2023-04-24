@@ -323,7 +323,6 @@ He started to form the words when his left ear was deafened by Martha's scream~
 {
 mn:RX
 }
-
 {
 ~Ada was hunched by the door, bracing it closed~
 ~While it had a lock: we were not taking chances~
@@ -446,12 +445,12 @@ Ada however, could see the stainless steel coating every surface inside~
 *Jochek stretched out their hand expectantly*
 ~Ada might have nimbler hands, but her hearing was better too~
 *Ada climbed the stairs, and stopped short at the sound of footsteps above*
-'LX::How many is that?'
+'RX::How many is that?'
 ~About 20 Ada guessed~
 *Lenny stopped what he was doing, and took out jugs of liquid on the table*
 "L_R::Hey, go outside and make some noise - see if you can get their attention"
 "D::Who's attention?"
-"L_R::Downstairs, main floor, sounds  most of them"
+"L_R::Downstairs, main floor, sounds like about 20 of them"
 *Lenny grabbed another tub of white powder off of the shelf*
 *Dana opened the large metal door*
 ~It slid open with a hiss~
@@ -459,7 +458,7 @@ Ada however, could see the stainless steel coating every surface inside~
 ~A short time later, above her Ada heard~
 "D::Hello, is anyone there!"
 ~Followed by footsteps up the stairs, followed by several more sets~
-'A_R::Sounds a bit more than 20.'
+'AD_R::Sounds a bit more than 20.'
 *Lenny looked out the door, waiting, holding one vial above a vat*
 ~He was wearing a gas mask~
 *Dana ran up the steps*
@@ -480,9 +479,9 @@ Ada however, could see the stainless steel coating every surface inside~
 'J_R::Got it.'
 *The cellar door flung open*
 ~Stone walls, and wooden doors, unmarked~
-'LX::Do we know which one?'
+'RX::Do we know which one?'
 ~Ada, our representative, was never down here~
-~We did not know what else was down here~
+~We did not know what else was down here either~
 ~Lenny was wheezing through the mask, his old body not ready for such activity~
 ~He had to use the handrail down the stairs, and we let the potential carry his weight~
 ~Deep down, everyone was a potential to add to us~
