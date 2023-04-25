@@ -426,13 +426,12 @@ why is it slipping like that?'
 'Oh shit, that thing is right there!'
 ~Below the Navigator was a dark figure with a tail~
 *It crawled on all fours towards them*
-~The alien~
+~An alien~
 'No...'
 ~She reminded herself~
 'Only a mask.'
 'A very convincing mask...'
 *She shuddered*
-~She hated that movie~
 ~Well: the second one with how they put people in those nests~
 *The Navigator dropped onto the spinning gold gear with a thud*
 }

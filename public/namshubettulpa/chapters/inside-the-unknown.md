@@ -21,7 +21,6 @@ mn:M
 ~Her panic was subsiding, her adrenaline still pumping, but that was a point of focus~
 ~She had made the choice - run and not to fight~
 ~Behind her - some distance back she couldn't be sure - a figure in a hockey mask with a machete crept at an even jog~
-~Jason~
 }
 {
 ~The distance to the tree-house was stretching away from her~
@@ -34,7 +33,7 @@ mn:M
 ~She was going to make it, the tree-house grew closer~
 *She slammed against the base of the tree, braced against her sudden stop* 
 *And for the first time she glanced behind*
-~Jason's hand was raised back above his head - ready to swing~ 
+~The masked figure's hand was raised back above his head - ready to swing~ 
 ~Closer than she had thought, directly behind her~ 
 *Time slowed as the blade plunged down*
 ~She felt the tree give way, and she lost her balance~
@@ -48,7 +47,7 @@ mn:M
 ~Only a different ground than before, a hard metal floor~
 ~Her arms had braced the fall~
 *She rolled over and turned to face the sky*
-~Jason was gone and she saw a twisting tempest above her~ 
+~He was gone and she saw a twisting tempest above her~ 
 ~Encompassing all her vision~
 ~For moments she stared at it~ 
 ~She saw moments of purple, pink, even green in it~
@@ -87,10 +86,9 @@ mn:M
 "A::Where you were just now. 
 Do you know what was following you?"
 ~Martha nodded~
-"M::Jason vorheeves"
 "A::That's from a movie. 
 That's a representation, a social icon. 
-It's wearing it like a mask, like Jason.  
+It's wearing it like a mask.  
 So you can't get a good look at it, so you can't 'know' it"
 "M::What is it?"
 "A::A small bit of a story, a story not told in human heads." 
@@ -511,28 +509,27 @@ mn:M
 ~The sound of the thwacks hit a crescendo~
 ~She turned and saw the door broke at the handle's latch~ 
 ~It swung open~
-~Jason was on fire~
+~The masked Man was on fire~
 ~A halo covering his clothes - which didn't blacken and burn like they should~
 "M::Get me the fuck out of here!" 
-*Jason walked in, the the monk threw himself against against him*  
-*Jason looked down toward the old man*
-*He shoved the monk off on himself, who collapsed heavily on the floor*
-*Jason raised his machete and hacked at the monk repeatedly*
+*He walked in, the the monk threw himself against against him*  
+*The masked figure looked down toward the old man*
+*He shoved the monk off on himself, who collapsed heavily on the floor and then raised his machete and hacked at the monk repeatedly*
 *The monk was on his back, sliding backwards*
 *Machete blows landed on his raised forearms*
-~Jason wasn't focused on her~
+~no one was focused on her~
 *She grabbed a book and threw it at the window: it shattered*. 
-*She looked back at Jason, who turned those black pools toward her*
+*She looked back at the creature wearing her childhood nightmare's skin, who turned those black pool eyes toward her*
 *She gulped*
-*Jason started toward her: but was held back by that old man*
+*He started toward her: but was held back by that old man*
 *The monk mouthed the words* 
 `>>--T("Fuggire":Italian) "Flee"`
-*Jason finished his work by casually slicing at the monk's neck*
+*He finished his work by casually slicing at the monk's neck*
 *The monk fell to his side in a silent gurgling gasping*
-*Jason marched onward at a steady pace*
+*The masked man marched onward at a steady pace*
 *Martha backed away, felt the window at her back*
 *She scrambled over and jumped out the tower*
-*As she fell she saw Jason look down out the window*
+*As she fell she saw him look down out the window*
 *Winding back with his arm, he threw the machete towards her*
 *It streaked toward her as she fell through the earth* 
 ~She never felt an impact~
