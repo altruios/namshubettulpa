@@ -121,7 +121,6 @@ app.get("/*",(req,res)=>{
     const file_request = req.params[0];
     const is_md_file =file_request.includes(".md");
     const is_short_story = file_request.includes("shorts")
-    console.log("is short stroy ",is_short_story,file_request)
     const image_types = [".png",".jpg",".gif","favicon.ico"]
     const is_image = (image_types.some(it=>file_request.includes(it)))
 

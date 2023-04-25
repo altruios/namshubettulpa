@@ -167,6 +167,9 @@ Who are you?"
 "FL__F::A chemist, he got a hold of this."
 ~Flanagan held out the vial.
 It darkly shimmered in the light~
+~The chemist was mesmerized by his hands~
+*He flexed them a few times*
+~Finding some new power within~
 "C::I didn't want to be awake, Felix."
 "FL__F::I'm not actually Felix, but it wasn't us.
 Everyone is awake."
@@ -175,10 +178,10 @@ Everyone is awake."
 "C::Everyone has this?"
 *The chemist looked around the room again*
 ~His eyes landed on the fish-man~
-"W::It's wilbert."
+"W::It's Wilbert."
 *Wilbert held out his hand*
 ~It was a fin attached to an arm, it reminded Kent of an folding fan~
-*The chemist gingerly shook wilber's hand*
+*The chemist gingerly shook Wilber's hand*
 "FL__F::Apparently yes, everyone. now:"
 *Flanagan leaned in*
 "FL__F::Alice Glass made this.
@@ -213,13 +216,17 @@ Gerald a moment later started to translate~
 "FL__F::Chew your damn food felix, you still have steak in your lungs."
 ~He addressed the room~
 "FL__F::The Relux are on their way to getting The Way Out. 
-All we need to do is wait, by tomorrow night - they should be back."
+All we need to do is wait, by tomorrow night - they should be back. In the mean time..."
 "K::All those people up there..."
-~The people Kent saw were not even acting like people.
+"A::What exactly did you see up there"
+~He relayed incidences he saw.
+The people Kent saw were not even acting like people.
 It was an apocalypse of the individual not to a wholistic entity, but many smaller fighting ones.
 Entities structured exactly the same, one person was in control.
+A case where people were helping other's out of cars, only to be taken over by another group.
+They had used phones, and had written on signs - strange symbols.
+And another where two groups fought and merged.
 The whole processes reminded him of growing mold in a petri dish~
-"K::Its feudalism."
 ~But they hadn't been actually hurting one another physically, there was no need that words became so powerful~
 "K::But they weren't using guns. just words..."
 "M::Words that would turn you into a mindless soulless automaton for some control freak"
@@ -228,11 +235,6 @@ The whole processes reminded him of growing mold in a petri dish~
 *Flanagan gave a nod to Alacira*
 "FL__F::You want to take point here, get started."
 ~Alacira's face lost it's scrunched up quality when she turned to Kent~
-"A::What exactly did you see up there"
-~He relayed incidences he saw.
-A case where people were helping other's out of cars, only to be taken over by another group.
-They had used phones, and had written on signs - strange symbols.
-And another where two groups fought and merged~
 ~Flanagan, during this, had moved an old dial phone from some cabinet and connected it~
 "A::Okay"
 "FL__F::Got it?"
@@ -257,9 +259,19 @@ what the hell is next?
 Dragons - Cthulhu?'
 *The Navigator put his hand on kent's shoulder*
 `
-'todo: add code bit here'
-`
 ~A clarity pierced his hearing: burrowing to his brain~
+...
+    ~Pools~[*i*].add(~_DRAIN~(~self~.algera));
+    ~Pools~[*i*].storage>90% ?
+        ~Pools~.length<*i*?
+            *i*++:
+            ~Pools~.add(~POOL~(
+                {*AUTHORIZE*:auth_list}
+                )):
+            null;
+    ~self~.next();
+},~hearing~)
+`
 *The navigator pulled his hand away*
 ~As he did that Kent felt a muteness, not of hearing but of mind~
 ~He remembered what he understood in that moment, but Alacira's voice returned to nonsense to him~
@@ -298,7 +310,7 @@ A weapon which is undefinable to humans, and renders things undefined."
 "A::You trust his plans?"
 ~Martha waited, her eyes were on the Navigator, his face.~
 "M::Where's this one go to?"
-"G::Someplace dangerous, then dying mind of the first host of Al-tok - this time around."
+"G::Someplace dangerous, the dying mind of the first host of Al-tok - this time around."
 "M::This time around?"
 "A::Those monks in Italy, Kent here.
 They all had contact with this entity."
@@ -332,7 +344,7 @@ mn:RX
 The knock itself was subdued, urgent, but not as loud as it could be.
 Between each attempt was the small bright rattle of keys~
 'AD_R::It sounds like it is just one out there'
-'J_R::numbers in our favor...'
+'J_R::Numbers are in our favor...'
 'RX::We let them in'
 *Ada moved away, and unlocked the door*
 ~Silently we moved out of the line of sight~
@@ -407,21 +419,24 @@ Ada however, could see the stainless steel coating every surface inside~
 ~In the silence, Ada broke it with an old sharpened point~
 'AD_R::One bad seed, Jochek'
 'J_R::Do you know how long we vetted you?'
-*They descended the stairs*
-~A main set of stairs, and behind it - a smaller, more subdued set of stairs led to the floors below~
+*They crept down the main stairway*
+~A main set of stairs, and behind it - a smaller, more subdued spiral staircase led to the floors below~
 'L_R::This argument, again - let me concentrate'
 'RX::We should add more to us'
 'J_R::If we choose the right people'
 ~Jochek led the way - keeping a watch on the hallway entrance~
 'AD_R::It only takes one'
-~A few more floors down the cellar held the Way Out~
+*Ada and Jochek descended the spiral staircase*
+~A long way down, several stories of solid stone, the cellar held the Way Out~
 "D::Anything I can do to help?"
 ~Lenny, was lost in thought~
 *He waved his hand at the open cupboards*
+~Ada kept her ears open, but all they heard were their own footsteps down the stairs~
 "L_R::Do we need the chef alive?"
 'J_R::I doubt he has any knowledge of what happened'
 'AD_R::If we can easily help it - you do have a whole lab there'
 "D::Strictly speaking, I guess not"
+~Down below Ada could see around the spiraling staircase the cellar door finally~
 'L_R::Chemistry is harder than you think'
 "L_R::You know how much the chef weights?"
 *Again, Dana Shrugged*
@@ -435,8 +450,9 @@ Ada however, could see the stainless steel coating every surface inside~
 ~it was locked~
 "L_R:: The cellar door is locked."
 "D::Da, as it is."
+*Lenny pointed to Dana's ring of keys*
 "L_R::...Is there a key?"
-"D::The seneschal has it."
+"D::The seneschal has it. These were for the upstairs rooms."
 ~Lenny waited~
 "D::He's somewhere in that..."
 ~...that throng, well shit...~
