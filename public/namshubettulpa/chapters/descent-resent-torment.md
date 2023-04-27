@@ -432,7 +432,7 @@ Occupied for a time by so much Algera."
     -cp G.Objects.spike{
       ~Prototype~:self.hands[1].Objects[0],
       ~style~:*Barbed*,
-      *length:*~1ft~, 
+      *length*:~1ft~, 
     ~Location~:~Front corner at {2xπ(this.front.radius)}~
     }
     )    

@@ -6,13 +6,18 @@ mn:K
 *Kent stuck out his hand.
 The lift doors bounced back, once... twice...*
 ~Kent was instructed to watch the security guard, right in the eyes~
-~He had the Chemist over one shoulder, the hospital bed would not fit in the elevator~
-~Felix had said some 'not-words' to the dingy looking security guard sitting in the corner~
-'K::So he just uses words, why was he relying on his phone earlier?'
+*Kent scanned the room*
+~He saw no security guard~
+*Felix spoke 'not-words' to the dingy corner*
+~Kent had the Chemist over one shoulder and waited for the guard to show~
+*Felix backed up slowly towards the elevator*
+~Kent almost asked where the guard was~
+'K::He is talking to a wall... you are following someone talking to a wall'
 *Felix entered and pressed some numbers on a keypad*
 ~Kent relaxed his hand and the doors finally closed~
-~They made their descent~
-'K::Okay Kent, they think you are in the know.
+'K::Where is your gun Kent? Oh yeah, you gave it to the person you were chasing, and you just went along with that!'
+~They made their descent through uncomfortable silence, Felix wore a contented smile~
+'K::Okay so...Kent, he thinks you are in the know.
 Just keep calm - and bluff your ass off.'
 *He shifted the chemist*
 ~The chemist was short, but he ate well~
@@ -23,9 +28,9 @@ Just keep calm - and bluff your ass off.'
 *Felix paused, then shrugged*
 "FL__F::Chemistry?"
 *Felix again pushed some buttons on a pin pad and the door opened*
-~Kent followed into a room seemingly designed to be as garish as possible~
+~Kent followed into a room seemingly designed to be as garish as possible. Green and purple clashed together in stripes - physically straining Kent's eyes~
 "FL__F::To the right after the foyer, there are fainting couches, put him there"
-*Kent moved to the other room*
+*Kent carried the Chemist to the other room*
 ~To find Martha, and a fish-man talking~
 'K::Keep it together, so there is a fish-man, so what?'
 "NT::$Ehime:"
@@ -78,7 +83,7 @@ I think we grossly underestimated the amount of algera it had accumulated."
 "FL__F::And it was that much, that was probably the best way forward"
 "G::What do you mean?"
 "M::So it could have killed me."
-~She said it to herself, Kent could hear, but flanagan went on~
+~She said it to herself, Kent could hear, but Flanagan went on~
 "FL__F::Well, it's not accumulating that much Algera to do anything good.
 Dispersing it means it will be harder to recollect."
 "A::No, assholes will just funnel it to themselves.
@@ -100,8 +105,8 @@ They had a large web built already~
 'K::No, no one else is freaked out'
 ~Martha caught his eye~
 *She pointed to the ceiling, and gave a thumbs up*
-'K::Okay, good spiders. 
-How about you not look at the good spiders'
+'K::Okay, so they are good spiders... 
+How about you just... not look at the... good spiders...'
 "FL__F::Martha, who is he?"
 *Felix, Flanagan, whoever that was, pointed at him*
 "A::Yeah, he's supposed to be in a coma"
@@ -111,7 +116,7 @@ Not even an apology you almost killed me?"
 "FL__F::Yes, yes: sorry you almost died.
 Your first death is the scariest."
 *He gave a light cough*
-"FL__F::The plan was to get back here use Uri...
+"FL__F::The plan was to get back here and use Uri...
 Who's also dead now... 
 Ozmind hasn't shown back up yet..."
 ~Kent glanced to see the captain in white cover a slight scoff~
@@ -120,13 +125,14 @@ We would have poured all the excess Algera into the population eventually"
 ~When he looked back he saw Flanagan's eyes were both hard, wondering, and on him~
 "FL__F::Now, Kent - how do you know Martha?"
 ~Kent took a moment, enclosed as he was he couldn't panic~
-'K::What do you really want, Kent'
+'K::What do you really want, Kent...'
 ~He knew, and listening...
 Seeing the fish-man, the spiders: he wasn't sure what was and wasn't possible anymore.
 Restoration is what he wanted.
 Tom back - and that seemed achievable now~
 'K::Truth it is then'
 "K::She killed a friend of mine, I'm trying to make that right"
+*Flanagan leaned in, and turned to Martha*
 "FL__F::Oh, and you can't bring him back?"
 "K::She did it with her neighbor, new body - right?"
 "M::You want me to bring him back?"
@@ -305,6 +311,7 @@ A weapon which is undefinable to humans, and renders things undefined."
 *Gerald slowly nodded, and held out the mirror*
 "M::What about the Way Out?"
 "A::Two plans - better than one plan"
+~From the kitchen in the distance, Flanagan called out~
 "FL__F::What cheeses?"
 "G::All the cheeses, please"
 "A::You trust his plans?"
@@ -320,7 +327,7 @@ I took you, the part of you al-tok wanted on my ship..."
 "N::$Ehime:"
 'K::But that was not Al-tok, was it...
 That was just depression.'
-~Kent thought back to the days leading to the incident~
+~Kent thought back to the days leading to the incident... the accident~
 "M::Same deal? 
 Something out of place?"
 *Gerald nodded and Martha took the mirror and looked into it*

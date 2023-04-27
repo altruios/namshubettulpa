@@ -160,8 +160,8 @@ mn:RG_T
 }
 {
 *Robert Glass of the tok refocused the microscope*
-~A row of scientists were in a row: repeating a chemical process~
-~Around it other shells like itself~
+~Scientists were in a row: repeating a chemical process~
+~Around Robert were other shells like itself~
 ~The problem with being a smaller part of a bigger thing is the inability to know that larger thing~
 ~But being so interconnected you knew a lot more otherwise~
 ~Al-tok wanted to grow: more it did not want to abide any limits~
@@ -232,7 +232,7 @@ Searching for survivers.~
 ~It was one person, the leader - collecting a drone army~
 ~Growing exponentially~
 ~Al-tok understood at that moment where the Algera had been placed~
-~Into all of them~
+'RG_T::Into all of them'
 ~Everyone was in their own world, and trying to force everyone else to join them.
 But by pulling equally in all directions: commonalities appeared, ripples and echos of coherence.
 Harmonizing waves in a sea of minds bound the desires of the outliers, often in persecution.~

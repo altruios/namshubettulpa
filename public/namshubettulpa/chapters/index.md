@@ -46,6 +46,8 @@
  21. [Consequences](consequences.md)
 
  22. [Meeting of Minds](meeting-of-minds.md)
+
+ 23. [mistakes](mistakes.md) //unfinished
 `}
 ### [index](../index.md)
 date:04/25/23
