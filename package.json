@@ -1,5 +1,8 @@
 {
-    "scripts": {
+    "homepage": "http://www.namshubettulpa.com",
+       "scripts": {
+        "predeploy": "npm run build",
+        "deploy": "gh-pages -d build",
         "start": "nodemon index.js"
     },
     "dependencies": {
