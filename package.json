@@ -1,6 +1,6 @@
 {
        "scripts": {
-        "build": "",
+        "build": "npm install",
         "test": "nodemon index.js"
     },
     "dependencies": {
