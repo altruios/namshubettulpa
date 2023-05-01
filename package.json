@@ -1,10 +1,7 @@
 {
-    "homepage": "http://altruios.github.io/namshubettulpa",
        "scripts": {
-        "predeploy": "npm run build",
-        "deploy": "gh-pages -d start",
         "build": "",
-        "test": "nodemon index.js",
+        "test": "nodemon index.js"
     },
     "dependencies": {
         "express": "^4.17.3",
