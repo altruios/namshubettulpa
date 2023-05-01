@@ -3,8 +3,8 @@
        "scripts": {
         "predeploy": "npm run build",
         "deploy": "gh-pages -d start",
-        "build": "node index.js",
-        "test": ""
+        "build": "",
+        "test": "nodemon index.js",
     },
     "dependencies": {
         "express": "^4.17.3",
