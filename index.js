@@ -118,6 +118,7 @@ app.get("/*",(req,res)=>{
     const file_request = req.params[0];
     const is_md_file =file_request.includes(".md");
     const is_short_story = file_request.includes("shorts")
+    const is_index_file = file_request.includes('index.md')
     const image_types = [".png",".jpg",".gif","favicon.ico"]
     const is_image = (image_types.some(it=>file_request.includes(it)))
 
@@ -132,8 +133,7 @@ app.get("/*",(req,res)=>{
     cwd = is_md_file?  path.join(BASE_DIR,req.params[0]) : //pass straight thorough
                         path.join(BASE_DIR,req.params[0],"index.md"); //add index if no file extension found
     
-    is_short_story?readFile(cwd,"utf-8",(err,data)=>{
-
+    is_short_story&&!is_index_file?readFile(cwd,"utf-8",(err,data)=>{
         const script_bypass={data:""}
         const script = data.match(/<script[^>]*>[\s\S]*?<\/script>/gim)
         script_bypass.data=script?script[0]:"";``
