@@ -70,7 +70,10 @@ the following delimiters are used:
 
 # But how do I read it?
 
-//if link add here (once book is done and hosted)
+Well, it is hosted here
+https://www.namshubettulpa.com
+
+see the next section if that is broken (ran out of free time)
 
 ## Self Hosting
 
@@ -82,8 +85,7 @@ the following delimiters are used:
   3. run the command "git clone {the address of this repo}"
   4. run the command "npm install"
   5. run the command "npm start"
-  6. scan the qr code that comes up with your phone
-    - you have to be on the same wifi network
+  6. navigate to localhost:3000 in a browser
 
 ## This looks cool - how do I contribute?
 
