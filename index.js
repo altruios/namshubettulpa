@@ -4,9 +4,6 @@ const port = process.env.PORT ||3000
 const path = require('path');
 const {readFile, readFileSync } = require('fs')
 const {EOL} = require('os');
-var os = require('os');
-var qrcode = require('qrcode-terminal');
-var networkInterfaces = os.networkInterfaces();
 const mdx_parser = require("./mdx_parser");
 
 const BASE_DIR = path.join(__dirname, 'public');;
@@ -159,15 +156,6 @@ function escapeHtml  (unsafe) {
     return unsafe.replaceAll('<', '&lt;').replaceAll('>', '&gt;').replaceAll('"', '&quot;').replaceAll("'", '&#039;');
 }
 app.listen(port, () => {
-//    console.log(networkInterfaces)
-    Object.values(networkInterfaces).forEach(network=>{
-        network.forEach(entry=>{
-            if((entry.family==4||entry.family=="IPv4")&&entry.address!="127.0.0.1"&&entry.mac!='00:00:00:00:00:00'){
-                console.log(`Namshub et'tulpa is ready to read at ${entry.address}:${port}`)
-                qrcode.generate(`http://${entry.address}:${port}`,{small:true});
-            }
-        })
-    });
     console.log("listening",port)
 })
 

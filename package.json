@@ -6,11 +6,12 @@
     },
     "dependencies": {
         "express": "^4.17.3",
-        "gh-pages": "^5.0.0",
-        "markdown-serve": "^0.8.0",
-        "nodemon": "^2.0.15",
-        "qrcode-terminal": "^0.12.0"
+        "markdown-serve": "^0.8.0"
     } ,
+    "devDependencies" : {
+        "nodemon": "^2.0.15"
+    }
+    ,
     "engines": {
         "node": "^15"
       }
