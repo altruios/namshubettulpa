@@ -13,7 +13,7 @@ mn:M
 ~Time ceased~
 ~With the only hints of it passing being the up and down of that oscillation~
 ~Slowly it subsided~
-'R::One more pull, I think that would be all of it'
+'R::One more pull, I think that would be all of it.'
 ~A voice echoing in the distance, one so familiar, she could almost remember~
 ~And the pain plunged her experience,  nothing but this ringing pain~
 ~A totality of existence~
@@ -64,7 +64,7 @@ mn:M
 ~A crystal chandelier overhung what appeared to be the entrance off to her left~
 ~Underneath was a marble staircase casting dark shadows through the moonlight~
 ~A beam of yellow light emanating from her right~
-*She turned her head that way.*
+*She turned her head that way*
 ~Her eyes had trouble adjusting at first~
 ~When they cleared she saw a man sitting at a table~
 ~He sat in what looked to be a small alcove area next to the kitchen~
@@ -118,7 +118,7 @@ People who understand that language is a tool to shape how other people express 
 *He slid the gun over the counter top*
 ~She didn't make any move to grab it~
 'R::Martha I need you to keep your thoughts on me, okay I know that was a lot to absorb'
-*He took her hand. *
+*He took her hand*
 ~It broke something inside~
 ~A dam of reaction that, due to the pain, or the calm manner in which he spoke, held until now~
 "M::Who are you?"
@@ -126,7 +126,7 @@ People who understand that language is a tool to shape how other people express 
 }	
 {
 ~Rossin was taken aback~
-*He even leaned back in his chair a little -*
+*He even leaned back in his chair a little*
 'R::How much do you remember'
 *Looking to the left he nodded*
 'R::Here is an explanation'
@@ -288,7 +288,7 @@ But you got everything before that point, yes?'
 "M::Does that mean you're not really there?"
 'R::Well, I am here to you... 
 You perceive me... 
-And if enough people to execute me in their brains... 
+And if enough people were to execute me in their brains... 
 Does it really matter at that point?'
 "M::But you're not actually in the chair"
 'R::If you poke me you would feel me. 
@@ -329,11 +329,11 @@ To everyone else, they would see you knocking over the chair with your hand'
 {
 "M::Fuck, it's night."
 ~She should have known, she saw the moonlight first thing when she woke~
-~Her earliest memory was noon on friday~
+~Her earliest memory was noon on Friday~
 ~She had been having lunch outside of a bookstore~
 *She reached into her pocket*
 'M::Phone: should have found you earlier...'
-~The lock screen said monday night~
+~The lock screen said Monday night~
 ~She missed 2 days, work, and the fact she may have killed someone~
 "M::Great Monday… really fucking great… fuck-ety fuck fuck."
 'M::What the fuck was she going to do now?'
