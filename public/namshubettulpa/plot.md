@@ -7,7 +7,7 @@
 [a-stone-walled-kink](a-stone-walled-kink.md) might make a good starting point. 
 
 PART 1:
-1. [reset-2](reset-2.md) //written
+1. [reset-2](chapters/reset-2.md) //written
 {
   Narrator:"Martha"
     ~Martha wakes up~
@@ -30,28 +30,28 @@ PART 1:
       proprioception is messed with her ear and hands    
 }
 
-2. [the-start-of-bad-things](the-start-of-bad-things.md) //written
-3. [where-things-go-wrong](where-things-go-wrong.md) //written
-4. [a-stone-walled-kink](a-stone-walled-kink.md) //written
-5. [enter-the-den](enter-the-den.md) //written
-6. [lions-tigers-and-bears](lions-tigers-and-bears.md) //written
-7. [tests](tests.md) //written
-8. [inside-the-unknown](inside-the-unknown.md) //written
-9. [vows](vows.md) //written
-10. [lixin-merph](lixin-merph.md) //written
-11. [errors](errors.md) //written
-12. [redeye](redeye.md) //written
-13. [the-undernet](the-undernet.md) //written
-14. [restructuring](restructuring.md) //written
-15. [interludes](interludes.md) //written
+2. [the-start-of-bad-things](chapters/the-start-of-bad-things.md) //written
+3. [where-things-go-wrong](chapters/where-things-go-wrong.md) //written
+4. [a-stone-walled-kink](chapters/a-stone-walled-kink.md) //written
+5. [enter-the-den](chapters/enter-the-den.md) //written
+6. [lions-tigers-and-bears](chapters/lions-tigers-and-bears.md) //written
+7. [tests](chapters/tests.md) //written
+8. [inside-the-unknown](chapters/inside-the-unknown.md) //written
+9. [vows](chapters/vows.md) //written
+10. [lixin-merph](chapters/lixin-merph.md) //written
+11. [errors](chapters/errors.md) //written
+12. [redeye](chapters/redeye.md) //written
+13. [the-undernet](chapters/the-undernet.md) //written
+14. [restructuring](chapters/restructuring.md) //written
+15. [interludes](chapters/interludes.md) //written
 
 PART 2:
-16. [the-plan](the-plan.md) //written
-17. [descent-resent-torment](descent-resent-torment.md) //written
-18. [confrontation](confrontation.md) //written
-19. [seeds of a new world](seeds-of-a-new-world.md) //written
-20. [the great awakening](the-great-awakening.md) //written
-21. [consequences](consequences.md) //writing
+16. [the-plan](chapters/the-plan.md) //written
+17. [descent-resent-torment](chapters/descent-resent-torment.md) //written
+18. [confrontation](chapters/confrontation.md) //written
+19. [seeds of a new world](chapters/seeds-of-a-new-world.md) //written
+20. [the great awakening](chapters/the-great-awakening.md) //written
+21. [consequences](chapters/consequences.md) //writing
   {
 
   Narrator:"Martha Crisp"
@@ -133,7 +133,7 @@ PART 2:
     ~Robert in the body of ${}~enters and informs them why they messed up in the second interludes
 
 }
-25. [interludes 2](interludes.m2) //writing
+25. [interludes 2](chapters/interludes.m2) //writing
 {
 
 }

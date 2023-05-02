@@ -113,23 +113,39 @@ async function transform_to_md(cwd,callback){
         callback(null,data);
     })        
 }
+app.get("/",(req,res)=>{
+    console.log(req.params[0], "basic request");
+    const start_path = path.join(BASE_DIR,"index.html")
+    console.log("start path heard")
+    readFile(start_path,"utf-8",(err,data)=>{
+        console.log("data,ere",err,data);
+        res.send(data);
+    })
+})
+
 app.get("/*",(req,res)=>{
 
     const file_request = req.params[0];
+    const is_html_file = file_request.includes(".html")
     const is_md_file =file_request.includes(".md");
     const is_short_story = file_request.includes("shorts")
     const is_index_file = file_request.includes('index.md')
     const image_types = [".png",".jpg",".gif","favicon.ico"]
     const is_image = (image_types.some(it=>file_request.includes(it)))
-
+    console.log(file_request,"file request")
     const code_types=['.cpp','.js','.ts','.c','.go']
     const is_code = (code_types.some(it=>file_request.includes(it)))
+    if(is_html_file){
+        console.log("is html",file_request)
+        return res.send(path.join(BASE_DIR,file_request))
+    }
     if(is_image||is_code){
         const rs = path.join(BASE_DIR,req.params[0]);
         
         res.send(readFileSync(rs));
         return
     }
+
     cwd = is_md_file?  path.join(BASE_DIR,req.params[0]) : //pass straight thorough
                         path.join(BASE_DIR,req.params[0],"index.md"); //add index if no file extension found
     

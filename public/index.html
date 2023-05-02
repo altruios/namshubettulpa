@@ -1,0 +1,44 @@
+<html>
+<style>
+
+body{
+    display:flex;
+    background:grey;
+    justify-content: center;
+    align-content: center;
+}
+.box{
+    animation: border_grow 2.917s infinite alternate , border_color 1.913s infinite alternate,border_radius 2.917s infinite alternate;
+
+}
+.center{
+    display:flex;
+    align-items: center;
+}
+@keyframes border_color {
+    0%   {outline-color: rgb(174, 179, 110);}
+    50%   {outline-color: rgb(117, 39, 99);}
+    100%   {outline-color: rgb(161, 107, 171);}
+
+}
+@keyframes border_grow {
+    0%   {outline-style:dotted; outline-width:0.1vh; }
+    25%   {outline-style:dotted; outline-width:0.1vh;}
+    
+    100%  { outline-style:solid; outline-width:1vh;}
+
+}
+@keyframes border_radius {
+    0%   {border-radius: 0px;}
+    100%  {border-radius: 115px}
+
+}
+</style>
+<body>
+        <div class="center">
+        <a href="namshubettulpa/index.md" >
+        <img  class="box" alt="namshub et'tulpa  A digital wiki-novel" src="./coverart.png " style="max-height:95vh;max-width:98vw;overflow:hidden" />
+    </div>
+</a>
+</body>
+</html>
