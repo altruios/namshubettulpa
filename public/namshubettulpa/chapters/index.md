@@ -2,6 +2,10 @@
 
 ## CHAPTERS
 
+date:05/03/23 
+<br />
+status: in progress - estimated 65%~ of first draft
+
 {`
  1. [reset 2](reset-2.md)
 
@@ -50,4 +54,4 @@
  23. [mistakes](mistakes.md) //unfinished
 `}
 ### [index](../index.md)
-date:05/02/23
+
