@@ -22,15 +22,15 @@ Soon to be another husk~
 *From that singular point of a new husk, Algera started to leak*
 'AT::NO...'
 ~Raw panic surged through Al-Tok... 
-Then calmness as he observed: the algera wasn't rushing out... 
-He could use this.
+Then calmness as it observed: the algera wasn't rushing out... 
+This was not a set back, this was a blessing!
 Before Al-tok was filled to the brim, draining evenly from everywhere and now, empty... 
 Which let it follow the draining algera~ 
 *The algera streamed in a thin vector through Al-tok, following some well of attraction*
-~And leading him right to the sink hole~
+~That was leading right to the sink hole~
 'AT::The thorn!'
-~It wasn't on him or attached, it was submerged within him...~
-*Al-tok removed it from himself, inspecting it*
+~It wasn't on Al-tok or attached, it was submerged within...~
+*Al-tok removed it, inspecting it*
 `
 spear{
     heart:Global.reduce((combined,*human*)=>
@@ -53,7 +53,7 @@ spear{
 ~Al-tok inspected it again, carefully, and found nothing hidden~
 'AT::Thanks are in order.'
 ~It didn't need all the algera, not with this~
-*Al-tok took the spear for himself*
+*Al-tok took the spear for itself*
 ~A direct connection to every human heart~
 
 }
