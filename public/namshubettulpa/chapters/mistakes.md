@@ -67,7 +67,7 @@ mn:M
 ~The mirror prevented Rossin from joining Martha~
 ~She felt a pickling on her skin as she was transported, mentally at least, to a strange world~
 'M::Not what I pictured.'
-~She stood under blue skys on a cliff, a ledge of red clay extending miles either direction, bowing in on itself, completing a circle so large she shouldn't be able to see it~
+~She stood under blue skies on a cliff, a ledge of red clay extending miles either direction, bowing in on itself, completing a circle so large she shouldn't be able to see it~
 ~She could see the walls at the end though - despite the distance - as there was no ground in this circle save for one pillar in the center~
 ~A pillar host to a Giant vibrant brown and green oak tree at the top, dominating the empty view~
 ~And in front of her, a singular rickety wooden bridge~ 
