@@ -6,6 +6,7 @@ const {readFile, readFileSync } = require('fs')
 const {EOL} = require('os');
 const mdx_parser = require("./mdx_parser");
 
+//console.log(mdx_parser,"is parser")
 const BASE_DIR = path.join(__dirname, 'public');;
 let cwd = BASE_DIR;
 app.set('public', path.join(__dirname, 'public'));
@@ -131,14 +132,9 @@ app.get("/*",(req,res)=>{
     const is_index_file = file_request.includes('index.md')
     const image_types = [".png",".jpg",".gif","favicon.ico"]
     const is_image = (image_types.some(it=>file_request.includes(it)))
-    const code_types=['.cpp','.js','.ts','.c','.go']
-    const is_code = (code_types.some(it=>file_request.includes(it)))
-    if(is_html_file){
-        return res.send(path.join(BASE_DIR,file_request))
-    }
-    if(is_image||is_code){
-        const rs = path.join(BASE_DIR,req.params[0]);
-        
+    if(is_image){
+        const rs = path.join(BASE_DIR,req.params[0]); 
+        console.log("is image");
         res.send(readFileSync(rs));
         return
     }
