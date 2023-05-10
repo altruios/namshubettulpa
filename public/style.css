@@ -1,22 +1,86 @@
-.actionword{
+
+body{
+    background-color: #6f6f6f;
+    font-size:3vh;
+    display:flex;
+    flex-flow:column nowrap;
+}
+
+.action{
     background-color: #ff0000;
 }
-.descriptword{
+.description{
     background-color: #00ffdd;
 
 }
-.spokenword{
-    background-color: #d0ff00;
-    color:#d0ff00;
-
+.code{
+    color:#6a6a6a;
+    background-color:#4f4f4f; 
+    width:100%; 
+    font-size:65%; 
+    white-space: pre-wrap;
+    word-wrap: break-word;
 }
-.dataword{
-    background-color: #1900ff;
-
+.code>span{
+    color:#afafd0;
 }
-.thoughtword{
-    background-color: #15ff00;
-
+.bubble{
+    border:solid;
+    padding:3; 
+    border-radius:35px; 
+    width:fit-content;
+    min-width:20vw !important;
+    max-width:85vw;
+    border:solid black;
+}
+.bubble_label{
+    color:black;
+    font-size:2.5vh; 
+    padding-left:25;
+    padding-right:25;
+}
+.narrator{
+    text-align:left;
+    margin: 0 auto 0 0;
+    }
+.speech{
+        
+    color:#fafafa;
+    background-color: #248bc5;
+}
+.speech2{
+    background-color:#b5b5ba;
+    color:#000070;
+}
+.speech3{
+    background-color:#af80af; 
+    color:#000070;
+}
+.thought{
+    background-color: #af80af;
+    color:#000070;
+}
+.thought2{
+    background-color: #b58782;
+    color:#000070;
+}
+.thought3{
+    background-color:#af80af; 
+    color:#000070;
+}
+.other{
+    text-align:right; 
+    margin: 0 0 0 auto;
+}
+.block{
+    background-color:inherit;
+    width:90vw;
+    display:flex;
+    flex-flow:column nowrap;
+    align-items:start;
+    margin:auto 0 auto 0;
+    max-width:1170;
+    align-self:center; 
 }
 .cursor {
     animation: 2s linear infinite b;
