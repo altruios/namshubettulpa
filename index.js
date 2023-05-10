@@ -92,7 +92,9 @@ async function transform_to_md(cwd,callback){
         data=`<html><meta charset="UTF-8"><meta
         name="viewport"
         content="width=device-width, initial-scale=1, maximum-scale=1"
-      /><style>
+      />
+      <title>Namshub Et'Tulpa</title>
+      <style>
 
         .cursor {
             animation: 2s linear infinite b;
@@ -114,11 +116,8 @@ async function transform_to_md(cwd,callback){
     })        
 }
 app.get("/",(req,res)=>{
-    console.log(req.params[0], "basic request");
     const start_path = path.join(BASE_DIR,"index.html")
-    console.log("start path heard")
     readFile(start_path,"utf-8",(err,data)=>{
-        console.log("data,ere",err,data);
         res.send(data);
     })
 })
@@ -132,11 +131,9 @@ app.get("/*",(req,res)=>{
     const is_index_file = file_request.includes('index.md')
     const image_types = [".png",".jpg",".gif","favicon.ico"]
     const is_image = (image_types.some(it=>file_request.includes(it)))
-    console.log(file_request,"file request")
     const code_types=['.cpp','.js','.ts','.c','.go']
     const is_code = (code_types.some(it=>file_request.includes(it)))
     if(is_html_file){
-        console.log("is html",file_request)
         return res.send(path.join(BASE_DIR,file_request))
     }
     if(is_image||is_code){
@@ -159,8 +156,7 @@ app.get("/*",(req,res)=>{
         data=data.replaceAll(/####(.*)/gm,'<h4>$1</h4>')
         data=data.replaceAll(/###(.*)/gm,'<h3>$1</h3>')
         data=data.replaceAll("&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;","</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;")
-        console.log(data);
-        data=`<html><meta charset="UTF-8"><meta
+        data=`<html><title>Namshub Et'Tulpa</title><meta charset="UTF-8"><meta
         name="viewport"
         content="width=device-width, initial-scale=1, maximum-scale=1"
       /><body style="background-color:${bg_colors[4]};white-space: pre-wrap;" ><p>${data}</p></body>${script_bypass.data}</html>`

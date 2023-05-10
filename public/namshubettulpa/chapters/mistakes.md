@@ -207,16 +207,62 @@ Though at a slight angle~
 ~Above her the walls of the circle soon filled the sky, winking out the sun, plunging her in darkness~
 }
 {
-` 
-  Narrator:"The Relux"
-    ~The Relux~ plot-line *lines*... //heist stuff
-    //source of bad news?
-`
+%%%%
 }
 {
-    Martha's encounter with Al-tok,
-    escape but with a price
+mn:RX
 }
 {
-foyer
+'AD_R::I think it is straight ahead'
+~Ada reached Jochek at the bottom cellar: a long corridor of stone with a center arch~
+~Wooden doors barred in dark iron evenly placed on each side of the hall~
+*Ada took the lead*
+'AD_R::Quickly now, I know some things are down here because they should not be close to minds'
+'J_R::All these doors are locked.'
+~Ada looked above her and noted the security cameras~
+'L_R::No alarm yet, maybe no one to raise it, lets hope.'
+*Jochek inspected the doors*
+'J_R::looks like they each have a number'
+'AD_R::look for negative one'
+~Ada and jochek reached the end of the hall~
+~The door read zero~
+'L_R::Think it could be through there?'
+'AD_R::Keep looking.'
+~The wall to Ada's left was ascending numbers going back the way they came.
+The other side... 
+We found it, first one on the right~
+*Jochek kneeled in front of the lock*
+'L_R::Yeah, yeah - I am just around the...'
+~Lenny was coughing in his gas mask. 
+Carried under the arm of Dana~
+~Ada took Lenny's other side, he was old and frail in this body~
+'RX::And if that happens to impress upon you her helpfulness...'
+~Ada should spend time with Dana, we decided, she was the most discerning~
+'AD_R::We are fine with three, three is a good number.'
+~Yet she complied, we knew she was cautious, but not completely jaded~
+*Dana handed over the keys*
+"D::Any of these might open that."
+*Ada tossed them to jochek*
+~Who despite having frail wrists at the moment, expertly caught the keys~
+~Jochek gave them a once over and started trying the relevant ones~
+'L_R::Right, now hurry up and wait.'
+"L_R::Right, now hurry up and wait..."
+~Too often they defaulted to just their internal communication~
+"AD_R::Once we get that open we high tail it out of here."
+'J_R::None of the keys...'
+~Jochek went back to picking the lock~
+'l_R::I do not like how there is only one exit, that distraction up there will only last so long...'
+~It was Ada that noticed the camera's red light blink~
+'AD_R::I think we have a problem.'
+*Lenny covered the security camera with his jacket*
+~Footsteps coming down the stairs grew louder in the distance~
+'RX::The door.'
+*Ada ran over and slammed it shut*
+~Things around her apparently awoke from the noise.
+She heard snarling to her right, and that was quickly muted by what could be described as a tornado of chainsaws to her left.
+Both sounds coming from behind locked doors~
+*The doors along the hall started rattling, all of them*
+~A discordant chorus of disquieting sounds~
 }
+
+## [debugging](debugging.md)
