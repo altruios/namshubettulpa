@@ -218,6 +218,26 @@ function scp(txt,internal_data_flag){
        
     }
 }
+async function PARSE_MD(cwd,res){ //incomplete and basic
+    return readFile(cwd,"utf-8",(err,data)=>{
+        data=escapeHtml(data)
+        data=data.replaceAll(/(\`\`\`(.*?)\`\`\`)/gms,'<pre class="code">$2</pre>')
+        console.log("data,",data)
+        data=data.replaceAll(/####(.*)/gm,'<h4>$1</h4>')
+        data=data.replaceAll(/###(.*)/gm,'<h3>$1</h3>')
+        data=data.replaceAll("&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;","</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;")
+        data=`<html><title>Namshub Et'Tulpa</title> 
+        <meta charset="UTF-8"><meta
+        name="viewport"
+        content="width=device-width, initial-scale=1, maximum-scale=1"
+      />
+      <link rel="stylesheet" href="style.css">
+
+      <body><p>${data}</p></body></html>`
+
+        res.send(data)
+    })
+}
 async function transform_to_md(cwd,callback){
     var re = /\[(.*?)\]/g
     var re2 = /\((.*?)\)/g
@@ -306,4 +326,7 @@ async function transform_to_md(cwd,callback){
         callback(null,data);
     })        
 }
-module.exports=transform_to_md;
+function escapeHtml  (unsafe) {
+    return unsafe.replaceAll('<', '&lt;').replaceAll('>', '&gt;').replaceAll('"', '&quot;').replaceAll("'", '&#039;');
+}
+module.exports={transform_to_md,PARSE_MD};
