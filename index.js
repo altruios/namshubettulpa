@@ -16,26 +16,21 @@ app.get("/",(req,res)=>{
     })
 })
 
+const image_types = [".png",".jpg",".gif","favicon.ico"]
 app.get("/*",(req,res)=>{
     const file_request = req.params[0];
-    if(file_request.includes(".css")) return res.sendFile(path.join(BASE_DIR,'style.css'))
-    
-    const is_md_file =file_request.includes(".md");
-    const is_short_story = file_request.includes("shorts")
-    const is_index_file = file_request.includes('index.md')
-    const image_types = [".png",".jpg",".gif","favicon.ico"]
-    const is_image = (image_types.some(it=>file_request.includes(it)))
-    if(is_image){
-        const rs = path.join(BASE_DIR,req.params[0]); 
-        console.log("is image");
-        res.send(readFileSync(rs));
-        return
-    }
+    const rs = path.join(BASE_DIR,file_request); 
+    if(file_request.includes(".css"))                   return res.sendFile(path.join(BASE_DIR,'style.css'))
+    if(image_types.some(it=>file_request.includes(it))) return res.send(readFileSync(rs))
 
-    cwd = is_md_file?  path.join(BASE_DIR,req.params[0]) : //pass straight thorough
-                        path.join(BASE_DIR,req.params[0],"index.md"); //add index if no file extension found
-    
-    is_short_story&&!is_index_file?PARSE_MD(cwd,res):transform_to_md(cwd,(err,r)=>err?res.send(err):res.send(r))
+    const is_index_file = file_request.includes('index.md')
+    const is_md_file =file_request.includes(".md");
+    const is_short_story = file_request.includes("shorts")&&!is_index_file
+
+    cwd = is_md_file?rs:path.join(rs,"index.md"); //add index if no file extension found
+
+    if(is_short_story)return PARSE_MD(cwd,res)
+    else return transform_to_md(cwd,(err,r)=>err?res.send(err):res.send(r))
 })
 
 app.listen(port, () => {

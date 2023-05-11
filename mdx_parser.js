@@ -4,6 +4,14 @@ const speakers =require('./speakermap.js');
 const emoji_map = require('./emoji_map.js');
 
 const defaultnarrator = {current:speakers.M}
+
+const html_head = `<html><meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+<title>Namshub Et'Tulpa</title>
+<link rel="stylesheet" href="style.css">
+<body>`
+const html_end=`</p></body></html>`
+
 const mdx_parser=(text)=>{
     const data = get_mdx_data(text);
     if(data.length<100) return null;
@@ -222,20 +230,12 @@ async function PARSE_MD(cwd,res){ //incomplete and basic
     return readFile(cwd,"utf-8",(err,data)=>{
         data=escapeHtml(data)
         data=data.replaceAll(/(\`\`\`(.*?)\`\`\`)/gms,'<pre class="code">$2</pre>')
-        console.log("data,",data)
         data=data.replaceAll(/####(.*)/gm,'<h4>$1</h4>')
         data=data.replaceAll(/###(.*)/gm,'<h3>$1</h3>')
         data=data.replaceAll("&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;","</p><p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;")
-        data=`<html><title>Namshub Et'Tulpa</title> 
-        <meta charset="UTF-8"><meta
-        name="viewport"
-        content="width=device-width, initial-scale=1, maximum-scale=1"
-      />
-      <link rel="stylesheet" href="style.css">
+        data=`${html_head}${data}${html_end}`
 
-      <body><p>${data}</p></body></html>`
-
-        res.send(data)
+        return res.send(data)
     })
 }
 async function transform_to_md(cwd,callback){
@@ -313,13 +313,7 @@ async function transform_to_md(cwd,callback){
                 }
             })
         }
-        data=`<html><meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
-        <title>Namshub Et'Tulpa</title>
-        <link rel="stylesheet" href="style.css">
-        <body>
-        ${data}
-        </body>
+        data=`${html_head}${data}</body>
         ${script_bypass.data}
         </html>`
         data=data.replace(/([\<][\p][\>][\<][\/][\p][\>])/gm, "")
