@@ -7,7 +7,20 @@ body{
     font-family: system-ui;
 }
 p{
-    font-size:4rem;
+    font-size:1.2rem;
+}
+ol{
+    list-style-position: 
+    outside;
+    padding-left: 2rem;
+
+}
+li{
+    border:1px solid;
+    color:white;
+    background-color: rgb(232, 177, 138);
+    text-align: center;
+
 }
 .action{
     background-color: #ff0000;
@@ -55,20 +68,12 @@ p{
     background-color:#b5b5ba;
     color:#000070;
 }
-.speech3{
-    background-color:#af80af; 
-    color:#000070;
-}
 .thought{
     background-color: #af80af;
     color:#000070;
 }
 .thought2{
     background-color: #b58782;
-    color:#000070;
-}
-.thought3{
-    background-color:#af80af; 
     color:#000070;
 }
 .other{

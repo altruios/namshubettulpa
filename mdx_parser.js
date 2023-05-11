@@ -192,7 +192,7 @@ function scp(txt,internal_data_flag){
     switch(txt[0]){
         case "\"": 
             if(internal_data_flag){
-                return `<span class="speech3">${txt}</span>`;
+                return `<span class="speech">${txt}</span>`;
             }
             if(speaker_regex){
                 let key = speaker_regex[0].slice(0,speaker_regex.indexOf(":")-1);
@@ -205,7 +205,7 @@ function scp(txt,internal_data_flag){
             return `<span>${txt}</span>`;
         case "\'": 
         if(internal_data_flag){
-            return `<span class="thought3">${txt}</span>`;
+            return `<span class="thought">${txt}</span>`;
         }
         if(speaker_regex){
             let key = speaker_regex[0].slice(0,speaker_regex.indexOf(":")-1);
@@ -248,28 +248,27 @@ async function transform_to_md(cwd,callback){
             callback("<h1>there is no file here</h1>",null);
             return;
         }
-        const links = data?.match(/[^!](\[(.*?)\]\(.*?\))/g) ||[]
-        const images = data?.match(/[!](\[(.*?)\]\(.*?\)\{?.*?\})/g) ||[]
+        
         const headers = data?.match(/((?<atxlayer>#+)\s*(?<atxname>.+))|((?<setexname>[\w|\d|\s|-]+)\n(?<setexLayer>[-|=]{2,}))/g)||[]; // matches lines with # at start
-
-
         headers.forEach(head=>{
             const count = head.match(/^#+/)[0].length;
             const htext = head.replace(/^#+/,"");
             const replace = `<h${count} style="text-align: center;">${htext}</h${count}>`
             data=data.replace(head,replace);
         })
-
+        
+        const links = data?.match(/[^!](\[(.*?)\]\(.*?\))/g) ||[]
         links.forEach(link=>{
             const m1 = link.match(re2)[0].replace("(","").replace(")","");
             const m2 = link.match(re)[0].replace("]","").replace("[","");
             const replace = `<a href="${m1}">${m2}</a>`
             data=data.replace(link,replace)
         });
+        const images = data?.match(/[!](\[(.*?)\]\(.*?\)\{?.*?\})/g) ||[]
         images.forEach(img=>{
             
             if(cwd.includes("/public/index.md")){
-
+                
             }
             const urlandhover = img.match(re2)[0].replace("(","").replace(")","");
             const style = img.match(re3)[0]?.replace("{","")?.replace("}","");
@@ -278,6 +277,18 @@ async function transform_to_md(cwd,callback){
             
             const replace = `<img src="${url}" alt="${altText}" style="${style}"/>`
             data=data.replace(img,replace)
+        })
+        
+        const lines = data?.match(/^[0-9]+[.].*?$/gm)||[]
+        lines.forEach((line,i,arr)=>{
+            const split_line = line.replace(/^[0-9]+[.]/gm,"")
+            if(i==0){
+                data=data.replace(line,`<ol><li >${split_line}</li>`)
+            }else if(i==arr.length-1){
+                data=data.replace(line,`<li>${split_line}</li></ol>`)
+            }else{
+                data=data.replace(line,`<li>${split_line}</li>`)
+            }
         })
         const script_bypass={data:""}
         const script = data.match(/<script[^>]*>[\s\S]*?<\/script>/gim)
@@ -291,27 +302,6 @@ async function transform_to_md(cwd,callback){
             const start_str = data.slice(0,start);
             const end_str = data.slice(end+1);
             data= start_str+blocks+end_str
-        }else{
-            const lines = data.split(EOL).filter(x=>x!=''&&x[0]!="{"&& !(x[1]=='h'&&x[0]=="<"));
-        
-            lines.forEach((line,i,arr)=>{
-                if('123456789'.includes(line[0])){
-                    const stripped_line = line.replace(line.match(/[0-9]+\.\s/gm),"")
-                    const data_line = stripped_line.slice(stripped_line.indexOf(".")+1);
-                    if(line[0]=="1"&&line[1]=="."){
-
-                        data=data.replace(line,`<ol style="font-size:5vh; margin-left:2vw" ><li >${data_line}</li>`)
-                    }
-                    else if(!arr[i+1] || !'123456789'.includes(arr[i+1][0])){
-                        data=data.replace(line,`<li>${data_line}</li></ol>`)
-                    }else{
-                    data=data.replace(line,`<li>${data_line}</li>`)
-                    }
-                }else{
-
-                    data=data.replace(line, `<p style="font-size:5vh;">${line}</p>`);
-                }
-            })
         }
         data=`${html_head}${data}</body>
         ${script_bypass.data}

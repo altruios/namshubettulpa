@@ -27,10 +27,10 @@ app.get("/*",(req,res)=>{
     const is_md_file =file_request.includes(".md");
     const is_short_story = file_request.includes("shorts")&&!is_index_file
 
-    cwd = is_md_file?rs:path.join(rs,"index.md"); //add index if no file extension found
-
+    cwd = rs //add index if no file extension found
     if(is_short_story)return PARSE_MD(cwd,res)
-    else return transform_to_md(cwd,(err,r)=>err?res.send(err):res.send(r))
+    else if (is_md_file) return transform_to_md(cwd,(err,r)=>err?res.send(err):res.send(r))
+    else return res.sendFile(rs)
 })
 
 app.listen(port, () => {
