@@ -1,11 +1,14 @@
 
 body{
     background-color: #6f6f6f;
-    font-size:3vh;
+    font-size:1.2rem;
     display:flex;
     flex-flow:column nowrap;
+    font-family: system-ui;
 }
-
+p{
+    font-size:4rem;
+}
 .action{
     background-color: #ff0000;
 }
@@ -35,7 +38,7 @@ body{
 }
 .bubble_label{
     color:black;
-    font-size:2.5vh; 
+    font-size:.85rem; 
     padding-left:25;
     padding-right:25;
 }
@@ -79,8 +82,8 @@ body{
     flex-flow:column nowrap;
     align-items:start;
     margin:auto 0 auto 0;
-    max-width:1170;
     align-self:center; 
+    max-width: 100rem;
 }
 .cursor {
     animation: 2s linear infinite b;
