@@ -15,11 +15,21 @@ ol{
     padding-left: 2rem;
 
 }
-li{
-    border:1px solid;
-    color:white;
-    background-color: rgb(232, 177, 138);
-    text-align: center;
+ul{
+    list-style-position: 
+    outside;
+    padding-left: 2rem;
+}
+
+ul>li{
+    color:rgb(255, 0, 0);
+    text-align: left;
+    padding-left: 1rem;
+
+}
+ol>li{
+    text-align: left;
+    padding-left: 1rem;
 
 }
 h1,
