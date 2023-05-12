@@ -68,13 +68,13 @@ mn:M
 ~Her eyes had trouble adjusting at first~
 ~When they cleared she saw a man sitting at a table~
 ~He sat in what looked to be a small alcove area next to the kitchen~
-'R::Okay, so this is a bit much to explain'
+'R::Okay, so this is a bit much to explain...'
 *Rossin's hand trembled a bit as he took a sip of the liquid*
 ~The careless drops gleamed like rubies against the warm, amber kitchen light~
 *With a small tap and a breath he continued*
 'R::There is a book you saw...  
 No, more than just that book...'
-*He urgently waving his gun to the empty chair across from him*
+*He urgently waved his gun to the empty chair across from him*
 ~Martha avoided looking to the left, she wasn't conscious of this~
 *Feeling herself she moved closer to sit*
 ~Her head still pounding with a faint echo of that ringing~
@@ -242,7 +242,7 @@ All over the kitchen are'
 'R::A part of it... 
 A small part... 
 Like a seed... 
-Still in you:dormant. 
+Still in you: dormant. 
 If you see that expression it grows back and well... 
 Designed to kill the target and then the host... 
 So do not look left okay, keep your head straight. 
@@ -336,7 +336,7 @@ To everyone else, they would see you knocking over the chair with your hand'
 ~The lock screen said Monday night~
 ~She missed 2 days, work, and the fact she may have killed someone~
 "M::Great Monday… really fucking great… fuck-ety fuck fuck."
-'M::What the fuck was she going to do now?'
+'M::What the fuck am I going to do now?'
 *She walked more determinedly*
 ~Forcing each foot to the ground as a stop-measure against her rising panic~
 }
@@ -373,21 +373,22 @@ You're real."
 *And then he did a small skip and danced into the middle of the road*
 ~Just in time for the car, not having slowed down at all, to hit him~
 *He folded under the hood and rolled underneath the tires*
-*Martha count three and a half rolls*
-*Some rational part of her brain managed to keep count*
-*Pulling him down and under as the car hobbled over him*
+~Martha count three and a half rolls.
+Some rational part of her brain managed to keep count~
+*Rossin was pulled down and under as the car lumped over him*
 *He rolled a few times on the pavement before laying motionless*
 *The car drove into the distance*
 *Martha rushed over into the middle of the street where his body lay*
 *She tried to brush her hair out of her face, to tuck it behind her ear*
-*She missed*
-*Her hand was shaking*
-~She never saw a car crash up close~
+~She missed.
+Her hand was shaking.
+She never saw a car crash up close~
 *A voice behind her called out, from where she had just been*
 'R::Am I real?'
 *Rossin, without a scratch on him, dusted off his sleeve*
-'R::I really would like to know a definitive answer to that'
-~She a double take: the body she had just been leaning over was gone~
+'R::I really would like to know a definitive answer to that.'
+*She did a double take* 
+~the body she had just been leaning over was gone~
 'R::But you most probably are, so would you get out of the street.'
 }
 {
