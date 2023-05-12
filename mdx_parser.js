@@ -243,14 +243,12 @@ async function transform_to_md(cwd,callback){
     var re3 = /\{(.*?)\}/g
     return  readFile(cwd,"utf-8",(err,data)=>{
         if(data==undefined||err){
-            console.log("got this - ",data,err,cwd);
             callback("<h1>there is no file here</h1>",null);
             return;
         }
         
         const headers = data?.match(/^[#]+\s.*/gm)||[]; // matches lines with # at start
         headers.forEach(head=>{
-            console.log("head",head);
             const count = head.match(/^#+/)[0].length;
             const htext = head.replace(/^#+/,"");
             const replace = `<h${count}>${htext}</h${count}>`
@@ -322,7 +320,6 @@ async function transform_to_md(cwd,callback){
         div_bypass.data = data.match(/[<][d][i][v].*[>].*[<][\/][d][i][v][>]/gm)||[];
         div_bypass.keys = div_bypass.data.map((x,i)=>`$;$${i}$;$`)
         data=data.replaceAll(div_bypass.data,div_bypass.keys);
-        console.log(data,"is data",div_bypass)
         const blocks =mdx_parser(data)
         if(blocks){
 
