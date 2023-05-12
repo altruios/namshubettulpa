@@ -318,6 +318,11 @@ async function transform_to_md(cwd,callback){
         const script = data.match(/<script[^>]*>[\s\S]*?<\/script>/gim)
         script_bypass.data=script?script[0]:"";``
         data=data.replaceAll(script,"");
+        const div_bypass={data:[],keys:[]};
+        div_bypass.data = data.match(/[<][d][i][v].*[>].*[<][\/][d][i][v][>]/gm)||[];
+        div_bypass.keys = div_bypass.data.map((x,i)=>`$;$${i}$;$`)
+        data=data.replaceAll(div_bypass.data,div_bypass.keys);
+        console.log(data,"is data",div_bypass)
         const blocks =mdx_parser(data)
         if(blocks){
 
@@ -331,6 +336,8 @@ async function transform_to_md(cwd,callback){
         ${script_bypass.data}
         </html>`
         data=data.replace(/([\<][\p][\>][\<][\/][\p][\>])/gm, "")
+        data=data.replaceAll(div_bypass.keys,div_bypass.data);
+
         callback(null,data);
     })        
 }
