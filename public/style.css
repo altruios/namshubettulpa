@@ -1,22 +1,128 @@
-.actionword{
-    background-color: #ff0000;
+
+body{
+    background-color: #6f6f6f;
+    font-size:1.2rem;
+    display:flex;
+    flex-flow:column nowrap;
+    font-family: system-ui;
 }
-.descriptword{
-    background-color: #00ffdd;
+p{
+    font-size:1.2rem;
+}
+ol{
+    list-style-position: 
+    outside;
+    padding-left: 2rem;
 
 }
-.spokenword{
-    background-color: #d0ff00;
-    color:#d0ff00;
+li{
+    border:1px solid;
+    color:white;
+    background-color: rgb(232, 177, 138);
+    text-align: center;
 
 }
-.dataword{
-    background-color: #1900ff;
-
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    text-align: center;
 }
-.thoughtword{
-    background-color: #15ff00;
+.cli{
+    color:#aa0000;
+}
+.cli-option{
+    color:#ff6f00;
+}
+.cli-option-long{
+    color:#ff4499
+}
+.cli-object{
+    color:#ca7922;
+}
+.bracket{
+    color:#ffffff;
+}
+.boolean{
+    color:#9953e0;
+}
 
+.action{
+    color: #44aaff;
+}
+.description{
+    color: #afaf00;
+}
+.indicator{
+    background-color:#fa00a0;
+    color:#000000;
+}
+.section_break{
+    text-align: center;
+    color:ff7f3f;
+}
+.code{
+    color:#6a9a6a;
+    background-color:#4f4f4f; 
+    width:100%; 
+    font-size:65%; 
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+.code>span{
+    color:#afafd0;
+}
+.bubble{
+    border:solid;
+    padding:3; 
+    border-radius:35px; 
+    width:fit-content;
+    min-width:20vw !important;
+    max-width:85vw;
+    border:solid black;
+}
+.bubble_label{
+    color:black;
+    font-size:.85rem; 
+    padding-left:25;
+    padding-right:25;
+}
+.narrator{
+    text-align:left;
+    margin: 0 auto 0 0;
+    }
+.speech{
+        
+    color:#fafafa;
+    background-color: #248bc5;
+}
+.speech2{
+    background-color:#b5b5ba;
+    color:#000070;
+}
+.thought{
+    background-color: #af80af;
+    color:#000070;
+}
+.thought2{
+    background-color: #b58782;
+    color:#000070;
+}
+.other{
+    text-align:right; 
+    margin: 0 0 0 auto;
+}
+.block{
+    background-color:inherit;
+    width:90vw;
+    display:flex;
+    flex-flow:column nowrap;
+    align-items:start;
+    margin:auto 0 auto 0;
+    align-self:center; 
+    max-width: 100rem;
 }
 .cursor {
     animation: 2s linear infinite b;
