@@ -22,12 +22,46 @@ li{
     text-align: center;
 
 }
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    text-align: center;
+}
+.cli{
+    color:#aa0000;
+}
+.cli-option{
+    color:#ff6f00;
+}
+.cli-option-long{
+    color:#ff4499
+}
+.cli-object{
+    color:#ca7922;
+}
+.bracket{
+    color:#ffffff;
+}
+.boolean{
+    color:#9953e0;
+}
+
 .action{
-    background-color: #ff0000;
+    color: #44aaff;
 }
 .description{
-    background-color: #00ffdd;
-
+    color: #afaf00;
+}
+.indicator{
+    background-color:#fa00a0;
+    color:#000000;
+}
+.section_break{
+    text-align: center;
+    color:ff7f3f;
 }
 .code{
     color:#6a9a6a;

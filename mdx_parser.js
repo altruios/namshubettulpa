@@ -131,25 +131,23 @@ const mdx_block_parser = (block,dfn)=>{
         internal_data_matches_unique.forEach(match=>{
             obj.t=obj.t.replaceAll(match,scp(match,true))
         })    
-        obj.t=obj.t.replaceAll(/([t][r][u][e]|[f][a][l][s][e])/gm,`<span style="color:#9953e0">$1</span>`)
-        obj.t=obj.t.replaceAll(/([=][>]|[<][=]|[e][x][e]|[|][|]|[W][I][T][H]|[W][H][I][L][E]|[T][R][Y]|[C][A][T][C][H])/gm,`<span style="color:#aa0000">$1</span>`)
-        obj.t=obj.t.replaceAll(/([\{]|[\}]|[\[]|[\]]|[\(]|[\)])/gm,`<span style="color:#ffffff">$1</span>`)
-        obj.t=obj.t.replaceAll(/([\s][-][\w]+)/gm,`<span style="color:#ff6f00">$1</span>`)
-        obj.t=obj.t.replaceAll(/([-][-][\w][\w-]*)/gm,`<span style="color:#ff4499">$1</span>`)
-        obj.t=obj.t.replaceAll(/([.][\w]+)/gm,`<span style="color:#ca7922">$1</span>`)
-        fake_links.forEach((fl,i)=>{
-         //   console.log(fl,links[i],"replaceing")
-            obj.t=obj.t.replaceAll(fl,links[i])
-        })
+        obj.t=obj.t.replaceAll(/([t][r][u][e]|[f][a][l][s][e])/gm,`<span class="boolean">$1</span>`)
+        obj.t=obj.t.replaceAll(/([=][>]|[<][=]|[e][x][e]|[|][|]|[W][I][T][H]|[W][H][I][L][E]|[T][R][Y]|[C][A][T][C][H])/gm,`<span class="cli">$1</span>`)
+        obj.t=obj.t.replaceAll(/([\{]|[\}]|[\[]|[\]]|[\(]|[\)])/gm,`<span class="bracket">$1</span>`)
+        obj.t=obj.t.replaceAll(/([\s][-][\w]+)/gm,`<span class="cli-option">$1</span>`)
+        obj.t=obj.t.replaceAll(/([-][-][\w][\w-]*)/gm,`<span class="cli-option-long">$1</span>`)
+        obj.t=obj.t.replaceAll(/([.][\w]+)/gm,`<span class="cli-object">$1</span>`)
 
+        fake_links.forEach((fl,i)=>obj.t=obj.t.replaceAll(fl,links[i]))
 
         return obj;
     })
 
     transforms_data = transforms_data.map(x=>{
+        const text = x.t.slice(1,x.t.length-1)
         return {
             o:x.o,
-            t:`<pre class="code"><span>${x.t}</span></pre>`
+            t:`<pre class="code"><span>${text}</span></pre>`
         }
     })
     const transforms = [...transforms_data,...transforms_words].reduce((acc,t)=>{
@@ -165,8 +163,8 @@ const mdx_block_parser = (block,dfn)=>{
     })
     
     block=block.replaceAll(/([\<][\p][\>][\<][\/][\p][\>])/gm, "")
-    block=block.replaceAll(/([\^]+)/gm,`<span style="background-color:#fa00a0;color:#000000">$1</span>`)
-    block=block.replaceAll(/([%][%][%][%])/gm,`<br /><div style="text-align: center;color:ff7f3f">%%%%</div><br /><br />`);
+    block=block.replaceAll(/([\^]+)/gm,`<span class="indicator">$1</span>`)
+    block=block.replaceAll(/([%][%][%][%])/gm,`<br /><div class="section_break">%%%%</div><br /><br />`);
     return block;
 }
 
@@ -175,7 +173,7 @@ function text_div(txt,mainNB,speaker,type) {
     <div 
         class=" bubble ${mainNB?"narrator":"other"} ${mainNB?type:`${type}2`}">
         <div class="bubble_label">${speaker}</div>
-        <div class="type"" style="padding-${mainNB?'left':'right'}: 15;">${txt}</div>
+        <div class="type" style="padding-${mainNB?'left':'right'}: 15;">${txt}</div>
         </div>`
 }
 function scp(txt,internal_data_flag){
@@ -220,8 +218,8 @@ function scp(txt,internal_data_flag){
             return text_div(d,true,speaker,"thought")
 
         }
-        case "\~": return `<span style="color:#afaf00">${txt}</span>`;
-        case "\*": return `<span style="color:#44aaff">${txt}</span>`;
+        case "\~": return `<span class="description">${txt}</span>`;
+        case "\*": return `<span class="action">${txt}</span>`;
         case "\`": return `<code class="code";>${txt}</code>`;
        
     }
@@ -253,7 +251,7 @@ async function transform_to_md(cwd,callback){
         headers.forEach(head=>{
             const count = head.match(/^#+/)[0].length;
             const htext = head.replace(/^#+/,"");
-            const replace = `<h${count} style="text-align: center;">${htext}</h${count}>`
+            const replace = `<h${count}>${htext}</h${count}>`
             data=data.replace(head,replace);
         })
         
