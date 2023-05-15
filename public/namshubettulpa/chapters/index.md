@@ -1,11 +1,10 @@
-# Current Draft 
+{`
+~date~:05/09/23 
 
-## CHAPTERS
-
-date:05/09/23 
-<br />
-status: in progress - estimated 65%~ of first draft
-
+~status~: ~in progress~ {
+~estimated~: ~65% of first draft~    
+}
+chapters:{
 
 1. [reset 2](reset-2.md)
 
@@ -52,6 +51,8 @@ status: in progress - estimated 65%~ of first draft
 22. [Meeting of Minds](meeting-of-minds.md)
 
 23. [mistakes](mistakes.md) //unfinished
-
+}
+`
+}
 ### [index](../index.md)
 

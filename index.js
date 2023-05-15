@@ -14,14 +14,17 @@ app.get("/*",(req,res)=>{
     const file_request = req.params[0];
     const rs = path.join(BASE_DIR,file_request); 
     const is_image = image_types.some(it=>file_request.includes(it)); 
-    const is_index_file = file_request.includes('index.md')
-    const is_md_file =file_request.includes(".md");
+    const is_index_file = file_request.endsWith('index.md')
+    const is_md_file =file_request.endsWith(".md");
     const is_short_story = file_request.includes("shorts")&&!is_index_file
     cwd = rs
+
+    console.log({is_short_story,is_md_file,is_index_file,is_image,rs,file_request})
     if(file_request.includes(".css"))   return res.sendFile(path.join(BASE_DIR,'style.css'))
     if(is_image)                        return res.send(readFileSync(rs))
     if(is_short_story)                  return PARSE_MD(cwd,res)
     else if (is_md_file)                return transform_to_md(cwd,(err,r)=>err?res.send(err):res.send(r))
-    else                                return res.sendFile(rs)
+    else                                return res.sendFile(rs, null,(e)=>e?res.send(`<h2> ${e.stack}</h2>`):console.log("sent"))
+    
 })
 app.listen(port, () =>console.log("listening",port))
