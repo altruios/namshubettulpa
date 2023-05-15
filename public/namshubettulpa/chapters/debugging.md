@@ -53,6 +53,7 @@ const ~orb~ = {
 ~Self~.~gravity~ = - ~Self~.~gravity~;
 `
 *Which sent her soaring away from the cliff*
+*The tiny ball of light zipped up the match her speed, returning to its original orbit*
 ~A voice boomed through the cavern, coming from deep below.
 Martha had the sickening thought - the image of something talking through a straw - something so massive as to be impossible to comprehend~
 ~And it was happy~
@@ -75,8 +76,9 @@ const *bubble_shield* = {
 *What was rising below caught up to her*
 ~It was a dark goo, a morphing blob shifting into the shapes to humans, each reaching towards her in desperation.
 But the overall shape was a hand~
-*Which poked Martha's bubble - sending it to collide with the cliff face.
-The shield bubble burrowed up for a bit, into the cliff face before coming to a rest*
+*Which slammed into Martha's bubble, smashing it into the cliff face.
+The shield bubble burrowed up into the rock, spinning wildly before coming to a rest.
+The little orb of light slowly stopped spinning from inside the perimeter*
 ~She hung in the air, the wind knocked out of her - feeling the effects of the increased gravity and no where to go, the bubble keeping her in place~
 `
 ~Self~.~gravity~=0
@@ -100,22 +102,26 @@ If she said nothing~
 She connected that spear to every human heart besides her own~
 'M::Oh fuck...'
 *Al-tok tapped on the bubble, sending it deeper in the cave*
-~Martha felt that burning sensation and hunger grow~
+~Martha felt that burning sensation and hunger grow.
+Any expenditure of the shield's energy had to come from somewhere, that somewhere was Martha~
 "AT::Are you going to come out of there?"
-~The voices turned over each other, a waterfall of harmonizing voices~
+~The voices turned over each other, a waterfall of harmonizing rasps~
 "AT::Or are we going to chase through the earth?"
-"M::I have a proposition for you."
+"M::I have a proposition for you..."
 ~She did not, but she just needed a breather to think~
 ~The exit was somewhere up there, could she get there, or...~
-'M::The exit is a mirror, right?
+'M::The exit was a mirror, somewhere on the ground above.
 This is a dream, so...'
 ~She took a breath an hoped she could do this~
 *She took hold of her left sock*
 `
 ~exit~= (person,Dream) => Dream.~expunge~(person)
-
-~exit(~Self~,~this~(~Dream~))^
-(notes: do something cooler here)
+~Mirror~ = (Dream) => ({
+    ~Type~:~Hand-held~,
+    ~exit~:~exit~(~Self~,Dream)
+    })
+~self~.hands.get_held().reshape(~Mirror~)
+.~exit~(~self~,~this~(~dream~))^
 `
 ~The walls around her started to melt away~
 "AT::Oh, we're chasing this way..."
