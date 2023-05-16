@@ -19,7 +19,7 @@ app.get("/*",(req,res)=>{
     const is_short_story = file_request.includes("shorts")&&!is_index_file
     cwd = rs
 
-    console.log({is_short_story,is_md_file,is_index_file,is_image,rs,file_request})
+    console.log({rs})
     if(file_request.includes(".css"))   return res.sendFile(path.join(BASE_DIR,'style.css'))
     if(is_image)                        return res.send(readFileSync(rs))
     if(is_short_story)                  return PARSE_MD(cwd,res)
