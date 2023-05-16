@@ -1,8 +1,8 @@
 {`
-~date~:05/09/23 
+~date~:05/16/23 
 
 ~status~: ~in progress~ {
-~estimated~: ~65% of first draft~    
+~estimated~: ~70% of first draft~    
 }
 chapters:{
 
@@ -50,7 +50,11 @@ chapters:{
 
 22. [Meeting of Minds](meeting-of-minds.md)
 
-23. [mistakes](mistakes.md) //unfinished
+23. [mistakes](mistakes.md)
+
+24. [debugging](debugging.md)
+
+25. [desperate resort](desperate-resort.md)
 }
 `
 }
