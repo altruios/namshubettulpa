@@ -1,8 +1,6 @@
 const {readFile} = require('fs')
-const {EOL} = require('os');
 const speakers =require('./speakermap.js');
 const emoji_map = require('./emoji_map.js');
-const { nextTick } = require('process');
 
 const defaultnarrator = {current:speakers.M}
 
