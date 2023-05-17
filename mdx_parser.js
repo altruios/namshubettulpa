@@ -2,6 +2,7 @@ const {readFile} = require('fs')
 const {EOL} = require('os');
 const speakers =require('./speakermap.js');
 const emoji_map = require('./emoji_map.js');
+const { nextTick } = require('process');
 
 const defaultnarrator = {current:speakers.M}
 
@@ -116,7 +117,7 @@ const mdx_block_parser = (block,dfn)=>{
         const dw = ref.match(/\~([^~]*)\~/gm)||[];
         const sw = ref.match(/\"([^"]*)\"/gm)||[];
         const tw = ref.match(/\'([^']*)\'/gm)||[];
-        const links = (ref.match(/\<.*\>/gm)||[])
+        const links = (ref.match(/\<a.*\>/gm)||[]);
         const fake_links = links.map((link,i)=>`!!@@!${i}!@@!!`)
         links.forEach((l,i)=>{
             obj.t=obj.t.replaceAll(links[i],fake_links[i])})
@@ -242,12 +243,11 @@ async function transform_to_md(cwd,callback){
     var re3 = /\{(.*?)\}/g
     return  readFile(cwd,"utf-8",(err,data)=>{
         if(data==undefined||err){
-            console.log("got this - ",data,err,cwd);
             callback("<h1>there is no file here</h1>",null);
             return;
         }
         
-        const headers = data?.match(/((?<atxlayer>#+)\s*(?<atxname>.+))|((?<setexname>[\w|\d|\s|-]+)\n(?<setexLayer>[-|=]{2,}))/g)||[]; // matches lines with # at start
+        const headers = data?.match(/^[#]+\s.*/gm)||[]; // matches lines with # at start
         headers.forEach(head=>{
             const count = head.match(/^#+/)[0].length;
             const htext = head.replace(/^#+/,"");
@@ -288,10 +288,38 @@ async function transform_to_md(cwd,callback){
                 data=data.replace(line,`<li>${split_line}</li>`)
             }
         })
+
+
+        const  unordered_lines = data?.match(/^[-]+.*?$/gm)||[]
+        unordered_lines.reduce((_last,line,i,arr)=>{
+            const len = line.match(/^[-]+/gm)[0].length//no need for ||[]
+            const split_line = line.replace(/^[-]+/gm,"")
+            if(i==0){
+                data=data.replace(line,`<ul><li>${split_line}</li>`)
+            }
+            else if(len==_last){
+                if(i==arr.length-1) data=data.replace(line,`<li>${split_line}</li>${`</ul>`.repeat(_last)}`)
+                else data=data.replace(line,`<li>${split_line}</li>`)
+            }
+            else if(len>_last){
+                if(i==arr.length-1) data=data.replace(line,`<ul><li>${split_line}</li>${`</ul>`.repeat(_last)}`)
+                else data=data.replace(line,`<ul><li>${split_line}</li>`)
+            }else if(len<_last){
+                if(i==arr.length-1) data=data.replace(line,`${`</ul>`.repeat(_last-len)}<li>${split_line}</li>${`</ul>`.repeat(_last)}`)
+                else   data=data.replace(line,`${`</ul>`.repeat(_last-len)}<li>${split_line}</li>`)
+
+            }
+            return len;
+        },1)
+
         const script_bypass={data:""}
         const script = data.match(/<script[^>]*>[\s\S]*?<\/script>/gim)
         script_bypass.data=script?script[0]:"";``
         data=data.replaceAll(script,"");
+        const div_bypass={data:[],keys:[]};
+        div_bypass.data = data.match(/[<][d][i][v].*[>].*[<][\/][d][i][v][>]/gm)||[];
+        div_bypass.keys = div_bypass.data.map((x,i)=>`$;$${i}$;$`)
+        data=data.replaceAll(div_bypass.data,div_bypass.keys);
         const blocks =mdx_parser(data)
         if(blocks){
 
@@ -305,6 +333,8 @@ async function transform_to_md(cwd,callback){
         ${script_bypass.data}
         </html>`
         data=data.replace(/([\<][\p][\>][\<][\/][\p][\>])/gm, "")
+        data=data.replaceAll(div_bypass.keys,div_bypass.data);
+
         callback(null,data);
     })        
 }
