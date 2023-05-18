@@ -268,16 +268,18 @@ Safe-ish'
 *She stepped over another body*
 ~All of which occasionally spasmed~
 'AD::Which way...'
-~To the vault of infectious memes~
-'AD::The vocal fry bitch voice got out a few decades ago'
-~It had been used as a tool to make someone who was aware (but not awakened) very rich~
-'AD::If I cared about making money, or if any of my friends did'
+~To the vault of infectious memes.
+[The McCollough effect](/namshubettulpa/world/the-mccollough-effect.md) got out a few decades ago...~
+'AD::Or was it a few scores now...'
+~Time flew by so quickly the longer you lived~
+~It had led to some tools to make someone who was aware (but not awakened) very rich~
+'AD::If I cared about making money, or if any of my friends did.'
 ~No, she decided - up the stairs~
-'AD::Onwards to the prize'
+'AD::Onwards to the prize.'
 *She climbed them*
 ~Upstairs was the sovereign's personal development environment~
 ~Even most people at the gathering didn't know about this room~
-'AD::Hell, most people who did know about this chose to forget'
+'AD::Hell, most people who did know about this chose to forget.'
 ~Not her though, she had to know, this and more~
 *She entered a room*
 ~A bedroom - the bed was surrounded by a lake of water lined with mirror~
