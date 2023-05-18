@@ -217,9 +217,9 @@ function scp(txt,internal_data_flag){
             return text_div(d,true,speaker,"thought")
 
         }
-        case "\~": return `<span class="description">${txt}</span>`;
-        case "\*": return `<span class="action">${txt}</span>`;
-        case "\`": return `<code class="code";>${txt}</code>`;
+        case "\~": return `<span class="description">${trim_deliminator(txt)}</span>`;
+        case "\*": return `<span class="action">${trim_deliminator(txt)}</span>`;
+        case "\`": return `<code class="code";>${trim_deliminator(txt)}</code>`;
        
     }
 }
@@ -338,5 +338,8 @@ async function transform_to_md(cwd,callback){
 }
 function escapeHtml  (unsafe) {
     return unsafe.replaceAll('<', '&lt;').replaceAll('>', '&gt;').replaceAll('"', '&quot;').replaceAll("'", '&#039;');
+}
+function trim_deliminator(data){
+        return data.slice(1,data.length-1)
 }
 module.exports={transform_to_md,PARSE_MD};
