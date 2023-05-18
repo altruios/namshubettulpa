@@ -16,6 +16,7 @@ a:visited{
 span{
 font-size: inherit;
 margin:0.5rem;
+height:inherit;
 }
 
 pre>*,
@@ -111,7 +112,7 @@ h6 {
     min-width:20vw !important;
     max-width:85vw;
     border:solid black;
-    margin:.7rem !important;
+    margin-top:.7rem !important;
     padding: 0.2rem !important;
     padding-top:0.1rem !important;
 }
