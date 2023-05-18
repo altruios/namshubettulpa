@@ -5,45 +5,50 @@ mn:M
 ~Martha stood inside the bubble~ 
 ~Outside was a fractal pattern of her memories~
 ~There were new edges. 
-They filled out the part of her that was empty before.
-They were sharp~
+They filled out the parts of her that were empty before.
+They were sharp, jagged and distorted~
 *The bubble flew up*
-~Into a more solid section of this fractal self~
-~What had been a hole she fell through, was a tunnel now~
-'M::This bubble must mess with gravity'
+~Into a more solid section of this fractal self.
+This is where she entered, where she fell through.
+And what had been a hole, a fractal of herself, was now a tunnel passage.
+Still a fractal but now the opening was to the side~
+'M::This bubble must mess with gravity.'
 `
 [gravity](/namshubettulpa/characters/martha/thoughts/gravity.md)`
 ~In front of them was a cube that reflected no light~
-"M::In there"
+"M::In there!"
+~Martha saw that growing light and met it with a growing sense of worry~
 'M::Why would Rossin want you dead?'
 ~The more she thought about it, the more she didn't think that was the case~
 ~He was in her, after all, her death would have meant his~
 ~Thoughts of the scorpion and the frog crossing a river danced fleetingly in her mind~
-*They reached the cube*
+*The bubble approached the cube*
 ~Darkness encompassed all around them~
-*The interior lights in the bubble flipped on.*
+*The interior lights in the bubble flipped on*
 ~Which were along the metal rings at the perimeter of the bubble~
 ~As long as they went straight, Martha was sure, they would reach that hallway~
 'M::In any case, we have Flanagan here - '
+~Martha heard a rhythmic thumping behind her~
 *She turned to Flanagan*
 ~Flanagan wasn't moving~
 *Sonny was pumping his chest*
-'M::Well fuck.'
+'M::Well fuck!'
 *Sonny looked up at the captain*
 "A::Don't worry, he probably got out..."
 *Flanagan's body melted into the hardwood floor of the bubble*
 ~It crumpled to dust, and glittered into non-existence~
 "G::See, that's a good sign, actually."
-"A::Gerald."
+"A::Gerald. ahead."
 ~Alacira had her hand out~
 *Gerald lowered a lever; the bubble slowed*
-"M::There."
+"M::There it is."
 ~Martha saw it - as a lone concept - a hallway in the darkness~
 ~Around it could have been anything~
 ~So Gerald piloted the bubble to be right next to it~
 *He put it into park*
-"A::We should all exit the bubble before exiting that hallway."
-~Martha led the way, extending her hand to find the handle~
+"A::Everyone out."
+*They flooded out, Alacira and Martha in front. 
+Martha led the way, extending her hand to find the handle*
 ~She waited until all were outside the bubble~ 
 "M::Close that interior door."
 *Wilbert closed the door leading to the link*
@@ -74,7 +79,7 @@ It was a spider makeshift gondola lift~
 'M::Rossin knows how to speak spider, sure.'
 ~Martha shuddered~
 'M::Does that mean I know spider, deep down.'
-"G::They'll be back for us - one at a time"
+"G::They'll be back for us - one at a time."
 ~Martha took the last one~
 ~She was hesitant about riding the spider lift~
 ~She used that to cover her hesitancy to speak to Rossin~
@@ -132,8 +137,8 @@ Some shapes can have an edge, the more you look at it - the sharper it gets.
 A fact leads to a counter-fact, leads to a counter fact.
 An infinite fractal, that burns into your identity.
 It grows sharper the more you think about it, and it cuts deep between things."
-"W::Does he have a date on that desk"
-"A::February 18"
+"W::Does he have a date on that desk?"
+"A::February 18."
 *Wilbert snapped his fingers*
 ~It sounded wet~
 ~He had stuffed his hands into his pockets before Martha had a chance to see~  
@@ -242,7 +247,7 @@ Harmonizing waves in a sea of minds bound the desires of the outliers, often in 
 *Robert of the tok turned and walked back inside*
 ~If that group was any indication, The algera would congeal onto few hosts again~
 ~It would just take a little time~
-~But if it couldn't find that needle, he would not be able to hold the algera~
+~But if it couldn't find that needle, it would not be able to hold the algera~
 ~So Al-tok, all of them, searched, and waited~
 ~There was a sense of urgency, of desperation, of winning at all costs~
 ~So it gained ground how ever it could~
@@ -304,7 +309,6 @@ mn:FL__F
 *Flanagan gagged*
 "K::Oh come on, I just fixed that!"
 *Flanagan punched at his new chest*
-~His hands were cuffed together~
 ~A few coughing hacks later the chunk of steak flew out~
 ~He was on a bed, rolling down the street~
 'FL::Where have you been?'
@@ -329,13 +333,13 @@ We have a bit of company around us."
 ~The bed had bounced against a particularly large hole in the sidewalk~
 ~Was that movement to the left?~
 "K::Some people wanted to help, another group..."
-~Kent paused~
+*Kent stopped, watching the treeline in central park*
 "K::They took them over.
 It was one asshole at the helm.
 He wasn't the only group doing that."
 *Kent looked down at Flanagan*
-"K::You got any idea why they're doing that"
-"FL__F::The sooner we can get to Flanagan's the sooner he can explain"
+"K::You got any idea why they're doing that?"
+"FL__F::The sooner we can get to Flanagan's the sooner he can explain."
 *Flanagan, in Felix's body, pointed towards his home*
 
 }

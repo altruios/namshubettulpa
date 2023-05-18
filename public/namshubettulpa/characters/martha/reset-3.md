@@ -50,23 +50,22 @@ She went around the corner as Rossin stepped out of the door behind her~
 ~The unique sensation of being ripped inside out~
 ~Martha found herself on the floor of the bubble~
 *She took in a few breaths*
-"M::Okay -the exit is up that way"
+"M::Okay, the exit is up that way."
 `
-[consequences](/namshubettulpa/chapters/consequences.md)
+# [consequences](/namshubettulpa/chapters/consequences.md)
 `
-
 
 }
 {
-~Alacria shuffled~
-"A::If we don't go through soon, she'll land right back in"
+~Alacira was pulling the rope that led to martha's vest.~
+"A::If we don't go through soon, she'll land right back in!"
 "A::It's right below us, and catching up."    
 *Martha looked down below*
 ~She saw herself, as herself, and from above~
-~Though the above view was fading~
+~Though the above view was fading, as was her memory of Alacira, the moment she was out of view.~
 }
 {
-~She went around the corner as Rossin stepped out of the door behind her~
+~Martha went around the corner as Rossin stepped out of the door behind her~
 *He walked lazily down the steps, letting the door bang behind him*
 "M::You're following me now?"
 *He shifted his tie, adjusted his hat now that it was on him*
