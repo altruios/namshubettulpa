@@ -15,10 +15,14 @@ a:visited{
 }
 span{
 font-size: inherit;
+margin:0.5rem;
+height:inherit;
 }
+
 pre>*,
 pre>*>*{
     font-size: 0.80rem !important;
+    height: inherit;
 }
 ol{
     list-style-position: 
@@ -108,6 +112,9 @@ h6 {
     min-width:20vw !important;
     max-width:85vw;
     border:solid black;
+    margin-top:.7rem !important;
+    padding: 0.2rem !important;
+    padding-top:0.1rem !important;
 }
 .bubble_label{
     color:black;
@@ -120,23 +127,27 @@ h6 {
     margin: 0 auto 0 0;
     }
 .speech{
-        
+    padding:0rem;    
     color:#fafafa;
     background-color: #248bc5;
 }
 .speech2{
+    padding:0rem;    
     background-color:#b5b5ba;
     color:#000070;
 }
 .thought{
+    padding:0rem;    
     background-color: #af80af;
     color:#000070;
 }
 .thought2{
+    padding:0rem;    
     background-color: #b58782;
     color:#000070;
 }
 .other{
+    padding:0rem;    
     text-align:right; 
     margin: 0 0 0 auto;
 }

@@ -14,19 +14,20 @@ mn:RG
 'Is it my back? 
 My physical representation of a back.'
 ~Was sticky~
-~He was propelled throughout the link~
-~Slamming into and congealing with himself~
+*He was propelled throughout the link. Slamming into and congealing with himself*
 ~His sight returned~
 ~His eyes caught something darting around to is left~
 *Twisting his head so he could see, he strained against the sticky back*
 ~Tentacles - as far as the eye could see~ 
 ~Dark pink lines in the blackness~
-~Robert struggled in earnest now, realizing he was well and truly stuck~
+*Robert struggled in earnest* 
+~Now realizing he was well and truly stuck~
 'I am on a tongue.'
 ~The texture was a cat's tongue~
 ~He realized, that's what all those pink lines were~
 ~Tongues~
-~Whipping back and forth like angry tornados~
+*Whipping back and forth*
+~Like angry tornados~
 *Something flashed across his face*
 ~He saw it flutter down below his feet~
 'What was that?'
@@ -40,8 +41,8 @@ My physical representation of a back.'
 *Robert turned his head up*
 ~Above him was a creature of incomprehensible size~
 ~Stretching the bare horizon from end to end in eyes~
-~The creature seemed to be growing even~
-~No, he was just getting closer~
+~The creature seemed to be growing even, but no...~
+*He was just getting closer*
 'That will eat me.'
 ~His struggling was in vain as he was slowly raised up~
 ~Moments passed and Robert slowly came to rest~
@@ -112,15 +113,15 @@ That."
 *Robert shook his head*
 "RG::You want my sister, she was -"
 "NULL::And we have her."
-~A divide opened in the creature~
-~A fleshy chasm - ending at the mouth attached to the tongue he was on~
+*A divide opened in the creature*
+~A fleshy chasm, ending at the mouth attached to the tongue he was on~
 *Robert was yanked across the creatures landscape*
 ~A forest of red-bubble-gum trees stretching into the sky~
 ~A sky: ideas and connections shown brightly~
 ~A dark moon growing~
 ~Mountains that were the creatures flesh came and went in a flash~
-*Suddenly they stopped - at a reeling tongue*
-~At the end - being pulled toward him, was his sister~
+*Suddenly they stopped, at a reeling tongue*
+~At the end, being pulled toward him, was his sister~
 "AG::Robert?"
 ~He tried to wave~
 *His arm just jerked on the tongue*
@@ -140,10 +141,10 @@ That."
 *The two tongues slammed together*
 ~Robert and Alice felt the impact into each other~
 ~When the tongues parted there was only one~
-'What happened?'
+'AG__RG::What happened?'
 ~That wasn't his thought, the voice was wrong~
 "RG::Alice?" 
-'Robert?'
+'AG__RG::Robert?'
 "NULL::You have everything you require"
 "RG::You just put her in me?"
 "NULL::You will be given the formula and process to synthesis"
@@ -156,39 +157,44 @@ That."
 "NULL::Go forth and sterilize"
 *The tongues shot toward the link again*
 ~Beside him the mouth reformed on the tongues~
-"NULL::I can do nothing once inside. 
+"NULL::I can do nothing once inside, I will place you where it can not find you. 
 You will require a physical body."
-'Should I even be helping this thing.'
+'RG::Should I even be helping this thing.'
 ~It was his own thoughts, echoing his sister's~
 'It had promised to eat me after all, if I removed that thing'
-"AG::Wait - it was going to eat us?!"
+"AG__RG::Wait - it was going to eat us?!"
 'No...'
 ~Robert thought at her in mock astoundment~
-'A giant creature with a billion tongues'
-~He continued~
-'Has no intention of eating you.'
+'RG::A giant creature with a billion tongues...'
+~He continued while they fell~
+'RG::Has no intention of eating you.'
 ~Alice's mind - like every mind was a turmoil of stochastic half thoughts~
 ~Robert waited for her to properly think at him, though he was helpless not to know her mind inside his~
-"AG::Seriously, should we be helping this."
-'Look.'
-~He looked at the link~
+"AG__RG::Seriously, should we be helping this."
+'RG::Look.'
+~They looked at the link~
 ~At the growing fractal moon snuffing out parts of the link~
-'We can deal with this creature after that, if we decide we want to.'
-"AG::do you?"
-'Do I what?'
-"AG::Want to still get out."
-'We are out.'
+'RG::We can deal with this creature after that, if we decide we want to.'
+"AG__RG::do you?"
+'RG::Do I what?'
+"AG__RG::Want to still get out."
+'RG::We are out.'
 ~Robert felt a turning in his head - a refutation from Alice~
-"AG::you: look."
+"AG__RG::you: look."
 ~Robert felt his attention turn to the tongues~
 ~They were everywhere - touching nearly everyone and everything~
-"AG::We are cattle to it, maybe we poison the herd."
+"AG__RG::We are cattle to it, maybe we poison the herd."
 ~Robert considered~
-"NULL::We are approaching - I would not appreciate finding another species to eat"
+"NULL::We are approaching; I would not appreciate finding another species to eat."
 ~Robert felt the barrier to the link as a thin soap bubble~
 ~Quite enveloped him - as he fell at the edge of all things~
 ~Towards a ship~
 }
 {
+    `
+    todo:
+        ~Gerald~ gets mind wiped after ~Robert/Alice~ steal a coma patient's body.
+            but they point Alacira in the direction of ~Al-tok~ {by doing so or by intention}
     
+    `
 }

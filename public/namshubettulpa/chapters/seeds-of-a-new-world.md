@@ -208,7 +208,7 @@ mn:LX
 }
 {
 ~A physical link, a touch to the arm on the first person Lenny saw and a short moment later Jochek joined him~
-~It was the a portly man that was his fair, who had been slumped over in coach unconscious~
+~It was the a portly man that was his fare, who had been slumped over in coach unconscious~
 ~Jochek looked down at their new body~
 "J::could have waited to find someone more fit?"
 *Lenny shrugged*
@@ -237,7 +237,6 @@ So maybe?'
 mn:M
 }
 {
-`{TODO:Reference to deal made in interludes 2 with robert glass.}`
 ~Martha was greeted to a scene of chaos~
 ~Deckhands of all shapes and sizes, and~
 'M::Is that a fish?'
@@ -259,7 +258,7 @@ The link is breaking."
 *Gerald took his finger's and whistled*
 "G::Sonny!"
 *Sonny stepped in from a corner room*
-~A short wiry red haired girl in a white coat, Martha guessed she was in her 40's~
+~A short wiry red haired woman in a white coat, Martha guessed she was in her 40's~
 "G::Trouble in the bubble: one unconscious."
 *Sonny nodded and whistled herself*
 ~It was a signal to two large tarantulas, about the same size as her, covered in fur~
@@ -359,8 +358,8 @@ Martha Followed*
 "A::The bubble then, for the rest - we should fit in there"
 *She turned and walked to the elevator in the back*
 *Gerald and Martha followed*
-"G::Flanagan is with Sonny"
-"A::She comes too, how bad is he"
+"G::Flanagan is with Sonny."
+"A::She comes too, how bad is he?"
 *The elevator doors opened and they stepped inside*
 "G::Bad"
 "A::The worst part about what you did."
@@ -381,14 +380,14 @@ You haven't made people better by giving them this power - you've just given the
 "A::Regardless - we'll see the..."
 *Alacira stopped*
 "A::Over 0.1... Gerald - what about the waypoints?"
-"G::We're ejecting that part of the ship"
+"G::We're ejecting that part of the ship."
 *Alacira frowned but nodded, then started walking*
-"A::We won't be able to recollect all of those"
+"A::We won't be able to recollect all of those."
 *Gerald pulled out a small mirror as they started walking again*
 ~Out on the deck of the ship, before it was bustling: now quiet~
 "G::I snagged this one - it was the last one for her."
-~Martha saw the red haired girl in the bubble next to Flanagan - who was still laying down~
-~She didn't see the spiders~
+~Martha saw the red haired Sonny in the bubble next to Flanagan - who was still laying down~
+~She didn't see the spiders anywhere~
 *They entered the bubble*
 ~Before Martha passed the membrane she heard footsteps behind her~
 *Martha waited halfway in the bubble, and turned around*
@@ -409,20 +408,20 @@ You haven't made people better by giving them this power - you've just given the
 ~The fish-man was showing his watch to Alacira, which was emitting a beep every few moments~
 'M::More like a geiger counter, not a watch.'
 ~He had is head turned to the side - so that one of his eyes, was looking at the captain~
-'M::God how awful to not be able to look straight forward'
+'M::God how awful to not be able to look straight forward.'
 *The fish-man kneeled down next to Gerald, settling in*
 "SM::Count is down to three."
 *Gerald picked up the radio at his side and replied*
 "G::I have Sonny and Wilbert here."
 ~Wilbert made a gurgling noise: an affirmation, Sonny followed suit with some high pitched chittering~
-"SM::Count's at one"
+"SM::Count's at one."
 ~Martha caught movement at the corner of her eye~
-"NT::$Ewait:"
+"NT::$Ewait:."
 ~The navigator was running up to them, out of breath~
 ~His face was partially carved out, from where the acid from that alien had splattered him~
 ~He had only one eye - he was wearing an eye patch~
 *He stepped into the bubble*
-"G::Counts at zero"
+"G::Counts at zero!"
 "A::right then, Gerald?"
 *Gerald pushed the button on the radio*
 "G::Breaking off the tower now!"
