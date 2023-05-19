@@ -15,17 +15,17 @@ Clearly by having fell the wrong way~
 ~The chemist lay unconscious on top of the bed~
 *The chemist rolled over, falling into the railing*
 ~A few uneven surfaces would have been troublesome without the bed's side guards~
-'K::They said you were in over your head, Kent'
+'K::They said you were in over your head, Kent...'
 ~Kent exited the alley approaching the street. 
 Then he saw the fires~
 ~Cars were still running, but most had crashed.
 Many had turned over on the sides of streets~
-'K::They were fucking right'
+'K::They were fucking right!'
 *Kent walked down the sidewalk, pushing the bed*
 ~He listened~
 ~There was no sound of life.
 No screams, no yelling - no footfalls in the distance~
-'K::An air-raid siren would be appropriate'
+'K::An air-raid siren would be appropriate...'
 ~He passed a wreck - a car rolled upside down after some impact~
 ~They were dead, he knew: the cabin had been crushed below human capacity~
 ~It was a family, he saw that much before he looked away~
@@ -45,18 +45,18 @@ No screams, no yelling - no footfalls in the distance~
 ~Then a sinking feeling in his stomach appeared~
 'K::Did he cause this?'
 ~He decided that it couldn't have been solely Felix~
-'K::No: to many people affected'
-"K::What the hell is going on"
-"F::No idea"
+'K::No: to many people affected...'
+"K::What the hell is going on?"
+"F::No idea!"
 *Kent pushed the bed towards the steakhouse*
-~Felix was at a window seat - eating a steak~
+~Felix was at a window seat, eating a steak~
 "F::Get some nice beauty sleep, did you?"
 *Felix pointed at the bed with is fork*
 "F::Making friends?"
 ~Kent shook his head~
 "K::Why aren't you asleep?"
 *Felix took another bite of steak*
-"F::disconnected - as much as one can be: I assume you are as well"
+"F::disconnected - as much as one can be: I assume you are as well."
 "K::Disconnected... from?"
 "F::The link."
 ~Kent waited~
@@ -64,13 +64,13 @@ No screams, no yelling - no footfalls in the distance~
 "K::So what happened to the link?"
 ~He wanted to ask what it was, though felt that unwise~
 *Felix shrugged*
-"F::Don't know - Flanagan said to disconnect"
-'K::Flanagan is a person, good to know'
+"F::Don't know, Flanagan said to disconnect."
+'K::Flanagan is a person, good to know.'
 "K::Are they going to wake up?"
 "F::How should I know?"
 *Kent parked the bed next to the door and entered the steakhouse*
 ~Little locking wheels on a hospital bed were useful~
-'K::At least the Chemist will stay put'
+'K::At least the Chemist will stay put.'
 "K::Who would know?"
 "F::Flanagan, either this is him or that Al-tok thing."
 *Kent sat at the seat across from Felix*
@@ -80,12 +80,12 @@ No screams, no yelling - no footfalls in the distance~
 ~Felix sighed and spend the next several minutes catching Kent up to speed~
 "K::So this Al-tok this is an idea?"
 *Felix twisted his hand out noncommittally*
-"F::It isn't human, or a human thought... well, not a natural human thought"
+"F::It isn't human, or a human thought... well, not a natural human thought..."
 *Felix held out a syringe*
-"F::Takes something like this to make anyone think that"
+"F::Takes something like this to make anyone think that."
 ~Kent had a vial of that same liquid - hidden now in his pocket~
-"F::Impossible chemicals, for impossible thoughts"
-"K::That sounds like bullshit, I can think anything I want to right now"
+"F::Impossible chemicals, for impossible thoughts."
+"K::That sounds like bullshit, I can think anything I want to right now."
 *Felix shook his head*
 "F::No, you can't think any thought you want.
 You can't. 
@@ -97,10 +97,10 @@ We can only think the thoughts our brains allow."
 *Kent sat down at the table across from Felix*
 ~Kent just watched him eat~
 "F::I do, I just don't think free means unrestricted."
-"K::That's generally what free means"
-"F::Generally"
+"K::That's generally what free means."
+"F::Generally..."
 ~Felix took another mouthful of steak~
-"K::Chew you goddamn food, people choke on that stuff"
+"K::Chew you goddamn food, people choke on that stuff!"
 "F::Aren't you going to eat?"
 "K::I'll wait.
 Shouldn't we be going?"
@@ -113,10 +113,10 @@ Shouldn't we be going?"
 ~Felix had knocked over some people sitting together to get at their food~
 *Kent stood up*
 *He dodged a twitch of a fallen patron's leg*
-'K::People are waking up'
+'K::People are waking up...'
 *Kent looked around the room*
 ~He found movement everywhere~
-'K::All of them'
+'K::All of them.'
 *Kent turn to Felix*
 "K::Ah, hell."
 *Felix was choking on his food*
@@ -128,11 +128,10 @@ Felix was unnaturally still, his body on automatic~
 ~Around him patrons had started to stand up~
 *Felix spat up some steak*
 ~He was still unresponsive but breathing clearly~
-'K::The bed has room for two'
+'K::The bed has room for two.'
 *Kent snapped his fingers in front of Felix*
 ~And when no answer was forthcoming~ 
-*Kent handcuffed Felix* 
-*And carried him to the bed outside*
+*Kent picked up Felix, and carried him to the bed outside*
 ~Around him the patrons were confused. 
 Some were looking at him and the damage caused.
 Others were looking at their own hands~
@@ -140,11 +139,11 @@ Others were looking at their own hands~
 ~Next to the chemist~
 ~He heard a commotion inside~
 *He rolled them down the street*
-'K::Away from the broken glass'
+'K::Away from the broken glass.'
 ~He took in a few breaths~
 ~Around him people were examining the car crashes~
 ~But there were others: roaming groups descending on the unsuspecting.
-It wasn't with guns, or knives or sticks - but words and pictures~
+It wasn't with guns, or knives or sticks: but words and pictures~
 *He pushed the bed down the street*
 ~It wasn't just one group absorbing another, but multiple each clawing for control of the people of the others. 
 Together it was a chaos~
@@ -152,16 +151,16 @@ Together it was a chaos~
 ~He was at an intersection touching the park~
 'K::Okay Kent, where to?'
 ~He kept an eye out for anyone, any group, approaching him~
-'K::Where did Felix come from, Where did you first see him'
+'K::Where did Felix come from, Where did you first see him.'
 ~He remembered seeing Felix walking in the park~
 ~It was a guess, but...~ 
-'K::If Felix (and who he was) with was making a bee-line'
+'K::If Felix (and who he was) with was making a bee-line...'
 *Kent turned left*
-'K::Eh, close enough - he can tell me different when he wakes up'
+'K::Eh, close enough - he can tell me different when he wakes up.'
 *Kent looked down at Felix*
 ~He was not moving~
 'K::If he wakes up... 
-Shit is he still -'
+Shit is he still...'
 *Felix started coughing*
 }
 {
@@ -175,7 +174,7 @@ mn:M
 ~Martha didn't see anything outside the bubble, a blank void~
 ~The bubble was shaking, as if unsure of it's position without any other points of reference~
 ~A shaky memory, shifting every time it was examined~
-"G::I have some bad news, it's worse than we thought"
+"G::I have some bad news, it's worse than we thought."
 *Gerald pulled a lever up*
 *The ship calmed*
 "G::There's nothing out there, no where to go."
@@ -185,15 +184,15 @@ mn:M
 *Alacira gestured for her to continue*
 "M::Well, Flanagan did: The way we came into the link, we should be able to get out the same way."
 "G::Martha - when I say there's nothing out there, there is nothing, even if we have a way back we wouldn't be able to get to it right now."
-"NT::$Ewhichway:"
+"NT::$Ewhichway:?"
 "M::Through me, through that thing in my head"
 *Alacira leaned over and looked at the unconscious Flanagan*
-"G::She'd have to go outside the bubble for that"
-"A::That's the easy part"
+"G::She'd have to go outside the bubble for that."
+"A::That's the easy part!"
 ~Sonny was still weaving webs, the glowing sacks stuck to the walls~
 ~Every addition making the bubble smaller - hotter~
 "M::Does anyone have a better idea?"
-"G::Waiting it out is less than ideal: we don't know how long this will be"
+"G::Waiting it out is less than ideal: we don't know how long this will be..."
 *Martha looked around the room*
 "G::And There is nothing out there."
 "A::If there was nothing out there we wouldn't be here in this bubble."
@@ -204,13 +203,13 @@ Just nothing we can use."
 "A::She's offering to act like rudolph - light our way home.
 A single light in a dark forest attracts the wrong kind of attention."
 ~She turned to Sonny~
-"A::Smaller: marble sized - give them a seam to break at"
+"A::Smaller: marble sized - give them a seam to break at."
 *Sonny chittered at the spiders above.*
-"A::And a harness for her"
+"A::And a harness for her!"
 ~Alacira pointed at Martha~
 "A::What are we looking for?"
 ~Martha took a moment to think~
-"M::A recent memory, outside of a mansion"
+"M::A recent memory, outside of a mansion."
 *Martha blew out her breath*
 "M::Then from there - we go into that hollow, fractal, echo of me.
 Up the rabbit hole to the real world."
@@ -246,38 +245,40 @@ mn:AD
 ~The floor was shades of copper, steel, iron, coal, tiled in a  [dragon curve](/namshubettulpa/world/dragon-curve.md), for one~
 ~And rooms were all the same... 
 Well: mostly~
-'AD::What a golden opportunity'
+'AD::What a golden opportunity.'
 ~If she wanted she could peruse the library of  [memetic info-hazards](/namshubettulpa/world/memetic-info-hazard.md)~
 ~It was to her left as she walked down the hall~
 ~Her heels clacked on the floor and echoed down an otherwise eerie silence~
 ~Above hung a sign, not of wood, or iron, as most chose to see it, but of fact~
 *Dangerous!*
-'AD::dangerous for a reason'
+'AD::dangerous for a reason.'
 ~The doors had been opened~
-'AD::As long as I use the right filters'
+'AD::As long as I use the right filters.'
 *She looked in*
 *Naked facts hung everywhere*
 ~Facts dangerous to understand, facts that could destroy minds~
 ~But with the right filters of perception - looked at from only a particular viewpoint - they were safe to consume~
 'AD::Well... 
-Safe-ish'
+Safe-ish...'
 *She continued on*
 ~Part of her wanted to know - things other's have tried to understand only to have been brought to madness~
 ~But she walked on, content in her brief encounter~
-'AD::At least I get to enjoy this silence'
+'AD::At least I get to enjoy this silence.'
 *She stepped over another body*
 ~All of which occasionally spasmed~
 'AD::Which way...'
-~To the vault of infectious memes~
-'AD::The vocal fry bitch voice got out a few decades ago'
-~It had been used as a tool to make someone who was aware (but not awakened) very rich~
-'AD::If I cared about making money, or if any of my friends did'
+~To the vault of infectious memes. 
+[The McCollough effect](/namshubettulpa/world/the-mccollough-effect.md) got out a few decades ago...~
+'AD::Or was it a few scores now...'
+~Time flew by so quickly the longer you lived~
+~It had led to some tools to make someone who was aware (but not awakened) very rich~
+'AD::If I cared about making money, or if any of my friends did.'
 ~No, she decided - up the stairs~
-'AD::Onwards to the prize'
+'AD::Onwards to the prize.'
 *She climbed them*
 ~Upstairs was the sovereign's personal development environment~
 ~Even most people at the gathering didn't know about this room~
-'AD::Hell, most people who did know about this chose to forget'
+'AD::Hell, most people who did know about this chose to forget.'
 ~Not her though, she had to know, this and more~
 *She entered a room*
 ~A bedroom - the bed was surrounded by a lake of water lined with mirror~
@@ -297,11 +298,11 @@ Safe-ish'
 ~The voice of a gruff carriage driver, one she didn't recognized~
 'AD::Quick peek, then get out of here'
 *She walked to and opened the door*
-~Beyond the door was a dark empty space - and in the center a flashing cursor~
-"AD::Password -well, of course"
+~Beyond the door was a dark empty space, and in the center a flashing cursor~
+"AD::Password: well, of course..."
 `<div id="key" max-height="10vh" overflow-x="scroll"></div>`
 ~She heard footsteps on the stairs, more than one~
-'AD::Time to go'
+'AD::Time to go.'
 "J::Ada - are you awake?"
 ~A voice that sounded like guitars broken in glass and tar~
 `
@@ -315,8 +316,8 @@ Safe-ish'
 *She closed the doors, and exited the room*
 ~Out in the hallway stood two people, old and frail and lumpy~
 "J::Awake, I win. 
-Come on darling - much to catch up"
-"L::We got to get The Way Out: and get out of here - sooner the better"
+Come on darling, much to catch up."
+"L::We got to get The Way Out: and get out of here, sooner the better."
 *Ada walked toward them*
 "AD::Is the link safe?"
 ~Jochek and Lenny shook their heads~
@@ -337,10 +338,10 @@ what gives with the unconscious?'
 *Footsteps fell on the stairs behind them*
 ~Understanding flooded Ada - sharing a mind, sharing memories with the others she was both herself and not herself~
 ~She was part of the  [egregore](/namshubettulap/world/egregore.md)  the Relux~
-'RX::Someone is awake'
-'L::All of them'
+'RX::Someone is awake!'
+'L::All of them...'
 ~Lenny, at the stairs, heard multiple sets of feet below~
-'RX::Hiding would be prudent'
+'RX::Hiding would be prudent.'
 ~They weren't supposed to be on this floor: none of the guests were~
 *Ada led them towards a door across the hall*
 ~It led to a library for old dusty books~
@@ -350,6 +351,6 @@ what gives with the unconscious?'
 ~A moment cut short by banging on the door~
 }
 
-##### next: Martha//data//memories/ [mansion_outside](/namshubettulpa/characters/martha/reset-3.md)
+## [consequences](consequences.md)
 
 <script src="/namshubettulpa/code/great-awakening-terminal.js"></script>

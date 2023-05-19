@@ -50,11 +50,11 @@ Coma - how do they know about the accident?
 Why does that man look like me - what happened to him?
 Is Felix dead now?'
 "K::Where's Felix?"
-"FL__F::He's right here, just in the back seat"
+"FL__F::He's right here, just in the back seat."
 *Felix wandered over to a corner coffee desk and made himself some tea*
-"FL__F::Also, hello Alacira, Gerald: I didn't think you were still around"
+"FL__F::Also, hello Alacira, Gerald: I didn't think you were still around."
 *Kent sat down on the couch across from Martha, and leaned in*
-~He more mouthed the words than used his voice~
+~He more mouthed the next words than used his voice~
 "K::Do you have my gun?"
 ~Martha hesitated, matching his volume~
 "M::It's in a car upstairs."
@@ -63,11 +63,12 @@ Is Felix dead now?'
 *Again Kent nodded*
 ~More noticeably this time~
 ~This captain looked to Kent's double, then back to him~
-"A::Interesting"
+"A::Interesting..."
 ~A frail red head  woman sat cross legged at the edge of the table.
 She chittered at a balding man in an ill-fitted uniform~
 "G::How are things outside?"
 "K::Not good."
+~Kent watched the woman continue to chitter with her head leaned back~
 'K::Why was she chittering?'
 "FL__F::I've had time to think on what went wrong.
 I think we grossly underestimated the amount of algera it had accumulated."
@@ -79,8 +80,8 @@ I think we grossly underestimated the amount of algera it had accumulated."
 'K::What are you doing, Kent?'
 ~He couldn't get justice, nor would he settle for vengeance~
 'K::If all it takes is a few words...'
-"A::Not exactly everyone, just most"
-"FL__F::And it was that much, that was probably the best way forward"
+"A::Not exactly everyone, just most."
+"FL__F::And it was that much, that was probably the best way forward."
 "G::What do you mean?"
 "M::So it could have killed me."
 ~She said it to herself, Kent could hear, but Flanagan went on~
@@ -96,20 +97,20 @@ That'll keep happening until there's a tight nit group that doesn't hate each ot
 "FL__F::She was hollowed out to about a week ago, she's in her mid-thirties."
 "G::Do you know how much Algera that thing had?"
 "FL__F::More or less, less than more it turns out."
-"A::Orders of magnitude less I think"
+"A::Orders of magnitude less I think..."
 ~Kent sat quietly absorbing the conversation so far~
 *Kent leaned his head back against the couch briefly*
 ~He nearly screamed. 
 Above him in the rafters were two giant spiders.
 They had a large web built already~
-'K::No, no one else is freaked out'
+'K::No, no one else is freaked out!'
 ~Martha caught his eye~
 *She pointed to the ceiling, and gave a thumbs up*
 'K::Okay, so they are good spiders... 
 How about you just... not look at the... good spiders...'
 "FL__F::Martha, who is he?"
 *Felix, Flanagan, whoever that was, pointed at him*
-"A::Yeah, he's supposed to be in a coma"
+"A::Yeah, he's supposed to be in a coma."
 "M::That's it?
 Not even an apology you almost killed me?"
 *Flanagan turn to her*
@@ -121,28 +122,28 @@ Who's also dead now...
 Ozmind hasn't shown back up yet..."
 ~Kent glanced to see the captain in white cover a slight scoff~
 "FL__F::My point is, What you did was right.
-We would have poured all the excess Algera into the population eventually"
+We would have poured all the excess algera into the population eventually"
 ~When he looked back he saw Flanagan's eyes were both hard, wondering, and on him~
-"FL__F::Now, Kent - how do you know Martha?"
+"FL__F::Now, Kent, how do you know Martha?"
 ~Kent took a moment, enclosed as he was he couldn't panic~
 'K::What do you really want, Kent...'
 ~He knew, and listening...
 Seeing the fish-man, the spiders: he wasn't sure what was and wasn't possible anymore.
 Restoration is what he wanted.
 Tom back - and that seemed achievable now~
-'K::Truth it is then'
-"K::She killed a friend of mine, I'm trying to make that right"
+'K::Truth it is then, Keep it simple Kent.'
+"K::She killed a friend of mine, I'm trying to make that right."
 *Flanagan leaned in, and turned to Martha*
 "FL__F::Oh, and you can't bring him back?"
 "K::She did it with her neighbor, new body - right?"
 "M::You want me to bring him back?"
-~Martha paused~
-"FL__F::Felix is saying that was actually him, and Martha shouldn't be taking credit"
+~He saw martha consider~
+"FL__F::Felix is saying that was actually him, and Martha shouldn't be taking credit."
 "M::I didn't say anything about that to him."
 *Kent raised his hands pointing at himself*
 "K::That's on me, That was Felix then?
 I thought that was Martha."
-"FL__F::He's also rudely insinuating you are a bad detective"
+"FL__F::He's also rudely insinuating you are a bad detective."
 ~Martha had been quite for a bit - she was listening off to her side: no one was sitting there~
 "M::Did he have any friends, or family?"
 "K::Me."
@@ -150,22 +151,22 @@ I thought that was Martha."
 "K::I'm not sure actually, people that knew him, sure... but friends?"
 "FL__F::Why other friends?"
 ~Martha paused~
-"G::But of course, the Navigator is here"
+"G::But of course, the Navigator is here."
 "M::What?"
-"G::The part of him that's in the Link - is the Navigator"
+"G::The part of him that's in the Link - is the Navigator."
 "A::That would mean that..."
 ~Alacira trailed off and spoke words that weren't words at him~
 *Nothing happened*
-"FL__F::Interesting - that's why you need other friends, we can't access the link through you"
+"FL__F::Interesting - that's why you need other friends, we can't access the link through you."
 "A::Wish I had known that before I parked..."
 "G::Did you dream of a ship?"
-"K::I don't dream"
+"K::I don't dream."
 ~The response was automatic~
 "K::No, wait, I did have a dream of a ship, earlier today."
 "A::Good to know the ship is safe... probably."
 *The Chemist jerked awake*
 ~Kent watched the expression of horror when the chemist looked up~
-"C::Everyone else see the giant spiders"
+"C::Everyone else see the giant spiders."
 *The chemist scanned the room*
 "C::Where the hell am I?
 Who are you?"
@@ -185,9 +186,9 @@ Everyone is awake."
 *The chemist looked around the room again*
 ~His eyes landed on the fish-man~
 "W::It's Wilbert."
-*Wilbert held out his hand*
+*Wilbert held out his limb*
 ~It was a fin attached to an arm, it reminded Kent of an folding fan~
-*The chemist gingerly shook Wilber's hand*
+*The chemist gingerly shook Wilber's limb*
 "FL__F::Apparently yes, everyone. now:"
 *Flanagan leaned in*
 "FL__F::Alice Glass made this.
@@ -198,7 +199,7 @@ She spilled out this sludge when Felix took a bat to her chin.
 She was about to kill Kent here at the time.
 This here:"
 *He walked over to his desk and placed the vial on top*
-"FL__F::Uri told us this is what Al-tok is trying to produce en mass"
+"FL__F::Uri told us this is what Al-tok is trying to produce en mass."
 "K::What exactly is that?"
 *Flanagan inspected the vial*
 "FL__F::Exactly?
@@ -208,13 +209,15 @@ But more generally: it appears to be a required precursor to host Al-tok."
 "M::So how does that help us?"
 "FL__F::Not much, I'm afraid."
 "C::I'm not hallucinating those spiders, am I?"
-"G::They're quite friendly, once you get to know them"
+"G::They're quite friendly, once you get to know them."
 "K::know them, they talk?"
 ~The redhead sitting on the floor started chittering at him.
 Gerald a moment later started to translate~
 "G::What, you don't think those giant prosomas are empty?/s"
-"K::Also, what's up with her - she only speaks spider?"
-"G::Yes. And she and the spiders are from a dream, nightmare actually"
+"K::Also, what's up with her? 
+She only speaks spider?"
+"G::Yes. 
+She and the spiders are from a dream, nightmare actually..."
 "K::A Dream?"
 *Gerald nodded*
 "FL__F::We can all focus now, yes?"
@@ -235,28 +238,28 @@ And another where two groups fought and merged.
 The whole processes reminded him of growing mold in a petri dish~
 ~But they hadn't been actually hurting one another physically, there was no need that words became so powerful~
 "K::But they weren't using guns. just words..."
-"M::Words that would turn you into a mindless soulless automaton for some control freak"
+"M::Words that would turn you into a mindless soulless automaton for some control freak."
 "K::Yeah, but what can we do, against billions?"
 "FL__F::A fair bit, actually."
 *Flanagan gave a nod to Alacira*
 "FL__F::You want to take point here, get started."
 ~Alacira's face lost it's scrunched up quality when she turned to Kent~
-~Flanagan, during this, had moved an old dial phone from some cabinet and connected it~
-"A::Okay"
+*Flanagan moved an old dial phone from the desk and connected it*
+"A::Okay."
 "FL__F::Got it?"
 *Alacira nodded*
 "K::Got what?"
 *Flanagan held out the phone, then dialed on the base.
 Alacira walked over and picked up the receiver*
-"FL__F::She's got a namshub ready"
-*He turned to Martha*
+"FL__F::She's got a namshub ready."
+*Kent turned to Martha*
 "K::Namshub?"
 *She raised and shook her hand noncommittally*
 "M::Spell?"
 'K::Dealing with <i>not zombies</i>, cults, cardboard chemists.'
 *Kent looked up*
-'Spiders, from a dream...
-A fish-man, who is rather quiet'
+'K::Spiders, from a dream...
+A fish-man, who is rather quiet...'
 ~Kent again heard not words coming from Alacira as she talked into the phone~
 *He scanned the room*
 ~He heard words that were not words~
