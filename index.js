@@ -3,9 +3,7 @@ const app = express()
 const port = process.env.PORT ||3000
 const path = require('path');
 const {readFile, readFileSync } = require('fs')
-const {transform_to_md,PARSE_MD} = require("./mdx_parser");
-const {MDX_PARSER} = require("./mdx_parser2");
-console.log(MDX_PARSER,"is parser")
+const {MDX_PARSER} = require("./mdx_parser");
 const BASE_DIR = path.join(__dirname, 'public');;
 const image_types = [".png",".jpg",".gif","favicon.ico"]
 let cwd = BASE_DIR;

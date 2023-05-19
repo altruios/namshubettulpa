@@ -221,11 +221,13 @@ Up the rabbit hole to the real world."
 ~Martha securing herself, she looked out into that nothing~
 *She stepped out of the bubble*
 ~Her self ripped open, like a ballon with suddenly no pressure~
-`<br />
+
+"M::<br />
 [memories](/namshubettulpa/characters/martha/memories.md)<br /><br />
+
 [system](/namshubettulpa/characters/martha/system.md)<br /><br />
 [data](/namshubettulpa/characters/martha/data.md)<br /><br />
-`
+"
 }
 
 {
