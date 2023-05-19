@@ -43,9 +43,7 @@ class MDX_PARSER{
     transform_links(data){
         var re = /\[(.*?)\]/g
         var re2 = /\((.*?)\)/g
-        console.log("transforming links")
         const links = data?.match(/\[.*?\]\(.*?\)/g) ||[]
-        console.log("links",links)
             links.forEach(link=>{
                 const m1 = link.match(re2)[0].replace("(","").replace(")","");
                 const m2 = link.match(re)[0].replace("]","").replace("[","");
@@ -119,7 +117,6 @@ class MDX_PARSER{
             div_bypass.data = data.match(/[<][d][i][v].*[>].*[<][\/][d][i][v][>]/gm)||[];
             div_bypass.keys = div_bypass.data.map((x,i)=>`$;$${i}$;$`)
             data=data.replaceAll(div_bypass.data,div_bypass.keys);
-            console.log("data bfore blocks is:",data)
             const blocks =this.parse_mdx(data)
             if(blocks){
                 
@@ -246,10 +243,8 @@ class MDX_PARSER{
                 const m2 = link.match(re)[0].replace("]","").replace("[","");
                 return {o:link,t:`<a href="${m1}">${m2}</a>`}
             });
-            console.log("transforming data");
             const links = [...md_html,...html_transform_box]
             const fake_links = links.map((link,i)=>`!!@@!${i}!@@!!`)
-            links.forEach(l=>console.log("this is a link,",{l}))
             links.forEach((l,i)=>{
                 obj.t=obj.t.replaceAll(links[i].o,fake_links[i])})
                 const internal_data_matches = [...aw,...dw,...sw,...tw];
