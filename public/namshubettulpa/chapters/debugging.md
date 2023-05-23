@@ -7,8 +7,7 @@ mn:M
 *Martha was falling*
 ~The rushing wind was all around her.
 It was deafening, yet she was in a pocket. 
-The island of cliff that sheared off the landscape stayed in one piece.
-It shielded her from the wind~
+The island of cliff that sheared off the landscape shielded her from the wind~
 ~The gravity lessened as she fell, returning to a relative normal~
 ~She saw a darkness growing below the edge, racing towards her~
 `
@@ -25,8 +24,9 @@ She crumpled to the ground*
 *^Electricity shot from the earth into Martha's Side*
 "M::Fuck!"
 ~Martha didn't know what she was doing wrong~
-*Above her, light winked out*
-~A chill crept to her bones~
+*Above her, the tiny dot of light winked out*
+~A chill crept to her bones.
+She could only hear the rushing wind in the darkness~
 'M::Some light would be nice.'
 *Martha took off her shoe and held it in her hand.
 She took a breath*
@@ -42,7 +42,9 @@ const ~orb~ = {
 ~The light was a bright blue, and was quickly growing hot~
 *She stood up and released it*
 ~It floated in place and she turned around~
-~The close wall was illuminated, but the far was dim~
+~The close wall was illuminated.
+It was a blur, rushing past her.
+The far wall was too dark to see from this distance~
 'M::Okay, that worked, why?'
 ~She realized only a short moment later~
 "M::Permissions..."
@@ -69,11 +71,13 @@ const *bubble_shield* = {
 }
 ~Self~.hands.get_held().reshape(*bubble_shield*)
 `
+*The sock grew, turned translucent, and surrounded her: encasing around her as a bubble*
+~She felt prickles of electric static dance along her skin as it passed through her~
 *Below Martha, something was rising from the depths faster than she was*
 `
 ~self~.~gravity~=~self~.gravity x 5
 `
-~Five times, that she could handle, she didn't know offhand how many G's a human could take~
+~Five times, she could handle that, she didn't know offhand how many G's a human could take~
 *What was rising below caught up to her*
 ~It was a dark goo, a morphing blob shifting into the shapes of humans, each reaching towards her in desperation.
 But the overall shape was a hand~
@@ -85,10 +89,12 @@ The little orb of light slowly stopped spinning from inside the perimeter*
 ~Self~.~gravity~=0
 `
 ~She could breath again, and after a few sharp breaths...~
-*The hand poked the bubble again*
-~Wedging it deeper in the cliff face, a small tunnel now formed~
+*The hand poked the bubble again, wedging it deeper in the cliff face*
 ~As the rock crunched, Martha felt a burning sensation throughout her body, and a sudden increasing hunger~
+*The hand pulled back. 
+And the orb inside the bubble again settled into a stable orbit*
 ~Martha was starting to panic beyond rational thought, she was trapped like a rat, hungry and tired~
+*A voice boomed from deep below*
 "AT::I thank you."
 ~As nothing happened after, she waited and slowly calmed, her stomach still doing knots~
 'M::Thank me, for what?'
@@ -96,7 +102,8 @@ The little orb of light slowly stopped spinning from inside the perimeter*
 She considered her situation... 
 If she said nothing~
 "M::What for?"
-~The voice grew closer, emanating from the shifting shapes of human heads on the slime outside the tunnel~
+~The voice grew closer, and then turned into a chorus.
+It emanated from the shifting human shapes on the slime~
 "AT::Your little needle, is now my little needle, it is just what I needed, like a gift."
 'M::My needle?'
 ~With mounting horror she realized what he meant.
@@ -206,10 +213,15 @@ As time stretched on the creature lowered its arms*
 *The creature sniffed at and carefully inspected them.
 It then moved to the corner and sat down, watching them*
 "L_R::I think we can go."
+~Lenny was the one to see the gore and the blood painting the cellar walls~
 'L_R::And I am pretty sure it is intelligent.'
 *Lenny kept between the rest of us and the creature*
+"L_R::No sudden movements..."
 ~It was watching us, poised to attack, but staying still in the corner~
 'RX::Well it is not mauling us, so that is a start.'
+~Jochek kept her eyes straight on the lock, she was never one for the sight of blood~
+'AD_R::Was this the chainsaws or this creature?'
+'L_R::Maybe a little of colum A, some of B.'
 *Jochek went to work on the lock for door 42*
 ~Above us we heard the sound of chainsaws fade in and out as they raced around the rooms above us~
 "J_R::Got it."
