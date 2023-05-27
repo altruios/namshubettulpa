@@ -498,10 +498,14 @@ mn:M
 *She started flipping the pages like a flip-book*~- and there it was~
 ~She stopped and it was gone~ 
 ~It wasn't on the pages, it was~
+}
+
+{
 'What?'
 'All of the pages?'
 *She flipped again, going cover to cover*
 ~The symbol spread almost completely outside the pages of the book~
+<div class='animate-target' style="background-image: url('/svg.svg');"></div>
 ~It seared into her mind - a pattern that twisted as the pages turned~
 ~It told a story, in the shapes it made~ 
 ~She didn't understand the story - couldn't understand it~
@@ -518,7 +522,7 @@ mn:M
 *The monk was on his back, sliding backwards*
 *Machete blows landed on his raised forearms*
 ~no one was focused on her~
-*She grabbed a book and threw it at the window: it shattered*. 
+*She grabbed a book and threw it at the window: it shattered* 
 *She looked back at the creature wearing her childhood nightmare's skin, who turned those black pool eyes toward her*
 *She gulped*
 *He started toward her: but was held back by that old man*
@@ -563,5 +567,6 @@ mn:M
 ~She realized she was on her back - staring at the popcorn ceiling~
 ~Suddenly ejected from her dream~
 }
-
 ## [vows](vows.md)
+
+<script src="/namshubettulpa/code/animate-info.js"></script>

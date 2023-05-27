@@ -178,3 +178,39 @@ h6 {
     }
   }
   
+
+  @keyframes swirl {
+    0% {
+      transform: scale(100%) rotateX(-120deg) rotateY(-200deg);
+    }
+    50%{
+        transform: scale(200%) rotateX(0deg) rotateY(0deg);
+    }
+    100% {
+      transform: scale(200%) rotateX(-120deg) rotateY(740deg);
+    }
+  }
+.animate-target{
+
+}
+@keyframes opacity_see {
+    0% {
+        opacity: 0%;
+    }
+    100% {
+        opacity:60%;
+    }
+  }
+
+
+.animate{
+    display:inline-flex;
+    float:left;
+    position:relative;
+    top:0;
+    bottom:0;
+    height:40rem;
+    width: 100%;
+    animation:  4s linear infinite swirl,   
+                2s  ease-in 1 opacity_see;
+}

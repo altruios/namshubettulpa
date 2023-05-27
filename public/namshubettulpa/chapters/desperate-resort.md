@@ -52,7 +52,7 @@ It wants to consume, not just kill us."
 Come outside: so you - '~
 *The machine clicked and flanagan placed the phone back in its cradle*
 'FL__F::If that was - '
-*The phone ringed again, and flanagan placed the phone back in the device*
+*The phone rang again, and flanagan placed it back into the device*
 ~'Come outside: so you can be free.
 I want to thank you.'~
 "FL__F::We'll stay here."
