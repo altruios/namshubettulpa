@@ -50,17 +50,26 @@ It wants to consume, not just kill us."
 'R::Is that Al-Tok?'
 ~'An echo, she is.
 Come outside: so you - '~
-*The machine clicked and flanagan placed the phone back in its cradle*
+*The machine clicked and Flanagan placed the phone back in its cradle*
 'FL__F::If that was - '
-*The phone rang again, and flanagan placed it back into the device*
+*The phone rang again, and Flanagan placed it back into the device*
 ~'Come outside: so you can be free.
 I want to thank you.'~
 "FL__F::We'll stay here."
 ~'I'll come to you.'~
-
-`
-Rough drafts
-`
+*The machine clicked*
+"M::He doesn't know where we are, does he?"
+"FL__F::It called here. It, not he."
+~Flanagan hesitated~
+"FL__F::We need to know more."
+*Flanagan pressed some buttons on the device and the phone started ringing*
+~There was no answer~
+"FL__F::Calling number.
+lets see..."
+~Flanagan read off some numbers~
+'M::Oh shit.'
+~She recognized that number.
+It was her Mother's~
 
 }
 {
@@ -70,6 +79,40 @@ Rough drafts
 mn:F
 }
 {
+~Felix could feel the lock on his mind. 
+Bits of the conversation Flanagan and the other's had slipped from his memory~
+~They were talking - discussing a plan - sitting around a coffee table.
+Flanagan at the head, standing.~
+~Try as he might, Felix couldn't move, nor could he reach Flanagan's mind.
+He saw a ghostly version of the world, locked in a relative position behind his own body.
+With Flanagan at the helm~
+"FL__F::Your Mother?"
+~Felix saw Martha nod~
+*The phone rang again, and Flanagan placed it in the device once again*
+~Felix couldn't read the words on the device~
+"FL__F::They wouldn't have called if they weren't sure.
+Lana, what did you have?"
+"A::Meta-metastatic over-writing."
+'FL::Well that would kill her for sure.'
+'F::Who?'
+'FL::Martha.'
+*Flanagan coughed*
+"FL__F::Well, that would work.
+Rather high cost."
+"A::Do you have anything better?"
+*Flanagan sighed*
+~He did not~
+'F::But do I?'
+'FL::Do you what?'
+~Flanagan could hear his direct thoughts, but just the surface level~
+~Felix kept still and let his mind glaze over, a plan starting to form.
+It would save Martha, free him, and give him leverage.
+He had no leverage right now, and look where that gotten him.
+He was stuck watching his own body~
+~He noticed he missed a large portion of that conversation~
+*Flanagan put down the phone*
+"K::You were speaking metaphorically, yeah?"
+"FL__F::Yes, of course, we're actually just firebombing a city block: not nuking the city."
 
 }
 {
@@ -79,7 +122,43 @@ mn:F
 mn:AT
 }
 {
-
+~Most of Al-tok was working in the lab. 
+Now that he could reach anyone, well, why would it waste resources on public interfaces.
+He could just take a host, and walk them back to the lab for a permanent upgrade~
+~Al-tok was still incomplete. 
+More hosts let it fit more of itself in this reality.
+but they were pitifully small pools for his essence~
+*The husks moved about in a hive of activity, then all stopped and looked up to a whistling sound in the distance
+They shuddered in pleasure the the screeching wind breaking apart to form that whistle*
+~Then they were gone, in an instant Al-tok reeling~
+~The New Yorker it inhabited did not have the serum yet, Al-tok was just about to walk him over... 
+But now...
+Now he was in only one~
+~He still had the spear, and as he felt this host give out, he spread to the next one... 
+If he lost all his hosts...~
+'AT::There is still the link.'
+~But he wouldn't have the same raised privileges that having a body gave, he wouldn't be able to spread~
+*Al-tok was in the mind of a child and mother in a shopping mall*
+~It timed how long they lasted, only a few minutes~
+*Al-tok, in the body of a teenager in the middle of a skating flip, roared, then tumbled*
+~The serum took days to make, was a delicate process that took several people working on it~
+'AT::So just...'
+~Al-tok was in the host of a young girl drawing at a desk~
+*It furiously started drawing*
+~When the host died, Al-tok took another, taking the picture to the living room and continuing the drawing.
+Then the neighbor... 
+Neighbors...
+Really it was finding the right colors: no one seemed to have colored pencils~
+'AT::There...'
+*Al-tok, over a pile of bodies in a suburban kitchen, took a picture of that image on a phone*
+~Al-tok searched through the hearts, filtering~
+`
+const serum_producers = *spear*.heart.filter(h=>Globals.humans.filter({role:~Scientist~}).find(x=>x.heart==h)) 
+const numbers = serum_producers.map(x=>x.~phone number~) 
+`
+*Al-tok sent that image to a list of phone numbers*
+~It took several bodies, it was a long list of numbers~
+~Now all it had to do was wait~
 }
 {
 %%%%
