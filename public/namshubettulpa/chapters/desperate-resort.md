@@ -11,34 +11,42 @@ The pain subsided, and she felt her voice horse~
 ~She opened her eyes, the pain was lowering but everything was still white.
 Slowly things came into focus.
 She was in Flanagan's foyer, holding the mirror: squeezing it~
+~Rossin stood at her side~
 "K::Martha?"
-~Kent was standing over her, behind him was Flanagan~
+~Kent was next to Rossin, behind him was Flanagan~
+*Flanagan walked forward and through Rossin*
 "FL__F::It's one thing to push her in from a dream..."
 "A::Are you back yet?"
 ~Martha's head was still clearing, waking from a dream~
 *She sat up*
 "M::Al-tok has the spear."
+*Gerald and Wilbert shot glances at each other*
 "A::Did you get it?"
 "K::Spear?"
+*Sonny tilted her head quizzically*
 "FL__F::The one that...?"
 "A::Did you find it, Martha?"
 "M::That one."
+~Alacira was nearly shouting~
 "A::Martha!"
 "M::Yes, I got it."
 "A::Good. 
 Not having a ship is really inconvenient.
 Just keep it safe for now."
+*Flanagan waved for her to sit down*
 "FL__F::We have bigger worries.
 Al-tok has a direct connection to every human heart.
 Martha, what happened?"
-'R::We happened, I...
-I wanted to change the system, I wanted you to.
+'R::We happened, I...'
+*Rossin smiled weakly*
+'R::I wanted to change the system, I wanted you to.
 In so doing we built the tool of our destruction.'
 ~Martha explained the dream~
 "FL__F::This isn't the worse.
 It still needs Alice's serum to exist in a host.
 It wants to consume, not just kill us."
 "K::So you're saying it's not going to kill everyone on the planet in one go?"
+~Flanagan didn't answer at first~
 "FL__F::I don't know."
 *The phone rang*
 *Flanagan tilted his head, but walked behind the desk and pulled out a small device*
@@ -70,7 +78,7 @@ lets see..."
 'M::Oh shit.'
 ~She recognized that number.
 It was her Mother's~
-
+*The phone rang again*
 }
 {
 %%%%
@@ -90,7 +98,13 @@ With Flanagan at the helm~
 ~Felix saw Martha nod~
 *The phone rang again, and Flanagan placed it in the device once again*
 ~Felix couldn't read the words on the device~
-"FL__F::They wouldn't have called if they weren't sure.
+~Everything froze in place, Felix could think, but something was wrong...
+This happened occasionally, parts of their conversation he couldn't hear, so from his perspective: everything froze~
+'F::Something Flanagan did...'
+~Felix struggled, but still: could not move~
+~Everyone in the room jumped into place~
+*Flanagan put the phone back in its cradle*
+"FL__F::They wouldn't have called unless they were sure.
 Lana, what did you have?"
 "A::Meta-metastatic over-writing."
 'FL::Well that would kill her for sure.'
@@ -104,22 +118,35 @@ Rather high cost."
 ~Felix could tell Flanagan did not~
 'F::But do I?'
 'FL::Do you what?'
+"FL__F::Al-tok can't have a physical body for that to work..."
 ~Flanagan could hear his direct thoughts, but just the surface level~
 ~Felix kept still and let his mind glaze over, a plan starting to form.
 It would save Martha, free him, and give him leverage.
 He had no leverage right now, and look where that gotten him.
 He was stuck watching his own body~
-~He noticed he missed a large portion of that conversation~
+~Around him everyone had been frozen.~
+'F::But for how lo-'
+~Everyone jumped into place again~
+"C::...4 ave, New York."
+~He noticed he missed a large portion of the conversation.
+Martha was crying, and Kent...
+Kent was holding his badge~
+*Flanagan had the phone in his hand*
+"FL__F::Center the last one around this address:"
+~Felix felt a Flanagan filter through his memories, until one stood out. 
+It was where he had killed Alice~
 *Flanagan put down the phone*
 "K::You were speaking metaphorically, yeah?"
-"FL__F::Yes, of course, we're actually just firebombing a city block: not nuking the city."
-'F::What were you talking about before'
+~Kent's voice was tight~
+"FL__F::Yes, of course, we're actually just firebombing a city block or two: not nuking the city."
+'F::What were you talking about before?'
 'FL::Something that does not concern you.'
 ~Felix watched, trying, and again failing to move~
 'F::Get another host!'
+"K::I'm sorry, you did what?"
 'FL::I rather like this one. 
 You can have it back when we are done.'
-*Flanagan placed a call*
+"FL__F::We just sent a cruise missile to Alice's lab, and the undernet headquarters."
 }
 {
 %%%%
@@ -130,7 +157,7 @@ mn:AT
 {
 ~Most of Al-tok was working in the lab. 
 Now that he could reach anyone, well, why would it waste resources on public interfaces.
-He could just take a host, and walk them back to the lab for a permanent upgrade~
+It could just take a host, and walk them back to the lab for a permanent upgrade~
 ~Al-tok was still incomplete. 
 More hosts let it fit more of itself in this reality.
 but they were pitifully small pools for its essence~
@@ -219,7 +246,7 @@ mn:K
 ~Kent was wrapped up in more than he could chew. 
 He had far too little sleep, no gun, no backup, no plan~
 "K::Now we're firebombing cities?"
-~Others could hear, but it was directed at himself~
+~Others could hear his question, but it was directed at himself~
 'K::Or just letting it happen, Flanagan made the call'
 "A::If we can't use the way out, We need to make sure he doesn't have a physical presence anymore."
 ~He should have stopped Flanagan~
@@ -231,6 +258,8 @@ Once you knew what he did?'
 "A::yes, you've made it more desperate: good job. /s"
 *Kent glanced at Martha*
 ~She too had that far off stare of things escalating too quickly~
+"FL__F::I was stalling it."
+
 
 }    
 {
