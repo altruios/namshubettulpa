@@ -101,7 +101,7 @@ Lana, what did you have?"
 Rather high cost."
 "A::Do you have anything better?"
 *Flanagan sighed*
-~He did not~
+~Felix could tell Flanagan did not~
 'F::But do I?'
 'FL::Do you what?'
 ~Flanagan could hear his direct thoughts, but just the surface level~
@@ -113,7 +113,13 @@ He was stuck watching his own body~
 *Flanagan put down the phone*
 "K::You were speaking metaphorically, yeah?"
 "FL__F::Yes, of course, we're actually just firebombing a city block: not nuking the city."
-
+'F::What were you talking about before'
+'FL::Something that does not concern you.'
+~Felix watched, trying, and again failing to move~
+'F::Get another host!'
+'FL::I rather like this one. 
+You can have it back when we are done.'
+*Flanagan placed a call*
 }
 {
 %%%%
@@ -127,27 +133,38 @@ Now that he could reach anyone, well, why would it waste resources on public int
 He could just take a host, and walk them back to the lab for a permanent upgrade~
 ~Al-tok was still incomplete. 
 More hosts let it fit more of itself in this reality.
-but they were pitifully small pools for his essence~
+but they were pitifully small pools for its essence~
 *The husks moved about in a hive of activity, then all stopped and looked up to a whistling sound in the distance
 They shuddered in pleasure the the screeching wind breaking apart to form that whistle*
 ~Then they were gone, in an instant Al-tok reeling~
 ~The New Yorker it inhabited did not have the serum yet, Al-tok was just about to walk him over... 
 But now...
-Now he was in only one~
-~He still had the spear, and as he felt this host give out, he spread to the next one... 
-If he lost all his hosts...~
+Now Al-tok was in only one~
+~Al-tok still had the spear, and as it felt this host's heart give out~ 
+*Al-tok spread to the next one*
+~If it had no hosts...~
 'AT::There is still the link.'
-~But he wouldn't have the same raised privileges that having a body gave, he wouldn't be able to spread~
+~But Al-tok wouldn't have the same raised privileges that having a body gave. 
+Privileges like being able to use objects: like that spear...
+It wouldn't be able to spread how it wanted~
 *Al-tok was in the mind of a child and mother in a shopping mall*
 ~It timed how long they lasted, only a few minutes~
 *Al-tok, in the body of a teenager in the middle of a skating flip, roared, then tumbled*
-~The serum took days to make, was a delicate process that took several people working on it~
+~The serum took days to make, was a delicate process, and took several people working on different parts of it at the same time~
+'AT::There is not enough time...'
+~Everything Al-tok touched burned without that serum~
 'AT::So just...'
 ~Al-tok was in the host of a young girl drawing at a desk~
 *It furiously started drawing*
 ~When the host died, Al-tok took another, taking the picture to the living room and continuing the drawing.
 Then the neighbor... 
-Neighbors...
+Neighbors...~
+~The Neighbors, the curious ones, drew closer; they wondered why people were dashing into this particular house.
+Less distance for the hosts, Al-tok didn't mind, more time for drawing~
+*Al-tok moved the drawing to the kitchen table*
+~So the next host would have more time to draw.
+It wouldn't have to climb over the bodies piling the room.
+But that wasn't the biggest difficulty...
 Really it was finding the right colors: no one seemed to have colored pencils~
 'AT::There...'
 *Al-tok, over a pile of bodies in a suburban kitchen, took a picture of that image on a phone*
@@ -159,6 +176,35 @@ const numbers = serum_producers.map(x=>x.~phone number~)
 *Al-tok sent that image to a list of phone numbers*
 ~It took several bodies, it was a long list of numbers~
 ~Now all it had to do was wait~
+'AT::burn through them slowly.'
+~It could take them all, but then what?
+A few moments was not enough~
+~So it waited~
+~Moments before the host died, Al-tok noticed the curiously normal behavior of the neighbors~
+*Al-tok took the next host outside the house*
+~It was an old lady on a scooter, and waited, not rushing in like before.
+Observing them, Al-tok saw them behave how it expected humans would~
+*Al-tok glanced around*
+~Not one raiding party, everyone acting as if...~
+*Al-tok took the next host when this one's heart gave out*
+~People rushed over to help, but Al-tok was focused on that bit of algera that was supposed to be in every human heart~
+'AT::Where is it?'
+~Al-tok didn't sense algera in any of its hosts, but for how long?
+It had been so focused on the namshub, it didn't remember...~
+'AT::What took it out?
+And where is it?'
+~The harmonic resonance of a human scream was a delight to Al-tok's hearing. 
+Every time a host died in the crowd there was an eruption.
+Another delightful scream came from the door, indicating someone had found the bodies in the kitchen~
+*The neighbors scattered*
+~Finally fearing for their lives in earnest, unsure of what was going on~
+*One by one Al-tok took them all*
+~Regardless of how far they ran they all fell~
+~To its frustration, none of them had algera~
+~Al-tok waited, it would wait for days.
+One body was just enough to fit the tip, the edge of Al-tok~
+~So he would stay in a few at a time~
+
 }
 {
 %%%%
@@ -167,29 +213,31 @@ const numbers = serum_producers.map(x=>x.~phone number~)
 mn:K
 }
 {
+*Kent held his badge*
+'K::You doing alright there, Kent?'
+~He was not~
+~Kent was wrapped up in more than he could chew. 
+He had far too little sleep, no gun, no backup, no plan~
+"K::Now we're firebombing cities?"
+~Others could hear, but it was directed at himself~
+'K::Or just letting it happen, Flanagan made the call'
+"A::If we can't use the way out, We need to make sure he doesn't have a physical presence anymore."
+~He should have stopped Flanagan~
+'K::And did you have time?
+Once you knew what he did?'
+~Kent admitted he didn't have that time~
+"FL__F::If it still has a body, it doesn't have Alice's lab, or that serum."
+'K::Sounds like you should maybe not beat yourself up about it.'
+"A::yes, you've made it more desperate: good job. /s"
+*Kent glanced at Martha*
+~She too had that far off stare of things escalating too quickly~
 
 }    
 {
     
 `
 todo:
-     Narrator:"Martha"
-    ~Martha receives a phone call - it's al-tok in the body of family~
-    ~Al-tok~'s access to any human heart means it can take over for a short time.
-      - this is a death sentence
 
-  Narrator:"Felix"
-    ~Felix~ is seething in the back seat of his mind
-        - is prevented from hearing parts of the conversation
-        - finds away around this while watching the following:
-    ~Alacira~ and ~Flanagan~ 'nuke'(firebomb) the lab - destroying the physical presence of ~Al-Tok~.
-        - which does not remove al-tok from the link, but without a physical body, Al-tok can't directly run namshubs.
-        
-        
-    Narrator:"Al-tok" - Al-tok now only physically exists in the people temporarily taken over.
-        - with no access to the serum he does not have the time to make it in a single body.
-        - Al-tok has to body hop (be in at least one body) before the death of the host, otherwise it will loose permissions.
-            - Al-tok doesn't want to burn through its stock too quickly.
 
     Narrator:"Kent"
         ~Kent~ holds his badge, contemplates what he's now involved with
@@ -201,3 +249,5 @@ todo:
 
 `
 }
+
+# [interludes 2](interludes-2.md)
