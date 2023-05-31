@@ -206,7 +206,7 @@ h6 {
 .animate{
     display:inline-flex;
     float:left;
-    position:relative;
+    position:fixed;
     top:0;
     bottom:0;
     height:40rem;

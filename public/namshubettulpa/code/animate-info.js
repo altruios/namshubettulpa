@@ -1,77 +1,67 @@
-function * NGen(l){
-    let i=1;
-    while(i<l){
-        yield i
-    }
-}
-const generator = NGen(200)
+const target = document.querySelector('.animate-target')
+const animation_trigger = new CustomEvent("animation_trigger")
+const fast_enough = 42;
 const scroll_state = {
     state:0,
     is_fast_enough:false,
-    is_seen:false,
-    counter: generator
+    checkSpeed: function(){
+        this.state=checkScrollSpeed()
+        this.is_fast_enough=Math.abs(this.state)>=fast_enough
+    }
+}    
+
+const animation_state = {
+    running:false,
+    time:5000,
 }
-const fast_enough = 60;
+    
+    
+
 const observer = new IntersectionObserver(entries => {
     entries.forEach(entry => {
-        if(entry.isIntersecting){
-            if(scroll_state.is_fast_enough){
-                entry.target.classList.add("animate");
-                console.log("should only fire when fast enough")
-            }
-            
+        if(entry.isIntersecting && scroll_state.is_fast_enough){
+            console.log("animation trigger!")
+            window.dispatchEvent(animation_trigger)
         }
-        else{
-                 entry.target.classList.remove('animate');
-            console.log("exited")
-                }
-        
     })
-
-});
-
-
-
-observer.observe(document.querySelector('.animate-target'));
-
-
-
+},{threshold:[.1,.2,.3,.4,.5,.6,.7,.8,.9,1]});
 
 var checkScrollSpeed = (function (settings){
     settings = settings || {};
-  
+    
     var lastPos, newPos, timer, delta, 
-        delay = settings.delay || 50; // in "ms" (higher means lower fidelity )
-  
+    delay = settings.delay || 50; // in "ms" (higher means lower fidelity )
+    
     function clear() {
-      lastPos = null;
-      delta = 0;
+        lastPos = null;
+        delta = 0;
     }
-  
+    
     clear();
     
     return function(){
-      newPos = window.scrollY;
-      if ( lastPos != null ){ // && newPos < maxScroll 
+        newPos = window.scrollY;
+        if ( lastPos != null ){ // && newPos < maxScroll 
         delta = newPos -  lastPos;
-      }
-      lastPos = newPos;
-      clearTimeout(timer);
+    }
+    lastPos = newPos;
+    clearTimeout(timer);
       timer = setTimeout(clear, delay);
       return delta;
     };
 })();
 
-// listen to "scroll" event
-window.onscroll = function(){
-    console.log(scroll_state.state)
-  scroll_state.state= checkScrollSpeed();
-  scroll_state.is_fast_enough=Math.abs(scroll_state.state)>=fast_enough
-  if(scroll_state.is_seen){
-    scroll_state.is_seen=scroll_state.counter.next().value!=undefined
+window.onscroll = ()=> scroll_state.checkSpeed()
+  
+window.addEventListener('animation_trigger',(e)=>{
+    target.classList.add("animate")
+    if(!animation_state.running){
+        animation_state.running=true;
+        window.setTimeout(()=>{
+            target.classList.remove("animate");
+            animation_state.running=false;
+        },animation_state.time)
+    }
+})
 
-  }else{
-    scroll_state.counter =NGen(10);
-    scroll_state.is_seen=scroll_state.is_fast_enough
-  }
-};
+observer.observe(document.querySelector('.animate-target'));
