@@ -1,3 +1,6 @@
+const self = document.getElementById("animate");
+const clss = self.getAttribute("data-class");
+const time = self.getAttribute("data-time")
 const target = document.querySelector('.animate-target')
 const animation_trigger = new CustomEvent("animation_trigger")
 const fast_enough = 42;
@@ -12,10 +15,8 @@ const scroll_state = {
 
 const animation_state = {
     running:false,
-    time:5000,
+    time:time,
 }
-    
-    
 
 const observer = new IntersectionObserver(entries => {
     entries.forEach(entry => {
@@ -41,24 +42,22 @@ var checkScrollSpeed = (function (settings){
     
     return function(){
         newPos = window.scrollY;
-        if ( lastPos != null ){ // && newPos < maxScroll 
-        delta = newPos -  lastPos;
-    }
-    lastPos = newPos;
-    clearTimeout(timer);
-      timer = setTimeout(clear, delay);
-      return delta;
+        if ( lastPos != null ) delta = newPos -  lastPos;
+        lastPos = newPos;
+        clearTimeout(timer);
+        timer = setTimeout(clear, delay);
+        return delta;
     };
 })();
 
 window.onscroll = ()=> scroll_state.checkSpeed()
   
-window.addEventListener('animation_trigger',(e)=>{
-    target.classList.add("animate")
+window.addEventListener('animation_trigger',()=>{
+    target.classList.add(clss)
     if(!animation_state.running){
         animation_state.running=true;
         window.setTimeout(()=>{
-            target.classList.remove("animate");
+            target.classList.remove(clss);
             animation_state.running=false;
         },animation_state.time)
     }

@@ -569,4 +569,4 @@ mn:M
 }
 ## [vows](vows.md)
 
-<script src="/namshubettulpa/code/animate-info.js"></script>
+<script src="/namshubettulpa/code/scroll_to_animate.js" id="animate" data-class="rotate-weird" data-time="5000"></script>
