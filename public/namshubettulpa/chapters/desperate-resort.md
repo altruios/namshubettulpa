@@ -247,7 +247,7 @@ mn:K
 He had far too little sleep, no gun, no backup, no plan~
 "K::Now we're firebombing cities?"
 ~Others could hear his question, but it was directed at himself~
-'K::Or just letting it happen, Flanagan made the call'
+'K::Or just letting it happen, Flanagan made the call...'
 "A::If we can't use the way out, We need to make sure he doesn't have a physical presence anymore."
 ~He should have stopped Flanagan~
 'K::And did you have time?
@@ -258,25 +258,55 @@ Once you knew what he did?'
 "A::yes, you've made it more desperate: good job. /s"
 *Kent glanced at Martha*
 ~She too had that far off stare of things escalating too quickly~
-"FL__F::I was stalling it."
-
-
+~The chemist was sitting in a room next to the kitchen. His voice was raspy from shouting~
+"C::The news is showing the lab.
+They're saying it was a meth lab."
+'K::They called him a Guinea-pig...'
+~For Alacira's Namshub, apparently it was embedded in the television~
+'K::See, can you be glad for once you have zero addiction to that boob tube?'
+*Gerald took a bite of cheese*
+~He was to Kent's right, in the liminal space between rooms, siting in a rocking chair~
+"G::That's nice, keep watching."
+~The navigator was sitting next to Alacira, keeping a close watch on Kent~
+"K::You blew up a lab?
+With people in it?"
+"FL__F::Don't worry your pretty little head about it.
+You'll find the building owner to not be pressing charges, pay for the damages..."
+*Flanagan waved his hand dismissively*
+"FL__F::And some charity money for the city."
+"K::You think you can buy your way out?"
+~Flanagan had a predatory glean in them~
+"FL__F::No, I'm not buying anything, I'm paying for what I bought: which isn't The Way Out, unfortunately.
+I'm paying because good people pay when the toll comes due.
+I don't try to pass off those costs to you."
+'K::He destroys a building and gives me this philosophical bullshit?'
+"FL__F::Better than it coming here."
+~There was a small chirp, an alarm, that sounded~
+"FL__F::That would be the guard informing us of some unwelcome arrival..."
+*Martha sat up*
+"M::It's here?"
+"A::It did say it was coming.
+Just as well.
+Sonny: hallway."
+*The woman sitting on the floor got up and exited through the front door, leaving it open*
+~Kent heard rustling above him.
+He pointedly did not look at the spiders following on the ceiling~
+~Tense moments passed.
+Kent could hear the elevator door dinged on arrival~
+*Kent gripped tighten on the arm of the chair*
+~He saw everyone else was tense as well~
+"RG__JL::Oh what the fuck!
+Get it off me!
+Stop: okay!"
+'K::Does that sound like this Al-tok thing to you, Kent?'
+*Kent got up and looked out the door*
+~Along with Martha and Flanagan... 
+He saw the man wrapped up in webbing. 
+He could still make out the stranger was wearing a 3 piece suit~
+"FL__F::Juan... What a surprise!"
+*The stranger moved some webbing away from his mouth*
+~Which was a difficult task~
+"RG__JL::Well, actually..."
 }    
-{
-    
-`
-todo:
-
-
-    Narrator:"Kent"
-        ~Kent~ holds his badge, contemplates what he's now involved with
-        ~The navigator~ and ~Kent~ rejoin
-
-        ~Robert/Alice~ in the body of ~Alacira's lost shipmate~ (
-            write this in somewhere in dream chapters.
-        ) ~ enters and informs them why they messed up in the second interludes
-
-`
-}
 
 # [interludes 2](interludes-2.md)
