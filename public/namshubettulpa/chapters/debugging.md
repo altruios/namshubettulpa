@@ -135,7 +135,7 @@ This is a dream, so...'
 ~Martha was relieved when the walls around her started to melt away~
 "AT::Oh, we're chasing this way..."
 ~All went to black~
-"AT::See you soon"
+"AT::See you soon..."
 *^And then the pain hit*
 
 }
@@ -227,7 +227,7 @@ It then moved to the corner and sat down, watching them*
 "J_R::Got it."
 *The door lock clicked and Jochek pulled it open*
 ~The door led to a spiral staircase leading downwards~
-*behind them the creature stirred*
+*Behind them the creature stirred*
 ~Standing on it's hind legs it was approaching us~
 *It turned its head to the stairs, then to the open door*
 'L_R::I think it wants out.'

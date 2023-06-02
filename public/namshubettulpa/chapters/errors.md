@@ -9,7 +9,7 @@ mn:M
 ~They covered a small door down the hallway to the right~
 *Walking up to the front desk she asked*
 "M::What happened here?"
-"PO::Fire"
+"PO::Fire."
 ~His voice was gruff~
 "M::Is everyone alright?"
 "PO::They took a couple people to the hospital, no word yet about them."
@@ -29,14 +29,14 @@ mn:R
 `WITH(
   (hooks)
     .go(~Location of the prisoners facing the wall~)
-    .break("Thank you")
+    .break("Thank you.")
 )`
 *The man behind the desk got up, and ushered them to follow*
 *They passed the burnt out room*
 ~A large portion of the walls were black~
 ~And currently there was yellow tape barring the entrance~
 ~The entire surveillance system seems to have been burnt~
-'At least no working cameras this time'
+'R::At least no working cameras this time...'
 *Martha only nodded*
 ~She followed Rossin and the officer to the back of the station~
 }
@@ -44,7 +44,7 @@ mn:R
 *Rossin entered the room with the holding cell*
 ~Three people stood facing the back wall~
 *Once they had entered the room, the officer turned and walked away*
-"R::Thank you"
+"R::Thank you."
 *The officer shook and returned to normal*
 ~He looked around the room~
 'M::That is all it took?'
@@ -58,8 +58,9 @@ mn:M
 'R::We should probably change your shirt - it is still...'
 ~Rossin trailed off~
 ~Martha looked down - seeing the blood stains make almost a designer pattern~
-"M::It's already 5 now, do we have time before the red-eye?"
-'R::We can stop somewhere on the way -only need a shirt'
+"M::It's already five now, do we have time before the red-eye?"
+'R::We can stop somewhere on the way. 
+You only need a shirt.'
 "M::Do I need to pack anything, or?"
 'R::No, not really.'
 *Her stomach growled, she looked down - annoyed - she had just eaten*
@@ -69,14 +70,14 @@ mn:M
 "M::Always being hungry?"
 *Rossin nodded*
 'R::The food in first class is excellent. 
-We will grab some calories wherever we get the shirt'
+We will grab some calories wherever we get the shirt.'
 }
 {
 "M::My home it is, everything we need."
 *Rossin nodded, glancing at the watch*
-'R::Cutting it close, your place is not exactly on the way'
+'R::Cutting it close, your place is not exactly on the way...'
 ~Which was an understatement - it was completely out of the way~
-"M::Well, I'm done with people for right now, solitude - so off to my fortress"
+"M::Well, I'm done with people for right now, solitude: so off to my fortress."
 *Martha exited through the double doors*
 ~They walked into the falling sun, not at sunset - but still turning orange~
 }
@@ -100,7 +101,7 @@ mn:K
 }
 {
 *He sighed - walked to the house next door*
-~cutting across the lawn to check on the neighbor~
+~Cutting across the lawn to check on the neighbor~
 *He waited only a short time after knocking on the door*
 *An officer he knew with a brand on his forehead open the door*
 ~Kent stared at the brand, it had a name on it, below a strange symbol~
@@ -138,7 +139,7 @@ With his face?"
 No - it's a different person: this is officer Rogers, not your father."
 "RO::Sir.
 Unless you have a warrant - I'm going to have to ask you to leave.
-You're scaring my boy"
+You're scaring my boy..."
 "K::He's not your boy, god damn it.
 Rogers, what are you playing at?"
 *The door slammed in Kent's face*
@@ -179,10 +180,10 @@ A red eye."
 "P::I don't know man, she was talking to herself - then she was gone."
 *Kent nodded, steepling his fingers under his chin*
 ~How much sleep he had gotten~
-'K::Too little, regardless how much'
+'K::Too little, regardless how much...'
 "K::And you don't remember anything about the walls."
 *The man across from him shook his head*
-"P::Not even a little bit"
+"P::Not even a little bit."
 ~When Kent told him about how he was just facing the wall~
 ~Bewilderment was the response~
 ~More and more Kent questioned his sanity~
@@ -194,7 +195,7 @@ A red eye."
 "K::Redeye is a type of plane...
 A time when...
 You know what...
-Never mind"
+Never mind."
 "P::Hey, also: there's a surprise party happening down at the donut shop on fifth, only certain people are supposed to be in the know, you know, but you know..."
 *He leaned in*
 "P::Smith let me in on it, now you."
@@ -213,8 +214,8 @@ Never mind"
 ~10:30pm~
 *The blue lights stopped flashing, the cruiser door opened*
 *Kent stepped out*
-"P::I'm going to be late"
-"K::You'll be fine"
+"P::I'm going to be late."
+"K::You'll be fine..."
 *The beat cop waved him off and drove through the airport traffic*
 'The Redeye planes leave at what, 11?'
 ~He had time to get through security~
@@ -276,7 +277,7 @@ So if you ever need to hide, fly coach."
 You sure you can do this...
 Your neighbor."
 "M::Was a fluke - I got...
-Distracted"
+Distracted."
 ~There was a pause~
 "F::Well.
 Don't get distracted again."
@@ -327,7 +328,7 @@ If not, coach will be fine."
 }
 {
 *After everyone had boarded he went back up to the attendant*
-"FA::There is room in first, and one in coach, B4, and E2"
+"FA::There is room in first, and one in coach, B4, and E2..."
 ~He chose B4, the seat in first class, and boarded the plane~
 ~He hoped he didn't make a grave mistake~
 }

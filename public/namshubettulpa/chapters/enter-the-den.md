@@ -4,7 +4,7 @@ mn:M
 *Martha sat in the center of a wooden bench while Rossin paced around the cell* 
 ~Avoiding stepping over her 3 cell mates~ 
 *He was scratching his chin*
-'R::He literally has no link, not just hooks - as if he is a robot'
+'R::He literally has no link, not just hooks - as if he is a robot!'
 *One of the cellmates leaned back - stretched their foot out* 
 *Rossin pass through it, unnoticed* 
 "M::You said they were in media - he doesn't consume any... 
@@ -16,7 +16,7 @@ Ergo - no hooks."
 'R::Children books, radio, newspapers, billboards. 
 Fucking billboards - and he just happened to not see anything. 
 Not once - in his life. 
-He looks like heis what, 40? 
+He looks like he is what, 40? 
 You really think a 40 year old detective could live his life without consuming any media...
 This by the way includes textbooks. 
 You do not appreciate exactly how saturated this world... 
@@ -31,11 +31,11 @@ You saw him scratch at his head - he probably has a scar back there...'
 *Rossin nodded* 
 'R::Not sure how. 
 I, my writer, always thought the link was tied to consciousness... 
-Any injury that would cause the link to fail would also put you in a coma'
+Any injury that would cause the link to fail would also put you in a coma...'
 "M::Maybe he was in one?"
 'R::I doubt it would be one you wake up from...
 Which - also, by the way, is exceedingly rare. 
-You do not just wake up from a coma - that happens on TV'
+You do not just wake up from a coma: that happens on TV.'
 ~The other people in the cell shared glances~ 
 ~Nontalkative as they were, they were clearly being put off by her talking to thin air~ 
 ~Martha looked at them~
@@ -45,21 +45,22 @@ You do not just wake up from a coma - that happens on TV'
 'R::Oh, them? 
 We can always have them forget after - or during. 
 Are they making you uncomfortable?'
-"M::Well, no - but I don't think they think I'm sane"
+"M::Well, no. 
+But I don't think they think I'm sane."
 'R::So what? 
-If you want me to - I could just hook them so they turn around and will not hear us'
+If you want me to, I could just hook them so they turn around and will not hear us.'
 ~Martha considered~
 *She shook her head* 
-"M::It didn't work with the detective"
-'R::The detective is a fluke - one I... 
-My writer - would have loved to study'
+"M::It didn't work with the detective."
+'R::The detective is a fluke...
+One I - My writer - would have loved to study...'
 ~Martha said quietly~
-"M::What if it's me"
+"M::What if it's me?"
 'R::What?'
 "M::What if I damaged something, when I was stopped?"
 ~Rossin considered~ 
 'R::More reason to give it a try... 
-Just let me keep control from me while I am connected and we will be fine'
+Just let me keep control from me while I am connected and we will be fine.'
 "SM::Hey lady, I said who are you talking to?" 
 ~The tone had an undercurrent of aggression - one that expected an answer~
 *Martha nodded, and switched the flip in her brain* 
@@ -113,7 +114,8 @@ And I wasn't with you."
 *Martha tilted her head*
 'M::What exactly did I do? I just remember...'
 ~Martha searched for the words~
-'M::Like I just... stopped'
+'M::Like I just... 
+Stopped.'
 *Rossin signed and leaned forward across the bench*
 "R::You weren't exactly in your own head.
 You didn't stop you just stopped being in you... 
@@ -123,7 +125,7 @@ You were stuck.
 There's a threshold, a barrier - one you have to have some..."
 ~Rossin struggled for the right word~ 
 "R::Momentum to make it though... 
-Otherwise you get lost in the weeds of your mind"
+Otherwise you get lost in the weeds of your mind..."
 'M::But I am here now.'
 *Rossin nodded then spread out his hands* 
 "R::I couldn't do anything to bring you back. 
@@ -154,37 +156,39 @@ I expect it would be a good thing to do sooner rather-'
 ~A white suit that looked like it belonged on a luxury cruise line~ 
 ~His smile made him look like a predator ready for a meal~ 
 ~He quickly glanced at the 3 standing in front of the bar and leaned over to look at Martha~ 
-"F::Hello there" 
+"F::Hello there." 
 ~His voice reeked of condescension, and a trace of annoyance~ 
 "F::Do you know where I was?"
-'R::He was in fiji - tell him that, keep your head still - just answer'
+'R::He was in fiji, tell him that. 
+Keep your head still, just answer.'
 *Martha nodded*
 "M::Fiji."
 "F::A long flight, and I find you here..." 
 ~Behind him was an officer, a large one she could almost remember seeing before~ 
-"F::Open it"
+"F::Open it."
 ~Normal words from the stranger's mouth and the officer obeyed~ 
 *He strolled in and sat in the cell across from her* 
-"F::Leave us" 
+"F::Leave us." 
 *The did - walking back into the offices of the station*
-"F::Take those with you" 
+"F::Take those with you." 
 *He gestured towards her cellmates* 
 *After some rustling the three continued to walk forward outside the cell* 
 *A bit more rustling they and proceeded to walk out of the room* 
 *While sliding face-first against the wall* 
 ~The stranger looked on, his eyes went from wide to narrow in the span of a second~ 
-"F::Adorable," 
+"F::Adorable..." 
 *He turned to face her* 
 "F::So why are you here?"
 ~Martha looked at him, unsure of how to answer~
-"F::You choose to be here, I want to know why? I'm Felix, nice to meet you" 
+"F::You choose to be here, I want to know why? 
+I'm Felix, nice to meet you." 
 *He extended his hand - Martha took it and shook it*
-"M::Martha"
-"F::Alright - so Martha," 
+"M::Martha."
+"F::Alright, so Martha..." 
 *Felix sat down across from her*
 ~Right next to Rossin~
 "F::Why are you here?"
-"M::I killed someone," 
+"M::I killed someone..." 
 "F::...So?"
 }
 {
@@ -210,10 +214,10 @@ Vessel - to house them."
 'Just another human?', 
 'Any human?',
 'Any living thing?', 
-'Would people recognize them']`
+'Would people recognize them?']`
 ~She held her tongue - intent to ask Rossin later~
 "F::I figured that's why you were here. 
-Looking for some lowlife to make the world a little better with their absence"
+Looking for some lowlife to make the world a little better with their absence."
 *Felix leaned in*
 "F::I was at your house... the son of that dead fellow seem quite distraught."
 "M::It was an accident."
@@ -229,7 +233,7 @@ Looking for some lowlife to make the world a little better with their absence"
 ~She did those trolly problems in college - morality tests~ 
 ~And this one hadn't exactly come up~
 "F::How new are you to... 
-Knowing about all this"
+Knowing about all this?"
 ~Martha waited for Rossin to supply a time frame, he did and then some~
 "M::A few months now. 
 I'm still... 
@@ -270,17 +274,17 @@ Have I found a good one?"
 'Just enough to...
 There!' 
 *He smiled back*
-"F::Top of the class" 
+"F::Top of the class..." 
 *He lowered his head* 
-"F::Now - about who you killed"
-"M::My neighbor"
+"F::Now: about who you killed."
+"M::My neighbor."
 "F::Do you want them back?"
 "M::I don't want to kill anyone to bring them back?"
 "F::Why?"
 "M::Because I don't want to kill anyone."
 "F::You already have. 
 The total number of people you've killed will remain the same. 
-The difference is in the quality of the person you killed"
+The difference is in the quality of the person you killed."
 "M::I don't..."
 "F::Okay - first lesson.
 Ready?"
@@ -296,7 +300,7 @@ You are saying you would rather have a random killer on the loose than your neig
 Is that what you want?"
 'R::That escalated quickly...'
 "M::I'd have to find a psychotic killer first. 
-I don't exactly have access to a lot of them"
+I don't exactly have access to a lot of them."
 "F::But you do...
 What do you think... 
 Right - you're new." 
@@ -304,11 +308,11 @@ Right - you're new."
 "F::ALBERT!" 
 *The police officer shuffled in* 
 ~A blank stare across his face~ 
-"F::Go get us a killer, a real psychopath"
+"F::Go get us a killer, a real psychopath."
 ~Martha started~ 
 *Raised her hand to stop him* 
 *Rossin put his hands up in a calming gesture* 
-'R::Let this play out, it is what I was trying to tell you earlier' 
+'R::Let this play out, it is what I was trying to tell you earlier.' 
 *She backed down* 
 *Albert walked out of the room, and was back in moments* 
 ~He was holding another scrawny police officer by the collar~ 
@@ -317,12 +321,13 @@ Right - you're new."
 Raise your sleeve up a bit, would you." 
 *As requested, he raised it to his forearm*  
 ~Revealing the track marked at the elbow's bend~ 
-"F::Yep, looks like heroin to me - so let's go make him your new neighbor," 
+"F::Yep, looks like heroin to me. 
+So let's go make him your new neighbor." 
 ~There was a twinkle in Felix's eye, a glint of pure delight~ 
 "F::Always leave a place better than you found it... 
 It's bad form to trash the playground." 
 *He turned back to Albert* 
-"F::Bring him to the car," 
+"F::Bring him to the car..." 
 *He extended his hand to her* 
 "F::Let's get out of here, shall we?" 
 *Martha took it*
@@ -336,8 +341,8 @@ I think that is lucky at least...'
 ~Eyes all glassy forward staring showing nobody was home~ 
 *Albert pushed open the double front doors to the station and opened to dawn's light* 
 *As they closed hands twitched and faces contorted. *
-~Where people spilled papers they cleaned up~ 
-~Where coffee was spilt it was soaked. ~
-~Each were busy in their own personal mess they didn't notice each other's~
+~Where people spilled papers they cleaned up. 
+Where coffee was spilt it was soaked. 
+Each were busy in their own personal mess they didn't notice each other's~
 }
 ## [lions-tigers-and-bears](lions-tigers-and-bears.md)

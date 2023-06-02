@@ -8,7 +8,7 @@ mn:K
 ~If Kent's crux was coffee, Albert's was sugar - and carbohydrates in the form of croissants~
 *He sipped his coffee*
 ~It was after 4am and he was on overtime~
-'Double time actually'
+'K::Double time actually...'
 ~He thought as he looked at the clock seeing it half past the hour~
 }
 {
@@ -17,7 +17,7 @@ mn:K
 ~He had been there~
 ~Dead body by the center of the couch, no obvious markings, and sobbing relative, recently returning from a bar~
 ~And a catatonic neighbor with a bloody shirt on~
-'But not his blood'
+'K::But not his blood...'
 ~A quick blood type analysis showed that~
 ~Type o negative, not b+~
 ~They'd have a few hours, Maybe even a day or more for the toxicology report to run~
@@ -37,9 +37,9 @@ mn:K
 {
 ~A thought crossed his mind~
 *Tapping his pencil across the book he considered* 
-*he took the pencil and pointed it directly at Martha's eye and pushed it forward*
-~like a slow homing dart~ 
-'God let me be right about this' 
+*He took the pencil and pointed it directly at Martha's eye and pushed it forward*
+~Like a slow homing dart~ 
+'K::God let me be right about this...' 
 *He inched it closer *
 ~Letting the shape of things to come sink into her head~ 
 ~He would stop it right before her eye, but would keep it moving at an even pace~
@@ -71,7 +71,7 @@ I don't know where I was."
 {
 *She turned to him, Then looked at the mirror behind him*
 "M::Police station ^and I don't know how to do that... 
-Well deal with it,"
+Well deal with it..."
 *^She had turned her face away from him*
 }
 {
@@ -82,10 +82,10 @@ Well deal with it,"
 }
 {
 "M::I... 
-Well, I wasn't moving, and you found my neighbor"
+Well, I wasn't moving, and you found my neighbor."
 "K::Can you tell me anything about what happened?"
-*Martha barked a stifled laugh, *
-"M::You wouldn't believe me"
+*Martha barked a stifled laugh*
+"M::You wouldn't believe me..."
 *Kent took a sip from his coffee*
 "K::I see a lot of weird shit, it's 4am, how about you just tell me... 
 In your own words."
@@ -94,7 +94,7 @@ In your own words."
 "M::No I won't do that."
 *Kent shifted forward*
 "K::Well if you aren't..."
-"M::I mean - I'll tell you, just give me a minute"
+"M::I mean, I'll tell you, just give me a minute..."
 *Kent waited - Martha sighed*
 "M::Okay. I have had a long night, a long weekend actually. 
 I'm not sure exactly where to start... 
@@ -105,7 +105,7 @@ Look - this is not..."
 *A tapping came at the door, Kent looked up*
 *Another set of tapping*
 ~A rhythmic knock he knew too well~
-"K::I'll be back, apparently there's something important"
+"K::I'll be back, apparently there's something important."
 }
 {
 *Kent walked out of the room and closed the door, Tom was standing there*
@@ -114,10 +114,10 @@ Look - this is not..."
 "K::I told you, I don't need special -"
 "T::There was nothing else in the queue - don't get you panties in a bunch."
 *Kent scratched at the back of his head, absently trying to straighten his hair *
-"K::Fine - what's it say"
-"T::Clean"
+"K::Fine - what's it say?"
+"T::Clean."
 *Tom handed over the folder*
-"T::Both of them - at least in no usual suspects - right now biggest suspect is heart attack"
+"T::Both of them - at least in no usual suspects - right now biggest suspect is heart attack."
 "K::Right, is that it?"
 *Tom nodded and walked away, turning his head over his shoulder*
 "T::I'm not doing special favors for you..."
@@ -129,28 +129,30 @@ Look - this is not..."
 ~Her eyes showing a flash of panic which subsided, her mouth was half open~
 *Kent sat down, the folder open on the desk*
 *He leaned forward*
-"K::Tox report says clean,"
+"K::Tox report says clean..."
 *Kent looked up at Martha, who turned her head toward him*
-'She kept looking to my side'
+'She kept looking to my side...'
 "M::Good to know."
 "K::So, want to tell me why you were comatose next to your neighbor's dead body."
 *Martha paused*
 'Glancing to her right again.'
-"M::I... well, I was in shock"
-"K::Normally shock doesn't make you go catatonic"
-"M::Normally you don't see a dead body,"
+"M::I... well, I was in shock."
+"K::Normally shock doesn't make you go catatonic."
+"M::Normally you don't see a dead body."
 ~She countered~
-"K::Well, normally I do on this job"
+"K::Well, normally I do on this job."
 "M::Mister tough guy, seen all dead bodies all the time, what a flex - I haven't seen one before."
-"K::So what happened"
+"K::So what happened."
 "M::I well. 
 Will you just?"
 }
 {
 ~Martha stopped talking and looked back to Kent~
-"M::I went over there to talk, they invited me in - then just... fell"
+"M::I went over there to talk, they invited me in. 
+Then just... 
+Fell..."
 "K::Talk about what?"
-"M::Talk about their dog, it was barking in the night"
+"M::Talk about their dog, it was barking in the night."
 "K::And he just... 
 Fell over?"
 *Martha nodded*
@@ -160,11 +162,11 @@ Fell over?"
 }
 {
 *And she sighed*
-"M::Fine"
+"M::Fine."
 ~Kent waited and eventually Martha started talking - he couldn't quite hear the words - they weren't loud enough, but he couldn't make them out~
 "K::Is that... 
 Russian... 
-I don't-"
+I don't -"
 *Martha's eyes went wide*
 *She spoke louder*'
 Well...
@@ -186,10 +188,10 @@ Or get out much?"
 "K::I mean. 
 I haven't been really big into media... 
 Or the social media..."
-"R::I guess that's a good thing. 
-No hooks in you"
+"R__M::I guess that's a good thing. 
+No hooks in you..."
 "K::I mean...
-I'm not addicted to anything"
+I'm not addicted to anything..."
 ~Kent notice a lull, he thought she was going catatonic again for a moment~
 ~But only for just a moment~
 "M::That's not what he means."
@@ -202,11 +204,11 @@ No they really exist, just not a literal hook - you don't have any apparently."
 }
 {
 *Martha paused again and looked to her right*
-"K::Okay you keep doing that"
+"K::Okay you keep doing that?"
 "M::What?"
 "K::Looking off to your side."
 *He looked over his shoulder*
-"K::There's nothing there"
+"K::There's nothing there."
 *Martha laughed*
 "M::Not for you."
 *Kent tilted his head*
@@ -223,9 +225,10 @@ Something my mother...
 See there's 3 types of fun. 
 Type one fun is fun in the moment, you're having a good time. 
 It's what you think of as fun... 
-Type 2 fun is fun after the fact, when you're safe - like after running from a bear or surviving the the siberian wilderness naked for 6 weeks"
+Type 2 fun is fun after the fact, when you're safe. 
+Like after running from a bear or surviving the the siberian wilderness naked for six weeks."
 "K::You aren't saying you were in Siberia?"
-"M::No, it's just an example"
+"M::No, it's just an example..."
 "K::And what's the third type of fun?"
 ~Martha paused~
 "M::Fun other's have after you've died from type 2 fun."
@@ -233,44 +236,44 @@ Type 2 fun is fun after the fact, when you're safe - like after running from a b
 "K::That's a little morbid, don't you think?"
 *Martha nodded, *~lost in thought~
 "M::Type 2 and 3 look the same in the moment...
-That's why type 2 is fun at all"
+That's why type 2 is fun at all."
 *She breathed again*
-"M::That's what my mother said, at least"
+"M::That's what my mother said, at least..."
 }
 {
 ~Kent sighed. ~
 "K::Okay, I'm going to ask you point blank, did you kill her?"
 *Martha shifted in her seat*
 "M::I... 
-I don't quite know how to answer that"
+I don't quite know how to answer that..."
 "K::A simple yes or no would -"
 "M::I broke the connection, I'm responsible... 
-But I don't think I killed her, not exactly"
+But I don't think I killed her, not exactly..."
 ~Kent waited, but Martha said nothing further ~
 *Her head tilted slightly to the side*
 ~He watched her, her eyes were following something~
 ~Back and forth~
 "K::Connection?"
-"M::You don't have any hooks, he did"
+"M::You don't have any hooks, he did."
 }
 {
 *Kent raised his hand to support his head, his fingers reaching back to scratch the back*
 ~The coffee was weak, and it was late, he felt his patience running thin~
 "K::You want to make that make a little more sense to me?"
-"M::I'm not sure I can"
+"M::I'm not sure I can."
 "K::When you say connection...?"
 "M::I can't really explain it...
- I don't really know myself"
+ I don't really know myself."
 ~Kent turned the words said back in his mind~
 "K::When you said you had a rough weekend, what did you mean?"
 "M::I...
-I think I want to talk to a lawyer"
+I think I want to talk to a lawyer."
 "K::Fine. just... 
 We'll put you in the holding cell...
 We'll be able to get someone in the morning - two hours from now... 
 That alright with you?"
 *Martha nodded and he stood up*
-"K::I'll get someone for those cuffs, just stay there"
+"K::I'll get someone for those cuffs, just stay there."
 ~Martha understood that ironic tone:~
 *She sardonically jazz hands'ed causing the metal chains to jiggle*
 }

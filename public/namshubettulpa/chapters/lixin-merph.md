@@ -6,13 +6,13 @@ mn:F
 *He yawned - stretched himself awake*
 *Then shifted through clothing of the man's walk-in closet*
 ~He was roughly the same size~
-"F::Go make us some breakfast - some eggs, and waffles"
+"F::Go make us some breakfast: some eggs, and waffles."
 ~Felix said without turning back~
 ~Inside the closet was a mirror. ~
 ~Inside of which several drawers for cufflinks. ~
 ~To his right were suits - from white, to black and most colors in between~
 ~He felt like standing out today~
-'A nice red suit'
+'F::A nice red suit...'
 ~Something to catch the eyes~
 ~He was back in the city:~
 'Might as well be seen.'
@@ -24,7 +24,7 @@ mn:F
 ~He brought the girl down the stairs~
 ~She was much younger than the man he sent to the kitchen~
 ~The man was over the stove, watching the eggs~
-"F::Scrambled,"
+"F::Scrambled."
 *Felix said, and the man started fixing the eggs. *
 ~The waffle iron beeped~
 ~And moments later Felix was presented with a hearty meal~
@@ -34,7 +34,7 @@ mn:F
 *He nodded - then drank*
 ~He suspected they were in fact: horrible people~
 ~Considering the house they lived in~
-'No one had this much money and got it by being kind or nice,'
+'F::No one had this much money and got it by being kind or nice.'
 *He thought while scarfing down the food*
 *Felix handed them the plate*
 *Then he took out his phone and started fiddling with it*
@@ -43,7 +43,7 @@ mn:F
 ~Their eye's twitch - a sign the namshub was taking~
 ~He wrote them to be philanthropists~
 ~Fundraisers for the poor~
-'That was a good thing'
+'F::That was a good thing...'
 ~He told himself~
 'They were probably horrible people - why not make them better.'
 }
@@ -71,14 +71,14 @@ mn:F
 "P::Do you know why I pulled you over?"
 "F::Probably because I was driving like a reckless jackass, I suspect."
 *The cop tilted his head - and put his hand on his gun*
-"F::Oh relax - I'm harmless - I've got my license and registration here"
+"F::Oh relax - I'm harmless - I've got my license and registration here..."
 *He held out his phone for the cop to see*
 *The cop stiffened slightly - his eye had started twitching*
 "F::Who's a good boy?"
 ~The cop didn't answer~
 "F::When I say, who's a good boy, you say: I am, sir, now - who's a good boy?"
 "P::I am, sir."
-"F::Now, go back to your little bike back there - and forget all about me"
+"F::Now, go back to your little bike back there and forget all about me..."
 *The officer retreated back to the bike*
 *Felix sighed*
 ~Sometimes it wasn't any fun to have to tell them exactly what to say~
@@ -88,18 +88,18 @@ mn:F
 "F::Am I to understand that - when I asked 'who was a good boy', that you couldn't answer because you were not in fact a good boy?"
 *The officer responded the moment he understood*
 "P::Yes sir."
-"F::have you been a...
+"F::Have you been a...
 A bad cop?"
 "P::Yes sir."
 "F::Have you intentionally ruined people's lives?"
 "P::Yes sir."
-'f::Not going to tolerate that'
+'F::Not going to tolerate that...'
 "F::Do you know any other bad cops."
 "P::Yes sir."
 *Felix nodded*
 "F::Go take your gun."
 *The officer pulled out the gun* 
-'bit of a quick draw... good.'
+'Bit of a quick draw... good.'
 "F::Now here's the important bit - do you want to be a good cop?"
 *The cop paused*
 ~He struggled~
@@ -171,7 +171,7 @@ Like if I just walk into the blackness behind you?'
 "R::I wouldn't, besides: that thing in your brain is somewhere in there."
 *He placed a napkin in her lap - properly*
 "R::While you're there.
-Do you see the board any easier - why don't you try writing on it"
+Do you see the board any easier: why don't you try writing on it."
 }
 {
 ~She did~
@@ -196,10 +196,10 @@ Do you see the board any easier - why don't you try writing on it"
 'M::How am I supposed to do this? I can not write on that board at all.'
 "R::Relax your mind, it's a new muscle - you haven't used it yet, it'll come."
 ~Rossin said between bites~
-"R::This is delicious,"
+"R::This is delicious!"
 ~Martha tried for a while longer~
 ~Until Rossin was about halfway through the meal~
-"R::You better switch now, I could finish this"
+"R::You better switch now, I could finish this."
 }
 {
 ~She did, and the first thing she noticed her fingers felt off. ~
@@ -223,12 +223,12 @@ Which is why you need to learn to write on that board yourself.'
 *Rossin looked over his shoulder*
 ~He saw something Martha herself caught in the corner of her eye~
 *Rossin tensed as Felix sat down to join her*
-"F::Lovely place you found here,"
+"F::Lovely place you found here!"
 *Felix casually helped himself to some of the half eaten artichoke*
-"F::I thought you would still be asleep"
+"F::I thought you would still be asleep?"
 ~Martha kept eating, only a non committal shrug~
-"M::Hunger won"
-"F::Hunger generally wins,"
+"M::Hunger won."
+"F::Hunger generally wins..."
 *He leaned back*
 "F::How are you hiding - I pinged you, and you weren't there."
 }
@@ -244,7 +244,7 @@ Just say it is a trick you learned on the internet.'
 "F::I didn't...
 I found a nice place to eat, which happened to have you in it. 
 Nice stroke of luck."
-'R::It was the best place in town'
+'R::It was the best place in town.'
 "M::That's good, why not eat at the very best."
 }
 {
@@ -256,14 +256,14 @@ Nice stroke of luck."
 }
 {
 "M::So, what's next?"
-"F::Well, that depends,"
+"F::Well, that depends..."
 ~He watched her take bites of the steak and lobster at the same time~
 "M::On?"
 "F::Your abilities, how far along are you?"
 "M::I wouldn't know - would I.
 It's not like I've seen anyone Awakened.
 Besides you, that is.
-Best I have is some dark net videos to compare from"
+Best I have is some dark net videos to compare from."
 }
 {
 ~Rossin was pacing back and forth deep in concerned thought~
@@ -280,20 +280,20 @@ Felt like it..."
 }
 {
 "F::Rank? 
-You think this is like a school where you have defined grades"
+You think this is like a school where you have defined grades?"
 "M::You said there was a school."
 "F::Yes, it's more like - a collection of students with a private teacher."
-"M::That's a school"
+"M::That's a school."
 "F::There aren't ranks."
-"M::But subjects, and classes in those subjects,"
+"M::But subjects, and classes in those subjects."
 *Martha swallowed the last of the steak*
 "M::And grades?"
 "F::No grades, if you can't cut it - they wipe you...
-A pass/fail system I guess"
+A pass/fail system I guess."
 }
 {
 *Felix scooched his chair back as the server laid out another meal like her's*
-"F::Here's to second breakfast"
+"F::Here's to second breakfast."
 *Felix raised the small cup of water in a toast*
 *Martha grabbed her glass and clinked it against his*
 *He held out his other hand, and took her glass and held it still*
@@ -304,8 +304,8 @@ A pass/fail system I guess"
 *He helped himself to a portion of her steak, and lobster*
 ~He dug into his food, devouring it with a ferocity that surprised her~
 ~She was hungry - but apparently not ferocity hungry~
-`['Second breakfast - how many second meals', 
-'Do they all eat like this',
+`['Second breakfast - how many second meals?', 
+'Do they all eat like this?',
 'Do they all share food like that?']`
 *She looked down at the piece of steak in front of her*
 ~She had a flash of inspiration - she tried just~
@@ -317,11 +317,11 @@ A pass/fail system I guess"
 `['Those lists: I can just put them up here']`
 'R::That is a start.'
 *Rossin examined the board*
-'R::about 4 second meals, more around noon, yes, and most of them yes - do not trust food they have not prepared.
-I did not hear him ask the waiter to poison his food'
+'R::About 4 second meals, more around noon, yes, and most of them yes - do not trust food they have not prepared.
+I did not hear him ask the waiter to poison his food.'
 *Martha ate the offered steak*
 'R::But you should also just be able to place thoughts there the same way. 
-Not wrapped in a list'
+Not wrapped in a list.'
 *Felix switched to eat his own food*
 }
 {
@@ -330,7 +330,7 @@ Not wrapped in a list'
 "F::New York's food is better.
 You'd be hard pressed to find this even in Fiji. 
 I've missed simple food like this."
-"M::I've never been"
+"M::I've never been..."
 "F::Fiji?"
 "M::Or New York."
 *He nodded*
@@ -358,7 +358,7 @@ Studying her~
 ~Her stomach was rebelling~
 ~Kept under control by her unsatiated brain~
 ~She could eat again~
-'Soon,'
+'M::Soon...'
 ~She realized~
 *Rossin was still pacing in the back of the room*
 ~He fed her more words~
@@ -379,7 +379,7 @@ Flanagan never holds classes, just has a gaggle of students.
 He's...
 Eccentric is too light a word, and crazy...
 Also too light a word, just in a different context.
-He's died so many times I'm sure by now he's a caricature of himself"
+He's died so many times I'm sure by now he's a caricature of himself!"
 *Martha tilted her head*
 "F::He...
 Probably isn't even really human at this point anymore. 
@@ -387,7 +387,7 @@ He's something like an idea made manifest.
 Or he's now just the part of himself that lives in other's brains."
 *Felix ate another bite*
 "F::He basically thinks he'll find immortality that way. 
-By essentially being a story"
+By essentially being a story."
 "M::A story?"
 "F::Of himself, told by his students."
 *Felix mumbled between mouthfuls*
@@ -405,7 +405,7 @@ Out there."
 "F::Like Algera, or the Walkers.  
 He thinks there's people that are more powerful than the Awakened. 
 People behind the scenes controlling the Awakened... 
-Or some smuggling thing happening between 'realities'"
+Or some smuggling thing happening between 'realities'..."
 *Felix scoffed*
 "F::Or weirder stuff, real cosmic hippy love/horror story there."
 }
@@ -419,9 +419,10 @@ Everyone."
 ~Felix was not angry~
 ~Just determined to believe that~
 *Rossin shook his head*
-'R::Always the arrogance'
+'R::Always the arrogance...'
 *Rossin shook his head slowly*
-"F::We'd be able to control any Walker if they existed, which they don't. And this is definitely physical reality"
+"F::We'd be able to control any Walker if they existed, which they don't. 
+And this is definitely physical reality."
 *Felix stubbed is index finger into the wood of the table*
 }
 {
@@ -434,7 +435,7 @@ Everyone."
 "F::Am I what?"
 "M::Patient?"
 *Felix barked a laugh, then coughed to keep his food down*
-"F::Hardly"
+"F::Hardly."
 "M::Then why should I be?"
 ~Felix smiled more seriously, then at Rossin's prompt, Martha continued:~
 "M::I can cut it there.
@@ -453,7 +454,7 @@ Sometimes - death is better."
 ~Finally Felix cleared his thoughts and continued~
 "F::We'll take the red eye out tonight. 
 Get whatever you need - not that you need to bring much. 
-Until then:"
+Until then..."
 *He continued his meal*
 "F::Enjoy what this city has to offer. 
 You'll be in New York for a long while."
@@ -472,7 +473,7 @@ You'll be in New York for a long while."
 'R::Aye, that was good - going to New York. 
 And I am pretty sure he is not just going to erase you...
 He needs you for something...
-But what'
+But what?'
 *She opened the door*
 ~The sun was much too bright - or that restaurant was much too dark~
 ~She couldn't tell~

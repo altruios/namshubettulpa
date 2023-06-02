@@ -12,7 +12,8 @@ The lift doors bounced back, once... twice...*
 ~Kent had the Chemist over one shoulder and waited for the guard to show~
 *Felix backed up slowly towards the elevator*
 ~Kent almost asked where the guard was~
-'K::He is talking to a wall... you are following someone talking to a wall'
+'K::He is talking to a wall... 
+You are following someone talking to a wall...'
 *Felix entered and pressed some numbers on a keypad*
 ~Kent relaxed his hand and the doors finally closed~
 'K::Where is your gun Kent? Oh yeah, you gave it to the person you were chasing, and you just went along with that!'
@@ -29,7 +30,7 @@ Just keep calm - and bluff your ass off.'
 "FL__F::Chemistry?"
 *Felix again pushed some buttons on a pin pad and the door opened*
 ~Kent followed into a room seemingly designed to be as garish as possible. Green and purple clashed together in stripes - physically straining Kent's eyes~
-"FL__F::To the right after the foyer, there are fainting couches, put him there"
+"FL__F::To the right after the foyer, there are fainting couches, put him there."
 *Kent carried the Chemist to the other room*
 ~To find Martha, and a fish-man talking~
 'K::Keep it together, so there is a fish-man, so what?'
@@ -42,7 +43,8 @@ Just keep calm - and bluff your ass off.'
 "FL__F::No, over here."
 *Felix walked in*
 "K::You're Flanagan?"
-"FL__F::As of 30 minutes ago, thanks for the heimlich - that would have been a short life other wise"
+"FL__F::As of 30 minutes ago, thanks for the heimlich. 
+That would have been a short life other wise."
 'K::Keep your mouth shut Kent.' 
 ~He did however keep a mental inventory of questions~
 'K::Can they all hop bodies?
@@ -122,7 +124,7 @@ Who's also dead now...
 Ozmind hasn't shown back up yet..."
 ~Kent glanced to see the captain in white cover a slight scoff~
 "FL__F::My point is, What you did was right.
-We would have poured all the excess algera into the population eventually"
+We would have poured all the excess algera into the population eventually."
 ~When he looked back he saw Flanagan's eyes were both hard, wondering, and on him~
 "FL__F::Now, Kent, how do you know Martha?"
 ~Kent took a moment, enclosed as he was he couldn't panic~
@@ -189,7 +191,7 @@ Everyone is awake."
 *Wilbert held out his limb*
 ~It was a fin attached to an arm, it reminded Kent of an folding fan~
 *The chemist gingerly shook Wilber's limb*
-"FL__F::Apparently yes, everyone. now:"
+"FL__F::Apparently yes, everyone. now."
 *Flanagan leaned in*
 "FL__F::Alice Glass made this.
 I had a quick scroll through Felix's memories of the past few hours.
@@ -197,7 +199,7 @@ There was a kerfuffle and something like Alice was there.
 It wasn't her. 
 She spilled out this sludge when Felix took a bat to her chin.
 She was about to kill Kent here at the time.
-This here:"
+This here..."
 *He walked over to his desk and placed the vial on top*
 "FL__F::Uri told us this is what Al-tok is trying to produce en mass."
 "K::What exactly is that?"
@@ -210,10 +212,10 @@ But more generally: it appears to be a required precursor to host Al-tok."
 "FL__F::Not much, I'm afraid."
 "C::I'm not hallucinating those spiders, am I?"
 "G::They're quite friendly, once you get to know them."
-"K::know them, they talk?"
+"K::Know them, they talk?"
 ~The redhead sitting on the floor started chittering at him.
 Gerald a moment later started to translate~
-"G::What, you don't think those giant prosomas are empty?/s"
+"G::What, you don't think those giant prosomas are empty /s ?"
 "K::Also, what's up with her? 
 She only speaks spider?"
 "G::Yes. 
@@ -227,7 +229,7 @@ She and the spiders are from a dream, nightmare actually..."
 "FL__F::The Relux are on their way to getting The Way Out. 
 All we need to do is wait, by tomorrow night - they should be back. In the mean time..."
 "K::All those people up there..."
-"A::What exactly did you see up there"
+"A::What exactly did you see up there?"
 ~He relayed incidences he saw.
 The people Kent saw were not even acting like people.
 It was an apocalypse of the individual not to a wholistic entity, but many smaller fighting ones.
@@ -313,10 +315,10 @@ A weapon which is undefinable to humans, and renders things undefined."
 "M::You said this was the last one?"
 *Gerald slowly nodded, and held out the mirror*
 "M::What about the Way Out?"
-"A::Two plans - better than one plan"
+"A::Two plans: better than one plan."
 ~From the kitchen in the distance, Flanagan called out~
 "FL__F::What cheeses?"
-"G::All the cheeses, please"
+"G::All the cheeses, please!"
 "A::You trust his plans?"
 ~Martha waited, her eyes were on the Navigator, his face.~
 "M::Where's this one go to?"
@@ -348,14 +350,14 @@ mn:RX
 {
 ~Ada was hunched by the door, bracing it closed~
 ~While it had a lock: we were not taking chances~
-'L_R::If we wait maybe they will go away'
+'L_R::If we wait maybe they will go away...'
 *Another knock*
 ~It was was followed by several attempts at turning the latch.
 The knock itself was subdued, urgent, but not as loud as it could be.
 Between each attempt was the small bright rattle of keys~
-'AD_R::It sounds like it is just one out there'
+'AD_R::It sounds like it is just one out there...'
 'J_R::Numbers are in our favor...'
-'RX::We let them in'
+'RX::We let them in...'
 *Ada moved away, and unlocked the door*
 ~Silently we moved out of the line of sight~
 ~From behind the door Ada saw a short woman with long brown hair walk in~
@@ -375,9 +377,9 @@ In her other hand she held a set of keys~
 "J_R::What's going on out there?"
 *She lowered her hand*
 ~Not completely, she relaxed it in front of her~
-"D::One person, the chef, seems to have gathering control of everyone downstairs"
+"D::One person, the chef, seems to have gathering control of everyone downstairs."
 "AD_R::The chef?"
-"D::Da, I ran upstairs, this: the farthest down the hallway"
+"D::Da, I ran upstairs, this: the farthest down the hallway."
 "AD_R::Why the chef?"
 *She shrugged*
 'AD_R::Everyone downstairs...'
@@ -385,22 +387,22 @@ In her other hand she held a set of keys~
 'J_R::We just take the stairs - they go down to the cellar.
 But getting out...'
 ~There were no windows, no exits except for one~
-'RX::We will have get everyone out of the foyer, the dinning room'
+'RX::We will have get everyone out of the foyer, the dinning room.'
 'J_R::Distraction?'
 'L_R::Everyone - maybe a fire.'
-'AD_R::Fire is not always the answer'
+'AD_R::Fire is not always the answer...'
 'RX::Although in this case...'
 "D::Why are you staring at each-other?"
 "AD_R::Just making plans, love.
 If you would be so kind as to follow us?"
 *Ada unlocked the door*
-'AD_R::On this floor there is a lab'
+'AD_R::On this floor there is a lab.'
 ~Ada led the way, down the hall, around a corner~
 *Lenny rubbed his hands together*
 'L_R::How well stocked? 
 Pretty sure I could do a bit better than fire.'
 'J_R::Well stocked, How long do you need?'
-'L_R::You two grab the Way Out, 10 minutes maybe'
+'L_R::You two grab the Way Out, ten minutes maybe.'
 ~A stainless steel door inlaid in the stone wall was the last to the left in the hallway~
 *It opened with a woosh*
 ~Lenny and Jochek, still in the bodies of the coach driver and their fare, were blinded.
@@ -412,7 +414,7 @@ Ada however, could see the stainless steel coating every surface inside~
 "D::I wasn't down there long."
 *Jochek pointed at Lenny*
 ~Whom had already started pilfering the lab~
-"J_R::Stay with him"
+"J_R::Stay with him."
 *Jochek grabbed Ada's hand and we led her away*
 "L_R::Wait, take these."
 *Lenny tossed them two gas masks hanging on the side wall*
@@ -427,15 +429,16 @@ Ada however, could see the stainless steel coating every surface inside~
 'J_R::Nothing fancy Lenny.'
 ~They took a moment at the stairs, listening for activity~
 ~In the silence, Ada broke it with an old sharpened point~
-'AD_R::One bad seed, Jochek'
+'AD_R::One bad seed, Jochek...'
 'J_R::Do you know how long we vetted you?'
 *They crept down the main stairway*
 ~A main set of stairs, and behind it - a smaller, more subdued spiral staircase led to the floors below~
-'L_R::This argument, again - let me concentrate'
-'RX::We should add more to us'
-'J_R::If we choose the right people'
+'L_R::This argument, again... 
+Let me concentrate!'
+'RX::We should add more to us.'
+'J_R::If we choose the right people...'
 ~Jochek led the way - keeping a watch on the hallway entrance~
-'AD_R::It only takes one'
+'AD_R::It only takes one.'
 *Ada and Jochek descended the spiral staircase*
 ~A long way down, several stories of solid stone, the cellar held the Way Out~
 "D::Anything I can do to help?"
@@ -443,21 +446,21 @@ Ada however, could see the stainless steel coating every surface inside~
 *He waved his hand at the open cupboards*
 ~Ada kept her ears open, but all they heard were their own footsteps down the stairs~
 "L_R::Do we need the chef alive?"
-'J_R::I doubt he has any knowledge of what happened'
-'AD_R::If we can easily help it - you do have a whole lab there'
-"D::Strictly speaking, I guess not"
+'J_R::I doubt he has any knowledge of what happened...'
+'AD_R::If we can easily help it: you do have a whole lab there...'
+"D::Strictly speaking, I guess not."
 ~Down below Ada could see around the spiraling staircase the cellar door finally~
-'L_R::Chemistry is harder than you think'
+'L_R::Chemistry is harder than you think.'
 "L_R::You know how much the chef weights?"
 *Again, Dana Shrugged*
-"D::I never actually saw him"
+"D::I never actually saw him..."
 "L_R::Then how do you know he's doing anything?"
-"D::People were going around saying - and I quote - 'in the name of the sioux chef supreme'"
-'J_R::Someone has an ego'
+"D::People were going around saying - and I quote - 'in the name of the sioux chef supreme'..."
+'J_R::Someone has an ego...'
 *Ada flipped a switch in near the cellar door*
 ~Through iron bars in a half moon shape  hole in the door - a cramped hallway illuminated by orange sconces~
 *Jochek tried the door* 
-~it was locked~
+~It was locked~
 "L_R:: The cellar door is locked."
 "D::Da, as it is."
 *Lenny pointed to Dana's ring of keys*
@@ -474,9 +477,9 @@ Ada however, could see the stainless steel coating every surface inside~
 'RX::How many is that?'
 ~About 20 Ada guessed~
 *Lenny stopped what he was doing, and took out jugs of liquid on the table*
-"L_R::Hey, go outside and make some noise - see if you can get their attention"
+"L_R::Hey, go outside and make some noise: see if you can get their attention!"
 "D::Who's attention?"
-"L_R::Downstairs, main floor, sounds like about 20 of them"
+"L_R::Downstairs, main floor, sounds like about twenty of them."
 *Lenny grabbed another tub of white powder off of the shelf*
 *Dana opened the large metal door*
 ~It slid open with a hiss~
