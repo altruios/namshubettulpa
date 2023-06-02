@@ -84,7 +84,7 @@ And the idea is, the language you use is capable of expressing all sorts of idea
 But not every language is best for every idea... 
 We have a multitude of languages but they all express ideas. 
 Are you with me so far...
-Nod your head if you are, oh good'
+Nod your head if you are, oh good!'
 *He paused, thinking for the words*
 'R::There are some things that do not exist in most languages...
 All languages... 
@@ -93,15 +93,15 @@ For what is an idea?'
 }
 {
 *Martha started, looking at Rossin's still shaking hand*
-"M::I don't understand"
+"M::I don't understand..."
 ~She still wouldn't look left~
 'R::An idea is a change in the brain... 
 A chemical one... 
-A new state in a giant state-machine, when you talk to someone ^Martha keep looking at me'
+A new state in a giant state-machine, when you talk to someone ^Martha keep looking at me...'
 *^Her head snapped to the right back to center*
 'R::There are states you can put the brain into from an idea, there are safe...'
 `states=>(~Ideas processed through our language center~) `
-'R::And there are '
+'R::And there are...'
 `arbitrary.states=>(~Any arbitrary set of chemical potentials~)`
 'R::...which are far more dangerous.'
 }
@@ -117,7 +117,7 @@ People who understand that language is a tool to shape how other people express 
 'R::Martha, I am going to give you the gun back now. Okay?'
 *He slid the gun over the counter top*
 ~She didn't make any move to grab it~
-'R::Martha I need you to keep your thoughts on me, okay I know that was a lot to absorb'
+'R::Martha I need you to keep your thoughts on me, okay I know that was a lot to absorb...'
 *He took her hand*
 ~It broke something inside~
 ~A dam of reaction that, due to the pain, or the calm manner in which he spoke, held until now~
@@ -127,9 +127,9 @@ People who understand that language is a tool to shape how other people express 
 {
 ~Rossin was taken aback~
 *He even leaned back in his chair a little*
-'R::How much do you remember'
+'R::How much do you remember?'
 *Looking to the left he nodded*
-'R::Here is an explanation'
+'R::Here is an explanation...'
 `~Self~.defense=>(status:~Failed~,state:*Error*)^;`
 "M::Yeah, I don't think I heard that quite right.
 That's not english?"
@@ -139,9 +139,9 @@ That's not english?"
 As her english teacher would put it, the part that instinctively knows things~
 *^A part of her shoulder twitched*
 ~Pain shot up her neck starting at the spasm and ending at her eye~
-"M::Fuck"
+"M::Fuck?"
 *She pressed her palm into her eye*
-"M::What was that"
+"M::What was that?"
 *Rossin's brow furrowed*
 'R::It is an assignment of state.
 Well, supposed to be - I need to do some self diagnostics.
@@ -152,9 +152,9 @@ I do not know what.'
 "M::So what exactly happened?"
 'R::I spoke a language - you heard it - and your brain changed.
 A new associative link between a object or subject and its definition.
-A new memory'
+A new memory.'
 "M::You didn't say anything in english..."
-'R::No, I did not'
+'R::No, I did not...'
 ~Martha considered for a moment~
 "M::So the pronunciation of..."
 'R::It does not have a pronunciation, not in your language anyway.'
@@ -175,7 +175,7 @@ But I need you to carefully walk out of here, and not look into the kitchen.'
 'M::Not her fault...?' 
 'M::What fault did he...'
 'M::His hands...'
-'M::my bloody hands.'
+'M::My bloody hands.'
 *She looked down to find her shirt also stained*
 *Then she turned her head right, back to the carpet she rose from, it too was stained*
 *She turned back, and started the swinging of her head to the left*
@@ -237,7 +237,7 @@ It does not stay dead if you see it again.
 It did some damage. 
 It left a kind of hole in you, in your consciousness... 
 A place for it to return to. 
-All over the kitchen are'
+All over the kitchen are...'
 `hooks=>(~Symbolic link back into an existing entity~)`
 'R::A part of it... 
 A small part... 
@@ -290,7 +290,7 @@ But you got everything before that point, yes?'
 You perceive me... 
 And if enough people were to execute me in their brains... 
 Does it really matter at that point?'
-"M::But you're not actually in the chair"
+"M::But you're not actually in the chair."
 'R::If you poke me you would feel me. 
 If you push me out of the chair it would fall along as well. 
 You would make it so that it happened. 
@@ -301,15 +301,15 @@ A more troubling thought is, who else do you know like me?
 People non-physical.'
 "M::But only I see you, right? You're in my head?"
 'R::Right. 
-To everyone else, they would see you knocking over the chair with your hand'
-"M::So I'm basically crazy"
-'R::No your reality is just a bit realigned'
+To everyone else, they would see you knocking over the chair with your hand.'
+"M::So I'm basically crazy..."
+'R::No your reality is just a bit realigned...'
 "M::That's what crazy is!"
 ~And a moment later, and a bit quieter~
 "M::I'm not crazy."
 }
 {
-'R::Go ahead, push me out of the chair, and see for yourself'
+'R::Go ahead, push me out of the chair, and see for yourself...'
 ~She did: not with any grace, or particular speed~
 ~But with a deep well of rage hidden deep below a murky still pond~
 *He fell backwards, knocking his head against the wall*
@@ -321,7 +321,7 @@ To everyone else, they would see you knocking over the chair with your hand'
 {
 *She walked out the door with two possibilities in her head*
 `['She had a nervous breakdown' => 'Killed someone and imagined a surreal conversation', 
-'She was drugged and kidnapped by a crazed charlatan']`
+'She was drugged and kidnapped by a crazed charlatan...']`
 ~She was acutely aware in a way she never was before about the structure of her own thoughts~
 ~As if she could feel a physical place where they fit in her brain~
 ~And just like that, as the bright moonlight hit her~
@@ -426,7 +426,7 @@ Proprioception(~Right-pinky~ => ~Left-toe~]*EOLERR*("WrongLEN.Internal_...")^`
 "M::What was that?"
 *Rossin raised his hands - spreading his palms out*
 'R::Right, I lost some things too. 
-It tried to grab a hold of me while I was in your head'
+It tried to grab a hold of me while I was in your head...'
 *Rossin lowered his hands, and walked a bit closer*
 'R::There are some sharp corners of the parts missing.'
 "M::What did you lose?"
@@ -454,9 +454,9 @@ And if I look at this mark or symbol: will make me an insane monster literally.
 Which will then kill itself and thus me?"
 'R::...Basically.'
 "M::Anything else? If I'm going insane, I might as well know what I'm in for."
-'R::I can teach you, we will start with:'
+'R::I can teach you, we will start with...'
 `hooks=>(~Reaction definitions~)`
-'R::...and a few other basics, some history, and if you are exposed to a different'
+'R::...and a few other basics, some history, and if you are exposed to a different.'
 `namshub=>(~Pieces of language that program~)`
 'R::I can catch it, but it is destructive in nature... 
 It literally kills me to do so, no help with the hooks already in you though.'

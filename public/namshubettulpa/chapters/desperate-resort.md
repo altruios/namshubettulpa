@@ -4,13 +4,15 @@
 mn:M
 }{
 ~Martha's vision burned, the pain was in her skin, all around her.
-It was the same pain that happened when Rossin and her switched places, only turned up to 11~
+It was the same pain that happened when Rossin and she switched places, only turned up to 11~
 ~She had her eyes closed but everything was white, she couldn't hear anything. 
-The pain subsided, and she felt her voice horse~
+The pain subsided after a short time, and she felt her voice horse~
 'M::Was I screaming?'
-~She opened her eyes, the pain was lowering but everything was still white.
+*She opened her eyes* 
+~The pain was lowering but everything was still white.
 Slowly things came into focus.
-She was in Flanagan's foyer, holding the mirror: squeezing it~
+She was in Flanagan's foyer~ 
+*She was still holding the mirror: squeezing it, in fact*
 ~Rossin stood at her side~
 "K::Martha?"
 ~Kent was next to Rossin, behind him was Flanagan~
@@ -24,18 +26,22 @@ She was in Flanagan's foyer, holding the mirror: squeezing it~
 "A::Did you get it?"
 "K::Spear?"
 *Sonny tilted her head quizzically*
+~Martha heard chittering coming from the ceiling~
 "FL__F::The one that...?"
+~Alacira pressed on~
 "A::Did you find it, Martha?"
-"M::That one."
+"M::Yeah, that one."
 ~Alacira was nearly shouting~
 "A::Martha!"
 "M::Yes, I got it."
-"A::Good. 
-Not having a ship is really inconvenient.
-Just keep it safe for now."
+"A::Good."
+~Alacira visibly relaxed~
+"A::Not having a ship is really inconvenient.
+Just keep it safe for now.
+What's this about a spear?"
 *Flanagan waved for her to sit down*
-"FL__F::We have bigger worries.
-Al-tok has a direct connection to every human heart.
+"FL__F::That spear was supposed to funnel the algera into martha here.
+She modified it, and now Al-tok has a direct connection to every human heart.
 Martha, what happened?"
 'R::We happened, I...'
 *Rossin smiled weakly*
@@ -59,7 +65,7 @@ It wants to consume, not just kill us."
 ~'An echo, she is.
 Come outside: so you - '~
 *The machine clicked and Flanagan placed the phone back in its cradle*
-'FL__F::If that was - '
+"FL__F::If that was -"
 *The phone rang again, and Flanagan placed it back into the device*
 ~'Come outside: so you can be free.
 I want to thank you.'~
@@ -132,7 +138,7 @@ He was stuck watching his own body~
 Martha was crying, and Kent...
 Kent was holding his badge~
 *Flanagan had the phone in his hand*
-"FL__F::Center the last one around this address:"
+"FL__F::Center the last one around this address..."
 ~Felix felt a Flanagan filter through his memories, until one stood out. 
 It was where he had killed Alice~
 *Flanagan put down the phone*
@@ -160,7 +166,7 @@ Now that he could reach anyone, well, why would it waste resources on public int
 It could just take a host, and walk them back to the lab for a permanent upgrade~
 ~Al-tok was still incomplete. 
 More hosts let it fit more of itself in this reality.
-but they were pitifully small pools for its essence~
+But they were pitifully small pools for its essence~
 *The husks moved about in a hive of activity, then all stopped and looked up to a whistling sound in the distance
 They shuddered in pleasure the the screeching wind breaking apart to form that whistle*
 ~Then they were gone, in an instant Al-tok reeling~
@@ -203,7 +209,7 @@ const numbers = serum_producers.map(x=>x.~phone number~)
 *Al-tok sent that image to a list of phone numbers*
 ~It took several bodies, it was a long list of numbers~
 ~Now all it had to do was wait~
-'AT::burn through them slowly.'
+'AT::Burn through them slowly.'
 ~It could take them all, but then what?
 A few moments was not enough~
 ~So it waited~
@@ -255,7 +261,7 @@ Once you knew what he did?'
 ~Kent admitted he didn't have that time~
 "FL__F::If it still has a body, it doesn't have Alice's lab, or that serum."
 'K::Sounds like you should maybe not beat yourself up about it.'
-"A::yes, you've made it more desperate: good job. /s"
+"A::Yes, you've made it more desperate: good job /s ."
 *Kent glanced at Martha*
 ~She too had that far off stare of things escalating too quickly~
 ~The chemist was sitting in a room next to the kitchen. His voice was raspy from shouting~

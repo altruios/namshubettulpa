@@ -27,7 +27,7 @@ Still a fractal but now the opening was to the side~
 *The interior lights in the bubble flipped on*
 ~Which were along the metal rings at the perimeter of the bubble~
 ~As long as they went straight, Martha was sure, they would reach that hallway~
-'M::In any case, we have Flanagan here - '
+'M::In any case, we have Flanagan here -'
 ~Martha heard a rhythmic thumping behind her~
 *She turned to Flanagan*
 ~Flanagan wasn't moving~
@@ -87,7 +87,7 @@ It was a spider makeshift gondola lift~
 `"Flanagan is dead."`
 'R::Well and truly, or is he going to come back?'
 ~Gerald was second to last to go up~
-`"Probably the latter"`
+`"Probably the latter..."`
 "M::Was Wilbert born here?"
 "G::What? 
 No. 
@@ -111,12 +111,12 @@ And me isolating of that thing in your head.
 You were, are, an empty bucket.
 Most of your person has been been eaten by that thing already.
 A sponge, you would have been fine.'
-'M::Flanagan was not fine'
+'M::Flanagan was not fine...'
 *The spiders came for her*
 `'Flanagan had about 1/8 billionth of the stored Algera - and he died'`
 ~Rossin grew quite~
 '1/8 billionth: as in...'
-`"Everyone"`
+`"Everyone."`
 'R::And Flanagan died?'
 ~Sitting in the web hammock, Martha saw Rossin keeping pace with her.
 He didn't have legs - he just floated there besides her, racing up~
