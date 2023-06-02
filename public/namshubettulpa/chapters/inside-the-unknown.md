@@ -511,7 +511,7 @@ mn:M
 *She flipped again, going cover to cover*
 'M::All of the pages?'
 ~The symbol spread almost completely outside the pages of the book~
-<div class='animate-target' style="background-image: url('/svg.svg');"></div>
+<div class='animate-target' style="background-image: url('/spiral.png');"></div>
 ~It seared into her mind - a pattern that twisted as the pages turned~
 ~It told a story, in the shapes it made~ 
 ~She didn't understand the story - couldn't understand it~
@@ -575,4 +575,4 @@ mn:M
 }
 ## [vows](vows.md)
 
-<script src="/namshubettulpa/code/animate-info.js"></script>
+<script src="/namshubettulpa/code/scroll_to_animate.js" id="animate" data-class="rotate-weird" data-time="12000"></script>
