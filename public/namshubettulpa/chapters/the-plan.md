@@ -2,14 +2,15 @@
 {
 mn:M
 *Uri discarded his teacup on the table*
-"O__U::Uri saw the security feed, as it was happening"
+"O__U::Uri saw the security feed, as it was happening."
 "F::Okay."
 ~Felix leaned back, mostly satisfied with his query~
 "O__U::It's why Uri ran up to the mountains. If the link were safe -"
 "M::Wait, why is the link dangerous?"
 "FL::Before it was outside the link, our collective unconscious."
 *Flanagan stood up, and walked to the window*
-'Wait... the elevator went down, and we were below ground in the garage'
+'M::Wait... 
+The elevator went down, and we were below ground in the garage.'
 ~Martha looked closer at the window~
 "FL::Before it needed us to execute namshubs."
 ~There was light across his face~
@@ -20,7 +21,7 @@ mn:M
 ~He looked each of them over in turn, his gaze landed on Felix~
 "FL::Out: take a flight back to Fiji, we will be fine without you."
 "F::What?"
-"FL::What comes next isn't for your ears"
+"FL::What comes next isn't for your ears."
 *Martha looked around the room*
 'R::Martha - I hate to do this so often... but can we switch?'
 ~She did~
@@ -43,14 +44,14 @@ mn:R
 *Felix looked around*
 ~He met each of their eyes~
 *Felix nodded*
-"R::then be ready to listen."
+"R::Then be ready to listen."
 ~Felix narrowed his eyes~
 `
 WITH hooks(
     M:=~Self~~Memory~
     a:=set( ~Self~.temp_memory, M.New)
     b:=set( M.New, ()=>~serenity~ |> ~Self~.NULL)
-    add.([a,b]).release_on("Felix is a potato", ()=>{
+    add.([a,b]).release_on("Felix is a potato.", ()=>{
         a:=set(M.New, ~Self~.temp_memory)
         b:delete(~Self~.temp_memory)
         add.([a,b]).release()
@@ -62,7 +63,7 @@ WITH hooks(
 ~He was wearing an expression of surprise~
 ~His expression soured somewhat, it was both constantly astonished~
 ~And serene to that astoundment~
-"R::He isn't forming new memories right now, it's like being asleep - but still conscious"
+"R::He isn't forming new memories right now, it's like being asleep: but still conscious."
 'M::So wait... that is like him constantly experience a bigger and bigger time gap?'
 *Rossin moved her hand noncommittally*
 "R::More or less - he feels perfectly serene."
@@ -74,7 +75,7 @@ WITH hooks(
 *Rossin got up, and moved to her*
 ~Martha heard Flanagan behind Rossin~
 ~But he became faded into shadow as Rossin, in her body, turned away from him~
-"FL::You sure he's under control"
+"FL::You sure he's under control."
 ~Ozmind stiffened~
 "O__U::Yeah - he's not thinking right now. 
 Let me just..."
@@ -97,7 +98,7 @@ Let me just..."
 "FL::Shadows of shadows... 
 Long ago..."
 ~Flanagan paused~
-"FL::If it was contained, we could send it back, but since it's in the link now"
+"FL::If it was contained, we could send it back, but since it's in the link now..."
 ~Ozmind's voice cut in~
 "O__U::It hasn't shown any signs of slowing it's growth."
 'M::So: how long do we have?'
@@ -108,8 +109,8 @@ Long ago..."
 "J::What about us?"
 "FL::Is miss Lovelace still in Șolomanță?"
 "L::She is heading back to us now, as requested."
-"FL::Give her a call:"
-"L::We don't call Scholomance - "
+"FL::Give her a call."
+"L::We don't call Scholomance -"
 "FL::We need to tell her to wait."
 *Lenny and Jochek exchanged a look*
 "FL::We're meeting her there, make the call."
@@ -125,9 +126,11 @@ Long ago..."
 First we have to think of this as a viral infection."
 *Flanagan stood up and paced the room*
 "FL::Ozmind, do you know Alice's formula?"
-"O__U::I don't... Uri might - but I don't think so. 
+"O__U::I don't... 
+Uri might: but I don't think so. 
 I might be able to find it at her lab... 
-but she... it, might still be there."
+But she... 
+It might still be there."
 "FL::Go and find it, if you find them - report back instead. You'll take Felix."
 ~Flanagan sighed~
 "FL::The separated Relux will join the third and steal The way out."
@@ -137,14 +140,14 @@ but she... it, might still be there."
 The Relux will bring the thing to exorcise the physical presence.
 In the mean time we can't save the people injected..."
 "R::What about the link - do you have an answer for that?"
-"FL::One step at a time"
+"FL::One step at a time."
 ~There was a pause~
 "FL::I have ideas - but none of them are a sure thing."
 "J::What's your best one?"
 "FL::Best how?"
 ~Flanagan had a toothy grin~
-"FL::highest chance of success or highest chance of survival?"
-"R::Success"
+"FL::Highest chance of success or highest chance of survival?"
+"R::Success."
 *Flanagan sipped his tea*
 "FL::Containment, reduction, expulsion...
 Containment would be hard: it is intelligent, it would spread itself out, as much as it could."
@@ -159,10 +162,11 @@ Containment would be hard: it is intelligent, it would spread itself out, as muc
 "FL::You say this serum is required for the host to survive?"
 ~Ozmind, in Uri's body nodded~
 "FL::It took about 2 weeks from this thing's arrival until it took two thirds of us.
-I assume its focused on spreading as fast as it can - so that gives us some estimate"
-"R::First the Awakened, then the population"
+I assume its focused on spreading as fast as it can. 
+So that gives us some estimate..."
+"R::First the Awakened, then the population."
 "FL::That would be likely... 
-it gets worse...
+It gets worse...
 By removing 2/3rds of the Awakened..."
 *Flanagan rubbed his face*
 "FL::I think I know what it's next steps are."
@@ -195,10 +199,10 @@ mn:M
 "M::Okay - so you need me to learn a bunch of things: and that will help us... 
 How?"
 "FL::So it won't be new anymore."
-'M::He is fucking with me'
+'M::He is fucking with me?'
 "M::I'm a bit lost."
 "FL::That's the point of it, my dear - don't worry, it won't kill you...
-probably."
+Probably."
 ~Flanagan addressed the whole room~
 "FL::Fly quickly - return here. 
 Rossin: wake Felix."
@@ -218,7 +222,7 @@ Also would you mind telling Felix that he is a potato so he wakes up?'
 "F::Recon, what's going on?"
 "O__U::Walk and talk: time to go."
 "M::Where do I go?"
-"FL::Downward, into the library"
+"FL::Downward, into the library."
 *Flanagan pointed with the cane we was leaning on*
 ~Pointed to a small door to the right, besides a fireplace~
 ~It lead to a spiral stairwell and they descended, Flanagan trailing behind~
@@ -234,36 +238,37 @@ mn:K
 ~In the corner the man with the shaven head watched~
 ~Kent kept him in the corner of his eye~
 ~As he watched the circle of people he realized something~
-'I am at the right hand side'
-~despite its circular nature Kent sensed the head of this gathering~
-'From the entrances and exits - seats watching everything creating a power imbalance'
+'K::I am at the right hand side...'
+~Despite its circular nature Kent sensed the head of this gathering~
+'K::From the entrances and exits, seats watching everything creating a power imbalance.'
 ~And kent watched that man in the corner~
 ~That man was scanning the room, interested in the others more than kent~
-"RG_T::Real power - chemically accessed"
-'Okay - bad ideas out of the way - probably should not run'
-'Even if you get a hold of that syringe'
-'Even if there is a good escape'
-'Just get out of here quietly'
-"O_T::Take it - and you will have unlimited power"
-"RG_T::Power of your dreams and beyond"
-"AG_T::We only have three today"
+'K::Okay: probably should not stay in the cult circle room.'
+"RG_T::Real power: chemically accessed."
+'K::Even if you get a hold of that syringe...'
+"O_T::Take it - and you will have unlimited power."
+'K::Even if there is a good escape...'
+"RG_T::Power of your dreams and beyond."
+'K::Just get out of here quietly.'
+"AG_T::We only have three today."
 ~The small group of about 20 wondered only shortly how they would be rationed~
 "RG_T::Everyone's going to get one - so lottery doesn't make sense.
 We'll start to my right."
 }
 {
 *Kent clenched his stomach*
-'Okay: you have permission to run'
-'Especially if you can grab that syringe'
-'They are looking at you, deer caught in the headlights: say something!'
+'K::Okay: you have permission to run.'
 ~Kent considered the fact he was immune, and no one out on the street was~
+'K::Especially if you can grab that syringe...'
+~Kent realized how still he was being, then he saw everyone's eyes on him~
+'K::They are looking at you, deer caught in the headlights: say something!'
 *Kent reached out his hand*
-"K::I'll do the honors"
+"K::I'll do the honors."
 *Kent rolled his neck*
 "K::Arm, neck, or anywhere?"
 *Alice handed him a syringe*
 *He passed it down to his left*
-'Stall tactic - keep going'
+'K::Stall tactic - keep going...'
 *Alice handed him another*
 *And then the third once he passed that down*
 ~The second person sitting to his left held the syringe inspecting it~
@@ -281,34 +286,37 @@ We'll start to my right."
 *He turned to look as he rounded the corder*
 ~At the hallway entrance was that woman in the red cardigan~
 ~He knew she saw him make a right~
-'Okay, relax  - think, lots of breathing: but think'
+'Okay, relax... 
+Think, lots of breathing: but think...'
 ~He kept running with the sun in his eyes~
-'False trail it is'
+'K::False trail it is.'
 *He undid his jacket, and his empty gun holster*
 *He rounded a corner and took them off*
 ~He took a moment to catch his breath~
 *He dropped the empty jacket down in the corner*
 *He balled the holster in his fists*
-~He couldn't keep wearing it without the jacket - and overflowed in his hands~
+~He couldn't keep wearing it without the jacket.
+It overflowed in his hands~
 }
 {
-'Okay, timing and finesse - you got this'
+'K::Okay, timing and finesse: you got this, Kent.'
 ~He waited for her to round the corner~
 *He faced away from where she would round the corner*
 ~He heard her running steps approached~
 *Kent started to Walk backwards*
-'Just fooling one set of eyes, keep focused'
+'K::Just fooling one set of eyes, keep focused...'
 ~He had her back to her~ 
 *He pretended to wave at someone*
 *Alice passed him, slowing her run*
 ~He watched her scan the crowd~
 *He continued his backward walk*
 *Kent tossed the gun-strap on the other side of the corner*
-'K::Second toss - was that too on the nose?'
+'K::Second toss... 
+Was that too on the nose?'
 ~Still, he knew he couldn't keep it~
 *He then continued crossing the street, towards central park*
 ~He saw her spot the jacket~
-'K::Just get to the park.'
+'K::Just get to the park...'
 *He turned around and faced the park*
 ~He couldn't see her, but neither could she see his face~
 ~He was halfway though the street before he heard a muttering~
@@ -319,20 +327,20 @@ We'll start to my right."
 }
 {
 ~He forced his breath to be as regular as he could muster~
-'Red-light green-light bullshit'
+'K::Red-light green-light bullshit...'
 ~He felt her gaze fall over him, and slip away~
 ~When nothing was moving but one thing - it was much easier to hear~
-'Those words again'
+'K::Those words again...'
 ~No sooner had he registered them he realized everyone was turning toward her~
 ~He did likewise~
 *He stared at her stone faced*
-'How do you stay calm - like this kent?
-you clench your toes, you think of your stubby toes to distract you.
-Right, Kent, think of the toes.'
+'K::How do you stay calm, like this kent?
+You clench your toes, you think of your stubby toes to distract you.
+Right, Kent, think of the toes...'
 ~He had the syringe palmed in his hand still~
 ~She scanned the crowd and her gaze never halted on him~
-'I know she saw me...
-She does not recognize me'
+'K::I know she saw me...
+She does not recognize me.'
 *She wandered in a wide arc* 
 ~She spotted the holster on the other side of the corner~
 *She scanned everyone one more time before settling to backtracking*
@@ -344,18 +352,18 @@ She does not recognize me'
 ~But he'd just as soon rather not have it~
 *Kent walked to and sat down on a bench*
 "F::So was it her or wasn't it?"
-"U::It felt like her"
+"U::It felt like her."
 ~Kent watched two men hurriedly run toward the intersection he was at~
 'K::That fucker, Felix.'
 ~Kent was tired, the adrenaline masked it: but now that he felt a little relieve~
 'K::I am just not going to sleep again, am I? Never going to catch a break.'
 *He got up and walked a short distance behind them*
 ~Close enough to hear~
-"U::Her lab is across the city"
-"F::Undernet is right here, that's where they're at, Ozmind"
+"U::Her lab is across the city."
+"F::Undernet is right here, that's where they're at, Ozmind."
 'K::Are they going to meet?'
-"F::We should head to the lab if it's empty"
-"U::Empty of Alice, maybe more, but by now - we can't be sure"
+"F::We should head to the lab if it's empty."
+"U::Empty of Alice, maybe more, but by now, we can't be sure."
 ~They walked toward the alley he came out of~
 *Kent stopped at the entrance for the alley and looked in*
 ~Felix was leaned against the wall, and the other one was opening the door~
@@ -385,25 +393,25 @@ She does not recognize me'
 ~Kent heard words - that were not words~
 *Felix stumbled to the ground*
 ~Kent held the syringe in his hand considering what to do~
-'He was a bastard'
+'K::He was a bastard...'
 *Kent put the syringe down*
-'But that...'
+'K::But that...'
 ~And there was a sudden moment of clarity~
 *He looked down at the syringe*
-'This stuff, that ooze, the dead...'
+'K::This stuff, that ooze, the dead...'
 ~He couldn't finish the thought~
-'All connected'
+'K::All connected...'
 ~He knew now he would see the same impossible color ichor from her~
 ~Felix was still on the ground, unmoving~
-'Is he dead?'
+'K::Is he dead?'
 *Felix gasped*
-'Alright, here comes the cavalry, ass-hat'
+'K::Alright, here comes the cavalry, ass-hat!'
 ~Kent dropped the syringe in the crook of the sidewalk and street~
-'If I arrested her...'
-'No one would believe me, and she would make them not believe me'
+'K::If I arrested her...'
 *He picked up a small two by four*
+'K::No one would believe me, and she would make them not believe me...'
 ~He did not like what he knew he must do~
-'K::You could run'
+'K::You could run...'
 *As Kent crept closer he looked between her and the black ichor*
 ~It was still sizzling, he didn't think it would stop~
 "AG_T::I wouldn't speak if I were you."
@@ -435,30 +443,31 @@ She does not recognize me'
 ~She tilted her head at his singing~
 "K::OH SAY CAN YOU SEE?"
 *She leaned over him*
-"K::BY THE DAWSON GREEN LIFE"
-"AG_T::Those aren't the words"
-"K::STAY TRUE, THROUGH THE RUSE"
+"K::BY THE DAWSON GREEN LIFE."
+"AG_T::Those aren't the words..."
+"K::STAY TRUE, THROUGH THE RUSE."
 ~Kent heard the sudden wack against her head and flinched~
-*Alice fell to his left - he rolled to his right*
+*Alice fell to his left, he rolled to his right*
 ~A round older man stopped his shopping cart full of junk at the mouth to the alley~
 *He was rummaging around the ground*
-~Kent looked himself over - making sure there was no contamination~
+~Kent looked himself over, making sure there was no contamination~
 *The man hobbled forward a bit*
 ~Kent was reminded of a penguin~
-'K::Cart must be for balance'
-"HM::What you guys doing in here - I can audition if ya'll - oh my lord - somebody call the police!"
+'K::Cart must be for balance.'
+"HM::What you guys doing in here? 
+I can audition if ya'll - oh my lord - somebody call the police!"
 *He backed away, and pushed his cart*
-"K::I am the police"
+"K::I am the police."
 ~He did not stop, instead he called out~
-"HM::Lord - someone call the gangs, the police are here."
+"HM::Lord: somebody call the gangs, the police are here."
 ~There was a moment of silence~
 'K::Call the...
 Is he high?'
-'K::keep focused'
+'K::Keep focused.'
 }
 {
 *Kent looked back at the metal door*
-"K::There's more of them inside"
+"K::There's more of them inside."
 *Felix started running out the alley*
 *Kent followed*
 "K::Hey, I got some questions for you."

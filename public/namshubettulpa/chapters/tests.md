@@ -1,22 +1,23 @@
 # TESTS
 {
 mn:M
-~Martha sat at the edge of the bed, ~
-"M::Seriously. I just want to sleep now,"
+~Martha sat at the edge of the motel bed~
+"M::Seriously. 
+I just want to sleep now..."
 *Martha groaned as Rossin paced from the motel door entrance, to the bathroom*
 ~It wasn't far~
 ~They had gone to a nearby motel~
 ~Not the closest - Rossin switched with her to have the manager hand over the keys~
 'R::There are a few things you need to know first, then you can sleep, I promise.'
-"M::Why are you pacing"
-*Rossin looked at her, still pacing. *
+"M::Why are you pacing."
+*Rossin looked at her, still pacing*
 'R::You know when you have your mind running a mile a minute. 
 I am in you, and moving is a way to keep the part of your mind that hallucinates me active. 
 When that is active: you can not sleep.'
 "M::So you're keeping me awake..."
-*Rossin nodded, *
+*Rossin nodded*
 "M::On purpose?"
-*Again, Rossin nodded. *
+*Again, Rossin nodded*
 "M::Why?"
 'R::Making sure I have not missed anything...
 What he said was true, about the school - machiavellian. 
@@ -29,7 +30,7 @@ So he has got some goal...
 Some machination: we just have not seen what it is yet...
 But he will betray you, if it serves him to do so...'
 "M::And we're in a motel because...?"
-~Rossin paused. ~
+~Rossin paused~
 "M::You said you'd tell me when -"
 'R::Yes, yes...
 It is a test. If you went to sleep where he knew you would be - your house - then you did not listen - so would erase you, and me in the process.'
@@ -39,11 +40,12 @@ It is a test. If you went to sleep where he knew you would be - your house - the
 'R::Hey!'
 ~Rossin's voice grew annoyed~
 *When she didn't sit up, Rossin began to walk on the ceiling - pacing back and forth*
-'R::Do not sleep yet. There is more yet'
+'R::Do not sleep yet. 
+There is more yet...'
 *He continued to paced*
 'R::You understand this stuff takes years to learn...
 And we played our hand a bit - he thinks you can use hooks at least. 
-He saw the people in the cell do that thing with the wall'
+He saw the people in the cell do that thing with the wall.'
 *Rossin slaps his head*
 'R::Gah...
 We should go back there and fix.'
@@ -56,14 +58,15 @@ We can take care of that when you wake up: there really is no rush.'
 {
 "M::Won't other people notice?"
 'R::We will fix that too...
-It is fine, a little messy but just fine'
+It is fine, a little messy but just fine...'
 ~Rossin was clearly annoyed~
 *He still paced*
-"M::He knows I can use hooks"
+"M::He knows I can use hooks."
 'R::I can use hooks, But he saw the people from the cell...
 He thinks you can use hooks successfully...
-But he does not know how. He will assume the visual link'
-"M::He knows I killed someone,"
+But he does not know how.
+He will assume the visual link...'
+"M::He knows I killed someone..."
 ~Martha realized And the thought of it still stung~
 ~She just went along with killing another human~
 ~Well, trading a human~
@@ -85,7 +88,7 @@ So we made the streets a little safer.'
 'R::What about them?'
 "M::Isn't he...
 Addicted to heroin now - like...
-Physically addicted"
+Physically addicted?"
 *Rossin paced for a moment before speaking*
 'R::Maybe...
 If he is - he will think withdrawal is a nasty cold...
@@ -93,17 +96,17 @@ If he goes to the doctors, they will give him stuff to fix it...
 He will not know why it works, and the doctors will just assume he is lying. 
 It will be a mystery, but not a identity shattering one...
 If he goes to the doctors at all.
-If the withdrawal is bad enough'
+If the withdrawal is bad enough.'
 *Martha shifted the covers, wrapping up in them where she was on top of them*
 "M::Still...
-It's a risk,"
+It's a risk..."
 'R::It is a price. Things always have a price.'
 ~Martha was silent for a time~
 "M::He knows I killed someone...
-He knows I know about hooks, but he thinks I'm inconsistent with them, at best"
+He knows I know about hooks, but he thinks I'm inconsistent with them, at best."
 }
 {
-*Rossin nodded, *
+*Rossin nodded*
 'R::You will have to learn quickly...
 I can not keep switching with you...'
 *Martha looked at him*
@@ -128,7 +131,7 @@ I think that is everything. We will fix the people at the station, if anything e
 Maybe Felix noticed that detail...
 He was tired too...
 Maybe he missed it as well...
-Maybe'
+Maybe...'
 *Rossin laid down next to her*
 'R::I am not sure how this goes for me...
 When you sleep that is.'
@@ -142,9 +145,9 @@ But do I dream?
 Or am I blind and deaf for 8 hours a day...
 Also - please try and get a full 8 hours. 
 It really is good for your brain. 
-Sleep deprivation is terrible and I live here now too, you know'
+Sleep deprivation is terrible and I live here now too, you know.'
 *Martha shifted away from him*
-'Here is to finding out,'
+'M::Here is to finding out...'
 ~She thought as she stared at the beige wall, waiting for sleep~
 }
 {
@@ -160,12 +163,12 @@ mn:K
 ~The clock next to his bed said 8:45 am~
 'Not even three hours.'
 *The phone stopped*
-'If it was important they would ring again,'
+'If it was important they would ring again...'
 ~He turned over and shifted the covers~
 *It rang again*
-'Shit.'
+'K::Shit.'
 }{
-*He sighed and reached out for his phone. *
+*He sighed and reached out for his phone*
 "K::Hello?"
 "T::Kent...?"
 'It was Tom, goddamn it.'
@@ -188,13 +191,13 @@ As in..."
 I'll be there in a little bit."
 ~The light shown on his tiny loft~
 *Kent squinted and reached over to closed the blinds next to his bed*
-"T::I'll heat up the coffee pot for you,"
+"T::I'll heat up the coffee pot for you."
 "K::Don't do me any special favors."
 ~He meant it~
 ~It was nice and all~
 ~But Tom's niceness felt like it had strings attached - strings he didn't want to pull~
 "T::It's coffee, from yesterday, fucking relax...
-Also,"
+Also..."
 ~There was a pause in the other line~
 "T::It's...
 Well: you'll see when you get here."
@@ -202,9 +205,9 @@ Well: you'll see when you get here."
 *He groaned*
 "K::Just tell me now."
 *He sat up, looking for his shirt*
-'Right'
+'K::Right...'
 ~It was by the door - he just sort of collapsed on his bed last night~
-'This morning'
+'K::This morning.'
 ~He corrected himself~
 ~He realized he was still wearing his pants from last night~
 ~He decided he would change them~
@@ -239,10 +242,10 @@ I think it's some sort of prank...
 But...
 Well: just get down here..."
 "K::I'm on my way in..."
-*The phone clicked. *
+*The phone clicked*
 ~He needed coffee~
 ~A lot of coffee~
-'Wallet, keys, phone...'
+'K::Wallet, keys, phone...'
 ~Everything he needed besides coffee~
 }
 ## [inside-the-unknown](inside-the-unknown.md)

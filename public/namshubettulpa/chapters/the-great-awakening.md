@@ -56,7 +56,7 @@ No screams, no yelling - no footfalls in the distance~
 ~Kent shook his head~
 "K::Why aren't you asleep?"
 *Felix took another bite of steak*
-"F::disconnected - as much as one can be: I assume you are as well."
+"F::Disconnected - as much as one can be: I assume you are as well."
 "K::Disconnected... from?"
 "F::The link."
 ~Kent waited~
@@ -185,7 +185,7 @@ mn:M
 "M::Well, Flanagan did: The way we came into the link, we should be able to get out the same way."
 "G::Martha - when I say there's nothing out there, there is nothing, even if we have a way back we wouldn't be able to get to it right now."
 "NT::$Ewhichway:?"
-"M::Through me, through that thing in my head"
+"M::Through me, through that thing in my head..."
 *Alacira leaned over and looked at the unconscious Flanagan*
 "G::She'd have to go outside the bubble for that."
 "A::That's the easy part!"
@@ -213,7 +213,7 @@ A single light in a dark forest attracts the wrong kind of attention."
 *Martha blew out her breath*
 "M::Then from there - we go into that hollow, fractal, echo of me.
 Up the rabbit hole to the real world."
-'M::yes, saying out loud, it sounded crazy.'
+'M::Yes, saying out loud, it sounded crazy.'
 ~Alacira only nodded~
 *Sonny walked up to her and handed her a vest*
 ~It was made of webs and attached to a rope in the center~
@@ -253,7 +253,7 @@ Well: mostly~
 ~Her heels clacked on the floor and echoed down an otherwise eerie silence~
 ~Above hung a sign, not of wood, or iron, as most chose to see it, but of fact~
 *Dangerous!*
-'AD::dangerous for a reason.'
+'AD::Dangerous for a reason.'
 ~The doors had been opened~
 'AD::As long as I use the right filters.'
 *She looked in*
@@ -298,7 +298,7 @@ Safe-ish...'
 ~She heard footsteps from below~
 "L::Hello!"
 ~The voice of a gruff carriage driver, one she didn't recognized~
-'AD::Quick peek, then get out of here'
+'AD::Quick peek, then get out of here.'
 *She walked to and opened the door*
 ~Beyond the door was a dark empty space, and in the center a flashing cursor~
 "AD::Password: well, of course..."
@@ -336,7 +336,7 @@ mn:RX
 {
 *Lenny broke the embrace and moved to the stairs*
 'AD::The Way Out is downstairs. 
-what gives with the unconscious?'
+What gives with the unconscious?'
 *Footsteps fell on the stairs behind them*
 ~Understanding flooded Ada - sharing a mind, sharing memories with the others she was both herself and not herself~
 ~She was part of the  [egregore](/namshubettulap/world/egregore.md)  the Relux~

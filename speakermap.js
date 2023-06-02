@@ -20,7 +20,7 @@ const speaker_map={
     M:"Martha Crisp",
     N:"Nurse",
     NT:"Navigator",
-    NULL:"unknown",
+    NULL:"NULL",
     O:"Ozmind Yammin",
     P:"Police Officer",
     R:"Rossin",

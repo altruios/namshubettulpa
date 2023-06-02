@@ -4,7 +4,7 @@
 mn:F
 'F::If you have near unlimited power, what do you do with your spare time? 
 Do you feed the hungry, house the homeless? 
-Power is limited, no matter how vast, and:'
+Power is limited, no matter how vast, and...'
 `(~The power to shape wills is an ocean in one mind~ || ~A bucket in everyone's~)=> 
 ~Power gained by others, neuters power for everyone else~ && (
 ~Washing every direction such that nothing gets done~ 
@@ -64,7 +64,7 @@ Dole it out all day to particular people.'
 'F::That was fast.'
 *Picking up the phone he opened the text of jumbled letters and contained a picture with markings on it*
 *Taking a notepad out of his pocket he turned to a particular page and checked his watch*
-'F::12:30 meant line 25' 
+'F::twelve thirty meant line twenty five...' 
 ~He confirmed the jumbled letters in the text matched the ones in the notepad~
 *When they did: he placed the phone by his eye and his vision was consumed by a moving pattern of black and colored stripes*
 ~Taking in a new thought, thoughts not in your language can be taxing~
@@ -75,14 +75,14 @@ Dole it out all day to particular people.'
 *But still: he fainted*
 ~It wasn't for long, just for an instant~
 ~The more experienced one's, the one's doing this for years, didn't even black out~
-~It had been 5 years since he 'woke up'~ 
+~It had been five years since he 'woke up'~ 
 ~And he, like everyone who woke up so soon: still blacked out~
 ~Yet he was the only one who didn't fall and convulse on the floor~
 ~All the info was in his head, the location, details~
 ~Most of her life condensed down into a pattern in his brain he could unfold, examine, and plan~
 ~And there was a notice~
 ~She was to be induced as awakened~
-'F::Not unheard of'
+'F::Not unheard of...'
 ~Felix let the information unfurl further~
 'F::Usually a few chains of strings to get inducted...'
 ~Into a society they were supposed to know nothing about by design~
@@ -102,7 +102,7 @@ Dole it out all day to particular people.'
 'Work before pleasure.'
 *He put his sunglasses on before taking another sip of his margarita in the sun*
 ~He continued his musings, most of the Erase-ees he helped execute were deemed to be for the greater good~
-~"This person was awake and tampering with people in a way we don't agree with" was the general reason~
+~"This person was awake and tampering with people in a way we don't agree with!" was the general reason~
 ~Which agreed with him for the most part~
 ~For the most part they had been a sort of evil willing to spread harm though others~
 ~While those in power mostly sought power for its own sake over promoting any particular evil~
@@ -115,7 +115,7 @@ Dole it out all day to particular people.'
 ~Awakened was always too nebulous for him to take seriously~
 ~But regardless, it was hard to police beings that could warp other's realities~
 ~Perhaps his reality on the boat was a delusion, but that thought always came up when he thought of such things~
-'F::Do not doubt your own reality if you want to affect others'
+'F::Do not doubt your own reality if you want to affect others.'
 ~Words from the first year of training he had~
 ~It was 2 years of grueling training, mentally and physically in New York, and another 3 up over in Bucharest~
 ~And this had been the lax institutions~
