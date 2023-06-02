@@ -84,19 +84,19 @@ Fading into a dark hole in front of her~
 ~That she was in a dream, that she had been here before~
 ~And before her stood captain Alacira, smiling~
 "A::First things first, put this in your ear. 
-Then think of the last place I sent you"
+Then think of the last place I sent you..."
 *She handed Martha a small brass*
 'Horn?'
 *She took it and did as instructed, remembering the monastery with the monks*
 ~A swirling cloud of color poured out of the horn~
 ~And behind her Gerald Whitewater was there to capture that with a jar~
 *He closed the lid - and took the horn from Martha*
-"G::Just in case we forgot something,"
+"G::Just in case we forgot something..."
 *Taking both carefully while also balancing a clipboard under his arm*
 "A::Same time frame as before - what was it this time?"
 "M::What?"
 "A::What was the thing in your head posing as this time?"
-"M::An alien"
+"M::An alien."
 ~The words came to her - remembering that movie~
 *Alacira nodded, moving back to the center of the ship, and Martha followed*
 "A::That thing...
@@ -109,9 +109,9 @@ Where to Gerald?"
 You'll have a navigator this time, make sure to stay with him - alright?"
 ~They reached the elevator at the end of the narrow hall~
 "M::Navigator?"
-"A::Grab the railing"
+"A::Grab the railing."
 *Alacira punched in the numbers on the panel*
-"A::He's waiting at the entrance"
+"A::He's waiting at the entrance."
 *Gerald shuffled the horn between his legs*
 *He tucked in the clipboard back under his armpit as they ascended*
 *He placed his hand on the railing*
@@ -131,7 +131,7 @@ You'll have a navigator this time, make sure to stay with him - alright?"
 "A::Do as I say, when I say...
 Get used to that...
 We don't have time to explain everything to you...
-Just what you need to know"
+Just what you need to know."
 *The doors opened*
 }
 {
@@ -152,7 +152,7 @@ Just what you need to know"
 ~Looking inside she could see the monastery as it had been just before the fire~
 "G::These are...
 ...Dreams.
-Some of them the last anyone has had"
+Some of them the last anyone has had."
 }
 {
 "A::Gerald - which number?"
@@ -255,7 +255,7 @@ mn:K
 *He finished drying his hands*
 *He went out into coach and started looking at the passengers,*
 ~Really looking at them~
-'Which one are you, damn it,'
+'K::Which one are you, damn it?'
 *He thought, moving slowly across the middle seats*
 ~He imagined they would be near the back~
 ~With a good view of everyone else~
@@ -263,7 +263,7 @@ mn:K
 *Methodically he made his way towards the front of the plane: looking for*
 ~His right hand felt something solid~
 ~It was underneath the jacket of the man in the window seat about half way up~
-"K::Sorry about this,"
+"K::Sorry about this..."
 *He unbuttoned the sky marshal's jacket and took the glock*
 "K::I'll send it back..."
 *Kent awkwardly reached around and felt at the man's ass*
@@ -323,12 +323,12 @@ Are you following me?"
 ~He was on the teeth of the gear - perpendicular to Martha~
 *Martha went to the edge of the gear*
 *The navigator walking slowly back toward where the teeth met - waiting for her*
-'Here goes nothing,'
+'M::Here goes nothing...'
 *She thought, following Kent's leap over the edge*
 ~She felt herself falling forward, not downward~
-'Downward is forward'
+'M::Downward is forward...'
 ~And soon she found herself on top of the teeth~
-'Shit'
+'M::Shit...'
 ~She had too much momentum, and then was on the underside of the gear~
 }
 {
@@ -401,7 +401,7 @@ why is it slipping like that?'
 ~!A prickling on the back of the neck.!~
 ~Not wanting to turn around, not wanting to face it she caught up to the Navigator~
 ~He had just jumped onto another gear's teeth~
-"M::I think it's here,"
+"M::I think it's here."
 "NT:: $Eyes:, $Edontlookbehind:"
 
 *She jumped and landed where he was*
@@ -437,7 +437,7 @@ why is it slipping like that?'
 }
 {
 *He brushed himself off*
-"M::Keep going, it's behind you"
+"M::Keep going, it's behind you."
 *He looked behind him* 
 ~The thing was only a few gears away~
 *He rushed toward the side*
@@ -547,11 +547,11 @@ why is it slipping like that?'
 *With the other he grabbed Martha's shirt*
 ~He was on the other side of the center and together they stayed close~
 ~Ahead of her - she saw another tooth fall~
-"M::Roll it to me"
+"M::Roll it to me!"
 *She moved near the edge*
 "M::Quickly!"
 *He complied and she watched it roll*
-'M::The shape inside'
+'M::The shape inside...'
 ~Barely even inside it twisted and morphed through a repeating pattern~
 ~A pattern that burned in her brain~
 ~It was circular, and repeated itself~
@@ -591,7 +591,7 @@ why is it slipping like that?'
 *She dragged him in the center*
 ~She waited until she saw the claw reach over~
 *She felt the lurch again, adjusted herself and kent to be swung towards the side*
-'Just hold on there, back the way we came'
+'M::Just hold on there, back the way we came...'
 ~He was rasping a breath~
 "M::Can you get us out of here now?"
 ~Martha looked back at that thing chasing her, still coming toward her~
@@ -600,7 +600,7 @@ why is it slipping like that?'
 *She looked down*
 "NT::$Edown:"
 *His hand fell limp*
-'M::Shit'
+'M::Shit...'
 *And she jumped with all her strength*
 ~With the Navigator - Kent - in tow~
 *She flew over the edge just as the alien at the center of the gear*
@@ -625,7 +625,7 @@ why is it slipping like that?'
 ~Captain alacira standing there~
 ~Whitewater behind her~
 *Martha knelt over Kent*
-"M::He's hurt,"
+"M::He's hurt!"
 ~He didn't get up~
 ~He didn't move~
 *Alacira rushed over - and moved her out of the way*
@@ -643,8 +643,8 @@ why is it slipping like that?'
 {
 "A::Good job...
 He'll be fine."
-*She looked behind her and nodded, *
-"A::Send her back"
+*She looked behind her and nodded*
+"A::Send her back."
 *Martha turned around*
 ~Behind her was a giant tribal mask~
 *It was shaking back and forth - behind it was Gerald's voice going:*

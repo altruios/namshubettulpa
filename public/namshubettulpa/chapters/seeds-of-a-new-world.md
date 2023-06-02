@@ -14,7 +14,7 @@ mn:K
 ~He stared up at the ceiling absorbing that dream~
 ~Around him was a heavy silence, what sounded like static in the distance~
 ~He was on a bed~
-'K::Too early, no alarm'
+'K::Too early, no alarm...'
 ~He had his clothes on still - as if someone had just tossed him there~
 ~He saw distant fluorescent tubes, and a ceiling of empty darkness~
 *He jolted up from the hospital bed*
@@ -59,11 +59,11 @@ Should you be breathing though a filter?'
 ~A sort of static that grew to a high pitched whine: the sound of a CRT TV~
 *He walked toward that sound*
 ~He eventually made out a voice~
-"RP::If you are driving, stop driving, turn off your car and lie down"
+"RP::If you are driving, stop driving, turn off your car and lie down."
 "K::Hello?"
-"RP::Stop what you are doing and lie down, we don't-"
+"RP::Stop what you are doing and lie down, we don't -"
 ~They Stopped talking~
-"SM::This is a recorded message"
+"SM::This is a recorded message."
 *Kent opened the door*
 ~The room was an office, and had a CRT TV cradled in a boom arm sticking out of the wall~
 ~A channel logo was playing, then suddenly the reporter came back on~
@@ -71,7 +71,7 @@ Should you be breathing though a filter?'
 This illness is everywhere, and we don't know how it spreads, but on the street - people keep falling.
 This is happening everywhere - put down any sharp objects and lie down.
 If you are driving, stop driving, turn off your car and lie down.
-Stop what your doing and lie down, we don't-"
+Stop what your doing and lie down, we don't -"
 ~The reporter's face twitched violently to the side and they let out what looked like a silent scream~
 *The reporter fell*
 *They were caught by some arms racing in from off camera*
@@ -82,57 +82,60 @@ Stop what your doing and lie down, we don't-"
 *Kent felt at himself*
 ~He felt fine~
 "K::Hello!"
-'K::Okay Kent, what to do, what to do'
+'K::Okay Kent, what to do, what to do...'
 *His stomach growled*
-'K::Food soon, should start crawling - maybe carry a pillow'
+'K::Food soon, should start crawling.
+Maybe carry a pillow...'
 ~He wondered if he could find some tape~
-'K:: duct tape and pillows - a perfect helmet'
+'K:: duct tape and pillows: a perfect helmet.'
 ~Then he thought of what he would find outside~
 *Kent kneeled down and started crawling*
-'K::Better safe than sorry'
+~If he was going to fall down, it wouldn't be from far~
+'K::Better safe than sorry...'
 ~Either way Kent had to see outside~
 ~It was so quiet~
-'K::Where did Felix go, or the chemist'
+'K::Where did Felix go, or the chemist?'
 ~Kent ran through his options:~
 ~Finding Felix in a place this large while crawling would be less than ideal~
 ~He didn't know where the exits were anyway~
-'K::You could have a seizure at any moment'
-"K::How long had that been playing"
-'K::Maybe it was in a loop for hours'
+'K::You could have a seizure at any moment...'
+"K::How long had that been playing?"
+'K::Maybe it was in a loop for hours...'
 ~He sat there and considered how long he could have been out for~
 ~There were no clocks on the bare wood walls~
 ~He waited, listening: nothing happened for several long minutes~
 ~He considered going back to sleep, he was still tired~
-'K::And it seems like you would not be missing much, them being asleep and all'
-'K::Okay... What could be up'
+'K::And it seems like you would not be missing much, them being asleep and all...'
+'K::Okay... What could be up?'
 "K::You got everyone doing this thing except for you..."
 *Kent started crawling back the way he came*
-"K::I didn't see any squigglies on the TV, so if it's that - didn't spread through the TV"
+"K::I didn't see any squigglies on the TV. 
+So if it's that: it didn't spread through the TV..."
 ~Kent considered more~
 'K::Could be a virus, bacteria...'
 *He reached the room he was in, and stopped*
 "K::Back to square one - what do you know?
-I woke up in this room:"
+I woke up in this room..."
 ~After a brief inspection he found that both the bed would fit though the door, and was on wheels~
 *Kent inspected the woman who was still twitching by that door*
 'K::Her watch!'
 ~A mechanical watch with shattered glass, broken from the fall~
 "K::Okay - perfect - how long has it been?"
 ~He asked, politely~
-'K::As you do to unconscious people you are asking for information'
+'K::As you do to unconscious people you are asking for information...'
 ~Across his room was a station for a person, computer and all~
 ~Comparing the times between the watch and computer, Kent saw hours had already passed~
 *He sat there, absorbing that*
 "K::Now, million dollar question, am I going to have a seizure like these nice folks?"
 *Kent continued down the hallway, crawling*
-'K::If you fall and break your hip like your grandmother, Kent: I am going to be so mad at you'
+'K::If you fall and break your hip like your grandmother, Kent: I am going to be so mad at you!'
 ~Felix was nowhere to be found, but the Chemist...~
 ~The Chemist was right around the first corner he encountered~
 *Still crawling, Kent dragged and heaved the Chemist to, and then on to the bed*
 ~It was a struggle, the Chemist was small but portly~
-"K::right, vial"
+"K::right, vial..."
 ~Kent found it rolled next to where the chemist had been - thankfully intact~
-'K::Time to go outside'
+'K::Time to go outside...'
 *Kent stood up*
 ~Hunching over the bed, keeping it to brace his fall if it should happen~
 ~With the Chemist in tow, Kent found his way out of the building~
@@ -145,7 +148,7 @@ mn:LX
 ~The Lux was not a human, it was more than the sum of two humans~
 ~It was also the space between~
 ~Synchronistic thoughts and ideas unspoken but known in harmony~
-~Merged together: Lenny and Jocheck were but voices in the mind of this new entity~
+~Merged together: Lenny and Jochek were but voices in the mind of this new entity~
 ~The Lux~
 ~And the Lux was in the link~
 ~Which was disconnecting from itself~
@@ -155,26 +158,26 @@ mn:LX
 ~It was a storm of sorts, a rushing sensation - not wind, but gravity, pelted them from all sides~
 *The Lux steadied themselves*
 ~The Lux felt a ripping sensation - from their center~
-'LX::We can still get there'
+'LX::We can still get there.'
 ~Even the Lux themselves were breaking apart~
 ~A zippering sensation down the center of their being~
-'J::Lenny would find a way'
+'J::Lenny would find a way.'
 ~The Lux let themselves relax further apart~
-'LX::They are spreading apart'
+'LX::They are spreading apart.'
 ~It was like a storm receding in the distance~
 ~The ideas, the dreams were funneling away from the Lux~
-'L::They are coalescing'
+'L::They are coalescing.'
 'LX::But where?'
 'J::Into people?'
 ~They thought so~
-'LX::We need to pick one, quickly'
-'J::Two preferably'
-'L::We were close - I think any of these will do'
+'LX::We need to pick one, quickly!'
+'J::Two preferably...'
+'L::We were close, I think any of these will do.'
 ~The islands of thoughts and memories grew distant from each other~
 ~The lux were unsure if they could span the distance~
 ~Physical distance was not a factor - it was mental distance - each island of thought was unconnected to every other island of thought~
 ~The distance grew great enough that they were sure they could not find two islands close enough together~
-"LX::We're going to have to split"
+"LX::We're going to have to split!"
 ~Jochek was already on it~
 ~The ripping sensation continued down the core of their being~
 *Their hearts separated and were immediately filled with Algera*
@@ -185,20 +188,20 @@ mn:LX
 ~The Lux had not fully dissolved, and realizing something was wrong:~
 *Their hearts drew together*
 ~Reforming~
-"LX::What is happening"
+"LX::What is happening?"
 ~Half of them knew~
 'L::The link is broken, flooded with Algera - we should get out of here.'
 ~Pressed together, their hearts rung dry, dripping Algera into the aether~
-'J::Well, first we find bodies'
+'J::Well, first we find bodies...'
 ~The disconnecting link was almost complete~
 ~Their options thinning~
 ~Every island of thoughts and ideas isolated from every other island of thoughts and ideas~
-'L::We just have to use one then, get them close to someone else, physical link'
-'J::There'
+'L::We just have to use one then, get them close to someone else, physical link.'
+'J::There!'
 ~The Lux saw one of those options, a coach driver a few miles away in a small Romanian town~
-'L::Old, but has horses'
-'J::I love horses'
-'L::that is the link, we road with him years ago - same horses'
+'L::Old, but has horses...'
+'J::I love horses.'
+'L::That is the link, we road with him years ago: same horses.'
 *They fought their way into the old man*
 ~What would normally have been easy they were repelled by~
 ~Still, it was two against one~
@@ -210,18 +213,18 @@ mn:LX
 ~A physical link, a touch to the arm on the first person Lenny saw and a short moment later Jochek joined him~
 ~It was the a portly man that was his fare, who had been slumped over in coach unconscious~
 ~Jochek looked down at their new body~
-"J::could have waited to find someone more fit?"
+"J::Could have waited to find someone more fit?"
 *Lenny shrugged*
 "L::These are temporary, I'm not putting any work into this one."
 ~Jochek checked their jean pocket for a phone, and found none, nor did he find keys~
 ~Lenny found a phone, but no keys either~
 'LX::Onward to Ada, us two.'
-'L::fastest just to take the carriage'
+'L::Fastest just to take the carriage...'
 ~A short time later - after finding everyone around them unconscious, the Lux road in silence toward their destination~
 ~Șolomanță, a palace that held many incredibly dangerous things~
 ~Things more frightening than an atomic bomb: secret things~
 ~Almost chief among them was The Way Out~
-'J::Should we use different bodies'
+'J::Should we use different bodies?'
 'LX::No, speed - we need to get there now.'
 'L::Think she is alright?'
 'LX::She was as disconnected as you can get... 
@@ -245,7 +248,7 @@ mn:M
 ~Outside the storm darkened, slowly in patches it was replace with a void~
 *Gerald looked around*
 ~He located the captain's voice through a radio on his hip~
-"G::Come on, she's at the helm"
+"G::Come on, she's at the helm."
 *He pressed the button on the radio*
 "G::I picked up Miss Crisp, and Flanagan was there."
 "A::Did he do this? 
@@ -262,12 +265,12 @@ The link is breaking."
 "G::Trouble in the bubble: one unconscious."
 *Sonny nodded and whistled herself*
 ~It was a signal to two large tarantulas, about the same size as her, covered in fur~
-'M::oh fuck - fucking spiders'
+'M::Oh fuck: fucking spiders!'
 *They crawled out from the room on the side wall and ceiling*
 *Martha instinctively flinched*
 *The spiders followed Sonny, ignoring Martha as they passed*
 ~Gerald was already at the elevator door, waving at her~
-'M::Keep it together'
+'M::Keep it together...'
 *The elevator doors opened*
 "G::What was your plan?"
 "M::Well. We were going to distract it, and poke it, and drain it."
@@ -280,7 +283,7 @@ The link is breaking."
 That would have... 
 Is that what happened to Flanagan?"
 ~Gerald watched her patiently~
-"M::Him and everyone else, but me"
+"M::Him and everyone else, but me."
 "G::Everyone but..."
 ~Gerald moved from comprehension to shock~
 *Gerald examined his hand*
@@ -290,7 +293,8 @@ The ship is properly encapsulated."
 *Gerald nodded*
 "G::I..."
 *He took a breath*
-"G::No... I'll let the captain explain"
+"G::No... 
+I'll let the captain explain."
 "M::I know what I did. 
 Now everyone has these powers."
 "G::No. 
@@ -311,18 +315,19 @@ You don't."
 *Alacira turned back to the control panels, she pressed a button and a red light flashed*
 ~Her voice echoed throughout the ship, tinny though the speakers~
 "A::Emergency plan x everyone!"
-*Alacria lifted a covered button and pressed it*
+*Alacira lifted a covered button and pressed it*
 ~Impossible to miss blaring beeps sounded~
 *The people previously at the controls scattered as Gerald took the helm*
-"A::Gerald, just get us down anywhere if you can, I'm going to talk to miss Crisp in my quarters"
+"A::Gerald, just get us down anywhere if you can, I'm going to talk to miss Crisp in my quarters."
 *She turned and strolled out of the room, Martha following*
 ~Behind closed doors, The captain poured herself a drink~
 "A::So... 
 Why don't you tell me why you did what you did."
 "M::To bring down a corrupt..."
-"A::No... why did you do it, not the manifesto"
+"A::No... 
+Why did you do it, not the manifesto."
 ~Martha Hesitated~
-"M::To free them"
+"M::To free them."
 "A::To free them..."
 *Alacira took another drink*
 "A::You know enough to be dangerous." 
@@ -336,7 +341,7 @@ You just gave everyone, children, toddler's even apparently in your recklessness
 Now everyone has a gun glued to their foot - or worse.
 You have given every terrible person the power to amplify their vitriol."
 ~Martha started at that~
-"M::No, good people will fight back"
+"M::No, good people will fight back."
 "A::Good people fight fairly - it's what makes them good and why good loses.
 Evil cheats - every chance it gets - it will always gain ground."
 *Alacira sighed and poured herself another drink*
@@ -353,19 +358,19 @@ Martha Followed*
 "A::Gerald, we have anything?"
 "G::Aye - we can park the ship in the Navigator, most of the crew too."
 "A::How many?"
-"G::Everyone below 0.1/aps"
+"G::Everyone below 0.1/aps."
 *Alacira surveyed the ship through the glass*
-"A::The bubble then, for the rest - we should fit in there"
+"A::The bubble then, for the rest - we should fit in there."
 *She turned and walked to the elevator in the back*
 *Gerald and Martha followed*
 "G::Flanagan is with Sonny."
 "A::She comes too, how bad is he?"
 *The elevator doors opened and they stepped inside*
-"G::Bad"
+"G::Bad."
 "A::The worst part about what you did."
 *Alacira turned to Martha*
 "A::This is what happens to someone experienced who was blindsided.
-He was built for this - through years of training.
+He was built for this: through years of training.
 It still fried his brain.
 Even with ways to channel that Algera - that was too much - even for him.
 And you gave that to everyone...
@@ -374,7 +379,7 @@ Power that will be twisted, abused, stolen and consolidated again into something
 You haven't made people better by giving them this power - you've just given the chance for new scum to rise to the top."
 "M::He wanted to put all of that into me."
 *Alacira paused*
-"A::That would have killed you"
+"A::That would have killed you."
 *The elevator doors opened*
 ~Alacira set the pace between brisk and velocious~
 "A::Regardless - we'll see the..."
@@ -422,7 +427,7 @@ You haven't made people better by giving them this power - you've just given the
 ~He had only one eye - he was wearing an eye patch~
 *He stepped into the bubble*
 "G::Counts at zero!"
-"A::right then, Gerald?"
+"A::Right then, Gerald?"
 *Gerald pushed the button on the radio*
 "G::Breaking off the tower now!"
 ~Gerald looked outside at the tower in the center of the ship, and sighed~
@@ -433,7 +438,8 @@ You haven't made people better by giving them this power - you've just given the
 *It was ripped into the void by some turbulence*
 ~It turned to dust - and then to nothing as it passed the outer shield of the ship~
 *Gerald nodded*
-"G::This might be a rough ride everyone, Sonny get us some seat belts"
+"G::This might be a rough ride everyone. 
+Sonny get us some seat belts."
 *Sonny nodded, looking at the spiders above*
 ~A moment later Sonny had passed out small belts of silk with two sticky ends~
 *She petted them as she chittered and clicked at them*

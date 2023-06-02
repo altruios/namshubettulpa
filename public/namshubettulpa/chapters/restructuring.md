@@ -9,7 +9,7 @@ mn:M
 *Repeatedly they scanned back and forth*
 ~The driver side window was rolled down~ 
 *wind roaring in*
-'Maybe the wind drowned me out'
+'M::Maybe the wind drowned me out...'
 "M::If Flanagan made the -"
 }
 {
@@ -26,7 +26,7 @@ When you meet Flanagan, you'll understand."
 *Felix immediately shook his head*
 "F::No: he knows, at least he'd better.
 We just don't know what his plan is right now...
-because we...
+Because we...
 I, am a bit out of the loop."
 *Rossin displayed his palms*
 }
@@ -42,12 +42,12 @@ I have been talking to you all day.'
 the speed of thought or whatever?"`
 'R::You do things at the speed of thought.'
 ~Martha paused~
-'Fuck'
-`"Good point"`
+'M::Fuck...'
+`"Good point..."`
 *Felix repeatedly tapped his finger on his leg*
 'R::So I know Flanagan...
 He did not kill my author...
-But someone he knows probably did'
+But someone he knows probably did...'
 `"Why do you say that?"`
 'R::The thing that attacked my author, it left...
 Sharp edges in me...
@@ -93,7 +93,7 @@ Oh, and other why is because then we die.'
 *The security guard folded his newspaper, and took a small sip of coffee*
 *He placed the cup down on a third fold up chair and sighed*
 "SG::Name."
-"F::Felix"
+"F::Felix."
 ~A small pause~
 *Felix tapped his foot against hers*
 "M::Martha."
@@ -127,7 +127,7 @@ mn:K
 ~Kent sat alone on a park bench~
 *He glanced at his watch between chews of his bagel*
 'Two-thirty, let me see...
-4pm would hit the 12 hour mark of day 2.'
+Four PM would hit the twelve hour mark of day two.'
 ~He briefly considered taking a small nap on the bench~
 ~But decided he would stay at a hotel~
 *He stood up, and walked along the city edge*
@@ -135,10 +135,10 @@ mn:K
 'Somewhere close by.'
 ~He scanned the streets beyond the park~
 ~In the short distance he saw a hotel sign - Dolphin~
-'A bit ritzy but that is close.'
+'K::A bit ritzy but that is close.'
 ~Down beyond the sign in front of the main entrance something caught Kent's eye~
 ~A shorter woman was holding out a phone in front of her like a shield~
-'No - more like a weapon.'
+'K::No: more like a weapon.'
 ~She held out her phone facing an older gentleman of 60's in a dapper suit~
 ~He stared slack-jawed at it - unmoving~
 *Kent moved closer to the entrance, recognizing this phone business from Felix*
@@ -155,7 +155,7 @@ mn:K
 "SM::What woman?"
 *Kent sighed and brushed past him - rounding the corner where she had turned*
 ~He was in an alley - the woman, she wore a red cardigan, was at a metal door at the end~
-'Was she always wearing a red cardigan?'
+'K::Was she always wearing a red cardigan?'
 ~Kent used the edged of his foot, walking quietly as possible~
 *He approached behind her, she was entering a code on a keypad*
 *The door hissed open* 
@@ -163,19 +163,19 @@ mn:K
 ~Kent was close enough to the door to make a dash for it~
 *He did*
 ~His finger fit in to stop the door slamming shut~
-'Bad idea Kent'
+'K::Bad idea Kent.'
 *Kent opened the door slightly and peered inside*
 ~A dimly lit hallway - and no person or camera in sight~
 *He opened the door a bit more*
 ~There was nothing around the edged of the room, just a hallway~
 *He slid through the opening and closed the door gently*
-'This is a really bad idea Kent.'
-'You know those horror movies where the person goes in alone into the den of a lion?'
-'That is you right now: this is what is going on.'
-'You have not had sleep in: how long?'
-'Come on Kent - get out of here.'
+'K::This is a really bad idea Kent.'
+'K::You know those horror movies where the person goes in alone into the den of a lion?'
+'K::That is you right now: this is what is going on.'
+'K::You have not had sleep in: how long?'
+'K::Come on Kent - get out of here.'
 ~Kent pushed forward~
-'What if another zombie thing shows up: no gun Kent.'
+'K::What if another zombie thing shows up: no gun Kent.'
 ~He was momentarily back in that hallway - shooting at that bloody thing rushing him~
 ~He shook the thought away~
 *Kent walked down the hall - and looked around the corner at the end*
@@ -193,8 +193,8 @@ mn:K
 "AG_T::Come."
 *She placed her hand on Kent's back*
 "AG_T::How'd you find us?"
-'Fuck - 2 seconds in and already panicking.'
-'37 hours awake?'
+'Fuck - two seconds in and already panicking.'
+'Thirty-seven hours awake?'
 'Is that right?'
 'She is looking at you - answer: anything!'
 "K::Oh, you know: saw some stuff... 
@@ -223,8 +223,8 @@ Put two and two together..."
 *Kent re-scanned the room*
 ~Ahead of him a that woman came out with a platter of syringes~
 'Ah fuck.
-in too deep kent, 2 minutes in and in too deep...
-This shit escalates way too quickly'
+In too deep kent, 2 minutes in and in too deep...
+This shit escalates way too quickly.'
 }
 {%%%%
 mn:M
@@ -261,7 +261,7 @@ mn:M
 'R::Okay, so - this either works or... 
 See that keypad?'
 ~She did, it was below the plaque, slightly off to the right~
-'R::Put in these numbers:'
+'R::Put in these numbers...'
 ~A list followed - she typed them in~
 ~As she entered the last one a pleasant chirp came from the tiny speaker attached to the right~
 }
@@ -269,7 +269,7 @@ See that keypad?'
 ~Flanagan nodded~
 "FL::Glad to see that worked...
 Who are you?"
-"M::Martha"
+"M::Martha."
 'R::He is asking me.'
 "M::Oh... Rossin, his name's Rossin."
 "FL::He's inside of... interesting... and you?
@@ -279,14 +279,14 @@ Martha - how are you?"
 ~Martha paused considering~
 *Rossin at her side started pacing back and forth*
 "M::I mean...
-yes.
-yes...
-he has been helpful..."
+Yes.
+Yes...
+He has been helpful..."
 'Hold on a sec...'
 "M::If by helpful you mean flinging me into a bunch of bullshit trouble...
 Then yeah: super helpful."
 *Flanagan blinked, then barked a high pitch laugh*
-'More of a squeal than a laugh'
+'M::More of a squeal than a laugh.'
 "FL::There is some bullshit going on yes...
 But we're in the middle of cleaning that up."
 *Flanagan inspected the air around her, then waved her forward*
@@ -296,10 +296,10 @@ If he wants."
 *He popped his head back out, causing martha to stumble*
 "FL::One last question: about felix?"
 ~Rossin leaned over to look inside~
-'R::He wants to know if we can trust him'
+'R::He wants to know if we can trust him.'
 "M::No."
 *Martha shook her head*
-'R::Martha - just repeated what I say:'
+'R::Martha, just repeated what I say...'
 ~And she did~
 "M::He's been relaxing in Fiji: for the last year.
 I - Rossin, think that he's typical."
@@ -307,7 +307,7 @@ I - Rossin, think that he's typical."
 ~Flanagan muttered~
 "FL::Fixable?"
 *Rossin gave a noncommittal hand balance*
-"M::He went like:"
+"M::He went like..."
 *Martha copied Rossin's gesture*
 "FL::And you?"
 "M::If he's fixable - good core in a bad wrapping or rotten through?"
@@ -317,8 +317,8 @@ I - Rossin, think that he's typical."
 {
 ~Martha let out a sigh~
 `"What just happened?"`
-'R::verification code: ...'
-`"And"`
+'R::Verification code: ...'
+`"And?"`
 'R::And I could prove he knew me... 
 Which is good...'
 *Martha looked at him*
@@ -352,9 +352,9 @@ And you...
 Land there - if you need to...
 If you die.'
 ~Flanagan was at the threshold to another entrance, Felix at a chair beyond~
-"FL::Come on now, we don't have all day"
+"FL::Come on now, we don't have all day."
 *Rossin walked over and then next to her as she sat down next to felix*
-`"That seems a bit... unethical"`
+`"That seems a bit... unethical?"`
 'R::A culture thing: a landing pad is a dominance thing...
 Sort of a: if I die I can come for your body from your dreams, kind of thing.'
 ~Martha paused briefly, she nearly sat down before she hesitated~
@@ -364,8 +364,8 @@ Sort of a: if I die I can come for your body from your dreams, kind of thing.'
 {
 *Martha sat down next to Felix*
 ~Flanagan was about to speak when a chime rang~
-"FL::Oh, that would be two of the Relux"
-"F::Where's the third"
+"FL::Oh, that would be two of the Relux."
+"F::Where's the third?"
 "FL::Still in Romania: now If you'll excuse me."
 ~After Flanagan was out of the room, Martha had to know:~
 "M::Relux?"
@@ -379,13 +379,13 @@ Sort of a: if I die I can come for your body from your dreams, kind of thing.'
 *Martha waved him on*
 "F::Imagine if you can hear someone's thoughts - no filter.
 Every bad nasty thing thought in passing that doesn't get said:
-Most people are at each others throats with that level of connectivity"
+Most people are at each others throats with that level of connectivity..."
 "M::So it's a constant connection - you can't turn it on or off?"
 "F::This I'm not that familiar with - thought never appealed to me: so I didn't learn more."
 ~Martha sat in silence for a time - pondering what that would be like~
-'R::I mean - I am just in your head - our thoughts are not connected'
+'R::I mean - I am just in your head - our thoughts are not connected.'
 *Rossin sat down beside her*
-'R::So imagine this: but more extreme. just:'
+'R::So imagine this: but more extreme. just...'
 *Rossin puts up a mock hand and jabbers with it*
 'R::Gibberish all day - most people - even the Awakened: their thoughts are a mess.'
 ~Through the threshold step Flanagan and Two people next to him~
@@ -397,26 +397,27 @@ Most people are at each others throats with that level of connectivity"
 *The man turned to Flanagan*
 "L_R::How much does he know?"
 "FL::I haven't had time to question them, you arrived shortly after."
-"F::Question us about what the school? that's why we're here - we just came from there."
-"FL::It was more than just the school in new york"
-"F::What, the one in london?"
+"F::Question us about what the school? 
+That's why we're here, we just came from there."
+"FL::It was more than just the school in New York."
+"F::What, the one in London?"
 "FL::It was more than just the schools, though they were all hit."
 ~Felix fell silent~
 "M::What all was attacked?"
 "FL::The schools, a number of hubs, assassinations...
-when were you attacked?"
+When were you attacked?"
 }
 {
 "M::Me?"
 'R::I think he means me, my author I mean.'
 "FL::I mean Rossin."
 "F::Who's Rossin?"
-"FL::A friend - what's left of him is in Martha over here."
+"FL::A friend: what he left behind of him is in Martha over here."
 *Felix turned to Martha*
 "F::So all this time?"
 "FL::Speaking of, he's leaking pretty badly - Jochek - would you?"
 *The blonde woman nodded and held out her hand*
-"J_R::I don't bite"
+"J_R::I don't bite."
 'R::It is alright - I need some fixing: she can do it.'
 *Martha reached out her hand and clasped Jochek's*
 ~For a moment time seized, stuttering a jerking to a halt~
@@ -431,41 +432,43 @@ when were you attacked?"
 *Flanagan turned back from the other Relux, looking back at martha*
 "F::Do we need a bag?"
 *Martha waved him no*
-'Hold a thought, hold your stomach, hold your breath'
+'M::Hold a thought, hold your stomach, hold your breath...'
 ~The dusty memory of her mother's drinking song, was the very thought she held~
 ~The nausea passed eventually~
 ~Replaced by a coldness~
-"J_R::Okay, that should just about do it"
+"J_R::Okay, that should just about do it."
 ~Moments passed and Rossin didn't appear~
-"FL::Now that's taken care of, to the matter at hand. we think we lost about two thirds"
-"J_R::two thirds of?"
-"FL::of the Awakened"
+"FL::Now that's taken care of, to the matter at hand. 
+We think we lost about two thirds."
+"J_R::Two thirds of?"
+"FL::Of the Awakened."
 ~At the table in front of them was a tea set~
 *Flanagan sat down and poured himself a cup*
-"FL::I say we think, because it's hard to say exactly"
-"M::You can't remember them"
+"FL::I say we think, because it's hard to say exactly..."
+"M::You can't remember them."
 *Flanagan nodded*
-"FL::I can't even remember Rossin"
+"FL::I can't even remember Rossin..."
 }
 {
-'R::less than ideal'
+'R::Less than ideal...'
 ~Rossin was sitting beside her now~
 `"You alright?"`
 'R::Never better... 
 Well, that I remember, literally the best I have been.'
-"FL::We know the loses by the absence of where they should be, physically and in memory"
+"FL::We know the loses by the absence of where they should be, physically and in memory."
 *Flanagan took a sip of tea*
-"FL::And in my case I had something more concrete to measure by, sample by... it's about two thirds"
+"FL::And in my case I had something more concrete to measure by, sample by... 
+It's about two thirds."
 *Rossin leaned over*
-'R::Landing pad - more than likely'
-`"How"`
+'R::Landing pad, more than likely.'
+`"How?"`
 `{todo:link to description of how that works}`
 ~Both the Relux's hands reached for the teapot - before only Jochek pouring themselves cups put it back~
-"L_R:: We haven't noticed anything in Romania"
+"L_R:: We haven't noticed anything in Romania."
 *Flanagan nodded*
-"FL:: Still though, look for signs of missing things"
+"FL:: Still though, look for signs of missing things."
 "F::We saw them, at the tower."
-"J_R::Burned into their foreheads was a message - underestimated undernet"
+"J_R::Burned into their foreheads was a message: underestimated undernet."
 *Flanagan put down the teacup*
 "FL::I believe there to be an outside influence - a strong one - manipulating the undernet.
 The leaders of the undernet being led along towards us."
@@ -474,27 +477,27 @@ The leaders of the undernet being led along towards us."
 *The male Relux leaned forward*
 "L_R::More complicated: they're involved, but they don't have the numbers to pull something like this off, and how?"
 *He shook his head*
-"L_R::No, and who did they scramble - and why: you know what I think - coup"
+"L_R::No, and who did they scramble - and why: you know what I think: coup."
 "FL::Nail on the head and winds from my sails, lenny. 
-I think it's a coup too, and the undernet is being pushed in the spotlight"
+I think it's a coup too, and the undernet is being pushed in the spotlight."
 *Jochek leaned in*
-"J_R::Underestimated undernet was in all the schools"
+"J_R::Underestimated undernet was in all the schools."
 *Lenny matched Jochek posture*
 "L_R::Heavy handed."
-"FL::It would imply,"
+"FL::It would imply..."
 *Flanagan sipped his tea*
-"FL::That it's still a minority of who's still around"
-"F::So what, the undernet's the scapegoat"
+"FL::That it's still a minority of who's still around."
+"F::So what, the undernet's the scapegoat?"
 "J_R::That's possible, but a scapegoat general is innocent - that's to be determined."
-"F::When did all this start"
+"F::When did all this start?"
 "L_R::Flanagan?"
 *Lenny turned his head*
-"FL::About 24 hours ago"
+"FL::About 24 hours ago."
 "M::I mean, I've had Rossin for longer than that."
 ~A quite spread as attention turned toward martha~
-"FL::how long?"
-'R::I think it was about 50 hours now, more or less'
-"M::About double that"
+"FL::How long?"
+'R::I think it was about 50 hours now, more or less...'
+"M::About double that..."
 "L_R::That seems relevant."
 *Flanagan turned to the door*
 "FL::Excuse me, it seems we have another guest."
@@ -508,27 +511,29 @@ I think it's a coup too, and the undernet is being pushed in the spotlight"
 Give that board a whirl?'
 *Martha nodded*
 'Okay, so...
-need to just write a thing that will ask the right question?'
+I just need to write a thing that will ask the right question?'
 `"Who is Uri?"`
 ~She waited with dwindling hope~
 'That did nothing...'
 `"Am I missing something?"`
-'R::Two things, one - specificity, two - you are using words'
+'R::Two things. 
+One: specificity, two: you are using words...'
 `'Okay - so thoughts?'`
 'R::You are going to learn to use more detailed questions if you use words.
 Which is why you need to more than just thoughts and words.'
 `"What else is there?"`
-'R::A fair bit, now listen, everyone else is.'
-~Around her Martha realized everyone was silent - watching the door~
-'R::Martha - can you get a little more anxious'
+'R::A fair bit. 
+But listen now: everyone else is.'
+~Around her Martha realized everyone was silent, watching the door~
+'R::Martha, can you get a little more anxious?'
 "M::What?"
 ~Everyone turned to her~
 'Well, that would do it.'
 `--H();`
 ~A oscillation rising in pitch faded out of range, her heartbeat thundered in her chest~
-~Colors filled her vision - filling in spatially where sounds originated~
+~Colors filled her vision: filling in spatially where sounds originated~
 ~A color for every sound~
-*A metallic click in the background - from the door*
+*A metallic click in the background, from the door*
 *A panting, rhythmic and low*
 ~She focused on the door~
 "FL::Is he secure?"
@@ -537,15 +542,16 @@ Which is why you need to more than just thoughts and words.'
 "FL::Why do you ask?"
 "U::They need to disconnect."
 ~The door opened, and Flanagan was joined by a stout potato of a man~
-~By his side was a labrador - feet skittering across the green and purple marble floor~
-"FL::Alice was succeeded then?"
+~By his side was a labrador: feet skittering across the green and purple marble floor~
+"FL::Alice was successful then?"
 "U::No... well, yes.. but No."
-*Flanagan and Uri returned to the room - the labrador whimpering for food*
-"FL::There's no chocolate on the table - should be fine."
+*Flanagan and Uri returned to the room. The labrador whimpering for food*
+"FL::There's no chocolate on the table: should be fine."
 ~Uri released the leash~
-"U::Sorry everyone - hope you like dogs."
+"U::Sorry everyone: hope you like dogs."
 ~Felix shook his head~
-"U::Oh good you are here - you need to disconnect: right now."
+"U::Oh good you are here. 
+You need to disconnect: right now."
 "L_R::And why would we do that."
 ~Uri paused, then turned to Flanagan~
 "FL::He can't explain until you've disconnected."
@@ -564,7 +570,7 @@ Which is why you need to more than just thoughts and words.'
 *He look a sip a tea*
 ~Felix wrinkled his face trying to squeeze a better view out of his eyes~
 "U::Let me explain: We can't use the link - it's not safe."
-"F::I wouldn't call the link safe"
+"F::I wouldn't call the link safe."
 "U::It's being taken over - by something very dangerous."
 ~Martha leaned back~
 *Martha yawned*

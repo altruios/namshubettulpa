@@ -7,7 +7,7 @@ mn:M
 'R::Not if you think they should not, I am but thought: remember, think them clean and they will be.'
 *He raised his hands*
 ~Clean of all blood~
-'R::Well, look at that'
+'R::Well, look at that.'
 *Martha continued scrubbing her hands*
 ~She could still see faint bits of red~
 ~It was a long while before she spoke again~
@@ -19,7 +19,7 @@ They are not prepared for, equipped, or in any way capable of dealing with what 
 Not that you can actually do that yet, but you can let me take over and I can speak for you.'
 "M::Speak for me?"
 
-'R::Through you, whatever'
+'R::Through you, whatever.'
 "M::Okay, that sounds like a cult induction speech, what do I have to do, give you all my property?"
 *She continued her scrubbing*
 'R::Hardy har har, no - but I know the world you are getting into. Hold on, let me get an update.'
@@ -31,7 +31,7 @@ Not that you can actually do that yet, but you can let me take over and I can sp
   meant to be a long list of dramatic-ironic statements __}
 `
 "M::And that was what?"
-'R::Information, particularly about the leaders of the awoken, basic affairs really'
+'R::Information, particularly about the leaders of the awoken, basic affairs really.'
 "M::When you say current?"
 'R::Current from the perspective of one Felix Danabrus. 
 A year out from his last visit to the academy in New York. 
@@ -44,7 +44,7 @@ Bad things happen otherwise.'
 {
 *He walked up to the kitchen when she closed the faucet*
 'R::You must got to learn quickly, they already know about you. 
-I took care of some things otherwise Felix was going to come kill you'
+I took care of some things otherwise Felix was going to come kill you.'
 "M::But I was going to kill myself, I mean that thing was going to make me? 
 So why send Felix?"
 'R::If you...'
@@ -52,9 +52,9 @@ So why send Felix?"
 ~Able to transmit and receive data along the link~)
 `
 "M::So linked-mind information processing… like psychics?"
-'R::Think like mind melding on star trek, but at any range'
-"M::So we're wireless"
-'R::More or less, yes'
+'R::Think like mind melding on star trek, but at any range.'
+"M::So we're wireless?"
+'R::More or less, yes.'
 "M::I didn't learn that in science class, pretty sure we don't have wifi in our heads."
 ~Martha was growing worried~
 'Was he talking about a chip... 
@@ -65,11 +65,11 @@ A functional quantum information transfer method.
 Requiring only special thinking to formulate the proper chemical reactions in the brain to make it work.'
 }
 {
-"M::I think that's literally insane"
+"M::I think that's literally insane."
 'R::Well, I mean, you can not argue with results.'
-"M::Right, you're a figment of my imagination"
+"M::Right, you're a figment of my imagination."
 'R::The imagination of my author, and well, a part of you does leak in too.
-Nothing is generally water tight like that'
+Nothing is generally water tight like that...'
 *Martha sat at the table. *
 "M::Am I going to get those memories back?"
 *Rossin shifted*
@@ -103,18 +103,18 @@ They, well: they will not be good memories: buried deep for a reason.'
 ~And yet - she also thought of the possibilities to fix everything, to remake the world whole~
 ~To stop pollution, and all the terrors that could be fixed if you didn't have to worry about free will~
 "M::Teach me. 
-I think I need to know everything"
+I think I need to know everything..."
 'R::Good that you are willing. 
-And if Felix comes and sees you are not amazingly skilled he will probably just disobey and erase you'
+And if Felix comes and sees you are not amazingly skilled he will probably just disobey and erase you...'
 "M::Well, that's great, thanks for telling me so early /s. 
 When's he going to be here?"
-'R::He should be he in a day or two'
+'R::He should be here in a day or two...'
 "M::Welp, if he wipes my memories..."
-'R::I die, and you go to prison'
+'R::I die, and you go to prison.'
 "M::Can't convince him to fix that before he wipes my mind?"
 'R::I mean, you can try, but I am not going to incentivize you to do that, that would erase me as well...'
-'Welp, he preserves himself. One for the biology is it alive test, only a few more to go...'
-"M::So teach me"
+'M::Welp, he preserves himself. One for the biology is it alive test, only a few more to go...'
+"M::So teach me."
 }
 {
 'R::Do you have a housemate?'
@@ -122,10 +122,10 @@ When's he going to be here?"
 'R::I exist in your head, but I am not you, I only know what I know.'
 "M::No, I don't have a housemate."
 'R::Your neighbor then, we will put them right back when we are done. 
-We just need a subject'
+We just need a subject.'
 "M::What are you going to do with him?"
 'R::I am going to show you the scope of what you can do... 
-He will be good'
+He will be good.'
 "M::Which is what exactly?"
 *Rossin smiled*
 ~That of a father knowing their child was about to discover christmas~
@@ -179,7 +179,7 @@ mn:R
 *She walked into the ghostly image and Rossin turned her body to see where her consciousness had entered*
 'M::You can see me?'
 "R::Aye, you are not physically where you are, just... 
-Imagining yourself into existence from your own imagination which you put yourself into just now"
+Imagining yourself into existence from your own imagination which you put yourself into just now."
 }
 {
 mn:M
@@ -219,7 +219,7 @@ Run, jump, fetch and the like."
 *Martha walked around her neighbor*
 }
 {
-'M::How did they implant them'
+'M::How did they implant them?'
 "R::Television, and the internet, certain memes, implant individual hooks. 
 Follow, run, chase, protect, kill, nurture, spoil... 
 There's the whole gambit - pretty much any verb you can think of."
@@ -233,7 +233,7 @@ And the only limit, in the end, is your own creativity."
 ~He said from her body~
 "R::And that's just the beginning... 
 Let's just start there for now, this is...
-Pedestrian"
+Pedestrian..."
 }
 {
 'M::Pedestrian?'
@@ -289,7 +289,7 @@ Give me a minute.'
 *Martha continued to pace*
 'M::In my own fucking body.'
 *Rossin's eyes grew wide*
-"R::Just wait a sec-"
+"R::Just wait a sec -"
 ~But it was too late~
 }
 {
@@ -313,12 +313,12 @@ I didn't."
 'R::This... 
 Well... 
 This is a valuable lesson.
-Just do not do anything without letting me know first'
+Just do not do anything without letting me know first!'
 `['Do not do anything',
 'Yes.  
 Just... 
 Do - not - do - anything',
-'Do nothing']`
+'Do nothing.']`
 ~Martha's breathing slowed down~
 ~Her muscles relaxed~
 ~Nothing to be done now~

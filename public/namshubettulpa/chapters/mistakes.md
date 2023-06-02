@@ -7,7 +7,7 @@ mn:AT
 ~Most of Al-tok's focus was on a warehouse in queens~
 ~13 people tied to chairs were kept under guard by husks, from rafters above~
 ~12 people controlled by one, Al-tok had that one tied up front and center~
-'AT::predictably selfish...'
+'AT::Predictably selfish...'
 *One appendage strolled up to the leader of the group*
 ~It wasn't something you could see, but though its husks Al-tok could sense it: the algera, emanating from the leader~
 ~The leader was sweating, blood dripping down the side of his face.
@@ -71,7 +71,7 @@ mn:M
 ~She could see the walls at the end though - despite the distance - as there was no ground in this circle save for one pillar in the center~
 ~A pillar host to a Giant vibrant brown and green oak tree at the top, dominating the empty view~
 ~And in front of her, a singular rickety wooden bridge~ 
-*it was swaying in a dusty breeze*
+*It was swaying in a dusty breeze*
 *She stepped onto it*
 ~The bridge extending to a tiny point in the distance, and her sense of scale widened~
 *In the distance a few planks came loose to a sudden gust*
@@ -128,11 +128,11 @@ There was some sort of parade - marching down the wooden streets - streamers fly
 ~The vendors shut their doors and went inside the houses.
 Soon everyone was in their homes and Martha was alone in the silence and flickering red lights~
 ~She heard a crashing in the distance~
-'M::That does not sound good'
+'M::That does not sound good...'
 ~Martha flew down the streets, searching for anything~
-~paper confetti and colorful flags lay disregarded at her feet~
+~Paper confetti and colorful flags lay disregarded at her feet~
 ~What was she even looking for, she scanned the streets~
-~she stopped, listening~
+~She stopped, listening~
 *Silence, and a faint distant...*
 ~Something... she chased it, and it grew into a metallic grinding, then a rhythmic thrumming~
 'M::Music... is that punk rock?'
@@ -183,7 +183,7 @@ Taking the bridge with it~
 ~With the bridge posts, if she could just get there, she could use that as a anchor, a ledge to rest on~
 ~She was flying now just a bit faster than the pillar was falling, but that gap was rapidly closing~
 *She reached the cliff edge, and wrapped herself around the bridge pole*
-'M::Lets not do that again'
+'M::Lets not do that again...'
 ~Martha clung to that wooden post: fearing it would bend and fall in. 
 The gravity slowly shift as the pillar tumbled into the depths below...
 Slowly converged the farther the pillar fell. 
@@ -213,17 +213,17 @@ Though at a slight angle~
 mn:RX
 }
 {
-'AD_R::I think it is straight ahead'
+'AD_R::I think it is straight ahead.'
 ~Ada reached Jochek at the bottom cellar: a long corridor of stone with a center arch~
 ~Wooden doors barred in dark iron evenly placed on each side of the hall~
 *Ada took the lead*
-'AD_R::Quickly now, I know some things are down here because they should not be close to minds'
+'AD_R::Quickly now, I know some things are down here because they should not be close to minds.'
 'J_R::All these doors are locked.'
 ~Ada looked above her and noted the security cameras~
 'L_R::No alarm yet, maybe no one to raise it, lets hope.'
 *Jochek inspected the doors*
-'J_R::looks like they each have a number'
-'AD_R::look for negative one'
+'J_R::Looks like they each have a number...'
+'AD_R::Look for negative one.'
 ~Ada and jochek reached the end of the hall~
 ~The door read zero~
 'L_R::Think it could be through there?'

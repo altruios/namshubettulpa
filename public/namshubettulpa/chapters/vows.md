@@ -13,7 +13,7 @@ mn:K
 ~A nurse at the double doors looked at him expectantly~
 *A yawn later he was up, and followed the nurse a few paces behind*
 *He looked at the clock they passed*
-'A few minutes of sleep was worse than none,'
+'K::A few minutes of sleep was worse than none.'
 ~But he had been here for hours already~
 "N::You can see him, but he's not awake yet."
 *The nurse turned a corner*
@@ -62,7 +62,7 @@ He died in the ambulance."
 ~Some liquid pumped into Tom's IV and Tom stopped struggling~
 ~His heart rate decreasing~
 ~Kent only watched~
-"T::It's so warm,"
+"T::It's so warm."
 ~Tom's voice was a little raspy~
 "K::You burned yourself pretty bad, what were you doing?"
 "T::Burned?"
@@ -91,7 +91,7 @@ I want to know why?"
 *Tom moved his arm, the one connected to the IV, toward the nurse*
 "T::Should this itch?"
 *The nurse shook her head*
-"T::It really itches"
+"T::It really itches..."
 *Tom started wheezing*
 ~The beeping of the machine grew more frequent~
 *The nurse pushed a button on the side*
@@ -109,7 +109,7 @@ I want to know why?"
 {
 *Kent backed out of the room followed by the nurse before they shut the door*
 ~They then  guided him to the waiting room, to wait~
-~...again~
+~...Again~
 *Kent sat back down in the chair he was in before*
 ~He listened to the drone of mumbles and whispers from the others in the room~
 *He closed his eyes*~ and tried to relax to find sleep~
@@ -120,24 +120,24 @@ I want to know why?"
 }
 {
 ~The last moment was the woman~
-'Martha,'
+'K::Martha...'
 ~Speaking that strange language~
-'Had she done this somehow?'
-'If so...'
-'How?'
+'K::Had she done this somehow?'
+'K::If so...'
+'K::How?'
 ~He struggled for a reason~ 
 ~Any reason Tom might help the tech destroy those tapes~
 ~Or why the tech ran and grabbed Martha's file~
-'It was as if he was hypnotized - but that was nonsense.'
-'Hypnosis was not real - something for stage shows and bad TV.'
+'K::It was as if he was hypnotized - but that was nonsense.'
+'K::Hypnosis was not real - something for stage shows and bad TV.'
 ~Neither of which he had seen personally~
 ~But everyone loved to talk about bad TV~
 *He repeatedly scratched at the back of his head*
 *His fingers going back over the bump*
-'Tom would be fine...'
-'He was in a hospital...'
-'And he had been stable'
-'And they knew exactly what they put into him, so they would be able to fix it...'
+'K::Tom would be fine...'
+'K::He was in a hospital...'
+'K::And he had been stable...'
+'K::And they knew exactly what they put into him, so they would be able to fix it...'
 ~He told himself that - but the nurse's eyes~
 ~The sudden concern in those eyes juxtaposed against that last thought~
 ~He tried to focus on something, anything else~
@@ -148,17 +148,17 @@ I want to know why?"
 }
 {
 ~He couldn't shake the thought~ 
-'Something in that tape they watched caused this.'
+'K::Something in that tape they watched caused this.'
 ~Something Martha had done~
 ~And she was missing~
-'And those other people in the cell with her were...'
+'K::And those other people in the cell with her were...'
 ~Also hypnotized he realized~
 ~She had spoken the same indescribable language to them too~
 }
 {
-'She tried that on me,'
+'K::She tried that on me...'
 ~He realized~
-'And it failed...
+'K::And it failed...
 Did it?
 How would I even know one way or the other?'
 *He flexed his hands*
@@ -193,13 +193,13 @@ mn:M
 {
 ~She saw something on her elbow, a scab that looked fresh~
 *She rubbed at it*
-'Was it...
+'M::Was it...
 From the dream?'
 ~She wondered~
 ~Bits more came back to her~
 ~She recoiled at the thought of going back to sleep. ~
 ~As tired as she was, she was worried she would have another nightmare~
-'What exactly happened?'
+'M::What exactly happened?'
 ~She remembered Jason Vorheeves, the ship~
 ~And the book~
 ~The image of that symbol flashed in her memory~
@@ -215,16 +215,16 @@ From the dream?'
 *She looked up at the mirror in front of her* 
 *Rossin stood behind her, she whirled*
 "M::Where were you?"
-'R::Asleep it would seem'
+'R::Asleep it would seem.'
 *Rossin looked around the room*
 'R::You have not been asleep all that long - apparently I still needed some.'
 *Martha turned back to the mirror, swallowing more water*
-"M::Any dreams"
+"M::Any dreams?"
 'R::A dreamless sleep, you?'
 "M::Nightmare...
 Well."
 ~Martha started~
-"M::Maybe something more"
+"M::Maybe something more..."
 *Rossin tilted his head*
 "M::I think...
 I don't know if I was in the back of the mind, the link...
@@ -232,7 +232,7 @@ Whatever it is...
 But there was a captain, in a storm. 
 And an Italian monastery with a romance novel that had some symbol on it."
 ~Rossin interrupted~
-'R::What symbol'
+'R::What symbol?'
 *Martha shook her head*
 "M::It twists, undulates...
 I can still see it."
@@ -247,7 +247,7 @@ My mind sharing this brain with you, I did not see anything in any dream.
 So you have to send it to me...
 I can not read your mind, remember?'
 *Rossin walked off*
-'R::I will be over here when ready'
+'R::I will be over here when ready.'
 "M::Ready?"
 'R::I assume you want to take a shower - you should. 
 You kind of look like shit... 
@@ -255,7 +255,7 @@ Like you have been up all night and dramatized by a whole lot.
 Go relax with some hot water.'
 ~She did need a bath~ 
 ~But she really hadn't considered what that would be like~
-'A sentient brain she could not just get rid of...'
+'M::A sentient brain she could not just get rid of...'
 ~Martha thought, he was in her head, so~
 `['Was he bathing with her?',
 'Or was he in the other room...'
@@ -266,54 +266,54 @@ Go relax with some hot water.'
 *She turned on the faucet to the tub*
 ~For a moment she watched the water rushing out~ 
 ~Swirling into the tub in chaotic waves~
-'Okay, but he is not actually in the room over there...
-he is just... 
-what? 
-gone?
-hiding?'
+'M::Okay, but he is not actually in the room over there...
+He is just... 
+What? 
+Gone?
+Hiding?'
 ~She watched the water swirl~
 }
 {
 *She closed her eyes*
-'What did she need to do?'
+'M::What did she need to do?'
 `['Find out if that dream was real', 
-'Find out about that symbol', 
-'Train with Rossin', 
-'Get Felix to take her to new york', 
-'Fix those other people in the cell she was in', 
-'Kill that thing in my brain', 
-'Have a good fucking meal', 
-'Fix the world']`
+'Find out about that symbol.', 
+'Train with Rossin.', 
+'Get Felix to take her to New York.', 
+'Fix those other people in the cell she was in.', 
+'Kill that thing in my brain.', 
+'Have a good fucking meal.', 
+'Fix the world.']`
 ~She paused~
 ~The ordering of her thoughts startled her~
 ~Clear as day despite how tired she still was~
 ~Normally she had trouble focusing, but it was easy now~
 ~Simply a list - one that she realized - would remain easily recallable~
-'That is handy - grocery shopping would be easy...'
+'M::That is handy - grocery shopping would be easy...'
 ~She wondered how far she could stretch that?~
 ~How would she test that?~
 *When the water was half full she moved back to the room*
 *Rossin sat on the bed*
 *His head turned quizzically when she reached in the drawer beside her*
-'Yep.'
+'M::Yep.'
 ~There was a bible - even in a seedy motel~
 'R::Some light bath reading?'
-"M::Some testing, random phrases"
+"M::Some testing, random phrases."
 'R::Ah...
 So you discovered arrays?'
 ~Martha paused, considering, arrays in math... 
-yeah... 
-close enough~
-"M::That's probably it"
+Yeah... 
+Close enough~
+"M::That's probably it..."
 *Rossin nodded*
 'R::You have finite space, finite resources in your brain. 
 Do not fill it with junk.'
 *Martha nodded*
-'R::Actually, just keep all the junk together, easier to overwrite'
+'R::Actually, just keep all the junk together, easier to overwrite.'
 *She Walked back into the restroom and closed the door*
 ~She wondered how to keep her lists 'close'~
 *She turned off the water and disrobed, she hadn't any other clothes, so*
-'Eh, close enough'
+'M::Eh, close enough.'
 ~At least she could clean herself~
 *Dipping in the bath she opened the bible to random pages* 
 ~She glanced at a few passages~
@@ -331,12 +331,13 @@ Do not fill it with junk.'
 Just about things you decide to remember - and not exactly perfectly...
 Let us just say...
 Resilient, not subject to your memory rewriting itself...
-but not resistant to physical degradation.'
+But not resistant to physical degradation.'
 "M::Is that something you did?"
 *He paused, nodded*
 'R::There are some...
-Liberties I took - before getting that thing completely out.
-A bit of house keeping'
+Liberties I took...
+Before getting that thing completely out.
+A bit of house keeping.'
 ~Martha waited and Rossin continued~
 'R::Well, there were some...
 Rewirings I did...
@@ -354,7 +355,7 @@ Anger is vision, loneliness is taste, joy is touch.
 Fear is your perception of time - your thoughts run faster.
 You do not move any faster but you can think way faster. 
 The other ones are more or less arbitrary.
-But slowing down time when you are frightened is super useful'
+But slowing down time when you are frightened is super useful.'
 *Martha stared at him, and he continued*
 'R::Emotional training is something everyone at the school is taught. 
 How to manipulate your own emotions - master them. 
@@ -363,7 +364,7 @@ So that you can use them to trigger various sense enhancements.'
 ~Martha said blankly~
 "M::And the other thing?"
 'R::Ah, writing into your brain.
-So you can learn the language'
+So you can learn the language.'
 "M::Which language?"
 'R::The language!'
 ~Rossin exclaimed, ~
@@ -372,7 +373,7 @@ The one we all think as an infant.
 Before we learn what words are or the language our parents taught us.
 The one you thought in before you learned how to speak.'
 "M::So baby talk?"
-'R::Daft: babies think it, but can not speak it'
+'R::Daft: babies think it, but can not speak it...'
 ~Rossin paused~
 'R::If they could...'
 }
@@ -383,10 +384,10 @@ The one you thought in before you learned how to speak.'
 'R::Here, sit down, and when you are ready, close your eyes.'
 *Martha moved to the bed and shut her eyes*
 'R::Okay...
-So - imagine your vision is in front of you,'
-"M::It is in front of me"
-'R::I mean like a screen, imagine you are looking at a screen, right'
-"M::And it's in front of me,"
+So: imagine your vision is in front of you...'
+"M::It is in front of me."
+'R::I mean like a screen, imagine you are looking at a screen, right...'
+"M::And it's in front of me?"
 'R::Aye, your field of vision. 
 Imagine you are a little dot - looking at that screen. 
 Right now it is black - that is all you can see.'
@@ -395,9 +396,9 @@ Right now it is black - that is all you can see.'
 Not with your vision, but at that point where you are looking at your vision. 
 Shift your focus to the right of your vision - it will be a blank wall.'
 ~Martha tried to do that~
-"M::I just see darkness, I don't know"
+"M::I just see darkness, I don't know."
 *She opened her eyes, and looked to the right: to where Rossin was*
-"M::How do I know when I've done it"
+"M::How do I know when I've done it?"
 *Rossin gestured for her to close her eyes*
 *She did*
 'R::It will be apparent - just relax and focus.
@@ -411,7 +412,7 @@ Pivot your attention away from where you see.'
 ~She was pretty sure she was just trying to look right with her eyes~
 ~No matter how she tried she wasn't able to just~
 ~Turn her brain like that, was that the best phrase, she wondered~
-'Turn my brain....'
+'M::Turn my brain....'
 ~Eventually - with her eyes closed - she allowed her mind to wander~
 ~She was in a motel room trying to look right and~
 ~A flash of white appeared, and was gone~
@@ -423,13 +424,13 @@ Pivot your attention away from where you see.'
 }
 {
 "R::What is it?"
-"M::A blinking rectangle"
+"M::A blinking rectangle."
 ~Words underneath the blinking rectangle, as the shape moved to the right~
 ~It was a cursor~
 ~It continued to the right, then shifted to a new line~
 }
 {
-`"Hello Martha, say apple"`
+`"Hello Martha, say apple."`
 "M::It's telling me to say apple?"
 'R::I can write on it. 
 Martha - think of this as a message board. 
@@ -458,7 +459,8 @@ Turn back the other way.'
 'Was there a right word?']`
 "M::Rossin, is there a...
 Word for this - what I'm doing.
-I'm not looking to my right - I'm not using my eyes"
+I'm not looking to my right. 
+I'm not using my eyes."
 'R::Inter-seeing, is the definition. 
 There are other places you can look. 
 There is not much there - and I would not go poking around...
@@ -468,14 +470,14 @@ Best not to accidentally look at it.'
 "M::But the right is safe?"
 'R::The right is safe, I built that myself.
 Fancy, no?'
-"M::It's just text"
+"M::It's just text..."
 *Rossin waved dismissively*
 'R::You have yet understand, it is in your language. 
 Access to your brain, in your own language. 
 Not the language brains use: yours...
-That is fancy'
+That is fancy.'
 "M::It's fancy - not colorful, decorative, or initially impressive...
-But fancy I'll grant you"
+But fancy I'll grant you."
 ~Rossin grumbled~
 'R::The fancy part you have not seen yet.'
 "M::Oh?"
@@ -485,11 +487,11 @@ But...'
 'R::Might as well tell you now - you can write hooks on that board. 
 Execute them - and then your brain will just...
 Do them for you, baby steps in actually learning how to speak hooks yourself...
-Without the aid of that translator, this is a fancy translator'
+Without the aid of that translator, this is a fancy translator...'
 }
 {
 "M::So I can...
-Just write anything"
+Just write anything."
 'R::Anything yes...
 As long as you spell it out exactly you can write what you want down. 
 As long as it makes sense to you. 
@@ -497,10 +499,11 @@ Is the correct instruction to give.
 And it means exactly one thing...
 No wiggle room...
 The closer it is to what your brain wants: the less likely something is to...
-Go wrong - or be misinterpreted'
+Go wrong... 
+Or be misinterpreted.'
 "M::Right.
 That's...
-Useful - and I think impressive - I don't really have a frame of reference"
+Useful - and I think impressive - I don't really have a frame of reference..."
 }
 {
 *Rossin sighed*
@@ -530,7 +533,7 @@ Aye - good time to mention you are going to need more calories...
 Your brain is using more calories than usual... 
 Will be using more calories overall...
 You should get used to eating...
-A fair bit more'
+A fair bit more...'
 "M::What's a fair bit more?"
 'R::An extra couple of meals a day...
 Good big meals.'

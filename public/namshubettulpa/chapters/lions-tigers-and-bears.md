@@ -1,15 +1,16 @@
 # LIONS TIGERS AND BEARS
 {
 mn:M
-~Martha sat in the back of the police car, Albert driving - and the scrawny police officer up front~
+~Martha sat in the back of the police car, Albert driving and the scrawny police officer up front~
 ~Felix sat next to her in the back and Rossin~
-~He just sort of floated in the middle of the divider - sitting on the armrest in front facing backwards~
-~His front half was poking through the thick plastic~
+~He just sort of floated in the middle of the divider, sitting on the armrest in front facing backwards.
+His front half was poking through the thick plastic~
 }
 {
 "F::I am curious, though.
 How did you learn about...
-All of this? It's just that most people usually have a sponsor, a teacher, that gets them in"
+All of this? 
+It's just that most people usually have a sponsor, a teacher, that gets them in."
 "F::I...
 Well."
 ~Rossin talked over the sound of the engine and Martha repeated:~
@@ -21,7 +22,7 @@ That there was a meritocracy, and..."
 "F::Okay.
 Second lesson: ready?"
 ~Again he didn't pause~
-"F::Don't say anything more than you need to"
+"F::Don't say anything more than you need to."
 ~And he fell silent, Martha started to ask~
 *But he raised a hand*
 "F::Why?"
@@ -38,16 +39,16 @@ Second lesson: ready?"
 *Rossin groaned*
 ~Felix paused, considering~
 *He looked at his hands*
-"F::Nothing lives forever, everything dies, many deaths before the final one"
+"F::Nothing lives forever, everything dies, many deaths before the final one."
 ~Martha thought he doesn't really obey this second rule often, he's quite talkative~
 }
 {
-"M::We're here,"
+"M::We're here."
 ~Martha saw the yellow police tape in front of her house and her neighbor's~
 *Felix barked an order and Albert pulled into their driving lot - breaking the tape in the process*
-"F::Go clean that up,"
+"F::Go clean that up."
 *The officer in the front seat shivered, then exited the vehicle*
-"F::Let us out,"
+"F::Let us out."
 *The officer abruptly turned around and opened the door*
 ~Martha watched his casual disregard of those he gave orders to~
 *Felix walked over to the neighbors building and rang the door*
@@ -55,7 +56,7 @@ Second lesson: ready?"
 ~Martha paused~
 "M::I think one.
 Son I believe."
-"F::Even better,"
+"F::Even better."
 *The door opened, and Felix pulled out his phone, shoving it in the man's face*
 }
 {
@@ -79,7 +80,7 @@ I did not get a good look at it...
 Because you did not...
 Which is good - it looks like it is just a general command to follow his voice prompts.'
 *Martha walked to where the outline of a body in white caulk was sketched into the wooden floor*
-"F::Clean that up, both of you,"
+"F::Clean that up, both of you."
 ~And they did as they were told~
 *Felix strolled to the couch - and sat down - beckoning Martha to join him*
 }
@@ -92,7 +93,7 @@ Have you ever been to the back of the mind?"
 *Martha shook her head*
 "F::You know what it is?"
 *Martha raised her hand, shook it in a noncommittal gesture*
-"M::More or less, less than more"
+"M::More or less, less than more..."
 "F::Alright then, well, it's a place...
 Not connected by location, but by...
 Ideas, emotions...
@@ -111,7 +112,7 @@ To eventually the point where he doesn't exist as an identity anymore.
 Where the largest part of him is one of these small ideas...
 He mixes in the ocean, when he was a drop before...
 It's a long process - when no one knows who you were, you cease to be.
-That is the final death: the death in the back of everyone else's mind"
+That is the final death: the death in the back of everyone else's mind."
 *Martha nodded*
 'R::He is mostly right...
 But he is leaving some things out. 
@@ -127,7 +128,7 @@ And that too, how does he come back?"
 "F::He'll have a brand on his head - his identity, ignored by those that don't know him.
 And anyone who sees it will think it's him.
 Even if they don't recognize him at first. 
-Once they get a look at his face - they'll be like, 'oh my god, I didn't recognize you',"
+Once they get a look at his face they'll be like, 'oh my god, I didn't recognize you'..."
 ~He emphasized the last with an overtly high falsetto~
 "F::And their memories will be written over to match the face they expect. 
 The face they saw before will have been the face they presume to see now."
@@ -152,11 +153,11 @@ It's a namshub for everyone else, not the wearer."
 *Rossin leaned over to inspect the device as Felix spoke*
 "F::The center part is the general command, the letters are just writing out the name - easy for others to see...
  This isn't exactly my first rodeo - I've made some mistakes too. 
- Doing this without this is a bit of a pain, but possible"
+ Doing this without this is a bit of a pain, but possible."
 *Rossin whistled as Felix returned the device to his pocket*
-"F::Just needs a bit of fire,"
+"F::Just needs a bit of fire."
 "M::Not electric?"
-"F::...An electric brand - it's not a taser,"
+"F::...An electric brand, it's not a taser."
 "M::A heated piece of wire, for the center...
  I'm not sure how exactly you'd do the rotating letters."
 ~Felix paused~
@@ -181,16 +182,16 @@ But it'll be a small amount...
 Not enough to make a meaningful difference.
 But every death...
 There is some loss. 
-That's entropy: unavoidable"
-*Felix tossed the device to the son, *
+That's entropy: unavoidable..."
+*Felix tossed the device to the son*
 }
 {
 "F::Twist the dial so it says your father's name on the branding side, put that side in the fire..."
 *He looked back at the kitchen*
-"F::And wear some kitchen gloves"
+"F::And wear some kitchen gloves."
 *He turned back to Martha*
 "F::Don't make that mistake...
-Be explicit"
+Be explicit."
 }
 {
 *Rossin paced from the door to the kitchen entrance, listening and thinking*
@@ -200,7 +201,7 @@ They want him as a teacher there - he can get you in...'
 "F::What is it?"
 *Martha looked back*
 "M::Sorry, I thought I heard something.
-What happens after this, you said you were a teacher, is there a school"
+What happens after this, you said you were a teacher, is there a school?"
 *Felix's mouth twitched its corner into something resembling a smile*
 "F::I don't, well....
 They have been asking me to teach...
@@ -208,7 +209,7 @@ Hounded me actually.
 I just never had a reason to. 
 I would have rather spent my days practically alone...
 Practicing alone, on a cruise around fiji. 
-Enjoying gourmet food, and silence"
+Enjoying gourmet food, and silence."
 *He tilted his head*
 "F::There wasn't any reason either, I was a good student, but...
 They didn't take to me, the teachers that is, to me too much...
@@ -217,11 +218,11 @@ I think it was their way of trying to keep an eye on me, that is, getting me to 
 {
 ~Martha paused~
 ~Rossin urged her on~
-"M::Or they knew you would be good at it"
+"M::Or they knew you would be good at it..."
 *Felix smiled*
 ~Not a happy one~
 "F::Or they knew I would be good at it...
-Two things can be true, maybe it was both"
+Two things can be true, maybe it was both."
 ~Martha waited, Felix studying her~
 "F::I'll train you for a time, and if you're good enough - you can meet other's like you...
 But I...
@@ -235,14 +236,14 @@ Quicker than you know."
 }
 {
 *But he snapped his head up at the sound of footsteps falling down the stairs*
-"F::We're mostly done here,"
+"F::We're mostly done here."
 *He turned his head back to the stairs*
 ~The officer had his uniform bundled in his arm~
-"F::I'll take that,"
+"F::I'll take that."
 *He reached out and grabbed the uniform*
 *Looking back at Martha*
 "F::Rule three: less of a rule more of a suggestion: costumes are fun. 
-You can write in a costume in their mind, but why do the extra work"
+You can write in a costume in their mind, but why do the extra work."
 *He turned his head back to the kitchen*
 "F::Son, go brand your new father on the forehead."
 *Felix tilted his head to the once-been officer*
@@ -252,7 +253,7 @@ You can write in a costume in their mind, but why do the extra work"
 {
 *Felix grabbed the back of both their heads and closed his eyes*
 ~A moment later, ~
-"F::There,"
+"F::There."
 *And Felix leaned back*
 }
 {
@@ -270,13 +271,13 @@ Also - things move faster in there."
 {
 *Felix yawned, and stretched*
 "F::I've been on a flight since last night - and I've been awake for much too long, I'll see you in...
-The evening I guess"
+The evening I guess."
 *He glanced outside*
 ~The sun just now angrily shined through the windows~
 *Martha yawned - involuntary*
 "M::I've had a night myself."
 *Felix laughed*
-"M::There's my place, I have a couch"
+"M::There's my place, I have a couch."
 ~Rossin looked disappointed~
 *He was shaking his head, Felix shook his as well*
 }
@@ -284,7 +285,7 @@ The evening I guess"
 "F::Rule zero: you ready?"
 ~This time he did wait until she nodded~
 "F::Don't trust anyone...
-Especially while you sleep"
+Especially while you sleep."
 *And with that he stood up*
 "F::That's the most important one of all.
 Don't trust anyone - no one has exactly your goals. 
@@ -309,7 +310,7 @@ I am unsure what he wants exactly...'
 *The father started toward her, prompting Martha to sprint for the door*
 *She just make distance before the son could reach her*
 *She ran down the street*
-'R::Keep going'
+'R::Keep going...'
 ~She passed her house: focused on running down the sidewalk~
 }
 {
