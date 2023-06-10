@@ -35,13 +35,12 @@ My physical representation of a back.'
 ~He wasn't in the link~
 ~Below him was the link~ 
 ~The connection between minds lay open before him~
-~But they were growing distant~
+*But the link was growing distant*
 ~This was a void~
-~And Robert was pulled away~
-*Robert turned his head up*
+*Robert was pulled away and he turned his head up*
 ~Above him was a creature of incomprehensible size~
 ~Stretching the bare horizon from end to end in eyes~
-~The creature seemed to be growing even, but no...~
+~The creature seemed to be growing, but no...~
 *He was just getting closer*
 'That will eat me.'
 ~His struggling was in vain as he was slowly raised up~
@@ -194,10 +193,132 @@ You will require a physical body."
 ~Towards a ship~
 }
 {
-    `
-    todo:
-        ~Gerald~ gets mind wiped after ~Robert/Alice~ steal a coma patient's body.
-            but they point Alacira in the direction of ~Al-tok~ {by doing so or by intention}
-    
-    `
+%%%%
 }
+{
+mn:G
+}
+{
+~Gerald was alone on sub-deck three starboard, clipboard in hand. 
+He was carefully watching the shield hold back the storm~
+*He gripped the metal railing*
+~All that was keeping him from the void was that thin iron~
+~The rippling colors on the shield were concerning Gerald~
+'G::We are going to need more adventurers...'
+~The end's dreadnought had energy requirements.
+It needed dreams.
+So Alacira and Whitewater gave them to it~
+*He made a mark, then wrote some numbers*
+~How many new people they would bring on, and some rough calculations~
+'G::Eleven...'
+~At most that many, but that was only for the shield.
+He had the rest of the list he was holding to inspect yet~
+'G::Onward ho...'
+~It was time to inspect the generators, then the steering, then the -~
+~He felt the floorboards vibrate first, the thud came second~
+*Gerald spun around*
+~A person was there, on deck. 
+Gerald had just turned away from the only door out of this observation deck.
+So this man came from out there~
+*Gerald backed away*
+'G::Alarm, raise the alarm.'
+~There was an intruder on board~
+~Gerald noticed the the tugging on his wrist~
+*A small turquoise bail rattled and glowed, its gravity turned toward the intruder*
+'G::Is it a piece of, or is it...'
+~Gerald couldn't finish the though~
+*He ran out of the observation deck and closed the door behind him.
+The metal door closed with a thud, spinning locked behind him*
+~Above and to his right, he saw the red button~
+*He pressed it an alarms blared*
+'G::You have the radio...'
+*He grabbed the radio from his belt and click it on*
+"G::Captain, copy?"
+~Tense moments passed and he heard some banging on the door behind him~
+"A::What's going on, gerald?"
+*Gerald backed away from the door*
+"G::You got your white whale here in sub-deck three, I think..."
+~Gerald waited, the door was locked, it would -~
+*A small red dot appeared in the metal, it grew brighter shifting in color to a bright white. then it slowly started moving*
+"A::Locking decks below you, evacuate to the top."
+*Gerald started running in earnest*
+"G::Copy, it's getting in..."
+~Gerald stole a glance back, watching where the dot of blinding heat had reached. 
+It was making an arc, but it was not far along~
+"G::Estimated fifty seconds until it breaches."
+~The stairs up would be to the right, down the hall, he could make it~
+"A::Get up here and -"
+~Gerald didn't hear the rest, behind him was an explosion~
+*Boom*
+}{
+%%%%
+}
+{
+~Gerald woke up some time later, when Wilbert was fishing him out of the rubble~
+"W::I've got one over here."
+*Alacira came rushing over*
+"A::Run faster next time, do you need anything?"
+~Gerald waved her off~
+"G::Is it still here?"
+"A::No. 
+We thought it took you as well,
+Now we're only missing one..."
+~Just one...
+It could have been worse, Gerald rationalized.
+Still, he was glad we wasn't that one~
+*Gerald heard a rumbling above him*
+~Not from the ship, but from the shield~
+"G::Who's missing."
+"A::One of the dreamers."
+~Gerald updated the list in his head~
+'G::twelve needed now...
+Or as low as ten children.' 
+~Children on averaged attract more algera on their dreams~
+*Gerald got up*
+~Slowly, testing each limb first~
+"A::What was the color?"
+*Gerald grabbed his wrist*
+~The one with the small banded leather bracelet~
+"G::Turquoise, more blue than green."
+*Alacira nodded*
+"A::Our white whale is pure blue, so it was a piece...
+Or less..."
+~Gerald surveyed the damage.
+Most of the deck was fine save for one door, leading to a dreamer's room~
+*Gerald looked inside, staying at the threshold*
+~The room was a mess, items scattered everywhere. 
+There was no bed, no one wanted to sleep while dreaming~
+'G::Oh dear, is that blood?'
+~On the floor was a stain~
+"A::Let's get our dreamer back."
+*Gerald leaned out of the room, facing Alacira*
+"G::We'll need a few more, I was in the middle of my rounds..."
+*Gerald handed the clipboard to Wilbert, who nodded and walked off*
+"G::Right then, shall we?"
+}
+{
+    %%%%
+}
+{
+      Narrator:"Robert Glass in the body of {}"
+  Time: shortly after summoning ~Al-tok~  
+    ~Robert Glass~, and ~Alice Glass~ (Who shares his mind) have a road trip
+     They are hiding in the physical world
+    They have a conversation:
+      ~Al-tok~ is just controlling puppets, 
+      It is not actually in any of them.
+      And it can remove himself quickly.
+      It needs a *physical* presence: 
+        in order to inject it.
+        'equivalent to showing a vein' 
+
+    ~Alice~ convinces ~Robert~: 
+      ~the creature~ 
+        with billions of eyes and mouths
+        feeding on humanity
+          is not a good thing.
+    ~Robert~ wants to use ~Al-tok~ 
+      as a chip to renegotiation.
+}
+# [another plan](another-plan.md) 
+
