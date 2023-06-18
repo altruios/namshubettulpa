@@ -1,5 +1,5 @@
 {`
-~date~:06/02/23 
+~date~:06/18/23 
 
 ~status~: ~in progress~ {
 ~estimated~: ~74% of first draft~    
@@ -55,6 +55,8 @@ chapters:{
 24. [debugging](debugging.md)
 
 25. [desperate resort](desperate-resort.md)
+
+26. [interludes 2](interludes-2.md)
 }
 `
 }
