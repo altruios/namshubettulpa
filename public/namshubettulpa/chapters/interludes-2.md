@@ -300,25 +300,68 @@ There was no bed, no one wanted to sleep while dreaming~
     %%%%
 }
 {
-      Narrator:"Robert Glass in the body of {}"
-  Time: shortly after summoning ~Al-tok~  
-    ~Robert Glass~, and ~Alice Glass~ (Who shares his mind) have a road trip
-     They are hiding in the physical world
-    They have a conversation:
-      ~Al-tok~ is just controlling puppets, 
-      It is not actually in any of them.
-      And it can remove himself quickly.
-      It needs a *physical* presence: 
-        in order to inject it.
-        'equivalent to showing a vein' 
-
-    ~Alice~ convinces ~Robert~: 
-      ~the creature~ 
-        with billions of eyes and mouths
-        feeding on humanity
-          is not a good thing.
-    ~Robert~ wants to use ~Al-tok~ 
-      as a chip to renegotiation.
+mn:AG__RG
+}
+{
+~The dreary hospital Robert and Alice woke from was understaffed.~
+'AG__RG::So we know none of their locations?'
+~Robert was in control, piloting the body of the coma patient: a young child of seven~
+"RG__HP::Besides ozmind, and he can't be counted on."
+*A nurse walked in*
+"N::My you're awake!"
+~They tried and failed to speak, their brain just not developed enough.
+Alice was immediately concerned.
+If they needed to use a phone: that meant their brain couldn't support...~
+"RG__HP::Do you have my cellphone?"
+*The nurse perused the closet in front of them, then handed them a cellphone*
+~A short look into memories for a password.
+Robert was downloading the translator...~
+*Robert piloted the patient to hold up the phone*
+`
+hooks.wipe{~memories~}.find(x=>x==~self~)
+`
+~The nurse's eye twitched, and they held a blank stare~
+*The nurse walked back out of the room*
+*Robert searched the closets in front of them, for clothes*
+~A short time later, they were on the road.
+Driving a classic cadillac down a lonely desert highway.
+They left old man they took it from with nothing~
+"RG__HP::We're on an island, in here, this coma patient."
+'AG__RG::As much as an island as you can get, I suppose.
+There is still the physical link...'
+~The were heading to an international airport, with only a few miles to go~
+"RG__HP::We stay here, we don't go though the link."
+~Alice didn't have to hear Robert's explanation to know his thoughts.
+Al-tok was in the link;
+Stay out of shark infested waters while bleeding~
+'AG__RG::We need an older body, fully formed brain.'
+~Robert, she could tell, was already on it, he had a subject in mind...
+Or if not that specific subject...
+A place in mind to find a suitable subject~
+'AG__RG::I should have set up a landing pad.'
+"RG__HP::Or just don't die..."
+~A break, where they dove under the desert sun, undisturbed.
+After reaching the airport they stood staring at the terminals for a time~
+'AG__RG::We will need a lab.'
+~Robert had the information as well, stored somewhere that creature put it~
+'RG__HP::We have a few options, there is that chemist in New York?'
+~Alice dismissively rejected that~
+'RG__HP::Dubai it is.'
+*Robert piloted them towards the terminal*
+'AG__RG::We will also need a subject.'
+"RG__HP::So we head back to New York."
+'AG__RG::No, Not anywhere near that thing until we are ready, but...
+As long as al-tok here, that thing is not going to eat us.'
+~That thing with the billion eyes, and tongues.
+An image so vast it took time to process~
+~The argument continued into seating on the plane.
+They were in first class, of course~
+"RG__HP::So what?
+We use it as a bargaining chip?
+Make them fight each other?
+What?"
+'AG__RG::The bargaining chip is a good idea...'
+~They contemplated and fought as the plane took off for Dubai~
 }
 # [another plan](another-plan.md) 
 
