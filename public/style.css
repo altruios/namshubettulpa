@@ -106,14 +106,18 @@ h6 {
 }
 .bubble{
     border:solid;
-    padding:3; 
     border-radius:35px; 
-    width:fit-content;
+    max-width: stretch;
     min-width:20vw !important;
-    max-width:85vw;
+    white-space: none;
+
     border:solid black;
     margin-top:.7rem !important;
-    padding: 0.2rem !important;
+    padding-left: .1rem !important;
+  
+    padding-bottom:0.6rem !important;
+    padding-right: .5rem !important;
+
     padding-top:0.1rem !important;
 }
 .bubble_label{
@@ -127,7 +131,6 @@ h6 {
     margin: 0 auto 0 0;
     }
 .speech{
-    padding:0rem;    
     color:#fafafa;
     background-color: #248bc5;
 }
@@ -137,14 +140,13 @@ h6 {
     color:#000070;
 }
 .thought{
-    padding:0rem;    
     background-color: #af80af;
-    color:#000070;
+    color:#3d211b;
 }
 .thought2{
     padding:0rem;    
     background-color: #b58782;
-    color:#000070;
+    color:#3d211b;
 }
 .other{
     padding:0rem;    

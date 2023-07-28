@@ -15,7 +15,7 @@ She was in Flanagan's foyer~
 *She was still holding the mirror: squeezing it, in fact*
 ~Rossin stood at her side~
 "K::Martha?"
-~Kent was next to Rossin, behind him was Flanagan~
+~Kent was next to Rossin, behind him was Flanagan in Felix's body~
 *Flanagan walked forward and through Rossin*
 "FL__F::It's one thing to push her in from a dream..."
 "A::Are you back yet?"
@@ -97,19 +97,20 @@ mn:F
 Bits of the conversation Flanagan and the other's had slipped from his memory~
 ~They were talking - discussing a plan - sitting around a coffee table.
 Flanagan at the head, standing.~
-~Try as he might, Felix couldn't move, nor could he reach Flanagan's mind.
-He saw a ghostly version of the world, locked in a relative position behind his own body.
-With Flanagan at the helm~
-"FL__F::Your Mother?"
-~Felix saw Martha nod~
-*The phone rang again, and Flanagan placed it in the device once again*
-~Felix couldn't read the words on the device~
-~Everything froze in place, Felix could think, but something was wrong...
+*Everything froze in place* 
+~Felix could think, but something was wrong...
 This happened occasionally, parts of their conversation he couldn't hear, so from his perspective: everything froze~
 'F::Something Flanagan did...'
 ~Felix struggled, but still: could not move~
-~Everyone in the room jumped into place~
-*Flanagan put the phone back in its cradle*
+'F::Again...'
+~Try as he might, Felix couldn't move, nor could he reach Flanagan's mind.
+He saw a ghostly version of the world, locked in a relative position behind his own body.
+With Flanagan at the helm~
+~Felix could see... 
+Something on the table.
+It fuzzed into non-description.
+Flanagan was interacting with it, holding part of it~
+*Everything around Felix jumped into place and started moving again*
 "FL__F::They wouldn't have called unless they were sure.
 Lana, what did you have?"
 "A::Meta-metastatic over-writing."
@@ -137,7 +138,8 @@ He was stuck watching his own body~
 ~He noticed he missed a large portion of the conversation.
 Martha was crying, and Kent...
 Kent was holding his badge~
-*Flanagan had the phone in his hand*
+*Flanagan had that device in his hand*
+~Felix saw Flanagan's hand fuzz, blurred~
 "FL__F::Center the last one around this address..."
 ~Felix felt a Flanagan filter through his memories, until one stood out. 
 It was where he had killed Alice~
@@ -167,13 +169,15 @@ It could just take a host, and walk them back to the lab for a permanent upgrade
 ~Al-tok was still incomplete. 
 More hosts let it fit more of itself in this reality.
 But they were pitifully small pools for its essence~
-*The husks moved about in a hive of activity, then all stopped and looked up to a whistling sound in the distance
+*The husks moved about in a hive of activity. 
+All stopped and looked up to a whistling sound in the distance.
 They shuddered in pleasure the the screeching wind breaking apart to form that whistle*
 ~Then they were gone, in an instant Al-tok reeling~
 ~The New Yorker it inhabited did not have the serum yet, Al-tok was just about to walk him over... 
 But now...
 Now Al-tok was in only one~
-~Al-tok still had the spear, and as it felt this host's heart give out~ 
+~Al-tok still had the spear, and as it felt this host's heart give out.
+It was Al-tok's shock that did this host in, so...~ 
 *Al-tok spread to the next one*
 ~If it had no hosts...~
 'AT::There is still the link.'
@@ -187,18 +191,24 @@ It wouldn't be able to spread how it wanted~
 'AT::There is not enough time...'
 ~Everything Al-tok touched burned without that serum~
 'AT::So just...'
-~Al-tok was in the host of a young girl drawing at a desk~
-*It furiously started drawing*
-~When the host died, Al-tok took another, taking the picture to the living room and continuing the drawing.
-Then the neighbor... 
+*Al-tok, in the host of a young girl, drew at a desk*
+*It threw away the child's unfinished drawing and furiously started it's own*
+~When the host died, Al-tok took another - the host's mother from downstairs - Continuing the namshub~
+~Al-tok's host's heart felt weak~
+*It took the picture to the living room... it would be a shorter distance for others*
+*Al-tok unlocked the front door, then layed on the couch*
+*A neighbor passing by walking their dog dropped their leash and walked inside the open house*
+~Then the next neighbor... 
 Neighbors...~
-~The Neighbors, the curious ones, drew closer; they wondered why people were dashing into this particular house.
+*A lost dog barked at the open door*
+~The neighbors - the curious ones -  drew closer; they wondered why people were dashing into this particular house.
 Less distance for the hosts, Al-tok didn't mind, more time for drawing~
 *Al-tok moved the drawing to the kitchen table*
 ~So the next host would have more time to draw.
-It wouldn't have to climb over the bodies piling the room.
+It wouldn't have to climb over the bodies piling the living room.
 But that wasn't the biggest difficulty...
-Really it was finding the right colors: no one seemed to have colored pencils~
+Really it was finding the right colors: no one had colored pencils.
+So Al-tok improvised~
 'AT::There...'
 *Al-tok, over a pile of bodies in a suburban kitchen, took a picture of that image on a phone*
 ~Al-tok searched through the hearts, filtering~
@@ -214,6 +224,7 @@ const numbers = serum_producers.map(x=>x.~phone number~)
 A few moments was not enough~
 ~So it waited~
 ~Moments before the host died, Al-tok noticed the curiously normal behavior of the neighbors~
+~No longer distracted by it's mad rush to regain a solid foothold, it look at them closely~
 *Al-tok took the next host outside the house*
 ~It was an old lady on a scooter, and waited, not rushing in like before.
 Observing them, Al-tok saw them behave how it expected humans would~

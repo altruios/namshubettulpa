@@ -144,6 +144,68 @@ She knew it was a higher dimensional shape, but other than that...~
 
 }
 {
+%%%%
+}
+{
+mn:M
+}
+{
+"RG__JL::...And we came back here."
+*Juan took another sip of tea*
+~Martha watched him. 
+This was the person - one of the persons - that released Al-tok...
+Three of them, together...
+Alice in Robert in Juan~
+`"How does that work? Three people in one mind?"`
+~Rossin was perched on the sofa arm~
+*He looked back to her*
+'R::Memory loss, they have to make space somehow...
+Same as you.'
+~When Martha didn't reply, he continued~
+'R::How do you think I fit in here...
+I only got rid of the boring stuff...
+Far as I can tell, anyway.'
+"A::So where is our dreamer, Dubai?"
+*Juan nodded*
+*Alacira held her hand to her head*
+"A::Wilbert, Sonny: take care of that."
+"RG__JL::They're fine, in a hospital."
+"FL__F::So you made this new Serum then?"
+"RG__JL::Not yet, Dubai was..."
+~Robert trailed off, and Martha saw his vision track to the kitchen~
+"RG__JL::Is that the chemist?"
+"FL__F::Yes, we had some trouble with him."
+"RG__JL::Why is he here out of his lab.
+He's like a fish out of water..."
+~There was a silence~
+"RG__JL::No offense."
+*Wilbert sighed*
+~A very poignant, punctuated sigh~
+"W::Sir."
+*Alacira nodded*
+"A::Flanagan, do you have anything for Wilbert."
+*Flanagan, on the sofa across from Martha waved them to the main entrance*
+"FL__F::Up the stairs, first door on the right: costumes."
+*Sonny, her spiders along the ceiling, and Wilbert left the foyer*
+"RG__JL::Once we have the serum made we just need to find our original body."
+"FL__F::Well..."
+*Flanagan coughed*
+"FL__F::That may be a problem.
+It was recently shot with a cruise missile."
+"RG__JL::Really all we need is Al-tok in a body."
+~Again, the silence was deafening~
+"RG__JL::It has a body."
+*Flanagan gesticulated noncommittally*
+"FL__F::If it has a body...
+It could be anyone it chooses."
+"RG__JL::It can't survive in a host without Alice's serum...
+Not for long anyway."
+
+
+
+
+}
+{
 `
 todo: 
 Narrator:"Martha"
