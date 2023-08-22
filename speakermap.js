@@ -29,6 +29,7 @@ const speaker_map={
     RO:"Officer Rogers",
     RP:"Reporter",
     RX:"The Relux",
+    RXD:"Redlux",
     S:"Students",
     SO:"Sonny Seraphim",
     SM:"Male Voice",
@@ -46,6 +47,7 @@ const speaker_map={
     _R:"Relux",
     _T:"Tok",
     _N:"Nerium",
+    _D:"Redlux",
 }
 
 module.exports = speaker_map

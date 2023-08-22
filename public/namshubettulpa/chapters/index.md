@@ -1,8 +1,8 @@
 {`
-~date~:06/18/23 
+~date~:08/22/23 
 
 ~status~: ~in progress~ {
-~estimated~: ~74% of first draft~    
+~estimated~: ~77% of first draft~    
 }
 chapters:{
 
@@ -57,6 +57,8 @@ chapters:{
 25. [desperate resort](desperate-resort.md)
 
 26. [interludes 2](interludes-2.md)
+
+27. [another plan](another-plan.md)
 }
 `
 }

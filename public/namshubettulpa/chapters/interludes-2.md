@@ -217,7 +217,7 @@ He had the rest of the list he was holding to inspect yet~
 ~It was time to inspect the generators, then the steering, then the -~
 ~He felt the floorboards vibrate first, the thud came second~
 *Gerald spun around*
-~A person was there, on deck. 
+~A man was splayed there, on deck, the metal floorboards dented in a crater around him. 
 Gerald had just turned away from the only door out of this observation deck.
 So this man came from out there~
 *Gerald backed away*
@@ -239,7 +239,8 @@ The metal door closed with a thud, spinning locked behind him*
 *Gerald backed away from the door*
 "G::You got your white whale here in sub-deck three, I think..."
 ~Gerald waited, the door was locked, it would -~
-*A small red dot appeared in the metal, it grew brighter shifting in color to a bright white. then it slowly started moving*
+*A small red dot appeared in the metal, it grew brighter shifting in color to a bright white. 
+Then it slowly started moving*
 "A::Locking decks below you, evacuate to the top."
 *Gerald started running in earnest*
 "G::Copy, it's getting in..."
@@ -306,12 +307,12 @@ mn:AG__RG
 ~The dreary hospital Robert and Alice woke from was understaffed.~
 'AG__RG::So we know none of their locations?'
 ~Robert was in control, piloting the body of the coma patient: a young child of seven~
-"RG__HP::Besides ozmind, and he can't be counted on."
+"RG__HP::Besides Ozmind, and he can't be counted on."
 *A nurse walked in*
-"N::My you're awake!"
-~They tried and failed to speak, their brain just not developed enough.
+"N::My, you're awake!"
+~They tried and failed to speak words of power, the brain they were inhabiting young, stretchy, but small.
 Alice was immediately concerned.
-If they needed to use a phone: that meant their brain couldn't support...~
+If they needed to use a phone to use namshubs: that meant their brain couldn't support...~
 "RG__HP::Do you have my cellphone?"
 *The nurse perused the closet in front of them, then handed them a cellphone*
 ~A short look into memories for a password.
@@ -350,8 +351,8 @@ After reaching the airport they stood staring at the terminals for a time~
 *Robert piloted them towards the terminal*
 'AG__RG::We will also need a subject.'
 "RG__HP::So we head back to New York."
-'AG__RG::No, Not anywhere near that thing until we are ready, but...
-As long as al-tok here, that thing is not going to eat us.'
+'AG__RG::No, Not anywhere near Al-tok, but...
+As long as it is here, that thing is not going to eat us.'
 ~That thing with the billion eyes, and tongues.
 An image so vast it took time to process~
 ~The argument continued into seating on the plane.

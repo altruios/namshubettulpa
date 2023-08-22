@@ -33,7 +33,7 @@ She took a breath*
 ~Bracing for the pain~
 `
 const ~orb~ = {
-    *center*:~Self~.*center*+(10ft,10ft),
+    *center*:~Self~.*center*+(10ft{y},-10ft{z}),
     ~color~:~blue~,
 }
 ~Self~.hands.get_held().reshape(~orb~)
@@ -41,7 +41,7 @@ const ~orb~ = {
 *Her shoe transformed in her hand, and she had to squint her eyes*
 ~The light was a bright blue, and was quickly growing hot~
 *She stood up and released it*
-~It floated in place and she turned around~
+*It floated into place ten feet above and behind her* 
 ~The close wall was illuminated.
 It was a blur, rushing past her.
 The far wall was too dark to see from this distance~
@@ -75,22 +75,29 @@ const *bubble_shield* = {
 ~She felt prickles of electric static dance along her skin as it passed through her~
 *Below Martha, something was rising from the depths faster than she was*
 `
-~self~.~gravity~=~self~.gravity x 5
+~self~.~gravity~=~self~.gravity x 10
 `
-~Five times, she could handle that, she didn't know offhand how many G's a human could take~
+'M::You should be able to handle more in a dream, right?'
+~Ten fold, she could handle that, she didn't know offhand how many G's a human could take~
 *What was rising below caught up to her*
 ~It was a dark goo, a morphing blob shifting into the shapes of humans, each reaching towards her in desperation.
 But the overall shape was a hand~
 *Which slammed into Martha's bubble, smashing it into the cliff face.
-The shield bubble burrowed up into the rock, spinning wildly before coming to a rest.
+The shield bubble burrowed up into the rock, spinning wildly before coming to a rest.*
+
+*
 The little orb of light slowly stopped spinning from inside the perimeter*
-~She hung in the air, the wind knocked out of her - feeling the effects of the increased gravity and no where to go, the bubble keeping her in place~
+~A sudden hunger hit her.
+A coldness spread, filling her from her stomach
+She couldn't breath.
+The bubble and the gravity kept her still.
+~
 `
 ~Self~.~gravity~=0
 `
 ~She could breath again, and after a few sharp breaths...~
 *The hand poked the bubble again, wedging it deeper in the cliff face*
-~As the rock crunched, Martha felt a burning sensation throughout her body, and a sudden increasing hunger~
+~As the rock crunched, Martha felt a burning sensation throughout her body, and the hunger spiked again~
 *The hand pulled back. 
 And the orb inside the bubble again settled into a stable orbit*
 ~Martha was starting to panic beyond rational thought, she was trapped like a rat, hungry and tired~
@@ -175,6 +182,7 @@ Just endless nothing behind that tiny hole...~
 *Ada handed Jochek the gas mask*
 'J_R::This is going to be hard, just holding the side of the needle.'
 *Jochek picked up the needle and carefully stuck it in the gas mask*
+~They touched only the bottom of the needle: giving their hand as much clearance as possible from the eye~
 *Lenny had wandered over to the door, next to Dana, who was listening to the outside*
 ~The crowd had come down stairs and started opening doors.
 And then there were screams, and a torrent of noise, which grew steadily quieter.
@@ -209,9 +217,9 @@ As time stretched on the creature lowered its arms*
 ~Slowly, relaxing...~
 'AD_R::Try talking to it...'
 *Lenny pointed with his fingers to the door*
-~It was gesticulated in such a way to indicate they just wanted to pass~
-*The creature sniffed at and carefully inspected them.
-It then moved to the corner and sat down, watching them*
+~We gesticulated in such a way to indicate our desire to pass~
+*The creature sniffed at and carefully inspected us.
+It then moved to the corner and sat down, watching us*
 "L_R::I think we can go."
 ~Lenny was the one to see the gore and the blood painting the cellar walls~
 'L_R::And I am pretty sure it is intelligent.'
