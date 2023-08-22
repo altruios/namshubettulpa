@@ -4,9 +4,11 @@ mn:AT
 }
 {
 ~Al-tok was growing~
-~Most of Al-tok's focus was on a warehouse in queens~
+Small pieces of it were scattered throughout the city.
+But most of Al-tok's focus was on a warehouse in queens. 
 ~13 people tied to chairs were kept under guard by husks, from rafters above~
-~12 people controlled by one, Al-tok had that one tied up front and center~
+~12 people controlled by one. 
+Al-tok had the one in control tied up front and center~
 'AT::Predictably selfish...'
 *One appendage strolled up to the leader of the group*
 ~It wasn't something you could see, but though its husks Al-tok could sense it: the algera, emanating from the leader~
@@ -17,7 +19,8 @@ Soon to be another husk~
 'AT::So much energy.'
 ~It would be a delight to have~
 ~Moments passed, waiting for the serum to take effect. ~
-*And then Al-tok stretched through his mind, stretched it apart, and took control of the algera*
+*The captive started jerking uncontrollably.
+Al-tok stretched through his mind, broke it apart, and took control of the algera*
 ~And then Al-tok felt it slipping away~
 *From that singular point of a new husk, Algera started to leak*
 'AT::NO...'
@@ -26,7 +29,7 @@ Then calmness as it observed: the algera wasn't rushing out...
 This was not a set back, this was a blessing!
 Before Al-tok was filled to the brim, draining evenly from everywhere and now, empty... 
 Which let it follow the draining algera~ 
-*The algera streamed in a thin vector through Al-tok, following some well of attraction*
+*The algera streamed in a thin vector through Al-tok, following along some well of attraction*
 ~That was leading right to the sink hole~
 'AT::The thorn!'
 ~It wasn't on Al-tok or attached, it was submerged within...~
@@ -70,7 +73,7 @@ mn:M
 ~She stood under blue skies on a cliff, a ledge of red clay extending miles either direction, bowing in on itself, completing a circle so large she shouldn't be able to see it~
 ~She could see the walls at the end though - despite the distance - as there was no ground in this circle save for one pillar in the center~
 ~A pillar host to a Giant vibrant brown and green oak tree at the top, dominating the empty view~
-~And in front of her, a singular rickety wooden bridge~ 
+~And in front of her, a single rickety wooden bridge~ 
 *It was swaying in a dusty breeze*
 *She stepped onto it*
 ~The bridge extending to a tiny point in the distance, and her sense of scale widened~
@@ -79,15 +82,21 @@ mn:M
 ~Martha could fly~
 *She raised herself into the air*
 'M::I need to get used to that...'
-~The wind picked up and Martha thought for a moment the bridge was swept away, the landscape was otherwise featureless~
-~No, it was the wind moving her: flying against it was fine, it was just erratic~
+`['can you fly in the real world?']`
+"M::no... of course not..."
+~A part of her still wondered~
+~The wind picked up and Martha thought the bridge was swept away. 
+the landscape was otherwise featureless...
+No, it was the wind moving her: flying against it was fine, it was just erratic~
 'M::Better than falling.'
 *Martha flew out towards the edge and looked down*
 ~She saw a nothing, a familiar nothing at the bottom~
+'M::nope!'
 *She moved back over land*
 ~Her heart racing, she tried to calm her breathing~
 'M::Why should you be worried, you can fly.'
 *Martha Roared into the chasm*
+~A scream of defiance~
 ~If she could yell at it, she could be calm at it, just as her...~
 'M::Thanks mom...'
 ~She waited for an echo, and there was none.
@@ -116,7 +125,8 @@ It Looked, and by doing so, destroyed in the process~
 ~Martha had to cover her ears, from the rumbling~
 ~Below the canopy of roofs the rumbling ceased~
 ~Hidden under a false night, the streets were alive with activity~
-~Humans, street vendors, littered the middle with carts selling glowing lanterns~
+~Humans, street vendors, littered the middle with carts selling glowing lanterns.
+None paid any mind to the echoing roar~
 ~Music was in the air, a faint choir hum in the along with...
 Martha saw the source of the noise, a band with a satyr playing a pan flute, with a choir of Sirin behind them.
 There was some sort of parade - marching down the wooden streets - streamers flying everywhere~
@@ -139,7 +149,7 @@ Soon everyone was in their homes and Martha was alone in the silence and flicker
 ~Another crash in the distance~
 *All the houses around her started to hum...
 Then they started to glow*
-~She heard the rumbling grow to a pitch of a thousand jet engines~
+~The rumbling grow to a pitch of a thousand jet engines~
 *Martha ducked into the center of the street*
 ~Hiding under a cart to try to escape the growing heat~
 *The houses jettisoned away, flying off into the distant space*
@@ -199,8 +209,10 @@ Though at a slight angle~
 ~The pillar was still falling, faster than she could fly~
 ~There was no obvious exit~
 *She tried to crawl*
-~And worse the gravity of the falling pillar made even standing up nearly impossible~
-~Martha saw the earth riven at the cracks, she heard and felt the rumble, and her stomach dropped~
+~And worse the gravity of the falling pillar made standing up nearly impossible~
+~Martha saw the earth riven at the cracks. 
+She heard and felt the rumble. 
+Her stomach dropped~
 *The land mass she was on fell in, holding shape*
 ~Martha was still under the effects the of faster falling pillar's gravity, which lessened with each passing moment of her decent~
 *She looked up*
