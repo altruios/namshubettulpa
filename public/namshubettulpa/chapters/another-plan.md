@@ -6,10 +6,10 @@ mn:AD_R
 {
 ~Ada huddled in the cave, watching the snow blow outside.
 It was blowing sideways, rushing wind howled and whistled against the lip of the cave~
-*The storm outside roared strange sounds in the distance*
+*The storm outside roared; there were strange sounds in the distance*
 'AD_R::That sounds like more than just the snow.'
-~Behind and with her the other's huddled together for warmth.
-The gas-mask with the needle tucked safely between them~
+~Behind and with her, the other's huddled together for warmth.
+The gas-mask with the needle was tucked safely between them~
 "D::Isn't it morning yet?"
 "L_R::It is, it'll be light soon."
 ~They should have seen the sun by now, the storm only seemed to be growing.
@@ -23,12 +23,14 @@ A blinding torrent of wind and snow and...~
 ~Light was slowly breaking the through the snow, casting a blue glow to the trees, now just barely visible~
 *A chainsaw flew into a tree.
 It split the tree in two, both parts turning into chainsaws.
-The upper part of the tree turned chainsaw of the same size and flew away freely. 
+The upper part of the tree turned into a chainsaw of the same size and flew away freely. 
 The lower half remained wedged in the ground: the chain spinning in the open air*
 *Ada pushed the others back deeper into the cave*
+~It was only about twenty feet back~
 "D::That tree..."
+~Dana was watching the opening of the cave in shock~
 'RX::Okay, leaving the cave right now is not an option.'
-~The cave was shallow, only a few meters long, It had one entrance~
+~The cave was shallow, only a few meters wide, It had one entrance~
 'A_R::Any ideas on how to get out?'
 'L_R::Wait it out?'
 *Jochek shook their head*
@@ -46,7 +48,7 @@ Its not like we can fit anything though that.'
 "L_R::We're thinking about the way out dear.
 Maybe you just stick it in something, and it gets sucked out?"
 *Ada picked up a rock and tossed it on the needle.
-The rock violently ripped apart, turning inside out while shrinking into nothing*
+The rock violently ripped apart into prismatic colors, turning inside out while shrinking into nothing*
 ~She had seen something like that before...~
 'A_R::Inside out, and shrinking...
 so at least 5D, so are we just seeing a corner?'
@@ -67,8 +69,7 @@ so at least 5D, so are we just seeing a corner?'
 From where the chainsaw had bit in, rows of chains began to form~
 *The chainsaw sank into the visible chains*
 ~The infection spread along the wall~
-*Ada, everyone was backing up*
-~The cave was only about twelve feet deep~
+*Everyone pressed up against the back wall*
 ~The rows of chains seemed to melt away, growing the cave,
 What was actually happening: the chains spread the infection deeper into the cave wall, making a path back into the storm blocked by no wall~
 ~These chainsaw wanted to fly, it was in their nature~
@@ -86,7 +87,7 @@ The Chainsaws seemed to be following the storm, which was mostly blowing sideway
 ~The direction The Way Out was growing was towards the lip of the cave~
 "AD_R::Quickly now!"
 *Jochek threw the gas-mask toward the entrance of the cave.
-The Way Out grew to an orb, floating forward*
+The Way Out grew to an orb, floating forward, growing larger as it did so*
 *Chainsaws that touched The Way Out fell inside out into nothing*
 ~The Way Out had grown to a size they could all fit behind comfortably~
 *The Way Out floated forward, slowing, then stopped next to the cave wall*
@@ -100,8 +101,9 @@ The Way Out grew to an orb, floating forward*
 Dana dodged all of them, but one~
 *A Chainsaw hit Dana's foot, cutting it in half*
 ~The small bit of foot that was cut off immediately started changing into a chainsaw~
+*Dana screamed, and her landing was more of a crash*
 "D::Oh, that hurts..."
-*Dana fell on the ground, next to the Relux, convulsing.
+*Dana rolled on the ground, next to the Relux, convulsing.
 She gritted her teeth*
 "D::I don't want to be a chainsaw."
 }
@@ -170,6 +172,7 @@ Far as I can tell, anyway.'
 *Alacira held her hand to her head*
 "A::Wilbert, Sonny: take care of that."
 "RG__JL::They're fine, in a hospital."
+~There was a scratching at the back of Martha's mind~
 "FL__F::So you made this new Serum then?"
 "RG__JL::Not yet, Dubai was..."
 ~Robert trailed off, and Martha saw his vision track to the kitchen~
@@ -179,42 +182,56 @@ Far as I can tell, anyway.'
 He's like a fish out of water..."
 ~There was a silence~
 "RG__JL::No offense."
+~The scratching was audible, always coming from directly behind Martha~
 *Wilbert sighed*
 ~A very poignant, punctuated sigh~
 "W::Sir."
 *Alacira nodded*
 "A::Flanagan, do you have anything for Wilbert."
+'AT::You have a toy of mine, in you, time to wind it up a bit...'
+*Martha froze - then looked around*
 *Flanagan, on the sofa across from Martha waved them to the main entrance*
 "FL__F::Up the stairs, first door on the right: costumes."
+"M::We have a problem."
+*Rossin perked up at this*
+'R::What is this now?'
 *Sonny, her spiders along the ceiling, and Wilbert left the foyer*
 "RG__JL::Once we have the serum made we just need to find our original body."
+~Flanagan either didn't hear or chose to ignore her, Kent sitting next to her though was paying attention~
+"K::What is it?"
+*Both Rossin and Kent leaned in, the rest were watching Flanagan*
 "FL__F::Well..."
 *Flanagan coughed*
 "FL__F::That may be a problem.
 It was recently shot with a cruise missile."
+~Martha was nearly whispering, desperate~
+"M::It's talking to me."
+"K::Al-tok?"
 "RG__JL::Really all we need is Al-tok in a body."
 ~Again, the silence was deafening~
-"RG__JL::It has a body."
+"RG__JL::It has a body... right?"
 *Flanagan gesticulated noncommittally*
 "FL__F::If it has a body...
 It could be anyone it chooses."
 "RG__JL::It can't survive in a host without Alice's serum...
 Not for long anyway."
-
-
-
-
+*Martha slammed her arm into the coffee table*
+~That wasn't her, she didn't do that~
+"M::That feels good."
+~Again, it wasn't her, she tried to stop her self but she was unable~
+~Thoughts that weren't hers entered her mind, a boiling tar of rage~
+*Martha stood up*
+~Flanagan looked at her finally, remembering she was in the room~
+"FL__F::Martha?"
+*She charged him, aiming her strikes against his neck*
+*Martha fell halfway into her first throw, lost momentum and fell still*
+"K::She said it was talking to her."
+~She still couldn't move, not even her lungs as her chest began to burn~
+*Rossin was fighting it*
+~Somewhere in her mind, Rossin had gone to try keep it at bay~
+*He was losing*
+'M::He did say it would kill him...'
+~She couldn't turn her head to see everyone surrounding her~
+~Martha's vision faded around the edges, first to red, then to black~
 }
-{
-`
-todo: 
-Narrator:"Martha"
-foyer to lab - 
-    ~Al-tok~ attacks ~Martha~ -
-      ~Rossin~ sacrifices himself
-        to prevent ~Al-tok~ from re-planting a seed.
-    ~Martha~ has nightmares, 
-      Is nearly taken over by ~Al-tok~ 
-      instead joins ~The Relux~
-`
-}
+# [giving up](giving-up.md)
