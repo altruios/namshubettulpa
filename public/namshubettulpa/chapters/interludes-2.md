@@ -283,7 +283,8 @@ Or as low as ten children.'
 "G::Turquoise, more blue than green."
 *Alacira nodded*
 "A::Our white whale is pure blue, so it was a piece...
-Or less..."
+Or less...
+Or something adjacent..."
 ~Gerald surveyed the damage.
 Most of the deck was fine save for one door, leading to a dreamer's room~
 *Gerald looked inside, staying at the threshold*
