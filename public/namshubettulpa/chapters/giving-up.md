@@ -67,10 +67,97 @@ They are part of me...'
 "M::Okay..."
 'M::Now you are in a box, you are the box...
 What good did that do?'
+~She was panicking less, with the thin veneer of normalcy surrounding her, she could at least breath~
+`
+~Self~.~gravity~=~Earth~.~gravity~
+`
+~And nothing happened, for a moment Martha didn't understand...~
+'M::Oh... right.'
+~In her haste, she changed not just her body's gravity, but since the room was part of her identity now...~
+`
+~self~.~Martha~.~gravity~+=~Earth~.~gravity~
+`
+*She landed on the floor and surveyed her surroundings* 
+~Everything was quite, and Martha alone~
+'M::Okay, find Rossin, then...'
+*Martha started to walk, then stopped herself*
+~She didn't know where Rossin was, or how to find him...~
+'M::Can I just make something?'
+*She picked up a lamp from off the desk*
+`
+const Arrow = {
+    Direction:{
+        pos:(0,0,0),
+        set:(item)=>{
+            this.pos=Normalize(
+                this.pos[0]-item.pos[0],
+                this.pos[1]-item.pos[1],
+                this.pos[2]-item.pos[2]
+            )
+        }
+    }
+}
+function find_rossin (ref)=> ref.Arrow.Direction.set(~Rossin~)
+const ~Compass~ = {
+    -cp G.Objects.Compass,
+    Arrow,
+    onHold:()=>find_rossin(this)
+}
+~Self~.hands.get_held().reshape(~Compass~)
+`
+*The lamp transformed in her hand into a compass*
+~A small metal one, missing the red/black arrow and instead: a ghostly yellow arrow pierced down through Martha's hand, pointing at the floor~
+'M::Of course it would be down...'
+~at least she was heading that direction already...~
+'M::All of my...
+Room-ness?'
+~She could feel the room descending...~
+'M::That thing is probably down there too...'
+~Martha worried that thing in the back of her head was probably down there fighting with, or eating, Rossin~
+'M::Wait a minute...'
+~She could have just made something to teleport her directly to Rossin~
+'M::But maybe that thing is next to him...'
+`
+function get_rossin(ref)=>~~Rossin~.pos.set(ref.pos[0]+~Rossin~.~Height~,ref.pos[1],ref.pos[2])~
+~Self~.hands.get_held().onLand{~Floor~}=>get_rossin(this);
+`
+*She tossed the compass to the floor, and as it landed Rossin appeared*
+~His arm was missing, leaving a melted black stump at the shoulder~ 
+*Rossin's working eye focused on Martha*
+'R::We have a problem.'
+~Martha could have said 'no shit, sherlock', yet she opted for a silent eye roll~
+*A rumbling grew from below her*
+~Something that distinctly felt: other. 
+A growl and a storm~
+*Rossin slumped to the floor, and knocked on the wood paneling*
+'R::Is this you?'
+~He was inspecting it, marveling~
+'R::Can you give us a bit more of a buffer between that thing and us... just add more to you?'
+~It was a good idea, and Martha considered for a bit.
+She settled on concrete. 
+Memories of pavement she walked on, generic imagined scene of construction workers pouring wet cement, freeway re-bar, brutalist homes she passed by once, all crushed altogether.
+The wet cement seeped into the gaps crystallizing the shell around Martha and rossin in the room~
+~She continued: the skyline of New York wrapped around her, crushing metal spires into a web of tangled construction, surrounded by an empty void~
+'M::Good enough for now...'
+*The rumbling grew louder*
+`
+~Self~.~Martha~.~Gravity-=~Self~.~Gravity~
+~Self~.~Gravity~=-~Self~.~Gravity~
+`
+'M::Lets get away from that things first...'
+"M::Got any plans..."
+*Rossin shook his head*
+"R::I thought we would have more time, hoped anyway..."
 
+}
+{
+%%%%
+}
+{
+mn:RXD
+}
+{
 
-
-~~
 }
 {
 `TODO:
