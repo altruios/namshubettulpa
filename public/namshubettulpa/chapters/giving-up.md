@@ -62,8 +62,8 @@ She just had to get out~
 'M::That floor, that room. 
 They are part of me...'
 ~She concentrated on the floorboards... the room - Flanagan's study -  as an extension to herself the same way her clothes were~
-*She floated in the center as the room constructed itself from her*
-~Floorboards, wallpaper, couches, the desk, all flew into place ripping from her regenerating skin~
+*She floated in the center as the room constructed itself from her.
+Floorboards, wallpaper, couches, the desk, all flew into place ripping from her regenerating skin*
 "M::Okay..."
 'M::Now you are in a box, you are the box...
 What good did that do?'
@@ -147,7 +147,48 @@ The wet cement seeped into the gaps crystallizing the shell around Martha and ro
 'M::Lets get away from that things first...'
 "M::Got any plans..."
 *Rossin shook his head*
-"R::I thought we would have more time, hoped anyway..."
+'R::I thought we would have more time, hoped anyway...'
+*He cradled his head in his one good hand*
+~In her shell at the edges: martha could feel pieces being eaten away.
+Bits lost to...~
+'R::That void out there is...
+We are in its stomach.'
+~Martha could feel it...
+She could think of a million things and try to fill that void...
+But there wasn't a way to reach...~
+'M::Reach what?'
+~The waking world?
+Could she just wake herself...~
+*The rumbling grew and Rossin struggled to stand against the desk*
+'M::Does that make this a dream?'
+~Dream or not, she had to get out~
+'R::It has taken over your motor cortex, vision and hearing too...'
+~Martha grew her shell: with anything she could think of.
+More and more she manifested things attaching to her identity and an idea struck her~
+'M::If it can try to eat me, I can try to eat it.'
+"M::I've got an idea..."
+'R::What is it?'
+"M::If it's in my mind...
+Can I just: absorb it?"
+~If she could choose what was part of her, like with the room, or the concrete...~
+*Rossin was still for a long moment*
+'R::There would be consequences, it would have a permanent foothold; you might never be rid of it...'
+'M::What are my actual options?'
+`
+get eaten,
+try to destroy/erase it,
+try to quarantine it,
+try to eat it
+`
+~Quarantine didn't work.
+And if it was using parts of her mind, her thoughts and memories, to feed it's own existence...
+Would absorbing this thing into her reintegrate her missing memories?
+Destroying them would be less than idea...~
+'M::But am I stronger than that thing?'
+~They where in her mind after all, she must be...
+But they were still in it's stomach: and everything she thought of herself fit within.
+A small seed of doubt~
+
 
 }
 {
