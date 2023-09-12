@@ -1,8 +1,8 @@
 {`
-~date~:08/22/23 
+~date~:09/12/23 
 
 ~status~: ~in progress~ {
-~estimated~: ~77% of first draft~    
+~estimated~: ~83% of first draft~    
 }
 chapters:{
 
@@ -59,6 +59,8 @@ chapters:{
 26. [interludes 2](interludes-2.md)
 
 27. [another plan](another-plan.md)
+
+28. [giving up](giving-up.md)
 }
 `
 }

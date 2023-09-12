@@ -131,16 +131,19 @@ The Relux braced for the change~
 mn:RXD
 }
 {
+~Their memories merged, Ada's worry for Dana's past, Lenny's fondness, Jochek's desire, Dana's fear, blended together into something new~
 'RXD::Four in three, sustainable.'
-'D_D::Hello?'
+'D_D::Hello?
+Am I dead?'
 ~Dana saw though them, not having a body of her own, but seeing though each of their eyes.
 She watched her old body morph into a chainsaw and fly away~
+~It was disorienting, but three parts of us were used to it, and they could comfort the fourth~
 *The three bodies huddled the four of them together for warmth*
 ~Aside The Way Out, chainsaws flew around them, but remained out of reach.
 Ada had concerns about the continued bombardment of the way out on it's orientation.
 She knew it was a higher dimensional shape, but other than that...~
 *Ada sighed*
-~She knew the next step, so did they all~
+~She knew the next step, so did we all~
 'RXD::We need a sample chainsaw to work with...'
 ~If they were going to fix this, the first step was to know thy enemy~
 
