@@ -4,26 +4,24 @@
 mn:AD_R
 }
 {
-~Ada huddled in the cave, watching the snow blow outside.
-It was blowing sideways, rushing wind howled and whistled against the lip of the cave~
+~Ada huddled with the others for warmth in the cave, watching the snow blow sideways outside~
 *The storm outside roared; there were strange sounds in the distance*
 'AD_R::That sounds like more than just the snow.'
-~Behind and with her, the other's huddled together for warmth.
-The gas-mask with the needle was tucked safely between them~
+~The gas-mask with the needle was tucked safely between Lenny and Jochek~
 "D::Isn't it morning yet?"
 "L_R::It is, it'll be light soon."
-~They should have seen the sun by now, the storm only seemed to be growing.
-A blinding torrent of wind and snow and...~
+~They should have seen the sun hours ago...
+Instead they saw a blinding torrent of wind and snow and...~
 'RX::Something is wrong...'
 ~Ada caught a flicker out in the storm, accompanied by a sharp buzzing sound~
 'AD_R::What was that?'
+~Light was slowly breaking the through the snow, casting a blue glow to the trees, now just barely visible~
 ~Ada caught a better look at an object flying by~
 'J__R::Oh shit...'
 ~It was a chainsaw~
-~Light was slowly breaking the through the snow, casting a blue glow to the trees, now just barely visible~
 *A chainsaw flew into a tree.
-It split the tree in two, both parts turning into chainsaws.
-The upper part of the tree turned into a chainsaw of the same size and flew away freely. 
+It split the tree in two, both parts melted into chainsaws.
+The upper part of the tree morphed into a chainsaw and flew away freely. 
 The lower half remained wedged in the ground: the chain spinning in the open air*
 *Ada pushed the others back deeper into the cave*
 ~It was only about twenty feet back~
@@ -32,14 +30,15 @@ The lower half remained wedged in the ground: the chain spinning in the open air
 'RX::Okay, leaving the cave right now is not an option.'
 ~The cave was shallow, only a few meters wide, It had one entrance~
 'A_R::Any ideas on how to get out?'
+*They reached the end of the cave*
 'L_R::Wait it out?'
 *Jochek shook their head*
 'J_R::That storm will only spread, if we run, no one deals with it, it keeps going...'
-'RX::Any ideas on how to deal with it?'
+'RX::Any ideas on how to deal with that storm?'
 ~Their focus drew to the needle, to that tiny hole of nothing in its eye... 
 Much too small~
 *Dana looked between the silent three*
-'A_R::We need to figure out how to make it larger, in any case.
+'A_R::We need to figure out how to make The Way Out larger, in any case.
 Its not like we can fit anything though that.'
 ~Lenny looked at Dana~
 *Lenny coughed*
@@ -113,8 +112,8 @@ She gritted her teeth*
 `
 }
 {
-~Ada though back...~
-"AD_R::Okay."
+~Ada thought back to those days...~
+'AD_R::Okay.'
 ~That was what Lenny and Jochek wanted to hear~
 *Dana's leg started turning to metal*
 "L_R::Lets go already."

@@ -39,9 +39,9 @@ Her struggles futile, a panic filled her, as slowly she remembered her passing o
 'M::Okay, so is this in my head?'
 *She took off a sock and held it in her hand*
 `
-dime transform code: torch
+~Self~.hands.get_held().reshape(~orb~)
 `
-~The fog reflected the light, surrounding her in a glow~
+~The fog reflected the light from the familiar blue orb, surrounding her in a glow~
 'M::That thing...'
 ~...Inside her head, that rossin was keeping at bay, took over...
 And yet she was still here...
@@ -126,10 +126,16 @@ function get_rossin(ref)=>~~Rossin~.pos.set(ref.pos[0]+~Rossin~.~Height~,ref.pos
 ~His arm was missing, leaving a melted black stump at the shoulder~ 
 *Rossin's working eye focused on Martha*
 'R::We have a problem.'
-~Martha could have said 'no shit, sherlock', yet she opted for a silent eye roll~
+~Martha could have said 'no shit, sherlock', yet she opted for a silent eye roll...
+While at the same time taking in the horror of Rossin's appearance.
+His face had one huge scar running through one eye, and he was clutching the stump to keep it from bleeding~
+'M::Can I just... 
+Heal you?'
 *A rumbling grew from below her*
 ~Something that distinctly felt: other. 
 A growl and a storm~
+*Rossin shook his head*
+'R::That is a losing game.'
 *Rossin slumped to the floor, and knocked on the wood paneling*
 'R::Is this you?'
 ~He was inspecting it, marveling~
@@ -208,7 +214,8 @@ function *consume_you_instead*(self, you){
 }
 ~Self~.on(*consumed*, (consumer)=>*consume_you_instead*(~Self~,consumer))
 `
-'R::That should work...'
+'R::Dangerously simple...
+But that should work...'
 *The void grew tangibly a part of her*
 ~Small flickers of uno the card game ran though Martha's mind - times she used the reverse card~
 'M::How does one touch a void?'
@@ -224,15 +231,19 @@ It's energy becoming part of her, Martha no longer felt hungry~
 *Old memories attached to Martha*
 ~An unease fell over her, dark memories returned in fragments~
 *Martha, her shell, was violently expelled through the sludge out from inside this creature*
-~She was back into that strange perspective of herself, falling through a fractal hole witnessing memories.
+~Instead of being in the stomach of that creature, that creature became scattered fragments within her.
+Whole from from strange perspective, but from Martha's...~
+~She was back in that strange perspective of herself, falling through a fractal hole witnessing memories.
 The fractal hole was both a shape of her shell, and a shape of anything making up that shell~
 ~Where there once was blank nothingness, shameful memories came to fill in those spaces. 
-Memories taken by that creature, hidden away by Rossin, still covered in a sludge...
+Memories taken by that creature, hidden away by Rossin, most still covered in a sludge...
 But distinctly inside her~
 ~Martha realized why Rossin said it would take months...
-The sheer scope of memories this thing has taken~
+The sheer scope of memories this thing has taken...
+Even just going through them all...~
 ~Even so there were still blank spots not being filled in.
 Spots rossin must have taken residence in~
+*Martha, in the comfort of her self constructed room, falling in herself, looked to rossin*
 "M::It's not enough, it's just... 
 Bigger."
 ~Rossin nodded as he reluctantly expected this~
@@ -348,7 +359,7 @@ Those other chainsaws are avoiding each other...'
 object.modify(~Self~.get_held(), ~pathFind~,pathFind)
 `
 *The chainsaw alternated swinging left and right*
-~ tied to the string attached to a stick in the ground, it resembled an over eager dog.~
+~ tied to the string attached to a stick in the ground, it resembled an over eager dog, unbothered by the frozen wind.~
 *Ada let it loose.
 It flew forward in a rush towards a passing chainsaw ripping it in half, the cut chainsaw - reforming into two smaller pieces - flew in opposite directions towards other chainsaws*
 ~A short minute later the chainsaws started to fall, and Ada released a breath she was holding, unaware for how long.
@@ -359,18 +370,19 @@ The chainsaws fell into a circular expanding pattern, Lenny suspected it looked 
 %%%%
 }
 {
-~Two hours later the forest was silent, a glistening metal field of chainsaw blades.
+~Two hours later only the snow was blowing, covering a glistening metal field of chainsaw blades.
 They waited another hour to be sure, all the while contemplating how to make The Way Out smaller...
 The issue was - no matter what they did - it would grow~
-~The way out towered twenty feet tall~
+~The Way Out towered twenty feet tall~
 *Ada poked it with a stick*
+~Her hand trembled, and every breath was visible in the air~
 'RXD::Random guessing is not going to get us there...'
 'AD__D::Not if we are lucky....'
 ~They could get to fall in such a way...~
 *The Way out shifted, but still grew*
 ~Ada had food for herself - which was split among us in the cave.
 Jochek, Lenny, and Dana have not eaten anything for a while. 
-Lenny's old and thin body in particular was struggling with the cold~
+Lenny's old and thin body in particular was struggling with the cold; he had given his jacket to Ada~
 'RXD::We might need to call it quits.'
 ~If we were to stay much longer...~
 'RXD::Escape through the link while we can, give flanagan an update.'
@@ -383,7 +395,7 @@ A moment later Jochek joined him~
 *Jochek squeezed his hand*
 'J_D::See, back safe.'
 *She pinched his bicep, then exited the car*
-"J_D::Come on, lets find Ada and Dana new bodies.
+"J_D::Come on, let's find Ada and Dana new bodies.
 A&D? 
 Adana?"
 'A_D::you are not shipping us!'
