@@ -76,7 +76,7 @@ Then she heard the howl of the wind outside~
 'M::Oh... right.'
 ~In her haste, she changed not just her body's gravity, but since the room was part of her identity now...~
 `
-~self~.~Martha~.~gravity~+=~Earth~.~gravity~
+~Self~.~Martha~.~gravity~+=~Earth~.~gravity~
 `
 *She landed on the floor and surveyed her surroundings* 
 ~Everything was quite, and Martha alone~
@@ -109,7 +109,7 @@ const ~Compass~ = {
 *The lamp transformed in her hand into a compass*
 ~A small metal one, missing the red/black arrow and instead: a ghostly yellow arrow pierced down through Martha's hand, pointing at the floor~
 'M::Of course it would be down...'
-~at least she was heading that direction already...~
+~At least she was heading that direction already...~
 'M::All of my...
 Room-ness?'
 ~She could feel the room descending...~
@@ -281,7 +281,7 @@ she thought...~
 'M::As is that thing, remember, feast your mind on it.'
 *Martha looked out the window at herself*
 ~There was so much sludge...~
-'M::lest it eat you...'
+'M::Lest it eat you...'
 *Martha steered her shell to the closest sludge, and started eating*
 ~Absorbing it into her, covering her shell~ 
 ~The memory previously covered by the sludge shown brightly. 
@@ -318,7 +318,7 @@ If there had been, it would be easy, it was instead copying a new instance of it
 Meaning we couldn't modify it to modify any other chainsaw, each was independent~
 'AD_D::A chainsaw that cuts only chainsaws?
 We could modify this one here, start to disable them.'
-'J_D::it would get cut into ribbons, swarm physics.'
+'J_D::It would get cut into ribbons, swarm physics.'
 *Jochek pointed around them*
 ~Chainsaws were flying sideways through the storm. 
 The Way Out had only grown in size under the bombardment of chainsaws~
@@ -398,7 +398,7 @@ A moment later Jochek joined him~
 "J_D::Come on, let's find Ada and Dana new bodies.
 A&D? 
 Adana?"
-'A_D::you are not shipping us!'
+'A_D::You are not shipping us!'
 ~Dana was paying more attention to the fallen cab driver, laying face first in the snow~
 'D_D::What about these bodies here?'
 'L_D::We should walk them to...'
