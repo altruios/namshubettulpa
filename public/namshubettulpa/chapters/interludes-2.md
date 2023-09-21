@@ -7,57 +7,57 @@
 ##### TWO WEEKS  AND SOME DAYS AGO
 {
 mn:RG
-~Robert was in pieces, parts scattered though the Link~
-~Fragments of a thought, formed together~
-~A sense of self emerged, senses emerged~
-~His back~
+~Robert was in pieces, parts scattered though the Link.
+Fragments of a thought, formed together.
+A sense of self emerged, senses emerged...
+His back~
 'Is it my back? 
 My physical representation of a back.'
 ~Was sticky~
 *He was propelled throughout the link. Slamming into and congealing with himself*
-~His sight returned~
-~His eyes caught something darting around to is left~
+~His sight returned. 
+His eyes caught something darting around to his left~
 *Twisting his head so he could see, he strained against the sticky back*
-~Tentacles: as far as the eye could see~ 
-~Dark pink lines in the blackness~
+~Tentacles: as far as the eye could see.
+Dark pink lines in the blackness~
 *Robert struggled in earnest* 
 ~Now realizing he was well and truly stuck~
 'I am on a tongue.'
-~The texture was a cat's tongue~
-~He realized, that's what all those pink lines were~
-~Tongues~
+~The texture was a cat's tongue.
+He realized, that's what all those pink lines were.
+Tongues~
 *Whipping back and forth*
 ~Like angry tornados~
 *Something flashed across his face*
 ~He saw it flutter down below his feet~
 'What was that?'
 *He looked down*
-~He wasn't in the link~
-~Below him was the link~ 
-~The connection between minds lay open before him~
+~He wasn't in the link.
+Below him was the link.
+The connection between minds lay open before him~
 *But the link was growing distant*
 ~This was a void~
 *Robert was pulled away and he turned his head up*
-~Above him was a creature of incomprehensible size~
-~Stretching the bare horizon from end to end in eyes~
-~The creature seemed to be growing, but no...~
+~Above him was a creature of incomprehensible size.
+Stretching the bare horizon from end to end in eyes.
+The creature seemed to be growing, but no...~
 *He was just getting closer*
 'That will eat me.'
-~His struggling was in vain as he was slowly raised up~
-~Moments passed and Robert slowly came to rest~
+~His struggling was in vain as he was slowly raised up.
+Moments passed and Robert slowly came to rest~
 *He looked back down*
-~At the end of the tongue was a bulge, fading into white~
-~He watched it gyrate~
-~Robert turned his attention toward the creature above him~
-~At it's ends, the creature was pustulating new eyes~
-~As he grew closer he realized one eye was watching him~
+~At the end of the tongue was a bulge, fading into white.
+He watched it gyrate~
+~Robert turned his attention toward the creature above him.
+At it's ends, the creature was pustulating new eyes.
+As he grew closer he realized one eye was watching him~
 'Well, this is a weird way to die.'
 ~And then he remembered~
-'I am already dead...'
-'So what is this?'
-~There was a pause when he finally reached the creature's mouth~
-~It was about the size of a house~
-~Another smaller mouth pustuled out next to the eye~
+'I am already dead...
+So what is this?'
+~There was a pause when he finally reached the creature's mouth.
+It was about the size of a house~
+*Another smaller mouth pustuled out next to the eye*
 "NULL::You've made your bargain: Why have you tried to make another."
 *Robert blinked*
 "RG::What?"
@@ -78,9 +78,9 @@ This is mutually beneficial."
 "NULL::I receive the nutrients I need, and unfettered access to that food source.
 In exchange I act as a recorder of lives sworn to feed me, collecting nutrients as you grow.
 When I eat you, whats left behind is happy: at peace. for as long as humanity lives."
-~Robert had doubts; was he actually out of the link~
-~He tried to stretch his mind in a direction to follow down a path in the link~
-~Nothing~
+~Robert had doubts; was he actually out of the link.
+He tried to stretch his mind in a direction to follow down a path in the link...
+Nothing~
 "NULL::I also shield against others. 
 They have taken root elsewhere, but here... 
 Here is mine."
@@ -98,12 +98,12 @@ Here is mine."
 *The tongue brought him up to the thing's eye*
 "NULL::The infection spreads quickly.
 Look."
-~And he did~
-~Through the whipping tongues he saw the link as he never had~
-~From the outside~
-~From a direction he could see all points in the link at once~
-~Among the infinitely dimensional plane he saw a spot He identified as Al-tok~
-~A dark growing withering fractal oil in the link~
+~And he did.
+Through the whipping tongues he saw the link as he never had.
+From the outside.
+From a direction he could see all points in the link at once.
+Among the infinitely dimensional plane he saw a spot He identified as Al-tok.
+A dark growing withering fractal oil in the link~
 "NULL::I saw how Alice made the serum. 
 I understand it. 
 It forced a human to have thoughts it couldn't otherwise have.
@@ -119,8 +119,8 @@ That."
 *Robert was yanked across the creatures landscape*
 ~A forest of red-bubble-gum trees stretching into the sky~
 ~A sky: ideas and connections shown brightly~
-~A dark moon growing~
-~Mountains that were the creatures flesh came and went in a flash~
+~A dark fractal moon growing~
+~Robert watched as mountains that were the creatures flesh came and went in a flash~
 *Suddenly they stopped, at a reeling tongue*
 ~At the end, being pulled toward him, was his sister~
 "AG::Robert?"
@@ -141,8 +141,8 @@ If not you: him, having what he needs from you."
 ~The eye scowled at her~
 "NULL::Your antics will not be tolerated."
 *The two tongues slammed together*
-~Robert and Alice felt the impact into each other~
-~When the tongues parted there was only one~
+~Robert and Alice felt the impact into each other.
+When the tongues parted there was only one~
 'AG__RG::What happened?'
 ~That wasn't his thought, the voice was wrong~
 "RG::Alice?" 
@@ -150,15 +150,15 @@ If not you: him, having what he needs from you."
 "NULL::You have everything you require."
 "RG::You just put her in me?"
 "NULL::You will be given the formula and process to synthesis."
-~A boil exploded next to the eye: a spray of pus rushed toward him~
-~It congealed forming into a tentacle that whipped into his eye~
+*A boil exploded next to the eye: a spray of pus rushed toward him.
+It congealed forming into a tentacle that whipped into his eye*
 "NULL::See it!"
-~Robert screamed~
-~Part of his mind was being overwritten~
+*Robert screamed.
+Part of his mind was being overwritten*
 ~Old memories drugged from the depths to fodder the process~
 "NULL::Go forth and sterilize!"
-*The tongues shot toward the link again*
-~Beside him the mouth reformed on the tongues~
+*The tongues shot toward the link again.
+Beside him the mouth reformed on the tongue next to him*
 "NULL::I can do nothing once inside, I will place you where it can not find you. 
 You will require a physical body."
 'RG::Should I even be helping this thing.'
@@ -170,12 +170,12 @@ You will require a physical body."
 'RG::A giant creature with a billion tongues...'
 ~He continued while they fell~
 'RG::Has no intention of eating you.'
-~Alice's mind - like every mind - was a turmoil of stochastic half thoughts~
-~Robert waited for her to properly think at him, though he was helpless not to know her mind inside his~
+~Alice's mind - like every mind - was a turmoil of stochastic half thoughts.
+Robert waited for her to properly think at him, though he was helpless not to know her mind inside his~
 'AG__RG::Seriously, should we be helping this.'
 'RG::Look.'
-~They looked at the link~
-~At the growing fractal moon snuffing out parts of the link~
+~They looked at the link.
+At the growing fractal moon snuffing out parts of the link~
 'RG::We can deal with this creature after that, if we decide we want to.'
 'AG__RG::Do you?'
 'RG::Do I what?'
@@ -183,13 +183,13 @@ You will require a physical body."
 'RG::We are out.'
 ~Robert felt a turning in his head: a refutation from Alice~
 'AG__RG::You: look.'
-~Robert felt his attention turn to the tongues~
-~They were everywhere: touching nearly everyone and everything~
+~Robert felt his attention turn to the tongues.
+They were everywhere: touching nearly everyone and everything~
 'AG__RG::We are cattle to it, maybe we poison the herd.'
 ~Robert considered~
 "NULL::We are approaching; I would not appreciate finding another species to eat."
 ~Robert felt the barrier to the link as a thin soap bubble~
-~Quite enveloped him, as he fell at the edge of all things~
+*Quite enveloped him, as he fell at the edge of all things*
 ~Towards a ship~
 }
 {
@@ -202,19 +202,20 @@ mn:G
 ~Gerald was alone on sub-deck three starboard, clipboard in hand. 
 He was carefully watching the shield hold back the storm~
 *He gripped the metal railing*
-~All that was keeping him from the void was that thin iron~
-~The rippling colors on the shield were concerning Gerald~
+~All that was keeping him from the void was that thin iron, the shield held the void, and only the void at bay.
+The rippling colors on the shield were concerning Gerald, he remembered it's solid purple glow from long ago~
 'G::We are going to need more adventurers...'
 ~The end's dreadnought had energy requirements.
 It needed dreams.
-So Alacira and Whitewater gave them to it~
+So Alacira and Whitewater provided...
+Well, they had the dreamers provide...~
 *He made a mark, then wrote some numbers*
 ~How many new people they would bring on, and some rough calculations~
 'G::Eleven...'
 ~At most that many, but that was only for the shield.
 He had the rest of the list he was holding to inspect yet~
 'G::Onward ho...'
-~It was time to inspect the generators, then the steering, then the -~
+~It was time to inspect the navigation array, then the -~
 ~He felt the floorboards vibrate first, the thud came second~
 *Gerald spun around*
 ~A man was splayed there, on deck, the metal floorboards dented in a crater around him. 
@@ -226,16 +227,18 @@ So this man came from out there~
 ~Gerald noticed the the tugging on his wrist~
 *A small turquoise bail rattled and glowed, its gravity turned toward the intruder*
 'G::Is it a piece of, or is it...'
-~Gerald couldn't finish the though~
-*He ran out of the observation deck and closed the door behind him.
-The metal door closed with a thud, spinning locked behind him*
-~Above and to his right, he saw the red button~
-*He pressed it an alarms blared*
+~Gerald couldn't finish the thought~
+*The man started moving*
+*Gerald ran out of the observation deck and closed the door behind him.
+The metal door closed with a thud, spinning a wheel to lock*
+~In the underbelly hallway of the ship, above and to his right, he saw the red button~
+*He pressed it. 
+An alarms blared*
 'G::You have the radio...'
 *He grabbed the radio from his belt and click it on*
 "G::Captain, copy?"
-~Tense moments passed and he heard some banging on the door behind him~
-"A::What's going on, gerald?"
+~Tense moments passed and he heard banging on the door behind him~
+"A::What's going on, Gerald?"
 *Gerald backed away from the door*
 "G::You got your white whale here in sub-deck three, I think..."
 ~Gerald waited, the door was locked, it would -~
@@ -255,11 +258,22 @@ It was making an arc, but it was not far along~
 %%%%
 }
 {
-~Gerald woke up some time later, when Wilbert was fishing him out of the rubble~
+~Gerald woke up some time later, when Wilbert was fishing him out behind the broken pieces door~
 "W::I've got one over here."
 *Alacira came rushing over*
 "A::Run faster next time, do you need anything?"
-~Gerald waved her off~
+*Gerald waved her off*
+~His arm hurt, but besides that...
+His gris-gris kept him alive at least~
+'G::Battery must be low... 
+rationing too much lately.'
+*Gerald grabbed at his arm, and slid a gold and iron band down under his sleeve. 
+And held it with his good hand*
+"G::Reserve is running low..."
+*Alacira curtly nodded.
+He placed the gold band in his pocket*
+~It would take more dreamers to find algera - the current ones would expire soon - they needed it for the shields, and now this...
+His gris-gris was a small thing, all things considered, but still...~
 "G::Is it still here?"
 "A::No. 
 We thought it took you as well,
@@ -274,7 +288,7 @@ Still, he was glad we wasn't that one~
 ~Gerald updated the list in his head~
 'G::twelve needed now...
 Or as low as ten children.' 
-~Children on averaged attract more algera on their dreams~
+~Children on averaged attract more algera on their dreams, although they were less sensitive to it's effects~
 *Gerald got up*
 ~Slowly, testing each limb first~
 "A::What was the color?"
@@ -294,49 +308,53 @@ There was no bed, no one wanted to sleep while dreaming~
 ~On the floor was a stain~
 "A::Let's get our dreamer back."
 *Gerald leaned out of the room, facing Alacira*
-"G::We'll need a few more, I was in the middle of my rounds..."
-*Gerald handed the clipboard to Wilbert, who nodded and walked off*
+~Wilbert was outside, and he could hear~
+"G::We'll need a few more; I was in the middle of my rounds..."
+*Gerald held out his clipboard.
+Wilbert walked in the room, grabbed it, nodded, and walked off*
 "G::Right then, shall we?"
 }
 {
     %%%%
 }
 {
-mn:AG__RG
+mn:RG__HP
 }
 {
-~The dreary hospital Robert and Alice woke from was understaffed.~
+~The dreary hospital Robert and Alice awoke in was understaffed.
+Robert was in control, piloting the body of the coma patient: a young child of seven~
 'AG__RG::So we know none of their locations?'
-~Robert was in control, piloting the body of the coma patient: a young child of seven~
 "RG__HP::Besides Ozmind, and he can't be counted on."
 *A nurse walked in*
 "N::My, you're awake!"
-~They tried and failed to speak words of power, the brain they were inhabiting young, stretchy, but small.
+~Robert tried and failed to verbalize a namshub, the brain they were inhabiting was young, stretchy, but small.
+That creature put something in Robert's brain, with Alice in there too...
 Alice was immediately concerned.
-If they needed to use a phone to use namshubs: that meant their brain couldn't support...~
+If they needed to use a phone to use namshubs: that meant their brain wasn't supporting...~
 "RG__HP::Do you have my cellphone?"
-*The nurse perused the closet in front of them, then handed them a cellphone*
+*The nurse explored the closet in front of them, then handed them a cellphone*
 ~A short look into memories for a password.
-Robert was downloading the translator...~
+Robert downloaded the glyph generator, and quickly spelled out a namshub~
 *Robert piloted the patient to hold up the phone*
 `
-hooks.wipe{~memories~}.find(x=>x==~self~)
+hooks.wipe{~memories~}.findAndReplace(x=>x==~Self~,*NULL*)
+hooks.walk(~away from~,~Self~);
 `
 ~The nurse's eye twitched, and they held a blank stare~
 *The nurse walked back out of the room*
-*Robert searched the closets in front of them, for clothes*
 ~A short time later, they were on the road.
-Driving a classic cadillac down a lonely desert highway.
+Driving a classic cadillac down a lonely desert highway near sunset.
 They left old man they took it from with nothing~
 "RG__HP::We're on an island, in here, this coma patient."
 'AG__RG::As much as an island as you can get, I suppose.
 There is still the physical link...'
-~The were heading to an international airport, with only a few miles to go~
+~The were heading to an international airport, with only a few miles to go to the city~
 "RG__HP::We stay here, we don't go though the link."
 ~Alice didn't have to hear Robert's explanation to know his thoughts.
 Al-tok was in the link;
 Stay out of shark infested waters while bleeding~
-'AG__RG::We need an older body, fully formed brain.'
+'AG__RG::We need an older body, fully formed brain.
+This mind is already starting to crack.'
 ~Robert, she could tell, was already on it, he had a subject in mind...
 Or if not that specific subject...
 A place in mind to find a suitable subject~
@@ -359,11 +377,14 @@ An image so vast it took time to process~
 ~The argument continued into seating on the plane.
 They were in first class, of course~
 "RG__HP::So what?
-We use it as a bargaining chip?
+We use Al-tok as a bargaining chip?
 Make them fight each other?
 What?"
+*Other passengers looked over at the ranting seven year old in a hospital gown*
 'AG__RG::The bargaining chip is a good idea...'
-~They contemplated and fought as the plane took off for Dubai~
+*A steward leaned down, and Robert piloted the phone to their face*
+~The steward's sudden placation spread, the other passengers divested interest~
+~Robert and Alice contemplated and fought as the plane took off for Dubai, and well into the night~
 }
 # [another plan](another-plan.md) 
 

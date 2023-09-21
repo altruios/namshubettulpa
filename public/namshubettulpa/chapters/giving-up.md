@@ -14,7 +14,7 @@ mn:K
 "K::Is."
 'K::Present tense'
 *Kent reached down and felt for a pulse*
-"NT:: 📢📣🗣️💬 > 🔎"
+"NT:: 📢📣🗣️💬 > 🫵👁️‍🗨️🔎"
 'K::And the look alike is dancing nonsense...'
 "K::She still has a pulse"
 'K::CPR, Kent? 
@@ -129,8 +129,8 @@ function get_rossin(ref)=>~~Rossin~.pos.set(ref.pos[0]+~Rossin~.~Height~,ref.pos
 ~Martha could have said 'no shit, sherlock', yet she opted for a silent eye roll...
 While at the same time taking in the horror of Rossin's appearance.
 His face had one huge scar running through one eye, and he was clutching the stump to keep it from bleeding~
-'M::Can I just... 
-Heal you?'
+"M::Can I just... 
+Heal you?"
 *A rumbling grew from below her*
 ~Something that distinctly felt: other. 
 A growl and a storm~
@@ -151,7 +151,7 @@ The wet cement seeped into the gaps crystallizing the shell around Martha and ro
 ~Self~.~Martha~.~Gravity-=~Self~.~Gravity~
 ~Self~.~Gravity~=-~Self~.~Gravity~
 `
-'M::Lets get away from that things first...'
+'M::We should get away from that things first...'
 "M::Got any plans..."
 *Rossin shook his head*
 'R::I thought we would have more time, hoped anyway...'
@@ -234,19 +234,26 @@ It's energy becoming part of her, Martha no longer felt hungry~
 ~Instead of being in the stomach of that creature, that creature became scattered fragments within her.
 Whole from from strange perspective, but from Martha's...~
 ~She was back in that strange perspective of herself, falling through a fractal hole witnessing memories.
-The fractal hole was both a shape of her shell, and a shape of anything making up that shell~
+She was both her body alone falling though that space, and her within that room surrounded by concrete...
+And all combinations between, able to see, despite not having eyes around her shell.
+The fractal hole was both a shape of her shell, and a shape of anything making up that shell.
+The memories witnessed were however she viewed herself.
+One impossible image was her several mile diameter shell of cityscape on a swing set, being pushed by...~
 ~Where there once was blank nothingness, shameful memories came to fill in those spaces. 
 Memories taken by that creature, hidden away by Rossin, most still covered in a sludge...
 But distinctly inside her~
 ~Martha realized why Rossin said it would take months...
 The sheer scope of memories this thing has taken...
 Even just going through them all...~
-~Even so there were still blank spots not being filled in.
-Spots rossin must have taken residence in~
-*Martha, in the comfort of her self constructed room, falling in herself, looked to rossin*
+'R::The sludge is the excrement, there is something crawling around inside...
+The more you clear away the weaker it will be, it is drawing from your memories.'
+~Even so: there were still blank spots not being filled in.
+Spots Rossin must have taken residence in~
+*Martha, in the comfort of her self constructed room, falling in herself, looked to Rossin*
 "M::It's not enough, it's just... 
 Bigger."
 ~Rossin nodded as he reluctantly expected this~
+
 'R::Give me your hand.'
 "M::What?"
 *Rossin stopped covering his wound and reached out with is one working arm*
@@ -257,7 +264,8 @@ Bigger."
 'R::Evening the ah-'
 ~He did not have time to finish~
 *Rossin was ripped into the floorboards, the walls, every direction out of the room*
-~Parts of him flying through the entire surface of the floor, sucked like dust into a vacuum, he was gone~
+~Parts of him flying through the entire surface of the floor: sucked like dust into a vacuum.
+He was gone~
 "M::Rossin!"
 ~Silence~
 *Martha ran to the compass that had slid across the floor, and picked it up*
@@ -270,7 +278,7 @@ Martha stood there for a moment, then knelt on her knees*
 ~He was gone.
 And she felt...~
 'M::More focused?'
-~More herself~
+~More herself, sad but...~
 ~Through the window, she saw outside her shell the wall lined with her memories complete.
 Parts, the less pleasant memories covered in that sludge~
 'M::It is just the manifestation of that thing in your head, it uses those memories, it is not those memories.'
@@ -278,6 +286,7 @@ Parts, the less pleasant memories covered in that sludge~
 ~No, that was in her voice... 
 she thought...~
 'M::Well a part of him is me now...'
+*Martha sat up*
 'M::As is that thing, remember, feast your mind on it.'
 *Martha looked out the window at herself*
 ~There was so much sludge...~
@@ -285,17 +294,14 @@ she thought...~
 *Martha steered her shell to the closest sludge, and started eating*
 ~Absorbing it into her, covering her shell~ 
 ~The memory previously covered by the sludge shown brightly. 
-A scene of her pushing her older brother down the hill when she was seven, his skull had fractured when it hit the street at the bottom.
+A scene of her pushing her older brother down the hill when she was seven, his skull had fractured when he crashed into the street at the bottom.
 She was laughing, long after he was still, not fully understanding he was hurt~
 'M::Oh...'
 *Martha breathed out a sigh*
 'M::None of these memories I want, do I...'
-~She suddenly understood why quarantine those memories was preferable than reintegration~
+~She suddenly understood why a quarantine of those memories was preferable than reintegration~
 *Martha looked out the window, looking up that fractal well*
 ~There was more sludge than clear memories~
-
-
-
 }
 {
 %%%%
@@ -374,7 +380,7 @@ The chainsaws fell into a circular expanding pattern, Lenny suspected it looked 
 They waited another hour to be sure, all the while contemplating how to make The Way Out smaller...
 The issue was - no matter what they did - it would grow~
 ~The Way Out towered twenty feet tall~
-*Ada poked it with a stick*
+*Ada poked it with a stick, which shrunk inside out as Ada let go of it*
 ~Her hand trembled, and every breath was visible in the air~
 'RXD::Random guessing is not going to get us there...'
 'AD__D::Not if we are lucky....'
