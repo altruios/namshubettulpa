@@ -102,25 +102,61 @@ It's related, but it's not Al-Tok."
 It lost it's color, and glow for a moment.
 Then it winked back into existence~
 "A::She's putting up a fight..."
-~The bail's went still again, longer this time. 
+~The bails went still again, longer this time. 
 And Kent noticed during these times Martha ceased struggling~
 }
 {
-`todo:
-
+~Martha uncovered more memories.
+And to her surprise, not all were terrible.
+Most were bad, but some when she rehandled now were neutral.
+The more she handled the less phased she was by any particular bad memory~
+'M::Keep watch, it comes from behind.'
+~She thought that, but she thought of that more of from Rossin than from her...~
+'M::You there?'
+~There was no response, regardless from herself or not, it was good advice~
+*Martha searched her surroundings*
+'M::It is hiding somewhere...'
+~Somewhere she couldn't detect~
+*Martha moved on to the next memory to clean, and the sludge moves.
+Something wrapped around Martha's wrist, pulling her under*
+`
+todo:
 martha encounters the creature in her head
     - she survives
     - it is wounded, but not integrated or defeated
         - code battle time!
     - she temporarily traps it in her past memories 
         - it can not pass the barrier of 'reset-2'
-        - allows her to wake up to the physical world 
-            - in a cardboard lab
-            - strapped to table, almost injected
+code battle starts here
+    --nifty and informative
+        --algorithms to use
+            -quicksort
+                -restacking a broken memory together
+            -tree stuff
+                -ordering memories inserting new ones
+        --thing/curse uses
+            -DDOS
 
-
-                        
+            -out of memory addressing
+                - accessing things outside of the memory they are in
+            -
 `
+~And behind the barrier it was trapped~
+*It clawed at it, trying to reach Martha*
+~Martha watched it, until she was sure the barrier would hold~
+'M::Okay, so now...
+Just wake up...'
+~She focused, and willed herself awake.
+She found it was easy~
+*Martha struggled against the table*
+~She was in a room, strapped down on some operating table~
+"FL__F::What have you done?"
+*Flanagan doubled over in pain, then left the room*
+"M::Wait!
+What's happening?"
+~Alacira was standing over her, looking at a lifeless bail on her wrist~
+"A::Welcome back.
+Care to tell us where you've been?"
 }
 {
 %%%%
@@ -202,6 +238,12 @@ Felix still had his hand in Flanagan's paling face~
 ~The Algera was warm in his mind, a burning fire at the base, brimming with power~
 ~The sudden freedom of thought, of not being monitored, was a relieve to Felix more than he realized.
 The freedom to plan revenge~
-
+'F::stop thinking about it...'
+~The cosmic joke. 
+If he could forget it, he would.
+But it festered in his mind.
+Knowing for certain, true knowledge that was dangerous to know~
+*Felix ran*
+~Out onto the streets; From his problems~
 }
 # turning of the tides
