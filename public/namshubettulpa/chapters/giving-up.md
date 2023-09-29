@@ -232,7 +232,7 @@ It's energy becoming part of her, Martha no longer felt hungry~
 ~An unease fell over her, dark memories returned in fragments~
 *Martha, her shell, was violently expelled through the sludge out from inside this creature*
 ~Instead of being in the stomach of that creature, that creature became scattered fragments within her.
-Whole from from strange perspective, but from Martha's...~
+Whole from some strange perspective, but from Martha's...~
 ~She was back in that strange perspective of herself, falling through a fractal hole witnessing memories.
 She was both her body alone falling though that space, and her within that room surrounded by concrete...
 And all combinations between, able to see, despite not having eyes around her shell.
