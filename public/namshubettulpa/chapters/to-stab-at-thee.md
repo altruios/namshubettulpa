@@ -5,13 +5,18 @@
 mn:K
 }
 {
-*Martha pushed Kent aside and ran to the kitchen*
+*Martha pushed Kent aside and ran to the kitchen.
+He fell against the leg of the couch*
+~Kent's head throbbed, it had struck the armrest~
 "A::Get her!"
 "K::What is going on?"
 *Alacira and Gerald held out their left arm.
 A bail rattled, glowing a white-blue*
+~Each bail pointed towards the kitchen~
 "A::This is a warning, something's changed."
-*Kent sat up and walked to the kitchen*
+~Their concerned expressions seemed genuine to Kent~
+'K::Okay Kent, easy now...'
+*Kent sat up and staggered to the kitchen*
 ~The kitchen...~
 'K::Duck!'
 *Kent bent his knees*
@@ -22,7 +27,7 @@ Martha was at the end of the kitchen.
 Her eyes wide and face impassive, she held a knife and a saw blade.
 No.
 She was holding one knife, her other hand was in mid throw.
-A spinning knife was heading for him~
+The circular shape was a spinning knife heading right for him~
 *The knife flew over his head, bouncing against the wall ricocheting towards him again.
 He pushed out his coat, the hilt of the knife bounced off it and slid across the tiles*
 "K::Circle around her!"
@@ -42,14 +47,21 @@ They turned to each other, chittering*
 It was barely held together by wide swatches of non sticky webbing.
 It was about half his size and he could pick it up with one hand, it was lighter than a baseball.
 And they were done in seconds~
+'K::Thank the spiders, Kent, keep in their good graces.'
+*Kent looked up, and nodded curtly*
+'K::Eh, close enough...'
+~He saw movement in the corner of his eye: Martha poking out of the kitchen~
 *Kent held the webbing in one hand, he held it out to his left and it caught a knife*
-~He saw movement in the corner of his eye and Kent turned to face Martha poking out of the kitchen~
 'K::Keep focus, four knives...'
 *Kent pulled the knife out from the goo and tossed it against the wall*
 ~It stuck there, slowly sliding down, trailing like a snail~
 *The doorbell rung*
 "FL__F::I think that's the Relux..."
 *Flanagan left to the front door*
+~Kent was incredulous~
+'K::Sure... 
+Ignore the person throwing knives in the other room.
+Answer the door...'
 ~Sonny was below her spiders, she too received a net~
 *Sonny and Wilbert ran through the foyer towards the kitchen's other entrance*
 ~Kent took a moment to collect himself...~
@@ -60,26 +72,38 @@ And they were done in seconds~
 'K::Three...'
 *He grabbed the knife and pulled*
 ~This one was stuck tight, but it eventually came free, the blade also trailing a slime residue~
+*Kent threw it out of the kitchen, and started walking slowly towards Martha.
+She was darting her head side to side*
+~Her face held no life, only a wide and calculating stare~
+*Martha was darting her head side to side*
+'K::Cornered people are desperate people, Kent'
 ~The island counter top was between Martha and Kent, Sonny and Wilbert were poking out the other threshold~
-*Martha threw a knife in that direction, it landed in Wilbert's left side*
+*Martha threw a knife towards them, it landed in Wilbert's left side*
 ~Sonny had tried to block it with the same makeshift shield, but it only shielded how bad the wound was~
+*Wilbert fell, holding his side, and let out a gargled scream*
 'K::Two.'
+*Martha pulled out the last knife from the block*
+'K::No more knives to pull...
+No more spare knives to throw...
+Go now!'
 *Kent rushed towards Martha.
 Martha spun towards him, and then away - pushing her back into his net, sending them both sprawling on the ground.
 Martha's arm swang out to stab at Kent, but couldn't get the right angle*
-~The blade coming dangerously close to his face.
-The two struggled for a moment before Sonny dropped the net on Martha, sandwiching her between the two.
-Martha's struggles were futile at that point~
-*Alacira strolled into the kitchen*
+~The blade repeatedly stopped dangerously close to his face~
+*Sonny dropped the net on Martha, sandwiching her between the two*
+~Martha's struggles were futile at that point.
+With her arms stuck at her side, Kent easily disarmed her~
+*Alacira strolled into the kitchen while Kent struggled underneath Martha*
+'K::Just great, Kent...'
 ~She looked over the situation.
-Martha's arms had caught in the side of the net, rendering them useless~
-"A::Right, now that's taken care of..."
-*Kent and Sonny both gripped Martha's hands until they disarmed her*
-"A::Let's get the doctor for Wilbert here."
+The net was hardening, like an epoxy, trapping both him and Martha.
+Sonny had simply dropped the net, leaving her free and tending to Wilbert~
+"A::Right, now that's taken care of...
+Let's get the doctor for Wilbert here."
 "K::Which doctor will treat a fish-man?"
 "G::Wrong determiner."
 ~Gerald was shouting from the parlor.
-Kent saw that he held a clipboard, and was scribbling something furiously on it~
+Kent stretched his neck to the parlor and saw that Gerald held a clipboard, scribbling something furiously on it~
 *Kent tilted his head*
 "K::Wrong...
 What?"
@@ -88,12 +112,13 @@ What?"
 Get Wilbert down the steps."
 *Sonny and her spiders wrapped Wilbert in a hammock, and carried him out of the room*
 ~Beside him he watched Martha try to escape the webbing, no wasted energy on facial expressions...
-Just lots of kicking and trashing~
+Just lots of kicking and trashing...
+Right into Kent's side and legs~
 ~At the threshold stood a tall black man~
 "L::And who might you be?"
 *Lenny walked over held out his hand*
-~It was almost an afterthought~
-*Lenny leaned over Martha*
+~It was almost an afterthought, Kent could not take it stuck underneath Martha~
+*Lenny leaned over Martha and Kent*
 "L::She got this Al-tok thing in her?"
 "A::No.
 It's related, but it's not Al-Tok."
@@ -106,6 +131,12 @@ Then it winked back into existence~
 And Kent noticed during these times Martha ceased struggling~
 }
 {
+mn:M
+}
+{
+%%%% 
+}
+{
 ~Martha uncovered more memories.
 And to her surprise, not all were terrible.
 Most were bad, but some when she rehandled now were neutral.
@@ -113,12 +144,82 @@ The more she handled the less phased she was by any particular bad memory~
 'M::Keep watch, it comes from behind.'
 ~She thought that, but she thought of that more of from Rossin than from her...~
 'M::You there?'
-~There was no response, regardless from herself or not, it was good advice~
+~There was no response, regardless of the thought's origins: it was good advice~
 *Martha searched her surroundings*
 'M::It is hiding somewhere...'
 ~Somewhere she couldn't detect~
-*Martha moved on to the next memory to clean, and the sludge moves.
+*Martha moved on to the next memory to clean, and the sludge moved.
 Something wrapped around Martha's wrist, pulling her under*
+`
+const helm = {
+    airSupple:~unlimited~,
+    seals:[~air tight~,~water tight~],
+    autoFit: true,
+    autoAttach: true,
+}
+~Self~.~Martha~.get("onLeftFoot").transform(helm)
+`
+~Martha felt her left shoe transform into a diver's helmet~
+*The helmet crawled - melted - along her body and encompassed her head*
+~It formed around her head just before it went under the sludge~
+*Submerged in the sludge something pulled her further down, into a memory.
+She landed on the grass below her tree house*
+~Pain rushed through her knees as she collapsed, then her shoulders~
+*Martha turn over, facing the sky*
+~She saw throw a circular port hole, with thin bars across~
+'M::Do not look left.'
+~Next to her was her older brother.
+Lying still, face down...
+His arm -~
+~-She was staring up at the moon, keeping her eyes still.
+It was a beautiful night~
+'M::it was just a tap, I did not trip him.'
+~The memory, complete with the thoughts she had at the time filled her~
+*Martha reached up and felt at her head*
+~The diving helmet was there~
+'M::Right.
+Memory...
+Something pulled me in here.'
+~Something to her left.
+A thing that ate her regret, wearing the skin of her brother~
+'M::Rossin...'
+~She wished he was here.
+She just thought he would be at her side now~
+'M::He abandoned me...'
+'M::Well, not quite...'
+~She would have to look left, she knew, eventually, she would have to face it head on.
+And in so doing give it power: acknowledgement of existence~
+'M::Together alone.'
+~The sentiment bittersweet, both from her and...~
+*Martha took a breath...
+And looked left*
+~Immediate terror filled her. 
+She didn't see her brother, she saw that thing.
+The thing that had been chasing her in her dreams now used no facade.
+She knew she made a mistake.
+She should have prepared something~
+'M::fuck...'
+~It was her shape, with wide calculating eyes.
+It was her desire to hurt, wrapped tightly in memories she now regretted.
+It was her memories - twisted into dark and sharp things - including the one she was in now.
+It was ruthless, with a desire only to consumed, held back no longer.
+But worst it was gleeful, it stole the pleasure of others.
+It could not consume pleasure, only be fulfilled by the removal of it in others.
+~
+'M::Fuck... 
+Uh... 
+Shield'
+`
+~Self~.*shield*=*shield*
+`
+~Nothing happened~
+'M::Right...'
+`
+~Martha~ = ~Self~.~Martha~
+~Martha~.*shield*=*shield*
+
+`
+
 `
 todo:
 martha encounters the creature in her head
@@ -146,11 +247,20 @@ code battle starts here
 ~Martha watched it, until she was sure the barrier would hold~
 'M::Okay, so now...
 Just wake up...'
-~She focused, and willed herself awake.
-She found it was easy~
+~She focused, and willed herself awake~
+}
+{
+%%%%
+}
+{
+~Martha awoke to a bright light above her.
+Blurry eyed she took in her surroundings.
+She was in a room, strapped down on some operating table.
+She was surrounded by silhouettes.
+One started moving towards her~
 *Martha struggled against the table*
-~She was in a room, strapped down on some operating table~
 "FL__F::What have you done?"
+~In the corner of the room she could make out the familiar face~
 *Flanagan doubled over in pain, then left the room*
 "M::Wait!
 What's happening?"
@@ -201,10 +311,11 @@ And with begging, pleading, groveling and sulking didn't work...~
 'FL::Oh, you are... right.
 Timer will just... 
 Okay - fixed...'
-~And the world paused again. Frozen on a moment Felix wasn't supposed to see~
+~And the world paused again. 
+Frozen on a moment Felix wasn't supposed to see~
 'F::Why?'
 ~There was no response. 
-Wether Flanagan could hear him or was distracted, Felix did not know...
+Whether Flanagan was ignoring him or was distracted, Felix did not know...
 He hoped it was the latter~
 'F::Hello?'
 ~Again, no response~
