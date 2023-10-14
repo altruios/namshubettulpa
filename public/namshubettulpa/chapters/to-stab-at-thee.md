@@ -216,8 +216,44 @@ Shield'
 'M::Right...'
 `
 ~Martha~ = ~Self~.~Martha~
-~Martha~.*shield*=*shield*
+~Martha~.*shiel>^*ERR
 
+`
+*It rushed at her a claw of dark memory outstretched.
+^It swiped.*
+~Martha felt a tearing sensation at her mouth.
+Her jaw was nothing but fire to her, she couldn't move it~
+*Martha pushed away*
+`
+~Martha~.*gravity*= {0,-0.5,-1}
+`
+~She felt her gravity shift~
+*Martha fell and landed on the tree trunk.
+As she knee bent the wrong way she slipped off and continued falling.
+She screamed - pain shooting through her - and clipped the wooden fence*
+~She saw to her left, something else falling along with her.
+A small mass the size of a coin purse~
+~Her jaw was burning.
+Her knee felt like it had a knife in it.
+She couldn't concentrate~
+*She felt at an empty space her jaw was supposed to be*
+~She screamed in frustration > pain > rage~
+*A dark shadow approached. 
+It flew towards her from where she had come*
+`
+~Martha~.~healing~({
+    ~regeneration~:true,
+    ~rate~:~instant~
+    ~.on~:(~Self~)=>'healing 123'
+    })
+`
+'M::healing 123.'
+~Martha felt relief flood through her knee, her face.
+The mass off to her side had disappeared: appearing where it should be~
+'M::Okay... quick.'
+`
+~Martha~.*gravity*= {0,-0.5,-10}
+~Martha~.*Shield*=~shield~
 `
 
 `
