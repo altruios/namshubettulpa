@@ -5,8 +5,8 @@ mn:M
 ~Avoiding stepping over her 3 cell mates~ 
 *He was scratching his chin*
 'R::He literally has no link, not just hooks - as if he is a robot!'
-*One of the cellmates leaned back - stretched their foot out* 
-*Rossin pass through it, unnoticed* 
+*One of the cellmates leaned back - stretched their foot out.
+Rossin pass through it, unnoticed* 
 "M::You said they were in media - he doesn't consume any... 
 Ergo - no hooks."
 "SM::Who are you talking to, miss?" 
@@ -36,12 +36,12 @@ Any injury that would cause the link to fail would also put you in a coma...'
 'R::I doubt it would be one you wake up from...
 Which - also, by the way, is exceedingly rare. 
 You do not just wake up from a coma: that happens on TV.'
-~The other people in the cell shared glances~ 
-~Nontalkative as they were, they were clearly being put off by her talking to thin air~ 
-~Martha looked at them~
+~The other people in the cell shared glances.
+Nontalkative as they were, they were clearly being put off by her talking to thin air.
+Martha looked at them~
 "M::Should we be talking now?" 
-*She asked as she gestured to the three in front of her*
-*Rossin glanced around* 
+*She asked as she gestured to the three in front of her.
+Rossin glanced around* 
 'R::Oh, them? 
 We can always have them forget after - or during. 
 Are they making you uncomfortable?'
@@ -138,24 +138,24 @@ When part of your mind started moving again, you latched back in."
 }{
 mn:M
 *Martha pressed the switch* 
-~She felt herself cycle back underneath her skin again~
-~It felt like a constant ripping and a stretching that bordered between pain and pleasure~
+~She felt herself cycle back underneath her skin again.
+It felt like a constant ripping and a stretching that bordered between pain and pleasure~
 "M::I don't think I want to get used to that, it's like crawling back underneath your skin... from..."
 ~She struggled to find the words~
 'R::He is close. 
 Almost here.'
 ~Rossin was sitting where Martha had been in that shadow perspective~ 
-*She closed her fist a few times, testing* 
-*Rossin walked through the bars toward the door*
+*She closed her fist a few times, testing.
+Rossin walked through the bars toward the door*
 'R::And about getting out of here. 
 I expect it would be a good thing to do sooner rather-'
 *The door opened* 
 ~Pausing Rossin's warning as it passed though him~ 
 *In strolled a man* 
-~Not in a police uniform but~ 
-~A white suit that looked like it belonged on a luxury cruise line~ 
-~His smile made him look like a predator ready for a meal~ 
-~He quickly glanced at the 3 standing in front of the bar and leaned over to look at Martha~ 
+~Not in a police uniform but.
+A white suit that looked like it belonged on a luxury cruise line.
+His smile made him look like a predator ready for a meal.
+He quickly glanced at the 3 standing in front of the bar and leaned over to look at Martha~ 
 "F::Hello there." 
 ~His voice reeked of condescension, and a trace of annoyance~ 
 "F::Do you know where I was?"
@@ -171,10 +171,11 @@ Keep your head still, just answer.'
 "F::Leave us." 
 *The did - walking back into the offices of the station*
 "F::Take those with you." 
-*He gestured towards her cellmates* 
-*After some rustling the three continued to walk forward outside the cell* 
-*A bit more rustling they and proceeded to walk out of the room* 
-*While sliding face-first against the wall* 
+*He gestured towards her cellmates*
+~Martha saw a glassy stare of the police officer glimmer in acknowledgement~
+*After some rustling the three continued to walk forward outside the cell.
+A bit more rustling they and proceeded to walk out of the room.
+While sliding face-first against the wall* 
 ~The stranger looked on, his eyes went from wide to narrow in the span of a second~ 
 "F::Adorable..." 
 *He turned to face her* 
@@ -203,8 +204,8 @@ You know you can bring them back right?"
 'R::I tried to tell you... 
 But you stopped listening to me...'
 "M::How?" 
-~Martha tried to remain calm~
-~But her chest hollowed, an on mix of terror and relief~ 
+~Martha tried to remain calm.
+But her chest hollowed, an on mix of terror and relief~ 
 *Rossin smacked his head as Felix tilted his head*
 "F::Empathy is good. It was a mistaken then..."
 ~Felix considered~
@@ -230,8 +231,8 @@ Looking for some lowlife to make the world a little better with their absence."
 *He leaned back*
 "F::So you want to fix him - fix your mistake."
 'Okay, so he means a trade - one life for another...' 
-~She did those trolly problems in college - morality tests~ 
-~And this one hadn't exactly come up~
+~She did those trolly problems in college - morality tests.
+And this one hadn't exactly come up~
 "F::How new are you to... 
 Knowing about all this?"
 ~Martha waited for Rossin to supply a time frame, he did and then some~
@@ -309,14 +310,11 @@ Right - you're new."
 *The police officer shuffled in* 
 ~A blank stare across his face~ 
 "F::Go get us a killer, a real psychopath."
-~Martha started~ 
-*Raised her hand to stop him* 
 *Rossin put his hands up in a calming gesture* 
 'R::Let this play out, it is what I was trying to tell you earlier.' 
-*She backed down* 
 *Albert walked out of the room, and was back in moments* 
-~He was holding another scrawny police officer by the collar~ 
-~In Albert's grip raised just enough for his black shoes to leave the floor~
+~He was holding another scrawny police officer by the collar.
+In Albert's grip raised just enough for his black shoes to leave the floor~
 "F::Well that was fast. Looks like... 
 Raise your sleeve up a bit, would you." 
 *As requested, he raised it to his forearm*  
@@ -330,17 +328,17 @@ It's bad form to trash the playground."
 "F::Bring him to the car..." 
 *He extended his hand to her* 
 "F::Let's get out of here, shall we?" 
-*Martha took it*
-*Rossin leaned over to her* 
+*Martha took it.
+Rossin leaned over to her* 
 'R::This is a stroke of luck - him not trying to erase you... 
 I think that is lucky at least...'
-~They exited the room the holding cell was in~
-~Only to find the police station quiet and still~
-~With no police officer, or anyone in the station moving or making a sound. ~
-~They stood where they had been doing something~  
-~Eyes all glassy forward staring showing nobody was home~ 
-*Albert pushed open the double front doors to the station and opened to dawn's light* 
-*As they closed hands twitched and faces contorted. *
+~They exited the room the holding cell was in.
+Only to find the police station quiet and still.
+With no police officer, or anyone in the station moving or making a sound.
+They stood where they had been doing something.
+Eyes all glassy forward staring showing nobody was home~ 
+*Albert pushed open the double front doors to the station and opened to dawn's light.
+As they closed hands twitched and faces contorted*
 ~Where people spilled papers they cleaned up. 
 Where coffee was spilt it was soaked. 
 Each were busy in their own personal mess they didn't notice each other's~
