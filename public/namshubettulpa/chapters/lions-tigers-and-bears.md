@@ -1,9 +1,10 @@
 # LIONS TIGERS AND BEARS
 {
 mn:M
-~Martha sat in the back of the police car, Albert driving and the scrawny police officer up front~
-~Felix sat next to her in the back and Rossin~
-~He just sort of floated in the middle of the divider, sitting on the armrest in front facing backwards.
+~Martha sat in the back of the police car, Albert driving and the scrawny police officer up front.
+Felix sat next to her in the back~
+~And Rossin...
+He just sort of floated in the middle of the divider, sitting on the armrest in front facing backwards.
 His front half was poking through the thick plastic~
 }
 {
@@ -28,8 +29,8 @@ Second lesson: ready?"
 "F::Why?"
 *Rossin started tapping his fist to a beat and counting his finger after a set, She looked at Rossin*
 'R::He means information is power, the more freely it is shared the more diluted it is, the less useful it is to you...'
-~She rolled her head just enough to give the impression , 'okay, but what does he want to hear?'~
-~Rossin finished counting with his finger~
+~She rolled her head just enough to give the impression , 'okay, but what does he want to hear?'.
+Rossin finished counting with his finger~
 'R::One word answer, something to show you understand...
  Like-'
 "M::Power."
@@ -82,10 +83,10 @@ Which is good - it looks like it is just a general command to follow his voice p
 *Martha walked to where the outline of a body in white caulk was sketched into the wooden floor*
 "F::Clean that up, both of you."
 ~And they did as they were told~
-*Felix strolled to the couch - and sat down - beckoning Martha to join him*
+*Felix strolled to the couch - and sat down - beckoning Martha to join him.
+She sat across from him on the u-shaped couch*
 }
 {
-*She sat across from him on the u-shaped couch*
 "F::He's in the back of the mind somewhere. 
 And his relative will help bring him out.  
 Flat-mate, or neighbor would have been fine - just someone who knows him. 
@@ -148,8 +149,8 @@ It's a namshub for everyone else, not the wearer."
 }
 {
 *Felix pulled out of a pocket, a small metal circle - with a small based trapezoid*
-~It looked a bit like the omega symbol~
-~The small base had a series of dials, each rotatable and with a notch for each letter~
+~It looked a bit like the omega symbol.
+The small base had a series of dials, each rotatable and with a notch for each letter~
 *Rossin leaned over to inspect the device as Felix spoke*
 "F::The center part is the general command, the letters are just writing out the name - easy for others to see...
  This isn't exactly my first rodeo - I've made some mistakes too. 
@@ -170,8 +171,8 @@ Not a half-bad idea."
 "F::Go light a fire, and you."
 *He pointed to the scrawny sacrifice*
 "F::Go get changed - upstairs, not his clothing, the other one's."
-*Without even any acknowledgement the officer moved up the stairs*
-*The other went into the kitchen to turn on the stove*
+*Without even any acknowledgement the officer moved up the stairs.
+The other went into the kitchen to turn on the stove*
 "F::Anyway, about getting him back... 
 It's just identifying what collection of ideas, what network to put back inside. 
 That's what the son is for, he knows the boundary, the surface. 
@@ -216,8 +217,7 @@ They didn't take to me, the teachers that is, to me too much...
 I think it was their way of trying to keep an eye on me, that is, getting me to teach."
 }
 {
-~Martha paused~
-~Rossin urged her on~
+~Rossin urged her out of her pause~
 "M::Or they knew you would be good at it..."
 *Felix smiled*
 ~Not a happy one~
@@ -240,18 +240,17 @@ Quicker than you know."
 *He turned his head back to the stairs*
 ~The officer had his uniform bundled in his arm~
 "F::I'll take that."
-*He reached out and grabbed the uniform*
-*Looking back at Martha*
+*He reached out and grabbed the uniform, looking back at Martha*
 "F::Rule three: less of a rule more of a suggestion: costumes are fun. 
 You can write in a costume in their mind, but why do the extra work."
 *He turned his head back to the kitchen*
 "F::Son, go brand your new father on the forehead."
 *Felix tilted his head to the once-been officer*
 "F::And think deeply about your father."
-*The son moved into the living room, brandishing the red hot iron device, and did as instructed*
+*The son moved into the living room, brandishing the red hot iron device, and did as instructed.
+Felix grabbed the back of both their heads and closed his eyes*
 }
 {
-*Felix grabbed the back of both their heads and closed his eyes*
 ~A moment later, ~
 "F::There."
 *And Felix leaned back*
@@ -297,24 +296,23 @@ Don't give them such an easy avenue into you as when you sleep."
 *Rossin paced back and forth*
 'R::I think we got him...
 I am unsure what he wants exactly...'
-*Martha jumped when the neighbor came to life, his son also started awake*
-*They both turned to her*
+*Martha jumped when the neighbor came to life, his son also started awake.
+They both turned to her*
 "SM::What the fuck are you doing in my house?"
-~The father asked~
-~Martha looked at his forehead and knew the face before her wasn't her neighbors~
-~But she couldn't tell what the difference was~
-~She had a sharp moment of vertigo as she remembered the body on the floor, a different body, and shook her head~
-~The moment passed~
+~Martha looked at his forehead and knew the face before her wasn't her neighbors.
+But she couldn't tell what the difference was.
+She had a sharp moment of vertigo as she remembered the body on the floor, a different body, and shook her head.
+The moment passed~
 }
 {
-*The father started toward her, prompting Martha to sprint for the door*
-*She just make distance before the son could reach her*
-*She ran down the street*
+*The father started toward her, prompting Martha to sprint for the door.
+She just make distance before the son could reach her.
+She ran down the street*
 'R::Keep going...'
-~She passed her house: focused on running down the sidewalk~
+~She passed her house: focused on running down the sidewalk.
+The son stood on the porch with his father~
 }
 {
-~The son stood on the porch with his father~
 "SM::Seriously, how did she get in, we were standing right there?"
 *The father grunted, and angrily waved her off*
 "SM::Go make sure she didn't steal anything.
