@@ -475,9 +475,8 @@ All with similar books~
 'M::They said it would stand out.' 
 ~She looked around the room - looking for anything out of place.
 She spotted a desk next to the door she entered from - papers in a haphazard mess~ 
-~And~
-'M::There!' 
-~She spotted it.
+'M::^There!' 
+~And ^ She spotted it.
 On the edge of the desk was a small paperback romance novel.
 It was a ridiculous cover with a handsome shirtless blonde man clutching a damsel~
 'M::Yep, that would be out of place enough.' 
@@ -509,8 +508,8 @@ It wasn't on the pages, it was~
 'M::What?'
 *She flipped again, going cover to cover*
 'M::All of the pages?'
-~The symbol spread almost completely outside the pages of the book~
-~It seared into her mind - a pattern that twisted as the pages turned.
+~The symbol spread almost completely outside the pages of the book.
+It seared into her mind - a pattern that twisted as the pages turned.
 It told a story, in the shapes it made.
 She didn't understand the story - couldn't understand it.
 But it was burned in her brain all the same~
