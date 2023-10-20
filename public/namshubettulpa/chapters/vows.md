@@ -1,18 +1,18 @@
 # VOWS
 {
 mn:K
-~Kent sat in the waiting room~
-~Nurses bustling about~
-~A chorus of beeps from machines lay in the distance beyond a set of doors~
-~Above him an angry news anchor~
-~Complaining about something Kent didn't care about or listen to~
-~A chorus of low murmurs and coughs filled out the white noise~
-~His eyes were heavy, and he held his head in his hands, resting them~
-~He found a ledge for his head to lean back - and drifted off to sleep~
-~He awoke suddenly to his name being called~
-~A nurse at the double doors looked at him expectantly~
-*A yawn later he was up, and followed the nurse a few paces behind*
-*He looked at the clock they passed*
+~Kent sat in the waiting room.
+Nurses bustling about.
+A chorus of beeps from machines lay in the distance beyond a set of doors.
+Above him an angry news anchor.
+Complaining about something Kent didn't care about or listen to.
+A chorus of low murmurs and coughs filled out the white noise~
+~His eyes were heavy, and he held his head in his hands, resting them.
+He found a ledge for his head to lean back - and drifted off to sleep.
+He awoke suddenly to his name being called.
+A nurse at the double doors looked at him expectantly~
+*A yawn later he was up, and followed the nurse a few paces behind.
+He looked at the clock they passed*
 'K::A few minutes of sleep was worse than none.'
 ~But he had been here for hours already~
 "N::You can see him, but he's not awake yet."
@@ -37,17 +37,17 @@ Means he should be able to wake up."
 }
 {
 *Kent walked in*
-~Tom was wrapped in bandages, his head exposed~
-~His left hand in a small device to keep the fingers straight~
-~Wires connected him to a machine on his right~
-~They monitoring a heart rate and other things~
+~Tom was wrapped in bandages, his head exposed.
+His left hand in a small device to keep the fingers straight.
+Wires connected him to a machine on his right.
+They monitoring a heart rate and other things~
 "K::So he's stable?"
 "N::He's not going to die, not today at least."
 *Kent swallowed*
-~Even with the bandages there Kent saw the black and red flesh beneath~
-~He reminded himself that it was covered in fake skin below that bandage~
-~And then his imagination ran wild with lizard skin imagery~
-~He suppressed a gag~
+~Even with the bandages there Kent saw the black and red flesh beneath.
+He reminded himself that it was covered in fake skin below that bandage.
+And then his imagination ran wild with lizard skin imagery.
+He suppressed a gag~
 "K::And the other one?"
 "N::We couldn't revive him.
 He died in the ambulance."
@@ -56,21 +56,21 @@ He died in the ambulance."
 {
 "K::Hey Bozo: you ready to wake up?"
 ~The reaction was immediate - the heart monitor rate spiked~
-*Tom's eyes fluttered open*
-*The nurse went to his bedside when he started writhing in pain*
-*They pressed some buttons on the machine and a hiss escaped*
-~Some liquid pumped into Tom's IV and Tom stopped struggling~
-~His heart rate decreasing~
-~Kent only watched~
+*Tom's eyes fluttered open.
+The nurse went to his bedside when he started writhing in pain.
+They pressed some buttons on the machine and a hiss escaped*
+~Some liquid pumped into Tom's IV and Tom stopped struggling.
+His heart rate decreasing.
+Kent only watched~
 "T::It's so warm."
 ~Tom's voice was a little raspy~
 "K::You burned yourself pretty bad, what were you doing?"
 "T::Burned?"
 *Tom tried to sit up*
-~Tried~
+~Tried...
+The drugs they pumped him with dulled the pain, partially~
 }
 {
-~The drugs they pumped him with dulled the pain, partially~
 "T::How did I get here...
 What happened?"
 ~His eyes were glassy now - not fully able to focus on Kent~
@@ -100,60 +100,61 @@ I want to know why?"
 "N::Sir, you're going to have to leave?"
 "K::What's going on?"
 "N::Allergic reaction maybe - I just called the doctor."
-~And no sooner than she said it several people filled the room~
-~They carried other machinery. ~
-~Kent assumed one to be a crash cart~
-~The other's he didn't recognize~
+~And no sooner than she said it several people filled the room.
+They carried other machinery.
+Kent assumed one to be a crash cart.
+The other's he didn't recognize~
 *Tom's wheezing grew louder as the beeping grew more frequent*
 }
 {
 *Kent backed out of the room followed by the nurse before they shut the door*
-~They then  guided him to the waiting room, to wait~
-~...Again~
+~They then  guided him to the waiting room, to wait...
+Again~
 *Kent sat back down in the chair he was in before*
 ~He listened to the drone of mumbles and whispers from the others in the room~
-*He closed his eyes*~ and tried to relax to find sleep~
-~He could not~
-~His mind replayed the event over and over, not perfectly~
-~The charred black and red skin intermixed between the images~
-~He tried to filter those out but found he could not~
+*He closed his eyes* 
+~And tried to relax to find sleep.
+He could not.
+His mind replayed the event over and over, not perfectly.
+The charred black and red skin intermixed between the images.
+He tried to filter those out but found he could not.
+The last moment was the woman~
 }
 {
-~The last moment was the woman~
 'K::Martha...'
 ~Speaking that strange language~
 'K::Had she done this somehow?'
 'K::If so...'
 'K::How?'
-~He struggled for a reason~ 
-~Any reason Tom might help the tech destroy those tapes~
-~Or why the tech ran and grabbed Martha's file~
+~He struggled for a reason.
+Any reason Tom might help the tech destroy those tapes.
+Or why the tech ran and grabbed Martha's file~
 'K::It was as if he was hypnotized - but that was nonsense.'
 'K::Hypnosis was not real - something for stage shows and bad TV.'
-~Neither of which he had seen personally~
-~But everyone loved to talk about bad TV~
-*He repeatedly scratched at the back of his head*
-*His fingers going back over the bump*
+~Neither of which he had seen personally.
+But everyone loved to talk about bad TV~
+*He repeatedly scratched at the back of his head.
+His fingers going back over the bump*
 'K::Tom would be fine...'
 'K::He was in a hospital...'
 'K::And he had been stable...'
 'K::And they knew exactly what they put into him, so they would be able to fix it...'
-~He told himself that - but the nurse's eyes~
-~The sudden concern in those eyes juxtaposed against that last thought~
-~He tried to focus on something, anything else~
-~...And there wasn't a better distraction than his job~
-~He held his head in his hands, his arms braced against the chair~
-~He was so tired, too much had happened in one day~
-~He replayed the events leading up to the fire~
+~He told himself that - but the nurse's eyes.
+The sudden concern in those eyes juxtaposed against that last thought.
+He tried to focus on something, anything else...
+And there wasn't a better distraction than his job.
+He held his head in his hands, his arms braced against the chair~
+~He was so tired, too much had happened in one day.
+He replayed the events leading up to the fire.
+He couldn't shake the thought~ 
 }
 {
-~He couldn't shake the thought~ 
 'K::Something in that tape they watched caused this.'
-~Something Martha had done~
-~And she was missing~
+~Something Martha had done.
+And she was missing~
 'K::And those other people in the cell with her were...'
-~Also hypnotized he realized~
-~She had spoken the same indescribable language to them too~
+~Also hypnotized he realized.
+She had spoken the same indescribable language to them too~
 }
 {
 'K::She tried that on me...'
@@ -162,23 +163,23 @@ I want to know why?"
 Did it?
 How would I even know one way or the other?'
 *He flexed his hands*
-~He felt like he was in control~
-~Some small part of him couldn't help but doubt~
+~He felt like he was in control.
+Some small part of him couldn't help but doubt~
 *His eyes twitched with a rapid double vision, he tried to focus them again*
-~His sleep deprivation, maybe that was adding to his paranoia~
-~He couldn't explain what had happened~
-~But he knew Martha was at the center of it - somehow he knew that~
-~A deep sense of dread filled his gut as he realized he was out of his depth~
-~He ran these thoughts over and over in his head~
-~He did come to any new conclusions - but further solidifying one fact~
-~He had to find Martha~
-~Make her explain~
-~Make her answer for what she had done~
-~Though he was not even sure exactly of what she did~
-~An hour or so later, he heard his name called again~
-~It was the same nurse: she wore the face of someone bearing tragic news~
-*Kent lowered his head into his hands and tears rolled out against his wishes*
-*He got up - and followed her back through the double doors*
+~His sleep deprivation, maybe that was adding to his paranoia.
+He couldn't explain what had happened.
+But he knew Martha was at the center of it - somehow he knew that.
+A deep sense of dread filled his gut as he realized he was out of his depth.
+He ran these thoughts over and over in his head.
+He did come to any new conclusions - but further solidifying one fact.
+He had to find Martha.
+Make her explain.
+Make her answer for what she had done.
+Though he was not even sure exactly of what she did~
+~An hour or so later, he heard his name called again.
+It was the same nurse: she wore the face of someone bearing tragic news~
+*Kent lowered his head into his hands and tears rolled out against his wishes.
+He got up - and followed her back through the double doors*
 }
 {
 %%%%
