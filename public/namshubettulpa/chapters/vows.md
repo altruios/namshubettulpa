@@ -104,10 +104,10 @@ I want to know why?"
 They carried other machinery.
 Kent assumed one to be a crash cart.
 The other's he didn't recognize~
-*Tom's wheezing grew louder as the beeping grew more frequent*
 }
 {
-*Kent backed out of the room followed by the nurse before they shut the door*
+*Tom's wheezing grew louder as the beeping grew more frequent.
+Kent backed out of the room followed by the nurse before they shut the door*
 ~They then  guided him to the waiting room, to wait...
 Again~
 *Kent sat back down in the chair he was in before*
@@ -196,25 +196,25 @@ mn:M
 *She rubbed at it*
 'M::Was it...
 From the dream?'
-~She wondered~
-~Bits more came back to her~
-~She recoiled at the thought of going back to sleep. ~
-~As tired as she was, she was worried she would have another nightmare~
+~She wondered.
+Bits more came back to her.
+She recoiled at the thought of going back to sleep. 
+As tired as she was, she was worried she would have another nightmare~
 'M::What exactly happened?'
-~She remembered Jason Vorheeves, the ship~
-~And the book~
-~The image of that symbol flashed in her memory~
-~An undulating pattern that rotated in on itself~
-~It burned an afterimage of itself in her mind's eye~
+~She remembered her nightmare, the ship.
+And the book.
+The image of that symbol flashed in her memory.
+An undulating pattern that rotated in on itself.
+It burned an afterimage of itself in her mind's eye~
 }
 {
-~That pattern had been a language - one she could almost understand~
-~Not in words, not in feelings, but in something just beyond her grasp~
-~Every detail of that twisting pattern burned in her mind~
+~That pattern had been a language - one she could almost understand.
+Not in words, not in feelings, but in something just beyond her grasp.
+Every detail of that twisting pattern burned in her mind~
 *She drank some water to try and help with the headache*
 ~Either it was lack of sleep or it was that image, she couldn't tell~
-*She looked up at the mirror in front of her* 
-*Rossin stood behind her, she whirled*
+*She looked up at the mirror in front of her.
+Rossin stood behind her, she whirled*
 "M::Where were you?"
 'R::Asleep it would seem.'
 *Rossin looked around the room*
@@ -254,19 +254,19 @@ I can not read your mind, remember?'
 You kind of look like shit... 
 Like you have been up all night and dramatized by a whole lot.
 Go relax with some hot water.'
-~She did need a bath~ 
-~But she really hadn't considered what that would be like~
+~She did need a bath.
+But she really hadn't considered what that would be like~
 'M::A sentient brain she could not just get rid of...'
-~Martha thought, he was in her head, so~
+~He was in her head, so...~
 `['Was he bathing with her?',
 'Or was he in the other room...'
 'Or by going to the other room was that a different part of her mind?']`
 "M::Fine, but stay in that room."
 'R::Will not look in, I am not interested in that, just be quick.'
-*Rossin walked out of the bathroom and she shut the door*
-*She turned on the faucet to the tub*
-~For a moment she watched the water rushing out~ 
-~Swirling into the tub in chaotic waves~
+*Rossin walked out of the bathroom and she shut the door.
+She turned on the faucet to the tub*
+~For a moment she watched the water rushing out.
+Swirling into the tub in chaotic waves~
 'M::Okay, but he is not actually in the room over there...
 He is just... 
 What? 
@@ -285,17 +285,17 @@ Hiding?'
 'Kill that thing in my brain.', 
 'Have a good fucking meal.', 
 'Fix the world.']`
-~She paused~
-~The ordering of her thoughts startled her~
-~Clear as day despite how tired she still was~
-~Normally she had trouble focusing, but it was easy now~
-~Simply a list - one that she realized - would remain easily recallable~
+~She paused.
+The ordering of her thoughts startled her.
+Clear as day despite how tired she still was.
+Normally she had trouble focusing, but it was easy now.
+Simply a list - one that she realized - would remain easily recallable~
 'M::That is handy - grocery shopping would be easy...'
-~She wondered how far she could stretch that?~
-~How would she test that?~
-*When the water was half full she moved back to the room*
-*Rossin sat on the bed*
-*His head turned quizzically when she reached in the drawer beside her*
+~She wondered how far she could stretch that?.
+How would she test that?~
+*When the water was half full she moved back to the room.
+Rossin sat on the bed.
+His head turned quizzically when she reached in the drawer beside her*
 'M::Yep.'
 ~There was a bible - even in a seedy motel~
 'R::Some light bath reading?'
@@ -317,15 +317,15 @@ Do not fill it with junk.'
 'M::Eh, close enough.'
 ~At least she could clean herself~
 *Dipping in the bath she opened the bible to random pages* 
-~She glanced at a few passages~
-~Each stuck in her mind - added to a list~
-*She did this for a few minutes and then closed the book - then her eyes*
-*Holding her nose she dipped below the water*
-~When she was done - dried and clothed again, she recalled the list~
-~Each item was perfectly remembered - or so she thought~
-*She moved out into the other room* 
-*Martha grabbed a small pencil and notepad by the phone*
-*She wrote out passages - word for word*
+~She glanced at a few passages.
+Each stuck in her mind - added to a list~
+*She did this for a few minutes and then closed the book - then her eyes.
+Holding her nose she dipped below the water*
+~When she was done - dried and clothed again, she recalled the list.
+Each item was perfectly remembered - or so she thought~
+*She moved out into the other room.
+Martha grabbed a small pencil and notepad by the phone.
+She wrote out passages - word for word*
 ~When she was done - she compared them to the book - all perfectly remembered~
 "M::So what, I have a perfect memory?"
 'R::Well, no.
@@ -367,9 +367,8 @@ So that you can use them to trigger various sense enhancements.'
 'R::Ah, writing into your brain.
 So you can learn the language.'
 "M::Which language?"
-'R::The language!'
-~Rossin exclaimed, ~
-'R::The one behind all other languages. 
+'R::The language!
+The one behind all other languages. 
 The one we all think as an infant. 
 Before we learn what words are or the language our parents taught us.
 The one you thought in before you learned how to speak.'
@@ -400,35 +399,35 @@ Shift your focus to the right of your vision - it will be a blank wall.'
 "M::I just see darkness, I don't know."
 *She opened her eyes, and looked to the right: to where Rossin was*
 "M::How do I know when I've done it?"
-*Rossin gestured for her to close her eyes*
-*She did*
+*Rossin gestured for her to close her eyes.
+She did*
 'R::It will be apparent - just relax and focus.
 Your vision is just part of your brain. 
 Lighting up from some chemical signals from your eyes. 
 You are focused on that when you see. 
 Just - with your eyes close: focus to your right. 
 Pivot your attention away from where you see.'
-~Martha tried for a bit~
-~A few minutes passed~  
-~She was pretty sure she was just trying to look right with her eyes~
-~No matter how she tried she wasn't able to just~
-~Turn her brain like that, was that the best phrase, she wondered~
+~Martha tried for a bit.
+A few minutes passed.
+She was pretty sure she was just trying to look right with her eyes.
+No matter how she tried she wasn't able to just...
+Turn her brain like that, was that the best phrase, she wondered~
 'M::Turn my brain....'
-~Eventually - with her eyes closed - she allowed her mind to wander~
-~She was in a motel room trying to look right and~
-~A flash of white appeared, and was gone~
-~Just a hair bit out of her vision~
-~It wasn't in front of her eyes but to the right side of her head~ 
-~And she could see it~
-~A blinking, white light, rectangular in shape, pulsing evenly~
+~Eventually - with her eyes closed - she allowed her mind to wander.
+She was in a motel room trying to look right and...
+A flash of white appeared, and was gone.
+Just a hair bit out of her vision.
+It wasn't in front of her eyes but to the right side of her head.
+And she could see it.
+A blinking, white light, rectangular in shape, pulsing evenly~
 "M::I think I found something?"
 }
 {
 "R::What is it?"
 "M::A blinking rectangle."
-~Words underneath the blinking rectangle, as the shape moved to the right~
-~It was a cursor~
-~It continued to the right, then shifted to a new line~
+~Words underneath the blinking rectangle, as the shape moved to the right.
+It was a cursor.
+It continued to the right, then shifted to a new line~
 }
 {
 `"Hello Martha, say apple."`
@@ -437,9 +436,9 @@ Pivot your attention away from where you see.'
 Martha - think of this as a message board. 
 We are both able to read it.'
 *Martha opened her eyes*
-~Her consciousness shifted to the right in a sudden lurch~ 
-~She saw the motel room again~
-~The light hurt her eyes, how long had they been closed~
+~Her consciousness shifted to the right in a sudden lurch.
+She saw the motel room again.
+The light hurt her eyes, how long had they been closed~
 *She squinted*
 'R::Alright, you are alright.'
 ~Rossin reassured her, she realized she was shaking~
@@ -454,8 +453,8 @@ For now though, keep your eyes closed - and the same way you turned, just...
 Turn back the other way.'
 }
 {
-~For the next hour that's all Martha did~ 
-~She looked back and forth between her vision, and that text to her right~
+~For the next hour that's all Martha did.
+She looked back and forth between her vision, and that text to her right~
 `['Was look even the right word if she was not using her eyes?',
 'Was there a right word?']`
 "M::Rossin, is there a...
@@ -544,8 +543,8 @@ Good big meals.'
 {
 *Martha nodded*
 ~She hadn't forgotten - the list of things to do was always there. 
-Just off to the right of her mind~
-~Cataloged with others, like a rolodex - indexable~
+Just off to the right of her mind.
+Cataloged with others, like a rolodex - indexable~
 "M::But food first."
 ~Rossin waited at the door~
 }
