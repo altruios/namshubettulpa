@@ -1,12 +1,14 @@
 # ERRORS
 {
 mn:M
-~From the outside there was no damage to the police station~
-~Everything looked fine~
+}
+{
+~From the outside there was no damage to the police station.
+Everything looked fine~
 *Martha strolled in*
-~She noticed the wet floor first, then everyone's demeanor~
-~It didn't take long to spot the burn marks~
-~They covered a small door down the hallway to the right~
+~She noticed the wet floor first, then everyone's demeanor.
+It didn't take long to spot the burn marks.
+They covered a small door down the hallway to the right~
 *Walking up to the front desk she asked*
 "M::What happened here?"
 "PO::Fire."
@@ -24,18 +26,21 @@ Probably in the holding cell.'
 `['There is more to do here, obviously']`
 'R::Well, start there - let me switch.'
 ~She obliged~
+}{
+
 mn:R
+}{
 *Once they were done trading places, Rossin turned toward the front desk again*
 `WITH(
   (hooks)
     .go(~Location of the prisoners facing the wall~)
     .break("Thank you.")
 )`
-*The man behind the desk got up, and ushered them to follow*
-*They passed the burnt out room*
-~A large portion of the walls were black~
-~And currently there was yellow tape barring the entrance~
-~The entire surveillance system seems to have been burnt~
+*The man behind the desk got up, and ushered them to follow.
+They passed the burnt out room*
+~A large portion of the walls were black.
+And currently there was yellow tape barring the entrance.
+The entire surveillance system seems to have been burnt~
 'R::At least no working cameras this time...'
 *Martha only nodded*
 ~She followed Rossin and the officer to the back of the station~
@@ -55,9 +60,11 @@ mn:R
 }
 {
 mn:M
+}
+{
 'R::We should probably change your shirt - it is still...'
-~Rossin trailed off~
-~Martha looked down - seeing the blood stains make almost a designer pattern~
+~Rossin trailed off.
+Martha looked down - seeing the blood stains make almost a designer pattern~
 "M::It's already five now, do we have time before the red-eye?"
 'R::We can stop somewhere on the way. 
 You only need a shirt.'
@@ -65,8 +72,8 @@ You only need a shirt.'
 'R::No, not really.'
 *Her stomach growled, she looked down - annoyed - she had just eaten*
 'R::Yeah, get used to that.'
-*Rossin gestured towards the door*
-*They started walking out of the station*
+*Rossin gestured towards the door.
+They started walking out of the station*
 "M::Always being hungry?"
 *Rossin nodded*
 'R::The food in first class is excellent. 
@@ -88,24 +95,24 @@ mn:K
 {
 ~Kent was at Martha's house - the police tape had been cleared~
 *He pushed open the unlocked door*
-~And found it dark inside - no signs of life~
-~In the kitchen he looked at the traces of blood identified on the counter top~
+~And found it dark inside - no signs of life.
+In the kitchen he looked at the traces of blood identified on the counter top~
 *He looked around and found nothing of particular interest*
-~No clues as to where she was, or what she had been doing~
-~On the drive over he called her work~
-~She was a teller at the local supermarket~
-~They hadn't seen her for well over a week now - they assumed she quit~
+~No clues as to where she was, or what she had been doing.
+On the drive over he called her work.
+She was a teller at the local supermarket.
+They hadn't seen her for well over a week now - they assumed she quit~
 'How does a teller make enough to afford this place?'
-~He wondered~
-~It was a nice single level home - not spacious, but clearly not cheap either~
+~He wondered.
+It was a nice single level home - not spacious, but clearly not cheap either~
 }
 {
 *He sighed - walked to the house next door*
 ~Cutting across the lawn to check on the neighbor~
-*He waited only a short time after knocking on the door*
-*An officer he knew with a brand on his forehead open the door*
-~Kent stared at the brand, it had a name on it, below a strange symbol~
-~When he wasn't directly looking it slipped from his mind, unable to stick~
+*He waited only a short time after knocking on the door.
+An officer he knew with a brand on his forehead open the door*
+~Kent stared at the brand, it had a name on it, below a strange symbol.
+When he wasn't directly looking it slipped from his mind, unable to stick~
 "RO::Can I help you?"
 ~Kent stared blankly at him~
 "K::...What are you doing here?"
@@ -145,8 +152,8 @@ Rogers, what are you playing at?"
 *The door slammed in Kent's face*
 }
 {
-~He just~
-~Stared at it, stunned~
+~He just...
+Stared at it, stunned~
 'What the fuck was going on?'
 'And why was the son playing along.'
 'Was this...'
@@ -163,16 +170,16 @@ Rogers, what are you playing at?"
 %%%%
 }
 {
-~Kent's first question at the police station was the location of Rogers~
-~No one knew, besides himself~
-~He was supposed to be on shift~
-~Those that knew him - could care less about his current whereabouts~
-~No one seemed to remember anything odd happening that morning~
-~In fact they were normal now~
-~Talkative even, with no memory of anything odd of course~
+~Kent's first question at the police station was the location of Rogers.
+No one knew, besides himself.
+He was supposed to be on shift.
+Those that knew him - could care less about his current whereabouts.
+No one seemed to remember anything odd happening that morning.
+In fact they were normal now.
+Talkative even, with no memory of anything odd of course~
 "K::Do you remember her exact words?"
-~Kent sat across one of those that had been facing the walls~
-~They sat in the interview room~
+~Kent sat across one of those that had been facing the walls.
+They sat in the interview room~
 "P::No, she was talking to herself.
 Something about an eye.
 A red eye."
@@ -184,11 +191,11 @@ A red eye."
 "K::And you don't remember anything about the walls."
 *The man across from him shook his head*
 "P::Not even a little bit."
-~When Kent told him about how he was just facing the wall~
-~Bewilderment was the response~
-~More and more Kent questioned his sanity~
-~And when he wasn't~
-~He was becoming deeply troubled by who or what he might be dealing with~
+~When Kent told him about how he was just facing the wall.
+Bewilderment was the response.
+More and more Kent questioned his sanity.
+And when he wasn't...
+He was becoming deeply troubled by who or what he might be dealing with~
 "K::You sure she said something about a redeye?"
 "P::Yeah, I think her eye's hurt or something."
 *Kent stared blankly*
@@ -196,14 +203,19 @@ A red eye."
 A time when...
 You know what...
 Never mind."
-"P::Hey, also: there's a surprise party happening down at the donut shop on fifth, only certain people are supposed to be in the know, you know, but you know..."
+'K::They did a number on these everyone here.
+Who the hell are you dealing with here, Kent?'
+"P::Hey, also: there's a surprise party happening down at the donut shop on fifth.
+Only certain people are supposed to be in the know... 
+You know, but you know..."
 *He leaned in*
-"P::Smith let me in on it, now you."
+"P::Smith let me in on it, now you.
+He's bringing the icing - "
 "K::Not interested."
-*Kent got up to leave, he knew where he had to go*
-*He looked at the clock - 9:25pm*
-~He wouldn't be able to make it in time~
-~Not unless~
+*Kent got up to leave, he knew where he had to go.
+He looked at the clock - 9:25pm*
+~He wouldn't be able to make it in time.
+Not unless~
 'K::No, parking there is a bitch...'
 "K::Feel like driving?"
 }
@@ -212,37 +224,37 @@ Never mind."
 }
 {
 ~10:30pm~
-*The blue lights stopped flashing, the cruiser door opened*
-*Kent stepped out*
+*The blue lights stopped flashing, the cruiser door opened.
+Kent stepped out*
 "P::I'm going to be late."
 "K::You'll be fine..."
 *The beat cop waved him off and drove through the airport traffic*
 'The Redeye planes leave at what, 11?'
 ~He had time to get through security~
 *He walked in through the sliding glass door to the ticket counter*
-~It was bent at a slight angle - showing the direction towards the ports~
-~His gaze drifted in that direction~
 }
 {
-~For a moment he thought he saw her~
-~Martha - at the top of the escalators - on her way through security~
+~It was bent at a slight angle - showing the direction towards the ports.
+His gaze drifted in that direction.
+For a moment he thought he saw her.
+Martha - at the top of the escalators - on her way through security~
 *He walked that direction - not bothering to pick up a ticket*
-~Walking up the escalators he saw Martha~
-'Yes it was her.'
-~She was passing through the new giant metal detectors~
-~Kent was pretty sure those machines would give everyone cancer in a few years~
-*He pulled his hat down just a bit*
-*He turned away whenever she looked in his direction*
+~Standing up the escalators, his gaze fell on Martha~
+'K::Yes it was her.'
+~She was passing through the new giant metal detectors.
+Kent was pretty sure those machines would give everyone cancer in a few years~
+*He pulled his hat down just a bit.
+He turned away whenever she looked in his direction*
 ~She made her way down the terminal and to the right, out of sight~
 }
 {
-*He laid his badge through the metal detector, along with his pistol*
-*They paused the machine and took him aside*
-~He explained he was tailing someone - and needed to get through quickly~
-~That there was no danger, none that he knew about~
-~It took precious minutes to persuade them~
-~A long talk and  a phone call to the station later: they let him through~
-~They didn't let him keep his gun, that was surrendered in that back room~
+*He laid his badge through the metal detector, along with his pistol.
+They paused the machine and took him aside*
+~He explained he was tailing someone - and needed to get through quickly.
+That there was no danger, none that he knew about.
+It took precious minutes to persuade them.
+A long talk and  a phone call to the station later: they let him through.
+They didn't let him keep his gun, that was surrendered in that back room~
 }
 {
 *He jogged in the direction he saw Martha move last*
@@ -252,17 +264,17 @@ Never mind."
 *He looked at the flight boards as he ran down the terminal*
 'Where was she going?'
 *He stopped and looked at the board more carefully*
-~He was next to terminal 23, and it was going up~
-~He scanned the board for flights leaving that direction~
-~11 o'Clock - New York, 11 o'Clock - Florida 8:15, New York again~
-~All at terminals down to his right~
+~He was next to terminal 23, and it was going up.
+He scanned the board for flights leaving that direction.
+11 o'Clock - New York, 11 o'Clock - Florida 8:15, New York again...
+All at terminals down to his right~
 }
 {
 *He stopped when he saw her*
-~She was talking to someone, a well dressed man with black hair~
-~They were in a coffee shop, discussing something~
-*Kent took a chair next to them - behind Martha and out of sight*
-*He leaned back a bit and listened in - pretending to be on a cellphone call*
+~She was talking to someone, a well dressed man with black hair.
+They were in a coffee shop, discussing something~
+*Kent took a chair next to them - behind Martha and out of sight.
+He leaned back a bit and listened in - pretending to be on a cellphone call*
 ~Saying yes, and other affirmations repeatedly while he listened in~
 "F::I'll grab the 11:00, do you need me to...?"
 "M::I can manage."
@@ -284,21 +296,21 @@ Don't get distracted again."
 *There was a scuffling of chairs, and Kent turned around to see they were gone*
 }
 {
-~Both were going to the same place~
-~And he was faced with a choice~
+~Both were going to the same place.
+And he was faced with a choice~
 'K::Continue following Martha? 
 Or tail this new person for a while? 
 Someone who has never seen his face.'
 ~To his right was a flight board~
 *He studied it*
-~There was no other place they could have meant~
-~New York~
-~He would be going to the same place regardless~
-~And tailing Martha - maybe she would see him on a cramped plane~
+~There was no other place they could have meant.
+New York...
+He would be going to the same place regardless.
+And tailing Martha - maybe she would see him on a cramped plane~
 *He fished in his pocket - pulled out a coin*
 'Heads - Martha, tails - this new fellow.'
-*He flipped the coin in the air and caught it*
-*Then he slammed it into the back of his other palm*
+*He flipped the coin in the air and caught it.
+Then he slammed it into the back of his other palm*
 ~Tails~
 }
 {
@@ -318,18 +330,71 @@ If not, coach will be fine."
 *They nodded, and he took a seat at the terminal*
 }
 {
-~The boarding call came on over the speakers~
-~Crackly though mostly intelligible~
-~Kent sat and watched the man~
-*The man held a phone to the boarding booth's attendant's face*
-~The attendant's eye twitched a little bit and they let the man pass~
-*The next in line snapped fingers in the attendant's face*
+~The boarding call came on over the speakers.
+Crackly though mostly intelligible.
+Kent sat in the middle of the row of chairs and watched the man~
+*The man held a phone to the boarding booth's attendant's face.
+The attendant's eye twitched a little bit and they waved the man passed.
+The next in line snapped fingers in the attendant's face*
 ~The blank stare lifted from the attendant~
 }
 {
-*After everyone had boarded he went back up to the attendant*
+*After everyone had boarded he went back up to the attendant.
+He held up his badge*
+~It was a few minutes of talking before the attendant pulled up the seating arrangement~
 "FA::There is room in first, and one in coach, B4, and E2..."
-~He chose B4, the seat in first class, and boarded the plane~
-~He hoped he didn't make a grave mistake~
+'K::Keep an eye on him. 
+Department is footing the bill.'
+}{
+~He chose B4, the seat in first class, and boarded the plane.
+He hoped he didn't make a grave mistake~
+*His phone vibrated in his pocket.
+He looked at it*
+`
+"Do you know how much a first class plane ticket costs!?
+What the hell are you doing?"
+
+`
+~Kent looked at the text, deciding how to reply.
+His captain was a no-nonsense ex-military drill sargent turned to policing after an honorable discharge.
+He had a wife and a daughter, and kept a picture of them on his desk~
+*Kent started typing*
+`
+"Following suspect - you would do the same in my shoes.
+Something big, something bad..."
+
+`
+~He wasn't even sure what he was dealing with.
+Mind control?
+Mass hypnosis...
+What could he tell his captain to get him to go along with this...~
+`
+
+"Keep your family safe, away from the station."
+
+`
+~If he pressed a bit on the family button...~
+'K::The tech was watching the screen...
+Can you get them to turn off every TV?
+Every cellphone, Kent?'
+~He couldn't do anything about security cameras, he couldn't think of an excuse to turn them off...
+Not that that would do much good, he reasoned~
+`
+"Keep cellphones out of station.
+I need your trust: when was the last time I was wrong...
+Will update soon.
+Radio silence needed."
+
+`
+*Kent sent the text message and boarded the plane*
+~If he was wrong, or if he couldn't produce some miracle evidence...
+There goes his job~
+'K::But if you are right, Kent...'
+~Kent thought back to Rogers answering the door of her neighbor.
+Rogers believed he was her neighbor...
+No one recognized the dead body left behind as the neighbor...
+For everyone else, it seemed, Rogers had suddenly never exists / her neighbor was always alive~
+'K::Maybe they can do the same for Tom...'
+*Kent sat in the back row of first class, watching Felix in front of him*
 }
 ## [redeye](redeye.md)
