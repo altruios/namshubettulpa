@@ -232,8 +232,8 @@ Her jaw was nothing but fire to her, she couldn't move it~
 As she knee bent the wrong way she slipped off and continued falling.
 She screamed - pain shooting through her - and clipped the wooden fence*
 ~She saw to her left, something else falling along with her.
-A small mass the size of a coin purse~
-~Her jaw was burning.
+A small mass the size of a coin purse.
+Her jaw was burning.
 Her knee felt like it had a knife in it.
 She couldn't concentrate~
 *She felt at an empty space her jaw was supposed to be*
@@ -339,8 +339,8 @@ Felix saw no one move, they were perfectly frozen in place.
 Some part of the conversation was playing which Flanagan deemed inappropriate for him to witness.
 In those moments reality seemed to pause from Felix's perspective... 
 Followed by a sudden jump~
-~With Flanagan able to hear his thoughts,
-And with begging, pleading, groveling and sulking didn't work...~
+~With Flanagan able to hear his thoughts...
+And if begging, pleading, groveling and sulking wouldn't work...~
 *Suddenly Felix was in an elevator*
 ~Martha was restrained, and Kent was there wheeling the dolly Martha rested on~
 'F::What the hell is happening?'
@@ -354,12 +354,12 @@ Frozen on a moment Felix wasn't supposed to see~
 Whether Flanagan was ignoring him or was distracted, Felix did not know...
 He hoped it was the latter~
 'F::Hello?'
-~Again, no response~
-~Felix kept his thoughts from running too close to his plan.
+~Again, no response.
+Felix kept his thoughts from running too close to his plan.
 Surprise could make all the difference.
 It was taxing: trying not to think of something consciously, and only subconsciously think of a plan.
-Like trying not to think of the first cliché that comes to mind~
-~So he didn't think of what he would become, just his desperation for escape~
+Like trying not to think of the first cliché that comes to mind.
+So he didn't think of what he would become, just his desperation for escape~
 *Felix became a parasite*
 ~In front of him was flanagan, piloting his body in the elevator, everything was still frozen~
 *Felix thrust his hand into Flanagan's face*
@@ -375,15 +375,15 @@ At once he understood the cosmic joke and it broke him~
 Felix still had his hand in Flanagan's paling face~
 "FL__F::What have you done?"
 *Felix, in response, extended the tendrils deeper*
-~They met no resistance, and soon, coated everything~
-~In a moment Flanagan disappeared, and Felix's perspective lurched into where Flanagan had been~
-~He could move his arms, his own arms, and felt nauseous from the sudden change in control~
-~In the room he felt eyes turn on him, his sudden doubling over in heavy breathing a distinctly noticeable event~
+~They met no resistance, and soon, coated everything.
+In a moment Flanagan disappeared, and Felix's perspective lurched into where Flanagan had been.
+He could move his arms, his own arms, and felt nauseous from the sudden change in control.
+In the room he felt eyes turn on him, his sudden doubling over in heavy breathing a distinctly noticeable event~
 "F::Excuse me..."
 *Felix left the room, and in the hall started walking towards an exit*
 'F::They want Flanagan, well, they are not getting him through me...'
-~The Algera was warm in his mind, a burning fire at the base, brimming with power~
-~The sudden freedom of thought, of not being monitored, was a relieve to Felix more than he realized.
+~The Algera was warm in his mind, a burning fire at the base, brimming with power.
+The sudden freedom of thought, of not being monitored, was a relieve to Felix more than he realized.
 The freedom to plan revenge~
 'F::stop thinking about it...'
 ~The cosmic joke. 
