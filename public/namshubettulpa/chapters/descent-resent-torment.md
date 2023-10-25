@@ -5,11 +5,11 @@ mn:M
 {
 "M::How far down does this go."
 "FL::A safe distance."
-~Martha walked down smooth lead-layed passage~
-~There was a slight curve to the steps, outlining some huge pillar to her right~
+~Martha walked down smooth lead-layed passage.
+There was a slight curve to the steps, outlining some huge pillar to her right~
 'M::Hands and arms away from the lead walls, inside the staircase at all times.'
-~She felt the hair rise up on her arms, due to cold or a faint buzzing of electricity~
-~Small LEDs in sconces spilt orange, reflecting on the lead~
+~She felt the hair rise up on her arms, due to cold or a faint buzzing of electricity.
+Small LEDs in sconces spilt orange, reflecting on the lead~
 'R::Okay this Al-tok thing - better analogy: a tick.'
 `"Tick?"`
 'R::It attached itself to us via the link, sucked out a bunch of the Algera from the Awakened.'
@@ -24,15 +24,15 @@ mn:M
 *Flanagan opened the door*
 ~Dark oak floors and walls ended less than an arms length, matching the door perfectly in color~
 'M::How was this all built?'
-~Inside lay another door, made of finely, tightly meshed copper wire~
-~In the narrow passage between the two doors lay an electrical panel with one switch~
+~Inside lay another door, made of finely, tightly meshed copper wire.
+In the narrow passage between the two doors lay an electrical panel with one switch~
 *Flanagan pulled it down*
 'M::This is a lot of lead...'
 *The faint buzzing suddenly ceased*
 ~Martha hadn't noticed it until it was silenced~
 *Flanagan stepped forward and opened the wire door*
-~Beyond the wire door was a blackness reflecting back both her and Flanagan's face~
-~Smooth as glass~
+~Beyond the wire door was a blackness reflecting back both her and Flanagan's face.
+Smooth as glass~
 'It reminds me of obsidian...'
 "M::What's with all the doors?"
 ~Martha saw the same copper color lead into the cube, a bridge~
@@ -43,16 +43,16 @@ mn:M
 'M::How far down is...'
 ~They were a short distance away from the cube, less than 20 feet~
 *Martha looked down*
-~Her stomach knotted, the sense of scale sunk in~
-~It would be a long fall~
-~The air was unnaturally still - at seeing that depth she thought even indoors there should have been a breeze~
+~Her stomach knotted, the sense of scale sunk in.
+It would be a long fall.
+The air was unnaturally still - at seeing that depth she thought even indoors there should have been a breeze~
 *Flanagan walked across the short bridge*
-~The copper handrails crunched and rattled at Flanagan's grasp as he crossed~
-~It was made of that same copper wire mesh~
-~Flanagan reached the end - a small landing platform extending from the cube - made of the obsidian~
-*Flanagan pressed in his palm on a part of the obsidian and it sunk in*
-*He repeated this in several other locations on the smooth reflective surface*
-*Martha crossed the bridge*
+~The copper handrails crunched and rattled at Flanagan's grasp as he crossed.
+It was made of that same copper wire mesh.
+Flanagan reached the end - a small landing platform extending from the cube - made of the obsidian~
+*Flanagan pressed in his palm on a part of the obsidian and it sunk in.
+He repeated this in several other locations on the smooth reflective surface.
+Martha crossed the bridge*
 ~Taking careful steps and not looking down~
 *Finally he swung a door open*
 'M::Okay, not obsidian...'
@@ -63,15 +63,15 @@ mn:M
 ~Each a layer around the room she was stepping into~
 "FL::The doors, please."
 *Flanagan's hand reached toward another electrical switch*
-~This one however, was made of the same black glass~
-~Martha looked and found a handle on the other side of door~
-~She heard the electricity hum alive outside~
+~This one however, was made of the same black glass.
+Martha looked and found a handle on the other side of door.
+She heard the electricity hum alive outside~
 *Martha pulled the door shut*
 }
 {
-~Inside was a pure dark~
-~Flanagan stood at the end of the small hallway~
-~His voice echoed from that far away, at least~
+~Inside was a pure dark.
+Flanagan stood at the end of the small hallway.
+His voice echoed from that far away, at least~
 "FL::Beyond this next door no outside light has ever reached, inside here could be anything."
 "M::Have you been inside?"
 "FL::Oh yes, many times."
@@ -120,8 +120,8 @@ mn:K
 {
 ~Felix was engrossed in his phone on the park bench~
 *Kent looked around in all directions*
-~Watching for anything out of the ordinary~
-~At Felix's mimed request~
+~Watching for anything out of the ordinary.
+At Felix's mimed request~
 'K::He has been on his phone for a while now.'
 *Kent leaned over*
 'K::They made him mute, I doubt he is pretending.'
@@ -197,13 +197,13 @@ We need to get back to Flanagan's."
 *Kent held out Felix's phone, and started walking*
 "K::Come on."
 *Felix groaned*
-~The two walked onwards in silence back to the alley~
-~When they arrived the scene was as it had been~
-~People walked down the street not even looking~
+~The two walked onwards in silence back to the alley.
+When they arrived the scene was as it had been.
+People walked down the street not even looking~
 "K::Keep an eye out!"
-*Kent pointed to the alley door*
-*Felix looked all around before watching the door*
-*Kent inspected the gutter*
+*Kent pointed to the alley door.
+Felix looked all around before watching the door.
+Kent inspected the gutter*
 "K::It was right here."
 *Kent scoured the area*
 "K::It was..."
@@ -239,8 +239,8 @@ mn:M
 *Martha squeezed through an outline of herself*
 'M::A bit cramped...'
 *She was falling toward some bottom*
-~She saw below her a moving shadow-play: a reflection of her own movements~
-~All around her: a full spectral spread of pieces of her life lined the edges~
+~She saw below her a moving shadow-play: a reflection of her own movements.
+All around her: a full spectral spread of pieces of her life lined the edges~
 ~~
 ~Those too moved like a slowed down projector~
 ~~
@@ -283,8 +283,8 @@ mn:M
 'M::Must be a memory...'
 ~She felt the soft sponge of the grass, it was perfect~
 ~There was another door closing~
-*She looked back up*
-*Rossin was following the Martha that had stormed out*
+*She looked back up.
+Rossin was following the Martha that had stormed out*
 "M::Rossin!"
 ~He looked briefly startled, almost like waking up from a dream~
 *He walked across the yard to where she lay*
@@ -320,8 +320,8 @@ I think I can get him here, since I am here, sort of a switcheroo."
 "R::Looks like we missed our chance."
 'M::What did Flanagan say?'
 ~Martha thought of her hand, her hand holding Flanagan's~
-*Flanagan's flesh and clothing grew out of her hand until he was standing beside her*
-*He looked up*
+*Flanagan's flesh and clothing grew out of her hand until he was standing beside her.
+He looked up*
 ~Above him was the gap, writhing copies of Rossin swirled and licked some invisible barrier~
 *He looked to Rossin then back up*
 "FL::That was not what I expected."
@@ -361,8 +361,8 @@ Be prepared for the worst and hope for the best."
 "FL::Then I'm going to poke it, and whatever comes out, you need to drink."
 *Flanagan flourished his hand and brandished a forearmed sized thin needle*
 "FL::Hm - what else..."
-*Flanagan waved his arm again and a large funnel settled in his hand*
-*He handed it to her*
+*Flanagan waved his arm again and a large funnel settled in his hand.
+He handed it to her*
 ~She inspected it, to have a cover she couldn't see a seam to~
 "FL::Hold it out and be ready, a small sample."
 *He held the funnel in one hand, thumb over the lid* 
@@ -373,19 +373,19 @@ Be prepared for the worst and hope for the best."
 *Droplets of blood collected on the surface of the lid - but something else slipped through*
 ~Martha waited for it to flow down the tube~
 *It reached her lips, it was a drop*
-~It was cold and hot, it was every extreme~
-~It was a pure experience: her lips, then her tongue touching a pure expression of data~
-~A flooding sense of infinity - filling small holes~
-~Though it had hardly made a dent in the larger gaps~
+~It was cold and hot, it was every extreme.
+It was a pure experience: her lips, then her tongue touching a pure expression of data.
+A flooding sense of infinity - filling small holes.
+Though it had hardly made a dent in the larger gaps~
 'M::Divinity!'
-~A pure and blinding divinity~
-~A transcending moment, where things clicked into place~
-~A sense of oneness in the universe, Her life a fractal pattern not just of herself, but of the link~
-~She knew the link: a connection, it was more than what anyone had told her.~
-~It was understanding that flooded her~
-~There was a center to that connection, far away.~
-~All at once it stopped, she was standing next to Flanagan~
-~An idea she had, now unsupported by the direct infusion of Algera, tumbled and cracked, scattered to the aether robbing her of an epiphany~
+~A pure and blinding divinity.
+A transcending moment, where things clicked into place.
+A sense of oneness in the universe, Her life a fractal pattern not just of herself, but of the link.
+She knew the link: a connection, it was more than what anyone had told her..
+It was understanding that flooded her.
+There was a center to that connection, far away..
+All at once it stopped, she was standing next to Flanagan.
+An idea she had, now unsupported by the direct infusion of Algera, tumbled and cracked, scattered to the aether robbing her of an epiphany~
 "M::Holy shit."
 ~It was as if every moment of her life had been curled up - and presented as a singular idea~
 'M::A freer!'
@@ -407,8 +407,8 @@ Occupied for a time by so much Algera."
 'M::Okay, so - outside a host...'
 "M::When you say spoil?"
 "FL::Evaporate, here - may I?"
-*Martha nodded*
-*Flanagan shuffled his hands in Martha's direction*
+*Martha nodded.
+Flanagan shuffled his hands in Martha's direction*
 `-tf {
     ~outside~:~steel~,
     ~inside~:-sym link - creator.*heart*
@@ -443,8 +443,8 @@ Occupied for a time by so much Algera."
     ] --auto-format --light-weight --resizable
 `
 *The cup and funnel morphed in her hands* 
-~Mostly like she pictured in her head~
-~The items combined into a short spear - spikes and the funnel at the end~
+~Mostly like she pictured in her head.
+The items combined into a short spear - spikes and the funnel at the end~
 "M::This isn't going to kill it though, is it?"
 "FL::No, no it won't.
 It is far too spread out for that."
@@ -453,8 +453,8 @@ And with this treasure...'
 ~She contemplated what she would do with that store of power~
 *Martha looked above her*
 'M::Rossin said it would be months before she would be ready...'
-~She studied it some more~
-~She had Flanagan by her side after all~
+~She studied it some more.
+She had Flanagan by her side after all~
 "M::Can we kill that thing at least?"
 *Martha tilted her head towards the thing*
 ~Flanagan considered~
@@ -480,18 +480,18 @@ Keep it together.'
 'M::THE hole!'
 ~The one from her childhood, the one at the back of her mind~
 'M::How long have you been there?'
-~She panicked, that hole was death, worse than death~
-~It promised so much worse from her nightmares as a child~
-*they slid through*
-*She was thrust through a void*
+~She panicked, that hole was death, worse than death.
+It promised so much worse from her nightmares as a child~
+*they slid through.
+She was thrust through a void*
 ~~
 ~~
 ~~
 ~~
 ~With the sudden blindness came pain~
 'M::Just hold his hand.'
-*She did*
-*Her shoulder was cut*
+*She did.
+Her shoulder was cut*
 ~An edge of memory cut her physically~
 `"Why!?" ~She was crying~`
 ~She couldn't remember why~
@@ -507,12 +507,12 @@ Keep it together.'
 ~Worse, and still:~ 
 *She held his hand*
 ~Each moment cutting her, now a part of her~ 
-~She compartmentalized them as best she could~
-~Her panicked mind was not helping~
+~She compartmentalized them as best she could.
+Her panicked mind was not helping~
 *Still, she held his hand*
-~There was no light, no concept of light, not even the equivalent of being able to see~
-~Every connection in the entity was shrouded, shifting, and impenetrable.~
-~Until she was cut by an memory's edge, which was often, she might as well have been in a void~
+~There was no light, no concept of light, not even the equivalent of being able to see.
+Every connection in the entity was shrouded, shifting, and impenetrable..
+Until she was cut by an memory's edge, which was often, she might as well have been in a void~
 "M::How are we going to find anything in here."
 ~There was no response~
 'M::Can he hear me?'
@@ -569,24 +569,24 @@ Girl scouts was useful for something...'
 ~~
 ~~
 *Martha's feet hit a floor*
-~She was in a memory, her own~
-~A row of books on either side of her~
-~A dark emerald colored carpet at her feet~
+~She was in a memory, her own.
+A row of books on either side of her.
+A dark emerald colored carpet at her feet~
 "M::Flanagan?"
 "FL::Over here!"
 *He squeezed her hand*
 ~Which had nothing in it~
 *Martha looked around*
-~Flanagan was nowhere in sight~
-~Some movement behind the books caught her eye~
+~Flanagan was nowhere in sight.
+Some movement behind the books caught her eye~
 "FL::I'm in the other row."
 *He tugged at her*
 "FL::This way!"
 *Martha looked down at her hand*
-~She was still holding his hand, she could tell, but it wasn't there~
-~She felt it, and him pulling on her to come~
-~It was as if he had an invisible stretchy arm that could pass through walls... of books at least~
-~Martha let herself be led on~
+~She was still holding his hand, she could tell, but it wasn't there.
+She felt it, and him pulling on her to come.
+It was as if he had an invisible stretchy arm that could pass through walls... of books at least.
+Martha let herself be led on~
 }
 
 ## [confrontation](confrontation.md)
