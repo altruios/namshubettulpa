@@ -23,8 +23,8 @@ You going to do that?'
 *She took in a lungful. 
 Panting, she stood up*
 ~Martha's face was blank, but her eyes darted over each of them.
-They landed on Alacira's hard stare~
-~Kent saw on Alacira and Whitewater's wrists each a bail~
+They landed on Alacira's hard stare.
+Kent saw on Alacira and Whitewater's wrists each a bail~
 *Each bail rattled, glowing a white-blue*
 }
 {
@@ -52,10 +52,10 @@ She just had to get out~
 `
 ~Self~.~gravity~=0;
 `
-~The wind stopped, and an eerie silence blanked her~
-~She breathed, and tried to calm down, knowing the monster was active and somewhere in her head...~
-~She looked at herself, dressed as she was: she briefly considered if clothes were part of her identity or not, and as she did, they winked in and out of existence~
-~Startled, she tried again...~
+~The wind stopped, and an eerie silence blanked her.
+She breathed, and tried to calm down, knowing the monster was active and somewhere in her head....
+She looked at herself, dressed as she was: she briefly considered if clothes were part of her identity or not, and as she did, they winked in and out of existence.
+Startled, she tried again...~
 'M::It is my mind after all, I get to make up the rules...'
 *She breathed in*
 ~She didn't know that for sure, but she figured it was a good guess, and she still felt a little hungry...~
@@ -143,8 +143,8 @@ A growl and a storm~
 ~It was a good idea, and Martha considered for a bit.
 She settled on concrete. 
 Memories of pavement she walked on, generic imagined scene of construction workers pouring wet cement, freeway re-bar, brutalist homes she passed by once, all crushed altogether.
-The wet cement seeped into the gaps crystallizing the shell around Martha and rossin in the room~
-~She continued: the skyline of New York wrapped around her, crushing metal spires into a web of tangled construction, surrounded by an empty void~
+The wet cement seeped into the gaps crystallizing the shell around Martha and rossin in the room.
+She continued: the skyline of New York wrapped around her, crushing metal spires into a web of tangled construction, surrounded by an empty void~
 'M::Good enough for now...'
 *The rumbling grew louder*
 `
@@ -232,17 +232,17 @@ It's energy becoming part of her, Martha no longer felt hungry~
 ~An unease fell over her, dark memories returned in fragments~
 *Martha, her shell, was violently expelled through the sludge out from inside this creature*
 ~Instead of being in the stomach of that creature, that creature became scattered fragments within her.
-Whole from some strange perspective, but from Martha's...~
-~She was back in that strange perspective of herself, falling through a fractal hole witnessing memories.
+Whole from some strange perspective, but from Martha's....
+She was back in that strange perspective of herself, falling through a fractal hole witnessing memories.
 She was both her body alone falling though that space, and her within that room surrounded by concrete...
 And all combinations between, able to see, despite not having eyes around her shell.
 The fractal hole was both a shape of her shell, and a shape of anything making up that shell.
 The memories witnessed were however she viewed herself.
-One impossible image was her several mile diameter shell of cityscape on a swing set, being pushed by...~
-~Where there once was blank nothingness, shameful memories came to fill in those spaces. 
+One impossible image was her several mile diameter shell of cityscape on a swing set, being pushed by....
+Where there once was blank nothingness, shameful memories came to fill in those spaces. 
 Memories taken by that creature, hidden away by Rossin, most still covered in a sludge...
-But distinctly inside her~
-~Martha realized why Rossin said it would take months...
+But distinctly inside her.
+Martha realized why Rossin said it would take months...
 The sheer scope of memories this thing has taken...
 Even just going through them all...~
 'R::The sludge is the excrement, there is something crawling around inside...
@@ -278,8 +278,8 @@ Martha stood there for a moment, then knelt on her knees*
 ~He was gone.
 And she felt...~
 'M::More focused?'
-~More herself, sad but...~
-~Through the window, she saw outside her shell the wall lined with her memories complete.
+~More herself, sad but....
+Through the window, she saw outside her shell the wall lined with her memories complete.
 Parts, the less pleasant memories covered in that sludge~
 'M::It is just the manifestation of that thing in your head, it uses those memories, it is not those memories.'
 *Martha turned*
@@ -378,8 +378,8 @@ The chainsaws fell into a circular expanding pattern, Lenny suspected it looked 
 {
 ~Two hours later only the snow was blowing, covering a glistening metal field of chainsaw blades.
 They waited another hour to be sure, all the while contemplating how to make The Way Out smaller...
-The issue was - no matter what they did - it would grow~
-~The Way Out towered twenty feet tall~
+The issue was - no matter what they did - it would grow.
+The Way Out towered twenty feet tall~
 *Ada poked it with a stick, which shrunk inside out as Ada let go of it*
 ~Her hand trembled, and every breath was visible in the air~
 'RXD::Random guessing is not going to get us there...'
@@ -414,8 +414,8 @@ Their motions became synchronized, and while trying to right the cab-driver, the
 ~Dana found she could control one at a time, with a focus~
 'D_D::I will walk them into town...'
 *Lenny took out his phone and started the call to Flanagan*
-~To let them know The Way Out was stuck in Romania~
-~Jochek would be a while, Ada had particular tastes, Dana it seemed would be less picky~
+~To let them know The Way Out was stuck in Romania.
+Jochek would be a while, Ada had particular tastes, Dana it seemed would be less picky~
 }
 
 # [To stab at thee](to-stab-at-thee.md)
