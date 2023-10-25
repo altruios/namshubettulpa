@@ -63,8 +63,8 @@ Is Felix dead now?'
 *Kent gave a subtle nod*
 "A::It is Kent, correct?"
 *Again Kent nodded*
-~More noticeably this time~
-~This captain looked to Kent's double, then back to him~
+~More noticeably this time.
+This captain looked to Kent's double, then back to him~
 "A::Interesting..."
 ~A frail red head  woman sat cross legged at the edge of the table.
 She chittered at a balding man in an ill-fitted uniform~
@@ -77,8 +77,8 @@ I think we grossly underestimated the amount of algera it had accumulated."
 "A::We?"
 "FL__F::I. If Martha gave an equal amount to everyone..."
 'K::So Martha did this?'
-~Kent watched Martha, and thought of Tom~
-~Of the burns, of him in the hospital bed~
+~Kent watched Martha, and thought of Tom.
+Of the burns, of him in the hospital bed~
 'K::What are you doing, Kent?'
 ~He couldn't get justice, nor would he settle for vengeance~
 'K::If all it takes is a few words...'
@@ -175,8 +175,8 @@ Who are you?"
 "A::And this is?"
 "FL__F::A chemist, he got a hold of this."
 ~Flanagan held out the vial.
-It darkly shimmered in the light~
-~The chemist was mesmerized by his hands~
+It darkly shimmered in the light.
+The chemist was mesmerized by his hands~
 *He flexed them a few times*
 ~Finding some new power within~
 "C::I didn't want to be awake, Felix."
@@ -237,8 +237,8 @@ Entities structured exactly the same, one person was in control.
 A case where people were helping other's out of cars, only to be taken over by another group.
 They had used phones, and had written on signs - strange symbols.
 And another where two groups fought and merged.
-The whole processes reminded him of growing mold in a petri dish~
-~But they hadn't been actually hurting one another physically, there was no need that words became so powerful~
+The whole processes reminded him of growing mold in a petri dish.
+But they hadn't been actually hurting one another physically, there was no need that words became so powerful~
 "K::But they weren't using guns. just words..."
 "M::Words that would turn you into a mindless soulless automaton for some control freak."
 "K::Yeah, but what can we do, against billions?"
@@ -284,8 +284,8 @@ Dragons - Cthulhu?'
 },~hearing~)
 `
 *The navigator pulled his hand away*
-~As he did that Kent felt a muteness, not of hearing but of mind~
-~He remembered what he understood in that moment, but Alacira's voice returned to nonsense to him~
+~As he did that Kent felt a muteness, not of hearing but of mind.
+He remembered what he understood in that moment, but Alacira's voice returned to nonsense to him~
 *Alacira put down the phone*
 "A::Almost nothing to do now but wait."
 "FL__F::Cheese anyone... brandy?"
@@ -348,8 +348,8 @@ He started to form the words when his left ear was deafened by Martha's scream~
 mn:RX
 }
 {
-~Ada was hunched by the door, bracing it closed~
-~While it had a lock: we were not taking chances~
+~Ada was hunched by the door, bracing it closed.
+While it had a lock: we were not taking chances~
 'L_R::If we wait maybe they will go away...'
 *Another knock*
 ~It was was followed by several attempts at turning the latch.
@@ -359,10 +359,10 @@ Between each attempt was the small bright rattle of keys~
 'J_R::Numbers are in our favor...'
 'RX::We let them in...'
 *Ada moved away, and unlocked the door*
-~Silently we moved out of the line of sight~
-~From behind the door Ada saw a short woman with long brown hair walk in~
-*Ada closed the door*
-*The stranger meeped and jump to the center of the room*
+~Silently we moved out of the line of sight.
+From behind the door Ada saw a short woman with long brown hair walk in~
+*Ada closed the door.
+The stranger meeped and jump to the center of the room*
 ~She was holding a broken champagne glass stem as a makeshift brass-knuckle pointed at Ada.
 In her other hand she held a set of keys~
 "D::Who are you?"
@@ -422,13 +422,13 @@ Ada however, could see the stainless steel coating every surface inside~
 *Ada did, finding a latch she also locked it*
 'L_R::Maybe just the chef, if we take him out...'
 ~We had doubts if that would work, how far had the mind of the chef spread through the crowd~
-*Lenny filled through the cupboards - taking inventory*
-*Ada and Jochek walked down the hall*
+*Lenny filled through the cupboards - taking inventory.
+Ada and Jochek walked down the hall*
 'L_R::We can do an irritant, or... oh - will gas masks protect against that...'
 ~Lenny was looking at a vial labeled...~
 'J_R::Nothing fancy Lenny.'
-~They took a moment at the stairs, listening for activity~
-~In the silence, Ada broke it with an old sharpened point~
+~They took a moment at the stairs, listening for activity.
+In the silence, Ada broke it with an old sharpened point~
 'AD_R::One bad seed, Jochek...'
 'J_R::Do you know how long we vetted you?'
 *They crept down the main stairway*
@@ -480,8 +480,8 @@ Let me concentrate!'
 "L_R::Hey, go outside and make some noise: see if you can get their attention!"
 "D::Who's attention?"
 "L_R::Downstairs, main floor, sounds like about twenty of them."
-*Lenny grabbed another tub of white powder off of the shelf*
-*Dana opened the large metal door*
+*Lenny grabbed another tub of white powder off of the shelf.
+Dana opened the large metal door*
 ~It slid open with a hiss~
 *Lenny tossed Dana a gas mask*
 ~A short time later, above her Ada heard~
@@ -490,16 +490,16 @@ Let me concentrate!'
 'AD_R::Sounds a bit more than 20.'
 *Lenny looked out the door, waiting, holding one vial above a vat*
 ~He was wearing a gas mask~
-*Dana ran up the steps*
-*Lenny pointed to his mask*
-~Behind Dana were several dozen people, most perhaps in the castle~
-~Lenny watched their shoes, their feet move, pointedly not looking at anything the storming crowd was holding~
-~Lenny hummed tunes in his head, his current hearing was terrible and that helped, he didn't need it~
-~He had our help, to forget, not that he needed it~
-~Lenny waited for Dana to get her mask on, and then~
-*He dropped the vial into the tub*
-*An explosion of vapor, sticky and white clouded the room, then the hallway*
-*Screams and coughs and cries sounded out as shadowed shapes hit the ground*
+*Dana ran up the steps.
+Lenny pointed to his mask*
+~Behind Dana were several dozen people, most perhaps in the castle.
+Lenny watched their shoes, their feet move, pointedly not looking at anything the storming crowd was holding.
+Lenny hummed tunes in his head, his current hearing was terrible and that helped, he didn't need it.
+He had our help, to forget, not that he needed it.
+Lenny waited for Dana to get her mask on, and then~
+*He dropped the vial into the tub.
+An explosion of vapor, sticky and white clouded the room, then the hallway.
+Screams and coughs and cries sounded out as shadowed shapes hit the ground*
 ~The vapor expanded like a foam down the hall, down the stairs, flooding into the castle~
 "L_R::Is the seneschal here, what does he look like?"
 *Dana looked down through the fallen bodies, twisting and moaning, then she pointed*
@@ -509,11 +509,11 @@ Let me concentrate!'
 *The cellar door flung open*
 ~Stone walls, and wooden doors, unmarked~
 'RX::Do we know which one?'
-~Ada, our representative, was never down here~
-~We did not know what else was down here either~
-~Lenny was wheezing through the mask, his old body not ready for such activity~
-~He had to use the handrail down the stairs, and we let the potential carry his weight~
-~Deep down, everyone was a potential to add to us~
+~Ada, our representative, was never down here.
+We did not know what else was down here either.
+Lenny was wheezing through the mask, his old body not ready for such activity.
+He had to use the handrail down the stairs, and we let the potential carry his weight.
+Deep down, everyone was a potential to add to us~
 }
 
 ## [mistakes](mistakes.md)
