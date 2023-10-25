@@ -3,38 +3,38 @@
 mn:K
 }
 {
-~Kent could not remember the last time he had a dream~
-~But today...~
-~He dreamt of a ship: one he vaguely remembered from his childhood, imposing and nonsensical - he knew every detail about it~
-~It was a continuation of a dream he had long ago, he had been here before~
-~He saw the tear across the deck of the ship where a tower used to be~
-~He knew every person - each hiding below deck~
-~And he knew people were missing, but not who~
+~Kent could not remember the last time he had a dream.
+But today....
+He dreamt of a ship: one he vaguely remembered from his childhood, imposing and nonsensical - he knew every detail about it.
+It was a continuation of a dream he had long ago, he had been here before.
+He saw the tear across the deck of the ship where a tower used to be.
+He knew every person - each hiding below deck.
+And he knew people were missing, but not who~
 *He woke up*
-~He stared up at the ceiling absorbing that dream~
-~Around him was a heavy silence, what sounded like static in the distance~
-~He was on a bed~
+~He stared up at the ceiling absorbing that dream.
+Around him was a heavy silence, what sounded like static in the distance.
+He was on a bed~
 'K::Too early, no alarm...'
-~He had his clothes on still - as if someone had just tossed him there~
-~He saw distant fluorescent tubes, and a ceiling of empty darkness~
+~He had his clothes on still - as if someone had just tossed him there.
+He saw distant fluorescent tubes, and a ceiling of empty darkness~
 *He jolted up from the hospital bed*
-~The walls around him were particle board, makeshift~
-~The top of the wall did not reach the ceiling~
-~The gap was ten... fifteen meters or more~
+~The walls around him were particle board, makeshift.
+The top of the wall did not reach the ceiling.
+The gap was ten... fifteen meters or more~
 'K::Shit... where are you, Kent?'
 *There was a single knock at the open door to his right*
-~More of a slam really, a moment later it came again~
-~Kent's head throbbed - pulsing in rhythm to the darkness receding from his vision~
+~More of a slam really, a moment later it came again.
+Kent's head throbbed - pulsing in rhythm to the darkness receding from his vision~
 *Another slam on the door*
 "K::Hello?"
 ~Silence and then~
 *Another slam*
 ~It was then Kent noticed the leg sticking partway into the room~
-*Kent rushed to the door*
-*He nearly slipped on a hospital gown by the bed*
+*Kent rushed to the door.
+He nearly slipped on a hospital gown by the bed*
 ~He found a woman on the floor, having some sort of seizure~
-*Her leg jerked. It banged against the door again*
-*Kent looked both ways down the hallway she was in*
+*Her leg jerked. It banged against the door again.
+Kent looked both ways down the hallway she was in*
 ~All was silent - but down to the right there was another person on the floor~
 'K::Right, fucking cardboard palace - chemistry... 
 Should you be breathing though a filter?'
@@ -45,18 +45,18 @@ Should you be breathing though a filter?'
 ~It was steady, and her breathing seemed fine~
 'K::The fuck is happening?'
 *Kent rushed over to the other person down the hall*
-~They too were stable~
-~Kent was in an abandon building~ 
+~They too were stable.
+Kent was in an abandon building~ 
 ~He supposed he must not have been moved far~
 'K::Is this the lab?'
 *Kent wandered down the hall*
-~It reminded him more of a hospital, the floors were linoleum~
-~But the walls were bare wood - free floating~
-~The ceiling unconnected to the hallway walls; And distant fluorescent lines flickered along a dark expanse above~
-~There were no signs for exits, nothing was 'up to code'~
-~There were others lying on the ground - all in the same condition~
-~In the distance he heard a sound~
-~A sort of static that grew to a high pitched whine: the sound of a CRT TV~
+~It reminded him more of a hospital, the floors were linoleum.
+But the walls were bare wood - free floating.
+The ceiling unconnected to the hallway walls; And distant fluorescent lines flickered along a dark expanse above.
+There were no signs for exits, nothing was 'up to code'.
+There were others lying on the ground - all in the same condition.
+In the distance he heard a sound.
+A sort of static that grew to a high pitched whine: the sound of a CRT TV~
 *He walked toward that sound*
 ~He eventually made out a voice~
 "RP::If you are driving, stop driving, turn off your car and lie down."
@@ -65,16 +65,16 @@ Should you be breathing though a filter?'
 ~They Stopped talking~
 "SM::This is a recorded message."
 *Kent opened the door*
-~The room was an office, and had a CRT TV cradled in a boom arm sticking out of the wall~
-~A channel logo was playing, then suddenly the reporter came back on~
+~The room was an office, and had a CRT TV cradled in a boom arm sticking out of the wall.
+A channel logo was playing, then suddenly the reporter came back on~
 "RP::Some sort of illness is striking millions of people every minute causing seizures.
 This illness is everywhere, and we don't know how it spreads, but on the street - people keep falling.
 This is happening everywhere - put down any sharp objects and lie down.
 If you are driving, stop driving, turn off your car and lie down.
 Stop what your doing and lie down, we don't -"
 ~The reporter's face twitched violently to the side and they let out what looked like a silent scream~
-*The reporter fell*
-*They were caught by some arms racing in from off camera*
+*The reporter fell.
+They were caught by some arms racing in from off camera*
 ~The screen turned back into the logo~
 "SM::This is a recorded message."
 *The TV continued to loop*
@@ -92,19 +92,19 @@ Maybe carry a pillow...'
 *Kent kneeled down and started crawling*
 ~If he was going to fall down, it wouldn't be from far~
 'K::Better safe than sorry...'
-~Either way Kent had to see outside~
-~It was so quiet~
+~Either way Kent had to see outside.
+It was so quiet~
 'K::Where did Felix go, or the chemist?'
-~Kent ran through his options:~
-~Finding Felix in a place this large while crawling would be less than ideal~
-~He didn't know where the exits were anyway~
+~Kent ran through his options:.
+Finding Felix in a place this large while crawling would be less than ideal.
+He didn't know where the exits were anyway~
 'K::You could have a seizure at any moment...'
 "K::How long had that been playing?"
 'K::Maybe it was in a loop for hours...'
-~He sat there and considered how long he could have been out for~
-~There were no clocks on the bare wood walls~
-~He waited, listening: nothing happened for several long minutes~
-~He considered going back to sleep, he was still tired~
+~He sat there and considered how long he could have been out for.
+There were no clocks on the bare wood walls.
+He waited, listening: nothing happened for several long minutes.
+He considered going back to sleep, he was still tired~
 'K::And it seems like you would not be missing much, them being asleep and all...'
 'K::Okay... What could be up?'
 "K::You got everyone doing this thing except for you..."
@@ -123,49 +123,49 @@ I woke up in this room..."
 "K::Okay - perfect - how long has it been?"
 ~He asked, politely~
 'K::As you do to unconscious people you are asking for information...'
-~Across his room was a station for a person, computer and all~
-~Comparing the times between the watch and computer, Kent saw hours had already passed~
+~Across his room was a station for a person, computer and all.
+Comparing the times between the watch and computer, Kent saw hours had already passed~
 *He sat there, absorbing that*
 "K::Now, million dollar question, am I going to have a seizure like these nice folks?"
 *Kent continued down the hallway, crawling*
 'K::If you fall and break your hip like your grandmother, Kent: I am going to be so mad at you!'
-~Felix was nowhere to be found, but the Chemist...~
-~The Chemist was right around the first corner he encountered~
+~Felix was nowhere to be found, but the Chemist....
+The Chemist was right around the first corner he encountered~
 *Still crawling, Kent dragged and heaved the Chemist to, and then on to the bed*
 ~It was a struggle, the Chemist was small but portly~
 "K::right, vial..."
 ~Kent found it rolled next to where the chemist had been - thankfully intact~
 'K::Time to go outside...'
 *Kent stood up*
-~Hunching over the bed, keeping it to brace his fall if it should happen~
-~With the Chemist in tow, Kent found his way out of the building~
-~And into a city on fire~
+~Hunching over the bed, keeping it to brace his fall if it should happen.
+With the Chemist in tow, Kent found his way out of the building.
+And into a city on fire~
 }
 {%%%%
 mn:LX
 }
 {
-~The Lux was not a human, it was more than the sum of two humans~
-~It was also the space between~
-~Synchronistic thoughts and ideas unspoken but known in harmony~
-~Merged together: Lenny and Jochek were but voices in the mind of this new entity~
-~The Lux~
-~And the Lux was in the link~
-~Which was disconnecting from itself~
-~Thoughts and memories, ideas - hopes... were selectively spreading apart~
-~Growing isolated into compressed islands, surrounded by both a blindingly white light, and what the Lux presumed to be Al-tok~
-~A gathering mass of void, hardened by some sort of dark despair~
-~It was a storm of sorts, a rushing sensation - not wind, but gravity, pelted them from all sides~
+~The Lux was not a human, it was more than the sum of two humans.
+It was also the space between.
+Synchronistic thoughts and ideas unspoken but known in harmony.
+Merged together: Lenny and Jochek were but voices in the mind of this new entity.
+The Lux.
+And the Lux was in the link.
+Which was disconnecting from itself.
+Thoughts and memories, ideas - hopes... were selectively spreading apart.
+Growing isolated into compressed islands, surrounded by both a blindingly white light, and what the Lux presumed to be Al-tok.
+A gathering mass of void, hardened by some sort of dark despair.
+It was a storm of sorts, a rushing sensation - not wind, but gravity, pelted them from all sides~
 *The Lux steadied themselves*
 ~The Lux felt a ripping sensation - from their center~
 'LX::We can still get there.'
-~Even the Lux themselves were breaking apart~
-~A zippering sensation down the center of their being~
+~Even the Lux themselves were breaking apart.
+A zippering sensation down the center of their being~
 'J::Lenny would find a way.'
 ~The Lux let themselves relax further apart~
 'LX::They are spreading apart.'
-~It was like a storm receding in the distance~
-~The ideas, the dreams were funneling away from the Lux~
+~It was like a storm receding in the distance.
+The ideas, the dreams were funneling away from the Lux~
 'L::They are coalescing.'
 'LX::But where?'
 'J::Into people?'
@@ -173,19 +173,19 @@ mn:LX
 'LX::We need to pick one, quickly!'
 'J::Two preferably...'
 'L::We were close, I think any of these will do.'
-~The islands of thoughts and memories grew distant from each other~
-~The lux were unsure if they could span the distance~
-~Physical distance was not a factor - it was mental distance - each island of thought was unconnected to every other island of thought~
-~The distance grew great enough that they were sure they could not find two islands close enough together~
+~The islands of thoughts and memories grew distant from each other.
+The lux were unsure if they could span the distance.
+Physical distance was not a factor - it was mental distance - each island of thought was unconnected to every other island of thought.
+The distance grew great enough that they were sure they could not find two islands close enough together~
 "LX::We're going to have to split!"
-~Jochek was already on it~
-~The ripping sensation continued down the core of their being~
+~Jochek was already on it.
+The ripping sensation continued down the core of their being~
 *Their hearts separated and were immediately filled with Algera*
 ~Lenny finally recognized what that white light actually was, he had tasted Algera before~
-*He, along with Jochek, were assaulted by several small infinities*
-*As they traveled instantaneously from the beginning to end of a much larger infinity*
-~They did not know how much time this took~
-~The Lux had not fully dissolved, and realizing something was wrong:~
+*He, along with Jochek, were assaulted by several small infinities.
+As they traveled instantaneously from the beginning to end of a much larger infinity*
+~They did not know how much time this took.
+The Lux had not fully dissolved, and realizing something was wrong:~
 *Their hearts drew together*
 ~Reforming~
 "LX::What is happening?"
@@ -193,9 +193,9 @@ mn:LX
 'L::The link is broken, flooded with Algera - we should get out of here.'
 ~Pressed together, their hearts rung dry, dripping Algera into the aether~
 'J::Well, first we find bodies...'
-~The disconnecting link was almost complete~
-~Their options thinning~
-~Every island of thoughts and ideas isolated from every other island of thoughts and ideas~
+~The disconnecting link was almost complete.
+Their options thinning.
+Every island of thoughts and ideas isolated from every other island of thoughts and ideas~
 'L::We just have to use one then, get them close to someone else, physical link.'
 'J::There!'
 ~The Lux saw one of those options, a coach driver a few miles away in a small Romanian town~
@@ -203,45 +203,45 @@ mn:LX
 'J::I love horses.'
 'L::That is the link, we road with him years ago: same horses.'
 *They fought their way into the old man*
-~What would normally have been easy they were repelled by~
-~Still, it was two against one~
+~What would normally have been easy they were repelled by.
+Still, it was two against one~
 *His struggle subsided, then Lenny of the Lux took control*
-~Lenny felt the coach driver fall into a void~
-~He couldn't tell which, the blinding white, or the absent dark~
+~Lenny felt the coach driver fall into a void.
+He couldn't tell which, the blinding white, or the absent dark~
 }
 {
-~A physical link, a touch to the arm on the first person Lenny saw and a short moment later Jochek joined him~
-~It was the a portly man that was his fare, who had been slumped over in coach unconscious~
-~Jochek looked down at their new body~
+~A physical link, a touch to the arm on the first person Lenny saw and a short moment later Jochek joined him.
+It was the a portly man that was his fare, who had been slumped over in coach unconscious.
+Jochek looked down at their new body~
 "J::Could have waited to find someone more fit?"
 *Lenny shrugged*
 "L::These are temporary, I'm not putting any work into this one."
-~Jochek checked their jean pocket for a phone, and found none, nor did he find keys~
-~Lenny found a phone, but no keys either~
+~Jochek checked their jean pocket for a phone, and found none, nor did he find keys.
+Lenny found a phone, but no keys either~
 'LX::Onward to Ada, us two.'
 'L::Fastest just to take the carriage...'
-~A short time later - after finding everyone around them unconscious, the Lux road in silence toward their destination~
-~Șolomanță, a palace that held many incredibly dangerous things~
-~Things more frightening than an atomic bomb: secret things~
-~Almost chief among them was The Way Out~
+~A short time later - after finding everyone around them unconscious, the Lux road in silence toward their destination.
+Șolomanță, a palace that held many incredibly dangerous things.
+Things more frightening than an atomic bomb: secret things.
+Almost chief among them was The Way Out~
 'J::Should we use different bodies?'
 'LX::No, speed - we need to get there now.'
 'L::Think she is alright?'
 'LX::She was as disconnected as you can get... 
 So maybe?'
-~The Lux drove on in silence~
-~In the Romanian country side there was a ravine not on any map~
-~Earth riven in a jagged scar on the scale of legend~
-~A castle built into the cliff-face, flush and without entrance, at least visibly~
-~The main entrance was a hatchway that opened up top~
-~Though an unknown road, winding along the lip of the ravine, the Lux reached their destination~
+~The Lux drove on in silence.
+In the Romanian country side there was a ravine not on any map.
+Earth riven in a jagged scar on the scale of legend.
+A castle built into the cliff-face, flush and without entrance, at least visibly.
+The main entrance was a hatchway that opened up top.
+Though an unknown road, winding along the lip of the ravine, the Lux reached their destination~
 }
 {%%%%
 mn:M
 }
 {
-~Martha was greeted to a scene of chaos~
-~Deckhands of all shapes and sizes, and~
+~Martha was greeted to a scene of chaos.
+Deckhands of all shapes and sizes, and~
 'M::Is that a fish?'
 ~It was, manning a rope at the side of the ship~
 "A::Gerald, what happened!"
@@ -266,9 +266,9 @@ The link is breaking."
 *Sonny nodded and whistled herself*
 ~It was a signal to two large tarantulas, about the same size as her, covered in fur~
 'M::Oh fuck: fucking spiders!'
-*They crawled out from the room on the side wall and ceiling*
-*Martha instinctively flinched*
-*The spiders followed Sonny, ignoring Martha as they passed*
+*They crawled out from the room on the side wall and ceiling.
+Martha instinctively flinched.
+The spiders followed Sonny, ignoring Martha as they passed*
 ~Gerald was already at the elevator door, waving at her~
 'M::Keep it together...'
 *The elevator doors opened*
@@ -301,16 +301,16 @@ Now everyone has these powers."
 You don't."
 ~He sighed~
 *The elevator button dinged, and the doors opened*
-~Alacira and a team of men were busy at control panels along the side of the room~
-~The crew were a rhythmic hum of activity~
-~Coordinated, choreographed~
-~In front were several large windows revealing a shrinking storm~
-~And a growing void~
+~Alacira and a team of men were busy at control panels along the side of the room.
+The crew were a rhythmic hum of activity.
+Coordinated, choreographed.
+In front were several large windows revealing a shrinking storm.
+And a growing void~
 "G::So..."
 ~Gerald explained what happened to the captain~
 "A::Are we sure that's what happened?"
-*Gerald nodded*
-*Alacira lowered her head*
+*Gerald nodded.
+Alacira lowered her head*
 ~A look of defeat, yet fighting for the best loss~
 *Alacira turned back to the control panels, she pressed a button and a red light flashed*
 ~Her voice echoed throughout the ship, tinny though the speakers~
@@ -352,17 +352,17 @@ And that's not the worst of it."
 "A::Shit, come on."
 *Alacira stood up, and walked out into the bridge.
 Martha Followed*
-~She saw beyond the glass a void - encompassing the ship~
-~She saw emptiness for the first time clearly~
-~It wasn't a color, it was the lack of color, the lack of space~
+~She saw beyond the glass a void - encompassing the ship.
+She saw emptiness for the first time clearly.
+It wasn't a color, it was the lack of color, the lack of space~
 "A::Gerald, we have anything?"
 "G::Aye - we can park the ship in the Navigator, most of the crew too."
 "A::How many?"
 "G::Everyone below 0.1/aps."
 *Alacira surveyed the ship through the glass*
 "A::The bubble then, for the rest - we should fit in there."
-*She turned and walked to the elevator in the back*
-*Gerald and Martha followed*
+*She turned and walked to the elevator in the back.
+Gerald and Martha followed*
 "G::Flanagan is with Sonny."
 "A::She comes too, how bad is he?"
 *The elevator doors opened and they stepped inside*
@@ -391,8 +391,8 @@ You haven't made people better by giving them this power - you've just given the
 *Gerald pulled out a small mirror as they started walking again*
 ~Out on the deck of the ship, before it was bustling: now quiet~
 "G::I snagged this one - it was the last one for her."
-~Martha saw the red haired Sonny in the bubble next to Flanagan - who was still laying down~
-~She didn't see the spiders anywhere~
+~Martha saw the red haired Sonny in the bubble next to Flanagan - who was still laying down.
+She didn't see the spiders anywhere~
 *They entered the bubble*
 ~Before Martha passed the membrane she heard footsteps behind her~
 *Martha waited halfway in the bubble, and turned around*
@@ -400,15 +400,15 @@ You haven't made people better by giving them this power - you've just given the
 'M::Is that a watch?'
 ~He hand human arms, but a catfish's head: sticking straight up, not angled like a human at all~
 *He brushed passed her and into the bubble*
-~It was getting crowded in there~
-~Gerald had taken the seat, and Sonny was over Flanagan in the back~
-~And there were the spiders, above her - clinging to the ceiling~
-~Long strings of web hung down from them - as sonny had fashioned those streams of silk into nets~
-~Large glowing sacks of spider silk were next to Sonny~
+~It was getting crowded in there.
+Gerald had taken the seat, and Sonny was over Flanagan in the back.
+And there were the spiders, above her - clinging to the ceiling.
+Long strings of web hung down from them - as sonny had fashioned those streams of silk into nets.
+Large glowing sacks of spider silk were next to Sonny~
 *She scooped out with the net some of the Algera inside Flanagan*
-~The process was like using a bucket on a sinking canoe~
-~Flanagan remained solid - so far as Martha could see~
-~But she saw Sonny push her hands and wave the net deeply inside him~
+~The process was like using a bucket on a sinking canoe.
+Flanagan remained solid - so far as Martha could see.
+But she saw Sonny push her hands and wave the net deeply inside him~
 *She turned away*
 ~The fish-man was showing his watch to Alacira, which was emitting a beep every few moments~
 'M::More like a geiger counter, not a watch.'
@@ -422,19 +422,19 @@ You haven't made people better by giving them this power - you've just given the
 "SM::Count's at one."
 ~Martha caught movement at the corner of her eye~
 "NT::$Ewait:."
-~The navigator was running up to them, out of breath~
-~His face was partially carved out, from where the acid from that alien had splattered him~
-~He had only one eye - he was wearing an eye patch~
+~The navigator was running up to them, out of breath.
+His face was partially carved out, from where the acid from that alien had splattered him.
+He had only one eye - he was wearing an eye patch~
 *He stepped into the bubble*
 "G::Counts at zero!"
 "A::Right then, Gerald?"
 *Gerald pushed the button on the radio*
 "G::Breaking off the tower now!"
 ~Gerald looked outside at the tower in the center of the ship, and sighed~
-*Gerald pulled down on a lever, and pushed a button*
-*Outside the ship shook*
-~With a horrible metal's cry of shearing - the tower shaped like a wing broke off~
-~The tower floated away lazily until it touched the barrier against the void~
+*Gerald pulled down on a lever, and pushed a button.
+Outside the ship shook*
+~With a horrible metal's cry of shearing - the tower shaped like a wing broke off.
+The tower floated away lazily until it touched the barrier against the void~
 *It was ripped into the void by some turbulence*
 ~It turned to dust - and then to nothing as it passed the outer shield of the ship~
 *Gerald nodded*
