@@ -137,8 +137,8 @@ mn:M
 %%%% 
 }
 {
-~Martha uncovered more memories.
-And to her surprise, not all were terrible.
+*Martha uncovered more memories*
+~And to her surprise, not all were terrible.
 Most were bad, but some when she rehandled now were neutral.
 The more she handled the less phased she was by any particular bad memory~
 'M::Keep watch, it comes from behind.'
@@ -148,8 +148,10 @@ The more she handled the less phased she was by any particular bad memory~
 *Martha searched her surroundings*
 'M::It is hiding somewhere...'
 ~Somewhere she couldn't detect~
-*Martha moved on to the next memory to clean, and the sludge moved.
-Something wrapped around Martha's wrist, pulling her under*
+*Martha moved on to the next memory to clean, and the sludge moved*
+"M::Shit!"
+*Something wrapped around Martha's wrist, pulling her under*
+~She had some leverage - bracing against the edges of the memory - she had a moment to think~
 `
 const helm = {
     airSupple:~unlimited~,
@@ -160,13 +162,14 @@ const helm = {
 ~Self~.~Martha~.get("onLeftFoot").transform(helm)
 `
 ~Martha felt her left shoe transform into a diver's helmet~
-*The helmet crawled - melted - along her body and encompassed her head*
-~It formed around her head just before it went under the sludge~
-*Submerged in the sludge something pulled her further down, into a memory.
+*The helmet crawled - melted - up her leg just as it bent into the memory.
+It slid along her sinking body, staying just above the sludge.
+It formed around her head just as it was pulled under.
+Submerged in the sludge something pulled her further down, into a memory.
 She landed on the grass below her tree house*
 ~Pain rushed through her knees as she collapsed, then her shoulders~
 *Martha turn over, facing the sky*
-~She saw throw a circular port hole, with thin bars across~
+~She saw throw a circular port hole, with thin bars across, a diver's helmet~
 'M::Do not look left.'
 ~Next to her was her older brother.
 Lying still, face down...
@@ -174,7 +177,7 @@ His arm -~
 ~-She was staring up at the moon, keeping her eyes still.
 It was a beautiful night~
 'M::it was just a tap, I did not trip him.'
-~The memory, complete with the thoughts she had at the time filled her~
+~The memory, complete with the thoughts she had at this time when she was seven, filled her~
 *Martha reached up and felt at her head*
 ~The diving helmet was there~
 'M::Right.
@@ -219,8 +222,9 @@ Shield'
 ~Martha~.*shiel>^*ERR
 
 `
-*It rushed at her a claw of dark memory outstretched.
-^It swiped.*
+*It rushed at her, a claw of dark memory outstretched.
+^It swiped. 
+Part of her helmet exploded in shrapnel to her right*
 ~Martha felt a tearing sensation at her mouth.
 Her jaw was nothing but fire to her, she couldn't move it~
 *Martha pushed away*
@@ -237,7 +241,8 @@ Her jaw was burning.
 Her knee felt like it had a knife in it.
 She couldn't concentrate~
 *She felt at an empty space her jaw was supposed to be*
-~She screamed in frustration > pain > rage~
+~She screamed in frustration > pain > rage.
+It came out in a gurgle~
 *A dark shadow approached. 
 It flew towards her from where she had come*
 `
@@ -249,12 +254,81 @@ It flew towards her from where she had come*
 `
 'M::healing 123.'
 ~Martha felt relief flood through her knee, her face.
-The mass off to her side had disappeared: appearing where it should be~
+The mass off to her side had disappeared: appearing where it should be.
+Her helmet remained broken, twisted edges from where it was slashed dug into her neck and mouth.
+One corner was against her nose, she could smell the copper, and she wondered if it was her blood she was smelling~
 'M::Okay... quick.'
 `
 ~Martha~.*gravity*= {0,-0.5,-10}
 ~Martha~.*Shield*=~shield~
 `
+*It was rushing towards her*
+~Panic gripped her~
+`>>--TEMPORAL();`
+~Time began to stretch: it nearly frozen as it reached toward, claws outstretched~
+'M::keep calm...
+No wait: panic - more time to think that way...
+What do I need?'
+~Martha thought through her next actions, and studied the thing in front of her.
+It was in her shape - but in a way, an inversion: as if the universe around that void was the true shape.
+A cut-out, in her shape... 
+What she saw was a hole where a person should be~
+'M::I could kill it, or trap it.
+Should I run...
+What would hurt it?
+What will it try to do?'
+~It's claw was still in the process of moving slowly towards her.
+At this speed, she could at least think of a way to dodge~
+'M::A trap, you are in a memory, you are in your head...'
+~She was, she was moving in this memory - to the edges supplemented by other memories.
+Memory was just a direction here, one she could move through~
+'M::Go somewhere it is weaker - it has a hold here.'
+~Martha tried to think of a place, somewhere it wouldn't find easily, something where nothing bad happened.
+But as she searched, she found no places...
+Until: a park, when she was 11, she was alone rollerblading around a track~
+*Martha moved into the memory*
+~Time still frozen, Martha stood beside her younger self, who was moving in slow motion away from her~
+'M::Okay.
+Trap, can manage a trap...
+What does a trap need.
+Bait, a trigger, a way to...'
+~Martha trailed off, in front of her a claw was outstretched toward her.
+Not any further away than it had been, closer now even~
+'M::Keep panicking, nice and easy, keep time nice and slow...'
+~Martha was just thinking quickly, not moving quickly...
+She could not avoid the claw, it was to quick...~
+'M::Okay, just...
+full aggression - kill it.
+Wait: do not let it get anything from you...'
+`
+With permissions(655)
+{
+    .disintegrate{
+        _disintegrate=(t)=>{
+            for(const ~part~{~smallest~}:a of t){
+                for(const ~part~{~smallest~}:b of t){
+                    --async
+                    while(b!=a){
+                        b.moveAway(a);
+                        a.moveAway(b);
+
+                    }
+                }   
+            }
+        }
+        target=~Eyesight~.rayCast().collision
+        _disintegrate(target)
+    }
+}
+`
+~Martha locked eyes, past the outstretched claw.~
+`
+~Martha~.disintegrate();
+`
+~The creature was gone, not exploded like she expected...
+Just gone...~
+*In front of her, however, the oak tree behind the creature began to dissolve into a cloud of expanding dust*
+~She missed~
 
 `
 todo:
