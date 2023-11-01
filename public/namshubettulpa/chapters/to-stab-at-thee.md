@@ -249,10 +249,10 @@ It flew towards her from where she had come*
 ~Martha~.~healing~({
     ~regeneration~:true,
     ~rate~:~instant~
-    ~.on~:(~Self~)=>'healing 123'
+    ~.on~:(~Self~)=>'Healing 123'
     })
 `
-'M::healing 123.'
+'M::Healing 123.'
 ~Martha felt relief flood through her knee, her face.
 The mass off to her side had disappeared: appearing where it should be.
 Her helmet remained broken, twisted edges from where it was slashed dug into her neck and mouth.
@@ -263,7 +263,7 @@ One corner was against her nose, she could smell the copper, and she wondered if
 ~Martha~.*Shield*=~shield~
 `
 *It was rushing towards her*
-~Panic gripped her~
+~With it's claws outstretched, panic gripped Martha~
 `>>--TEMPORAL();`
 ~Time began to stretch: it nearly frozen as it reached toward, claws outstretched~
 'M::keep calm...
@@ -271,7 +271,7 @@ No wait: panic - more time to think that way...
 What do I need?'
 ~Martha thought through her next actions, and studied the thing in front of her.
 It was in her shape - but in a way, an inversion: as if the universe around that void was the true shape.
-A cut-out, in her shape... 
+A cut-out, in her outline... 
 What she saw was a hole where a person should be~
 'M::I could kill it, or trap it.
 Should I run...
@@ -328,7 +328,20 @@ With permissions(655)
 ~The creature was gone, not exploded like she expected...
 Just gone...~
 *In front of her, however, the oak tree behind the creature began to dissolve into a cloud of expanding dust*
-~She missed~
+~She had missed.
+It had been faster.~
+*Martha looked down at her stomach*
+~A pressure had formed at her back, her side felt cold.
+A large chunk was missing, torn from her from a swipe too fast for her to perceive~
+'M::Oh, fuck.'
+~Her shield was ripped open, it was supposed to be impermeable.
+A blue force field around her side was missing, and she could see more than she wanted to.
+She wanted to throw up, and briefly considered doing so, to satiate her nausea~
+'M::Healing 123.'
+~Her shield remained unrepaired, but her side was now intact, the pain a ghost.
+She tried to banish the nausea, and succeeded~
+*Martha switched memories*
+~She saw herself in the car with her mother, frozen in some argument~
 
 `
 todo:
