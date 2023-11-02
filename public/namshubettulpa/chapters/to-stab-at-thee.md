@@ -341,7 +341,37 @@ She wanted to throw up, and briefly considered doing so, to satiate her nausea~
 ~Her shield remained unrepaired, but her side was now intact, the pain a ghost.
 She tried to banish the nausea, and succeeded~
 *Martha switched memories*
-~She saw herself in the car with her mother, frozen in some argument~
+~She saw herself in the car with her mother, frozen in some argument.
+Some long forgotten disagreements rolled into one iconic moment, an amalgamation of several such car rides~
+'M::Just need a moment to think.'
+~She noticed it outside, running towards the parked car she was in~
+`
+~Martha~.disintegrate();
+`
+~Before she could notice it's absence it was gone.
+Behind it though, was her younger self rollerskating in the park~
+*Her younger self dissipated into nothing*
+~Leaving a hole, in the shape of a person in her memories.
+An outline controlled by that entity in her head~
+'M::I am looking at the wrong thing...'
+~The part she was looking at, the hole in the shape of her...
+That was the weapon, not the creature... 
+The creature, she realized, was all around her~
+'M::Okay, out of my memories...
+What else do I have in my head?'
+~She knew it could follow into her dreams, but maybe...~
+*Martha concentrated and moved herself out of the memory, into an imagined space*
+~It was swimming though pudding, each motion a struggle to remove attachment to her memories...
+The space she imagined was a large grey room, with no obvious source to the ambient yellow lighting.
+The floor was checkered, meeting walls with zebra-ed stripes.
+No sound louder than an ambient fan~
+'M::Okay.
+Aim for the hand, not the weapon...'
+~When the creature appeared she knew what to look for now.
+That hole was an outline, the edges to the creature wrapping itself around the dream...
+Or in this case, her imagination...
+Attacking it was like throwing rocks through the window instead of at the foundation.
+Not that rocks would do much against a house...~
 
 `
 todo:
