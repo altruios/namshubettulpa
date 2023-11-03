@@ -399,8 +399,7 @@ Could she take over someone as well?
 Would she?~
 'M::You would not be any better than them, then...'
 ~Martha decided that she could not - would not - do that~
-*Martha moved to a new dream*?
-If flanagan could take over Felix...
+*Martha moved to a new dream*
 ~In this dream, her constructed room, that entire construction in her head, was contained in an orb~
 `
 ~Martha~.disintegrate();
