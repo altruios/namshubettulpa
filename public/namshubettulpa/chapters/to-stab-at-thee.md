@@ -352,11 +352,13 @@ Some long forgotten disagreements rolled into one iconic moment, an amalgamation
 Behind it though, was her younger self rollerskating in the park~
 *Her younger self dissipated into nothing*
 ~Leaving a hole, in the shape of a person in her memories.
-An outline controlled by that entity in her head~
+An outline controlled by that entity in her head.
+A part of her lost to that creature~
 'M::I am looking at the wrong thing...'
 ~The part she was looking at, the hole in the shape of her...
 That was the weapon, not the creature... 
-The creature, she realized, was all around her~
+The creature, she realized, wasn't her darker self, but was all around her: controlling it.
+Surrounding that empty shape, piloting it like a puppet~
 'M::Okay, out of my memories...
 What else do I have in my head?'
 ~She knew it could follow into her dreams, but maybe...~
@@ -367,12 +369,46 @@ The floor was checkered, meeting walls with zebra-ed stripes.
 No sound louder than an ambient fan~
 'M::Okay.
 Aim for the hand, not the weapon...'
-~When the creature appeared she knew what to look for now.
-That hole was an outline, the edges to the creature wrapping itself around the dream...
+~When the creature appeared she now knew what to look for.
+That hole was an outline.
+Small tugs from the dream - like bedsheets pulled tight, folded into the hole.
+The distortions wrapping the hole from the dream...
 Or in this case, her imagination...
-Attacking it was like throwing rocks through the window instead of at the foundation.
+Attacking the hole was like throwing rocks through the window instead of at the foundation.
 Not that rocks would do much against a house...~
-
+*Martha looked left*
+~The folds blended into her space, until they were nothing.
+She didn't see anything, and she felt a brush against her neck.
+Her body felt cold.
+She tried to catch her breath.
+She couldn't~
+*Martha fell*
+~And she saw her shoulders, both of them~
+'M::Healing 123.'
+*Her body snapped back on*
+~And she felt hungry.
+She felt the floor beneath her, cool to the touch.
+She lay there not moving~
+'M::Fuck...'
+~It was faster than her.
+It could follow her anywhere in her head...
+And then she realized: the link.
+How attached was she to this body anyway?
+If Flanagan could take over Felix...
+Could she take over someone as well?
+Would she?~
+'M::You would not be any better than them, then...'
+~Martha decided that she could not - would not - do that~
+*Martha moved to a new dream*?
+If flanagan could take over Felix...
+~In this dream, her constructed room, that entire construction in her head, was contained in an orb~
+`
+~Martha~.disintegrate();
+`
+*The orb flew apart - into dust*
+~The hole was in front of her, it was pointing at her.
+The tugs on the ends of the dream now thicker, extending into that shape.
+Marbled lines filled that hole now.~
 `
 todo:
 martha encounters the creature in her head
