@@ -407,28 +407,55 @@ Would she?~
 *The orb flew apart - into dust*
 ~The hole was in front of her, it was pointing at her.
 The tugs on the ends of the dream now thicker, extending into that shape.
-Marbled lines filled that hole now.~
+Marbled lines filled that hole now~
+'M::Okay...
+It is attaching itself to the dream...
+Can I exploit that, a dangerous dream to have it come into?'
+*That hole in her form rush at her, arms outstretched*
+~It was reaching toward's her eye~
+*Martha shifted again, into a new memory*
+~This one old, and ragged.
+It was full of sharp edges, parts of the memory floated away, revealing a void beyond.
+It was her first dinner at a table, from when she was six months old.
+She was in a high-rise chair, surrounded by flowers in glass beer bottles, a instant mashed potatoes in front of her~
+*Martha turned to the left*
+~A small crack in the table, extending into open air, widening to a height she could fit through by the kitchen door, revealed a void behind~
+`
+~Martha~.~pos~+={3i,0,0};
+`
+*Martha moved into the void*
+~She was looking at her own memory like a snow glob, she was far enough away it appeared that size.
+She noticed the rippling of reality around the edges - the creature was there, looking in.
+She couldn't see a form to it, just an amorphous cloud.
+It wasn't something she could fight...
+And it wasn't something she wanted disperse throughout herself~
+'M::Okay...
+Can I just run away?'
+~No, it was free now~
+'M::Okay, why is it getting through my shield?'
+~It was a moveable hole, made of her nightmares, controlled by a malevolent creature.
+Was that it was made of nothing, how it got though her shield? 
+If nothing got though her shield...
+She needed a shield to protect against nothing~
+'M::Does it see me?'
+~Out in the void, where none of it's attention was focused, Martha remained unnoticed~
+'M::I just need a way to get rid of it...'
+'M::Consequences...
+When you made it part of you...'
+~Martha watched it from the void.
+It tore through the memory - destroying it, searching for her~
+'M::Trap it.
+Contain it.'
+~Martha focused.
+She needed some way to keep that thing contained...~
 `
 todo:
 martha encounters the creature in her head
     - she survives
     - it is wounded, but not integrated or defeated
         - code battle time!
-    - she temporarily traps it in her past memories 
+    - she temporarily (semi-permanent)traps it in her past memories 
         - it can not pass the barrier of 'reset-2'
-code battle starts here
-    --nifty and informative
-        --algorithms to use
-            -quicksort
-                -restacking a broken memory together
-            -tree stuff
-                -ordering memories inserting new ones
-        --thing/curse uses
-            -DDOS
-
-            -out of memory addressing
-                - accessing things outside of the memory they are in
-            -
 `
 ~And behind the barrier it was trapped~
 *It clawed at it, trying to reach Martha*
