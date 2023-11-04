@@ -208,7 +208,7 @@ It was her memories - twisted into dark and sharp things - including the one she
 It was ruthless, with a desire only to consumed, held back no longer.
 But worst it was gleeful, it stole the pleasure of others.
 It could not consume pleasure, only be fulfilled by the removal of it in others.
-~
+It was a hole in the shape of her~
 'M::Fuck... 
 Uh... 
 Shield'
@@ -417,11 +417,11 @@ Can I exploit that, a dangerous dream to have it come into?'
 ~This one old, and ragged.
 It was full of sharp edges, parts of the memory floated away, revealing a void beyond.
 It was her first dinner at a table, from when she was six months old.
-She was in a high-rise chair, surrounded by flowers in glass beer bottles, a instant mashed potatoes in front of her~
+She was in a high-rise chair, surrounded by flowers in glass beer bottles, instant mashed potatoes in front of her~
 *Martha turned to the left*
 ~A small crack in the table, extending into open air, widening to a height she could fit through by the kitchen door, revealed a void behind~
 `
-~Martha~.~pos~+={3i,0,0};
+~Martha~.~pos~+={~12i meters~,0,0};
 `
 *Martha moved into the void*
 ~She was looking at her own memory like a snow glob, she was far enough away it appeared that size.
@@ -440,22 +440,61 @@ She needed a shield to protect against nothing~
 'M::Does it see me?'
 ~Out in the void, where none of it's attention was focused, Martha remained unnoticed~
 'M::I just need a way to get rid of it...'
-'M::Consequences...
-When you made it part of you...'
 ~Martha watched it from the void.
 It tore through the memory - destroying it, searching for her~
+'M::Consequences...
+When you made it part of you...'
+~Martha focused.
+If she could get a reference to it, she could...~
 'M::Trap it.
 Contain it.'
-~Martha focused.
-She needed some way to keep that thing contained...~
+~Martha was hungry.
+And tired~
+`
+~Martha~.~shield~ = NULL;
+`
+~A relief hit her. 
+She was still hungry, but it was not increasing~
+'M::Okay, think this through...'
+~It was in her memories, she reasoned.
+Since most of its focus was her searching for her~
+'M::Is that what that cloud is?
+Its attention?'
+~The cloud of shifting distortions, like a prism of moving glass, consolidated into a denser shape around her memory~
+'M::If I just take care of that...'
+~It wouldn't be able to do anything else...
+Regardless of how much larger the creature was, if all of its attention was otherwise occupied...~
+'M::Okay think this through...
+How do I trap its attention?'
+~She saw into that memory, that hole in the shape of her, filled with nightmare, was in the process of tearing that memory apart~
+'M::And trap that...'
+~That puppet in the shape of her would be a problem, she realized.
+It was her nightmares - carved into a void.
+If it was freed it would be a problem too~
+'M::First things first...'
+~She needed a name, or at least a reference, of that creature.
+She could just point at 'that' and hope that's all of it...
+But if she knew its name, she could be sure~
+*She moved through memories again*
+~This time to a familiar book store.
+An old women was showing her a book.
+On the page, she could see it.
+She saw it burn into her mind~
+'M::AT...'
+*The old woman looked up, at Martha*
+~A cold stare, on saying 'you don't belong her'~
+*Martha moved back into the void*
+~Time slow due to her sudden panic.
+Is that what she had done in the past...
+Or was that old woman somehow present in her head~
+*Martha shivered*
+~Sudden thoughts of spiders filled her head~
+'M::It was a memory'
+~She told herself this as she watched the creature tear open the memory.
+The last crumbles were searched - and when nothing was found, their shadows searched as well...~
 `
 todo:
-martha encounters the creature in her head
-    - she survives
-    - it is wounded, but not integrated or defeated
-        - code battle time!
-    - she temporarily (semi-permanent)traps it in her past memories 
-        - it can not pass the barrier of 'reset-2'
+make and deploy barrier
 `
 ~And behind the barrier it was trapped~
 *It clawed at it, trying to reach Martha*
@@ -521,9 +560,11 @@ Followed by a sudden jump~
 ~With Flanagan able to hear his thoughts...
 And if begging, pleading, groveling and sulking wouldn't work...~
 *Suddenly Felix was in an elevator*
-~Martha was restrained, and Kent was there wheeling the dolly Martha rested on~
+~Martha was restrained in what looked like some alien shell. 
+Kent was there wheeling the dolly Martha - in her cocoon - rested on~
 'F::What the hell is happening?'
-'FL::Oh, you are... right.
+'FL::Oh, you are... 
+Right.
 Timer will just... 
 Okay - fixed...'
 ~And the world paused again. 
