@@ -1,20 +1,20 @@
 # to stab at thee 
-
-
 {
 mn:K
 }
 {
 *Martha pushed Kent aside and ran to the kitchen.
 He fell against the leg of the couch*
-~Kent's head throbbed, it had struck the armrest~
+~Kent's head throbbed, it had struck the wooden armrest~
 "A::Get her!"
-"K::What is going on?"
-*Alacira and Gerald held out their left arm.
-A bail rattled, glowing a white-blue*
+~Alacira was pointing at her, with her other hand on her sword at her hip~
+"K::What's going on?"
+*Gerald stuck out his left arm.
+A bail rattled, glowing a white-blue.
+Both on his wrist and Alacira's*
 ~Each bail pointed towards the kitchen~
 "A::This is a warning, something's changed."
-~Their concerned expressions seemed genuine to Kent~
+~Their concerned expressions seemed genuine~
 'K::Okay Kent, easy now...'
 *Kent sat up and staggered to the kitchen*
 ~The kitchen...~
@@ -44,9 +44,9 @@ Can you understand me?"
 *The spiders bristled and chittered in reply.
 They turned to each other, chittering*
 ~The net they constructed was more just a glob of spider glue. 
-It was barely held together by wide swatches of non sticky webbing.
+It was barely held together by two wide swatches of non sticky webbing.
 It was about half his size and he could pick it up with one hand, it was lighter than a baseball.
-And they were done in seconds~
+And they were done in a few seconds~
 'K::Thank the spiders, Kent, keep in their good graces.'
 *Kent looked up, and nodded curtly*
 'K::Eh, close enough...'
@@ -93,17 +93,18 @@ Martha's arm swang out to stab at Kent, but couldn't get the right angle*
 *Sonny dropped the net on Martha, sandwiching her between the two*
 ~Martha's struggles were futile at that point.
 With her arms stuck at her side, Kent easily disarmed her~
-*Alacira strolled into the kitchen while Kent struggled underneath Martha*
+*Alacira strolled into the kitchen while Kent struggled out of his coat underneath Martha*
 'K::Just great, Kent...'
 ~She looked over the situation.
 The net was hardening, like an epoxy, trapping both him and Martha.
 Sonny had simply dropped the net, leaving her free and tending to Wilbert~
+*Kent abandoned his coat entirely and stood up from the webbing*
 "A::Right, now that's taken care of...
 Let's get the doctor for Wilbert here."
 "K::Which doctor will treat a fish-man?"
 "G::Wrong determiner."
 ~Gerald was shouting from the parlor.
-Kent stretched his neck to the parlor and saw that Gerald held a clipboard, scribbling something furiously on it~
+Kent saw Gerald holding a clipboard, scribbling something furiously on it~
 *Kent tilted his head*
 "K::Wrong...
 What?"
@@ -113,11 +114,11 @@ Get Wilbert down the steps."
 *Sonny and her spiders wrapped Wilbert in a hammock, and carried him out of the room*
 ~Beside him he watched Martha try to escape the webbing, no wasted energy on facial expressions...
 Just lots of kicking and trashing...
-Right into Kent's side and legs~
+Right into Kent's legs~
 ~At the threshold stood a tall black man~
 "L::And who might you be?"
 *Lenny walked over held out his hand*
-~It was almost an afterthought, Kent could not take it stuck underneath Martha~
+~It was almost an afterthought, Kent could not take it before it dropped~
 *Lenny leaned over Martha and Kent*
 "L::She got this Al-tok thing in her?"
 "A::No.
@@ -131,21 +132,24 @@ Then it winked back into existence~
 And Kent noticed during these times Martha ceased struggling~
 }
 {
-mn:M
+%%%% 
 }
 {
-%%%% 
+mn:M
 }
 {
 *Martha uncovered more memories*
 ~And to her surprise, not all were terrible.
 Most were bad, but some when she rehandled now were neutral.
-The more she handled the less phased she was by any particular bad memory~
+The more she handled the less phased she was by any particular bad memory.
+Handling them was like washing off a mirror, and looking in to a remembered world~
 'M::Keep watch, it comes from behind.'
 ~She thought that, but she thought of that more of from Rossin than from her...~
 'M::You there?'
 ~There was no response, regardless of the thought's origins: it was good advice~
 *Martha searched her surroundings*
+~The memories below were clean, they existed in a cylinder around her, extending up and toward the present.
+Some gaps existed, forming ridges she could walk on~
 'M::It is hiding somewhere...'
 ~Somewhere she couldn't detect~
 *Martha moved on to the next memory to clean, and the sludge moved*
@@ -162,16 +166,20 @@ const helm = {
 ~Self~.~Martha~.get("onLeftFoot").transform(helm)
 `
 ~Martha felt her left shoe transform into a diver's helmet~
-*The helmet crawled - melted - up her leg just as it bent into the memory.
+*The helmet crawled - melted - up her leg just avoiding falling into the memory.
 It slid along her sinking body, staying just above the sludge.
-It formed around her head just as it was pulled under.
+It formed around her head just as she was pulled under.
 Submerged in the sludge something pulled her further down, into a memory.
 She landed on the grass below her tree house*
-~Pain rushed through her knees as she collapsed, then her shoulders~
+~Pain rushed through her knees as she collapsed, then her shoulders.
+She took tired breaths~
+'M::Why do I need to breath?'
+~If this was in her head, why was she breathing.
+Regardless, she hurt~
 *Martha turn over, facing the sky*
 ~She saw throw a circular port hole, with thin bars across, a diver's helmet~
 'M::Do not look left.'
-~Next to her was her older brother.
+~Next to her was something that looked like her older brother.
 Lying still, face down...
 His arm -~
 ~-She was staring up at the moon, keeping her eyes still.
@@ -208,7 +216,7 @@ It was her memories - twisted into dark and sharp things - including the one she
 It was ruthless, with a desire only to consumed, held back no longer.
 But worst it was gleeful, it stole the pleasure of others.
 It could not consume pleasure, only be fulfilled by the removal of it in others.
-It was a hole in the shape of her~
+It was a hole in the shape of her, a void unfilled~
 'M::Fuck... 
 Uh... 
 Shield'
@@ -232,11 +240,13 @@ Her jaw was nothing but fire to her, she couldn't move it~
 ~Martha~.*gravity*= {0,-0.5,-1}
 `
 ~She felt her gravity shift~
+'M::Why did it not get eaten?'
+~Her automatic response was still on, and that thing definitely attacked her~
 *Martha fell and landed on the tree trunk.
 As she knee bent the wrong way she slipped off and continued falling.
 She screamed - pain shooting through her - and clipped the wooden fence*
 ~She saw to her left, something else falling along with her.
-A small mass the size of a coin purse.
+A small bloody mass the size of a coin purse.
 Her jaw was burning.
 Her knee felt like it had a knife in it.
 She couldn't concentrate~
@@ -270,13 +280,20 @@ One corner was against her nose, she could smell the copper, and she wondered if
 No wait: panic - more time to think that way...
 What do I need?'
 ~Martha thought through her next actions, and studied the thing in front of her.
-It was in her shape - but in a way, an inversion: as if the universe around that void was the true shape.
+It was in her shape...
+But in a way, an inversion: as if the universe around that void was the true shape.
 A cut-out, in her outline... 
 What she saw was a hole where a person should be~
-'M::I could kill it, or trap it.
-Should I run...
-What would hurt it?
-What will it try to do?'
+
+`
+[
+    'I could kill it, or trap it.',
+    'Should I run...',
+    'What would hurt it?',
+    'What will it try to do?',
+    'How do I get away?'
+]
+`
 ~It's claw was still in the process of moving slowly towards her.
 At this speed, she could at least think of a way to dodge~
 'M::A trap, you are in a memory, you are in your head...'
@@ -321,24 +338,24 @@ With permissions(655)
     }
 }
 `
-~Martha locked eyes, past the outstretched claw.~
+~Martha locked eyes, past the outstretched claw.
+She looked into the things's eyes, she saw pools of hollow nothing~
 `
 ~Martha~.disintegrate();
 `
 ~The creature was gone, not exploded like she expected...
 Just gone...~
-*In front of her, however, the oak tree behind the creature began to dissolve into a cloud of expanding dust*
+*In front of her, however, the oak tree beyond began to dissolve into a cloud of expanding dust*
 ~She had missed.
 It had been faster.~
-*Martha looked down at her stomach*
+*^Martha looked down at her stomach*
 ~A pressure had formed at her back, her side felt cold.
-A large chunk was missing, torn from her from a swipe too fast for her to perceive~
+^A large chunk was missing, torn from her from a swipe too fast for her to perceive~
 'M::Oh, fuck.'
-~Her shield was ripped open, it was supposed to be impermeable.
-A blue force field around her side was missing, and she could see more than she wanted to.
+~The blue force field around her side was missing, and she could see more than she wanted to.
 She wanted to throw up, and briefly considered doing so, to satiate her nausea~
 'M::Healing 123.'
-~Her shield remained unrepaired, but her side was now intact, the pain a ghost.
+~Her shield remained unrepaired, but her side was now intact, the pain now a ghost.
 She tried to banish the nausea, and succeeded~
 *Martha switched memories*
 ~She saw herself in the car with her mother, frozen in some argument.
@@ -361,7 +378,7 @@ The creature, she realized, wasn't her darker self, but was all around her: cont
 Surrounding that empty shape, piloting it like a puppet~
 'M::Okay, out of my memories...
 What else do I have in my head?'
-~She knew it could follow into her dreams, but maybe...~
+~She knew it could follow into her dreams, her memories, but maybe...~
 *Martha concentrated and moved herself out of the memory, into an imagined space*
 ~It was swimming though pudding, each motion a struggle to remove attachment to her memories...
 The space she imagined was a large grey room, with no obvious source to the ambient yellow lighting.
@@ -372,7 +389,7 @@ Aim for the hand, not the weapon...'
 ~When the creature appeared she now knew what to look for.
 That hole was an outline.
 Small tugs from the dream - like bedsheets pulled tight, folded into the hole.
-The distortions wrapping the hole from the dream...
+The distortions wrapping the hole in the shape of her from the dream...
 Or in this case, her imagination...
 Attacking the hole was like throwing rocks through the window instead of at the foundation.
 Not that rocks would do much against a house...~
@@ -381,9 +398,13 @@ Not that rocks would do much against a house...~
 She didn't see anything, and she felt a brush against her neck.
 Her body felt cold.
 She tried to catch her breath.
-She couldn't~
+She couldn't.
+She couldn't move her chest.
+Or anything...~
 *Martha fell*
-~And she saw her shoulders, both of them~
+~And her world tumbled.
+She saw the ceiling.
+The she saw her shoulders, both of them~
 'M::Healing 123.'
 *Her body snapped back on*
 ~And she felt hungry.
@@ -411,7 +432,7 @@ Marbled lines filled that hole now~
 'M::Okay...
 It is attaching itself to the dream...
 Can I exploit that, a dangerous dream to have it come into?'
-*That hole in her form rush at her, arms outstretched*
+*That hole in her form rushed at her, arms outstretched*
 ~It was reaching toward's her eye~
 *Martha shifted again, into a new memory*
 ~This one old, and ragged.
@@ -421,7 +442,7 @@ She was in a high-rise chair, surrounded by flowers in glass beer bottles, insta
 *Martha turned to the left*
 ~A small crack in the table, extending into open air, widening to a height she could fit through by the kitchen door, revealed a void behind~
 `
-~Martha~.~pos~+={~12i meters~,0,0};
+~Martha~.~pos~+={~42i meters~,0,0};
 `
 *Martha moved into the void*
 ~She was looking at her own memory like a snow glob, she was far enough away it appeared that size.
@@ -448,7 +469,7 @@ When you made it part of you...'
 If she could get a reference to it, she could...~
 'M::Trap it.
 Contain it.'
-~Martha was hungry.
+~Martha was getting hungry.
 And tired~
 `
 ~Martha~.~shield~ = NULL;
@@ -457,7 +478,7 @@ And tired~
 She was still hungry, but it was not increasing~
 'M::Okay, think this through...'
 ~It was in her memories, she reasoned.
-Since most of its focus was her searching for her~
+Since most of its focus was on searching for her~
 'M::Is that what that cloud is?
 Its attention?'
 ~The cloud of shifting distortions, like a prism of moving glass, consolidated into a denser shape around her memory~
@@ -479,9 +500,10 @@ But if she knew its name, she could be sure~
 ~This time to a familiar book store.
 An old women was showing her a book.
 On the page, she could see it.
+Strange symbols and patterns.
 She saw it burn into her mind~
 'M::AT...'
-*The old woman looked up, at Martha*
+*The old woman looked up, at Martha looking in*
 ~A cold stare, on saying 'you don't belong her'~
 *Martha moved back into the void*
 ~Time slow due to her sudden panic.
@@ -489,9 +511,9 @@ Is that what she had done in the past...
 Or was that old woman somehow present in her head~
 *Martha shivered*
 ~Sudden thoughts of spiders filled her head~
-'M::It was a memory'
+'M::It was a memory...'
 ~She told herself this as she watched the creature tear open the memory.
-The last crumbles were searched - and when nothing was found, their shadows searched as well...~
+The last crumbles were searched - and when nothing was found, their shadows were searched as well...~
 `
 todo:
 make and deploy barrier
@@ -580,8 +602,12 @@ Surprise could make all the difference.
 It was taxing: trying not to think of something consciously, and only subconsciously think of a plan.
 Like trying not to think of the first cliché that comes to mind.
 So he didn't think of what he would become, just his desperation for escape~
-*Felix became a parasite*
-~In front of him was flanagan, piloting his body in the elevator, everything was still frozen~
+'F::Well, just have to wait.'
+~He lied.
+^The transformation felt like ages to him.
+He was unsure how much time had passed during the process...~
+*^Felix became a parasite*
+~In front of him was Flanagan, piloting his body in the elevator, everything was still frozen~
 *Felix thrust his hand into Flanagan's face*
 ~It melted in, little tendrils extended out from his skin, wiggling through capillaries into the arteries and searching for...
 One of the tendrils found it, Algera~
@@ -609,7 +635,9 @@ The freedom to plan revenge~
 ~The cosmic joke. 
 If he could forget it, he would.
 But it festered in his mind.
-Knowing for certain, true knowledge that was dangerous to know~
+Knowing for certain, true knowledge that was dangerous to know.
+The more he thought of it, the more it tore at him.
+If he ever found the joke funny, he knew, he would be lost~
 *Felix ran*
 ~Out onto the streets; From his problems~
 }
