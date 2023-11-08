@@ -1,8 +1,8 @@
 {`
-~date~:09/13/23 
+~date~:11/07/23 
 
 ~status~: ~in progress~ {
-~estimated~: ~83% of first draft~    
+~estimated~: ~89% of first draft~    
 }
 chapters:{
 
@@ -61,6 +61,8 @@ chapters:{
 27. [another plan](another-plan.md)
 
 28. [giving up](giving-up.md)
+
+29. [to stab at thee](to-stab-at-thee.md)
 }
 `
 }

@@ -17,27 +17,30 @@ The elevator went down, and we were below ground in the garage.'
 "FL::Now it can run its own..."
 *Rossin was pacing back and forth*
 "F::So any plan Flanagan?"
-~Eyes turn toward him sitting across the parlor~
-~He looked each of them over in turn, his gaze landed on Felix~
+~Eyes turn toward him sitting across the parlor.
+He looked each of them over in turn, his gaze landed on Felix~
 "FL::Out: take a flight back to Fiji, we will be fine without you."
 "F::What?"
 "FL::What comes next isn't for your ears."
 *Martha looked around the room*
 'R::Martha - I hate to do this so often... but can we switch?'
-~She did~
+*She flipped that switch*
 ~She was almost getting used to the sensation~
 }
 {
 mn:R
-~Everyone was looking at Uri or Flanagan~
+}
+{
+*Rossin dusted off himself in her body*
+~From her new vantage point - she noticed everyone was looking at Uri or Flanagan~
 "R::I would have a better solution."
 *Uri huffed*
 "FL:: What do you have in mind."
 *Martha in the shadowy realm walked to the windows*
 ~It was just a bright light, she could tell there was space out there, but could make nothing out~
 *She looked out the window*
-~It was void - filled with bright light~
-~In the distance she saw shadows - the same shadows behind her~
+~It was void - filled with bright light.
+In the distance she saw shadows - the same shadows behind her~
 'M::Hey - can you walk over here: when you get the chance.'
 *Rossin, in her body, nodded at her*
 "R::Do you want to stay here Felix, and help us?"
@@ -60,9 +63,9 @@ WITH hooks(
 `
 "R::There."
 *Felix fell back on the sofa*
-~He was wearing an expression of surprise~
-~His expression soured somewhat, it was both constantly astonished~
-~And serene to that astoundment~
+~He was wearing an expression of surprise.
+His expression soured somewhat, it was both constantly astonished.
+And serene to that astoundment~
 "R::He isn't forming new memories right now, it's like being asleep: but still conscious."
 'M::So wait... that is like him constantly experience a bigger and bigger time gap?'
 *Rossin moved her hand noncommittally*
@@ -73,23 +76,23 @@ WITH hooks(
 `'Rossin, come over here'`
 ~Martha was still standing by the window~
 *Rossin got up, and moved to her*
-~Martha heard Flanagan behind Rossin~
-~But he became faded into shadow as Rossin, in her body, turned away from him~
+~Martha heard Flanagan behind Rossin.
+But he became faded into shadow as Rossin, in her body, turned away from him~
 "FL::You sure he's under control."
 ~Ozmind stiffened~
 "O__U::Yeah - he's not thinking right now. 
 Let me just..."
 *Rossin and Martha looked out the window*
-~It was a hollow void of light - with no clear boundary on any horizon~
-~Emanating a blanket's security, and comfortable warmth~
+~It was a hollow void of light - with no clear boundary on any horizon.
+Emanating a blanket's security, and comfortable warmth~
 *Flanagan nodded*
 "FL::And her?"
 *His gaze fell to Rossin's Back*
 }
 {
-~And though Rossin had her body turned away from him: Flanagan became more solid~
-~His outline sharpened and he became brighter~
-~As if by his attention focused on them - made him more real~
+~And though Rossin had her body turned away from him: Flanagan became more solid.
+His outline sharpened and he became brighter.
+As if by his attention focused on them - made him more real~
 *Her head nodded of Rossin's accord*
 "R::She's fine to hear - quick study too."
 *Flanagan nodded and moved to the couch again*
@@ -120,8 +123,8 @@ Long ago..."
 *Jochek shrugged*
 "R::What's the plan?"
 *Rossin turned away from the window*
-~The dog was laying in the light, basking in it's warmth~
-~Unconcerned for it's origin~
+~The dog was laying in the light, basking in it's warmth.
+Unconcerned for it's origin~
 "FL::3 parts... 
 First we have to think of this as a viral infection."
 *Flanagan stood up and paced the room*
@@ -215,17 +218,22 @@ Also would you mind telling Felix that he is a potato so he wakes up?'
 ~She repeated the words and Felix's ability to make memories was restored~
 *He inhaled and then yelped*
 "F::You all moved - I."
-*Felix patten himself down*
-"F::Why am I sweating?"
-"F::What did you do?"
+*Felix patted himself down*
+"F::Why am I sweating?
+...What did you do?"
 "O__U::Come on, We are doing some recon."
 "F::Recon, what's going on?"
-"O__U::Walk and talk: time to go."
-"M::Where do I go?"
+"O__U::Walk and talk: c'mon."
+`"Follow Flanagan then?"`
+`"Aye, keep close"`
+~Martha waited patiently, when Flanagan didn't say anything...~
+"M::Where do we go?"
+~He noticed her then, suddenly responsive~
 "FL::Downward, into the library."
 *Flanagan pointed with the cane we was leaning on*
-~Pointed to a small door to the right, besides a fireplace~
-~It lead to a spiral stairwell and they descended, Flanagan trailing behind~
+~He pointed to a small door to the right, besides a fireplace.
+It lead to a spiral stairwell~ 
+*And they descended, Flanagan trailing behind*
 }
 {
 %%%%
@@ -235,14 +243,14 @@ mn:K
 ~Kent watched the syringes brought to the center of the room~
 "AG_T::We have only this much made today."
 "RG_T::Getting production up to scale takes some time."
-~In the corner the man with the shaven head watched~
-~Kent kept him in the corner of his eye~
-~As he watched the circle of people he realized something~
+~In the corner the man with the shaven head watched.
+Kent kept him in the corner of his eye.
+As he watched the circle of people he realized something~
 'K::I am at the right hand side...'
 ~Despite its circular nature Kent sensed the head of this gathering~
 'K::From the entrances and exits, seats watching everything creating a power imbalance.'
-~And kent watched that man in the corner~
-~That man was scanning the room, interested in the others more than kent~
+~And kent watched that man in the corner.
+That man was scanning the room, interested in the others more than kent~
 'K::Okay: probably should not stay in the cult circle room.'
 "RG_T::Real power: chemically accessed."
 'K::Even if you get a hold of that syringe...'
@@ -266,35 +274,35 @@ We'll start to my right."
 "K::I'll do the honors."
 *Kent rolled his neck*
 "K::Arm, neck, or anywhere?"
-*Alice handed him a syringe*
-*He passed it down to his left*
+*Alice handed him a syringe.
+He passed it down to his left*
 'K::Stall tactic - keep going...'
-*Alice handed him another*
-*And then the third once he passed that down*
+*Alice handed him another.
+And then the third once he passed that down*
 ~The second person sitting to his left held the syringe inspecting it~
-*The man to his left stabbed it into his own upper thigh*
-*The second man to his left bolted upright, and then scrambled out one entrance*
+*The man to his left stabbed it into his own upper thigh.
+The second man to his left bolted upright, and then scrambled out one entrance*
 ~The entrance opposite to the way Kent entered~
 *Kent did the same, running towards the way he came in*
-~Kent heard words that weren't words and then a loud thud~
-~He didn't look back: He wasn't going to waste such as opportune distraction~
+~Kent heard words that weren't words and then a loud thud.
+He didn't look back: He wasn't going to waste such as opportune distraction~
 *He ran down the hallway to the exit*
-~It wasn't until he made it to front door that he heard scrambling from inside~
 }
 {
-~He made it to the corner of the alley of the street before the metal door open behind him~
+~It wasn't until he made it to front door that he heard scrambling from inside.
+He made it to the corner of the alley of the street before the metal door open behind him~
 *He turned to look as he rounded the corder*
-~At the hallway entrance was that woman in the red cardigan~
-~He knew she saw him make a right~
+~At the hallway entrance was that woman in the red cardigan.
+He knew she saw him make a right~
 'Okay, relax... 
 Think, lots of breathing: but think...'
 ~He kept running with the sun in his eyes~
 'K::False trail it is.'
-*He undid his jacket, and his empty gun holster*
-*He rounded a corner and took them off*
+*He undid his jacket, and his empty gun holster.
+He rounded a corner and took them off*
 ~He took a moment to catch his breath~
-*He dropped the empty jacket down in the corner*
-*He balled the holster in his fists*
+*He dropped the empty jacket down in the corner.
+He balled the holster in his fists*
 ~He couldn't keep wearing it without the jacket.
 It overflowed in his hands~
 }
@@ -305,12 +313,13 @@ It overflowed in his hands~
 ~He heard her running steps approached~
 *Kent started to Walk backwards*
 'K::Just fooling one set of eyes, keep focused...'
-~He had her back to her~ 
-*He pretended to wave at someone*
-*Alice passed him, slowing her run*
+~He had his back to her~ 
+*He pretended to wave at someone.
+Alice passed him, slowing her run*
 ~He watched her scan the crowd~
-*He continued his backward walk*
-*Kent tossed the gun-strap on the other side of the corner*
+*He continued his backward walk.
+Kent tossed the gun-strap on the other side of the corner, father down this time*
+~He was trying to make a trail for her to follow~
 'K::Second toss... 
 Was that too on the nose?'
 ~Still, he knew he couldn't keep it~
@@ -318,38 +327,39 @@ Was that too on the nose?'
 ~He saw her spot the jacket~
 'K::Just get to the park...'
 *He turned around and faced the park*
-~He couldn't see her, but neither could she see his face~
-~He was halfway though the street before he heard a muttering~
-~A horn honked in his ear - and yet: he still heard her quite voice~
+~He couldn't see her, but neither could she see his face.
+He was halfway though the street before he heard a muttering~
+*A horn honked to his left, as pedestrians crossed into a green light* 
+~And yet: he still heard her quite voice~
 'Okay, what is she doing?'
 ~Kent watched everyone - and was almost prepared for the sudden stop~
-*He stopped*
+*He stopped, joining everyone else in a silence*
 }
 {
 ~He forced his breath to be as regular as he could muster~
 'K::Red-light green-light bullshit...'
-~He felt her gaze fall over him, and slip away~
-~When nothing was moving but one thing - it was much easier to hear~
+~He felt her gaze fall over him, and slip away.
+When nothing was moving but one thing - it was much easier to hear~
 'K::Those words again...'
-~No sooner had he registered them he realized everyone was turning toward her~
-~He did likewise~
+~No sooner had he registered them he realized everyone was turning toward her.
+He did likewise~
 *He stared at her stone faced*
 'K::How do you stay calm, like this kent?
 You clench your toes, you think of your stubby toes to distract you.
 Right, Kent, think of the toes...'
-~He had the syringe palmed in his hand still~
-~She scanned the crowd and her gaze never halted on him~
+~He had the syringe palmed in his hand still.
+She scanned the crowd and her gaze never halted on him~
 'K::I know she saw me...
 She does not recognize me.'
 *She wandered in a wide arc* 
 ~She spotted the holster on the other side of the corner~
-*She scanned everyone one more time before settling to backtracking*
-~He watched from across the street her run back to that place~
-~Everyone around him, including the cars came back to life suddenly~
-~He did the same~
+*She scanned everyone one more time before settling to follow his trail*
+~He watched from across the street. 
+When she everyone around him, including the cars came back to life.
+He did the same~
 'They just let me go, with this syringe?'
-~He was cupping it so he wouldn't stab himself accidentally~
-~But he'd just as soon rather not have it~
+~He was cupping it so he wouldn't stab himself accidentally.
+But he'd just as soon rather not have it~
 *Kent walked to and sat down on a bench*
 "F::So was it her or wasn't it?"
 "U::It felt like her."
@@ -373,23 +383,23 @@ She does not recognize me.'
 ~Kent could hear words that weren't words~
 *The man at the door crumpled*
 ~Kent wavered if he should help~
-*The shaven man stepped out into the light*
-*Felix swung a pipe into the man's head*
+*The shaven man stepped out into the light.
+Felix swung a pipe into the man's head*
 ~A few more pipes behind Felix scattered to the ground~
 *The man staggered and fell*
-~An ichor poured out of the wound~
-~Not blood: but something richer - thicker~
-~A color that was unnatural~
-~It was both black, and every color - or more a color that didn't exist~
-~A chemistry that didn't exist~
+~An ichor poured out of the wound.
+Not blood: but something richer - thicker.
+A color that was unnatural.
+It was both black, and every color - or more a color that didn't exist.
+A chemistry that didn't exist~
 *It sizzled in the afternoon sun*
 ~It was on the concrete - and parts sprayed into the man that opened the door~
 *It sizzled on Uri's face*
 ~Both Uri and the shaven head man were motionless on the ground~
 *Felix stumbled forward out to the mouth of the alley*
 ~Kent's vision was blocked by a red cardigan~
-*Kent looked up*
-*Alice strolled toward Felix*
+*Kent looked up.
+Alice strolled toward Felix*
 ~Kent heard words - that were not words~
 *Felix stumbled to the ground*
 ~Kent held the syringe in his hand considering what to do~
@@ -401,8 +411,8 @@ She does not recognize me.'
 'K::This stuff, that ooze, the dead...'
 ~He couldn't finish the thought~
 'K::All connected...'
-~He knew now he would see the same impossible color ichor from her~
-~Felix was still on the ground, unmoving~
+~He knew now he would see the same impossible color ichor from her.
+Felix was still on the ground, unmoving~
 'K::Is he dead?'
 *Felix gasped*
 'K::Alright, here comes the cavalry, ass-hat!'
@@ -419,18 +429,18 @@ She does not recognize me.'
 ~Down at the bodies~
 *Kent glided to the right*
 ~Closing the distance~
-*He swung*
-*She dodged and spun*
+*He swung.
+She dodged and spun*
 ~Her face was scrunched into a snarl of curiosity~
 "AG_T::Why can't I feel you?"
-*He swung again*
-*She moved up to him*
+*He swung again.
+She moved up to him*
 ~Nearly hugging him~
-*She curled into his throw and twisted the board out of his hand*
-*She also tripped him*
-*Kent panicked and flailed wildly*
-~He felt fabric and tried to take her down with him~
-~He did not~
+*She curled into his throw and twisted the board out of his hand.
+She also tripped him.
+Kent panicked and flailed wildly*
+~He felt fabric and tried to take her down with him.
+He did not~
 }
 {
 "AG_T::I can hear you, but..."
@@ -462,17 +472,18 @@ I can audition if ya'll - oh my lord - somebody call the police!"
 "HM::Lord: somebody call the gangs, the police are here."
 ~There was a moment of silence~
 'K::Call the...
-Is he high?'
-'K::Keep focused.'
+Is he high?
+Keep focused, Kent.'
 }
 {
 *Kent looked back at the metal door*
 "K::There's more of them inside."
-*Felix started running out the alley*
-*Kent followed*
+*Felix started running out the alley.
+Kent followed*
 "K::Hey, I got some questions for you."
-*Felix turned and mimed to his mouth*
+*Felix turned and mimed to his mouth. 
+Then he ran down the alley*
 'K::Fucking convenient - mute now are you?'
-~Kent chased after~
+*Kent chased after*
 }
 ## [descent-resent-torment](descent-resent-torment.md)

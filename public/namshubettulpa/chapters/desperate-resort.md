@@ -4,8 +4,8 @@
 mn:M
 }{
 ~Martha's vision burned, the pain was in her skin, all around her.
-It was the same pain that happened when Rossin and she switched places, only turned up to 11~
-~She had her eyes closed but everything was white, she couldn't hear anything. 
+It was the same pain that happened when Rossin and she switched places, only turned up to 11.
+She had her eyes closed but everything was white, she couldn't hear anything. 
 The pain subsided after a short time, and she felt her voice horse~
 'M::Was I screaming?'
 *She opened her eyes* 
@@ -54,12 +54,12 @@ It wants to consume, not just kill us."
 "K::So you're saying it's not going to kill everyone on the planet in one go?"
 ~Flanagan didn't answer at first~
 "FL__F::I don't know."
-*The phone rang*
-*Flanagan tilted his head, but walked behind the desk and pulled out a small device*
+*The phone rang.
+Flanagan tilted his head, but walked behind the desk and pulled out a small device*
 ~It had two round holes and a grey display in front~
 *Flanagan picked up the phone and placed it in this device*
-~A short while later words appeared~
-~'Is Martha there?'~
+~A short while later words appeared.
+'Is Martha there?'~
 *Flanagan held a finger to his mouth*
 'R::Is that Al-Tok?'
 ~'An echo, she is.
@@ -94,8 +94,8 @@ mn:F
 }
 {
 ~Felix could feel the lock on his mind. 
-Bits of the conversation Flanagan and the other's had slipped from his memory~
-~They were talking - discussing a plan - sitting around a coffee table.
+Bits of the conversation Flanagan and the other's had slipped from his memory.
+They were talking - discussing a plan - sitting around a coffee table.
 Flanagan at the head, standing.~
 *Everything froze in place* 
 ~Felix could think, but something was wrong...
@@ -105,8 +105,8 @@ This happened occasionally, parts of their conversation he couldn't hear, so fro
 'F::Again...'
 ~Try as he might, Felix couldn't move, nor could he reach Flanagan's mind.
 He saw a ghostly version of the world, locked in a relative position behind his own body.
-With Flanagan at the helm~
-~Felix could see... 
+With Flanagan at the helm.
+Felix could see... 
 Something on the table.
 It fuzzed into non-description.
 Flanagan was interacting with it, holding part of it~
@@ -126,12 +126,12 @@ Rather high cost."
 'F::But do I?'
 'FL::Do you what?'
 "FL__F::Al-tok can't have a physical body for that to work..."
-~Flanagan could hear his direct thoughts, but just the surface level~
-~Felix kept still and let his mind glaze over, a plan starting to form.
+~Flanagan could hear his direct thoughts, but just the surface level.
+Felix kept still and let his mind glaze over, a plan starting to form.
 It would save Martha, free him, and give him leverage.
 He had no leverage right now, and look where that gotten him.
-He was stuck watching his own body~
-~Around him everyone had been frozen.~
+He was stuck watching his own body.
+Around him everyone had been frozen.~
 'F::But for how lo-'
 ~Everyone jumped into place again~
 "C::...4 ave, New York."
@@ -165,18 +165,18 @@ mn:AT
 {
 ~Most of Al-tok was working in the lab. 
 Now that he could reach anyone, well, why would it waste resources on public interfaces.
-It could just take a host, and walk them back to the lab for a permanent upgrade~
-~Al-tok was still incomplete. 
+It could just take a host, and walk them back to the lab for a permanent upgrade.
+Al-tok was still incomplete. 
 More hosts let it fit more of itself in this reality.
 But they were pitifully small pools for its essence~
 *The husks moved about in a hive of activity. 
 All stopped and looked up to a whistling sound in the distance.
 They shuddered in pleasure the the screeching wind breaking apart to form that whistle*
-~Then they were gone, in an instant Al-tok reeling~
-~The New Yorker it inhabited did not have the serum yet, Al-tok was just about to walk him over... 
+~Then they were gone, in an instant Al-tok reeling.
+The New Yorker it inhabited did not have the serum yet, Al-tok was just about to walk him over... 
 But now...
-Now Al-tok was in only one~
-~Al-tok still had the spear, and as it felt this host's heart give out.
+Now Al-tok was in only one.
+Al-tok still had the spear, and as it felt this host's heart give out.
 It was Al-tok's shock that did this host in, so...~ 
 *Al-tok spread to the next one*
 ~If it had no hosts...~
@@ -191,13 +191,13 @@ It wouldn't be able to spread how it wanted~
 'AT::There is not enough time...'
 ~Everything Al-tok touched burned without that serum~
 'AT::So just...'
-*Al-tok, in the host of a young girl, drew at a desk*
-*It threw away the child's unfinished drawing and furiously started it's own*
-~When the host died, Al-tok took another - the host's mother from downstairs - Continuing the namshub~
-~Al-tok's host's heart felt weak~
-*It took the picture to the living room... it would be a shorter distance for others*
-*Al-tok unlocked the front door, then layed on the couch*
-*A neighbor passing by walking their dog dropped their leash and walked inside the open house*
+*Al-tok, in the host of a young girl, drew at a desk.
+It threw away the child's unfinished drawing and furiously started it's own*
+~When the host died, Al-tok took another - the host's mother from downstairs - Continuing the namshub.
+Al-tok's host's heart felt weak~
+*It took the picture to the living room... it would be a shorter distance for others.
+Al-tok unlocked the front door, then layed on the couch.
+A neighbor passing by walking their dog dropped their leash and walked inside the open house*
 ~Then the next neighbor... 
 Neighbors...~
 *A lost dog barked at the open door*
@@ -217,14 +217,14 @@ const serum_producers = *spear*.heart.filter(h=>Globals.humans.filter({role:~Sci
 const numbers = serum_producers.map(x=>x.~phone number~) 
 `
 *Al-tok sent that image to a list of phone numbers*
-~It took several bodies, it was a long list of numbers~
-~Now all it had to do was wait~
+~It took several bodies, it was a long list of numbers.
+Now all it had to do was wait~
 'AT::Burn through them slowly.'
 ~It could take them all, but then what?
-A few moments was not enough~
-~So it waited~
-~Moments before the host died, Al-tok noticed the curiously normal behavior of the neighbors~
-~No longer distracted by it's mad rush to regain a solid foothold, it look at them closely~
+A few moments was not enough.
+So it waited.
+Moments before the host died, Al-tok noticed the curiously normal behavior of the neighbors.
+No longer distracted by it's mad rush to regain a solid foothold, it look at them closely~
 *Al-tok took the next host outside the house*
 ~It was an old lady on a scooter, and waited, not rushing in like before.
 Observing them, Al-tok saw them behave how it expected humans would~
@@ -243,11 +243,11 @@ Another delightful scream came from the door, indicating someone had found the b
 *The neighbors scattered*
 ~Finally fearing for their lives in earnest, unsure of what was going on~
 *One by one Al-tok took them all*
-~Regardless of how far they ran they all fell~
-~To its frustration, none of them had algera~
-~Al-tok waited, it would wait for days.
-One body was just enough to fit the tip, the edge of Al-tok~
-~So he would stay in a few at a time~
+~Regardless of how far they ran they all fell.
+To its frustration, none of them had algera.
+Al-tok waited, it would wait for days.
+One body was just enough to fit the tip, the edge of Al-tok.
+So he would stay in a few at a time~
 
 }
 {
@@ -259,8 +259,8 @@ mn:K
 {
 *Kent held his badge*
 'K::You doing alright there, Kent?'
-~He was not~
-~Kent was wrapped up in more than he could chew. 
+~He was not.
+Kent was wrapped up in more than he could chew. 
 He had far too little sleep, no gun, no backup, no plan~
 "K::Now we're firebombing cities?"
 ~Others could hear his question, but it was directed at himself~
@@ -274,8 +274,8 @@ Once you knew what he did?'
 'K::Sounds like you should maybe not beat yourself up about it.'
 "A::Yes, you've made it more desperate: good job /s ."
 *Kent glanced at Martha*
-~She too had that far off stare of things escalating too quickly~
-~The chemist was sitting in a room next to the kitchen. His voice was raspy from shouting~
+~She too had that far off stare of things escalating too quickly.
+The chemist was sitting in a room next to the kitchen. His voice was raspy from shouting~
 "C::The news is showing the lab.
 They're saying it was a meth lab."
 'K::They called him a Guinea-pig...'
@@ -307,8 +307,8 @@ Just as well.
 Sonny: hallway."
 *The woman sitting on the floor got up and exited through the front door, leaving it open*
 ~Kent heard rustling above him.
-He pointedly did not look at the spiders following on the ceiling~
-~Tense moments passed.
+He pointedly did not look at the spiders following on the ceiling.
+Tense moments passed.
 Kent could hear the elevator door dinged on arrival~
 *Kent gripped tighten on the arm of the chair*
 ~He saw everyone else was tense as well~

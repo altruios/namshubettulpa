@@ -8,8 +8,8 @@ mn:M
 *He raised his hands*
 ~Clean of all blood~
 'R::Well, look at that.'
-*Martha continued scrubbing her hands*
 ~She could still see faint bits of red~
+*Martha continued scrubbing her hands*
 ~It was a long while before she spoke again~
 "M::What if the police come?"
 *Rossin sighed, and waved his hand to the door*
@@ -85,23 +85,23 @@ But if in a couple months you face it down, the memories should come back...
 They, well: they will not be good memories: buried deep for a reason.'
 }
 {
-~Martha sat in silence for a time as she watched Rossin shift back and forth~
-~She wondered where he was physically in her brain. ~
-~A discrete location,or a disruption of particular patterns of neurons that fire across the brain~
-~She wondered if she cared~
-~He was here~
-~And offering her what?~
-~Power, in exchange for bringing down a corrupt society~
-~Well, the author saw it as corrupt, but was it really?~
+~Martha sat in silence for a time as she watched Rossin shift back and forth.
+She wondered where he was physically in her brain.
+A discrete location,or a disruption of particular patterns of neurons that fire across the brain.
+She wondered if she cared.
+He was here.
+And offering her what?.
+Power, in exchange for bringing down a corrupt society.
+Well, the author saw it as corrupt, but was it really?~
 }
 {
 ~She would have to see~
-~But the idea of namshubs still worried her~
-~If her brain could be so easily programmed to see Rossin, it could be arbitrarily programmed to see anything~
-~The possibilities rolled out in her head~
-~Impossible before now nightmare scenarios played out in her mind - each one worse than before~
-~And yet - she also thought of the possibilities to fix everything, to remake the world whole~
-~To stop pollution, and all the terrors that could be fixed if you didn't have to worry about free will~
+~But the idea of namshubs still worried her.
+If her brain could be so easily programmed to see Rossin, it could be arbitrarily programmed to see anything~
+~The possibilities rolled out in her head.
+Impossible before now nightmare scenarios played out in her mind - each one worse than before.
+And yet - she also thought of the possibilities to fix everything, to remake the world whole.
+To stop pollution, and all the terrors that could be fixed if you didn't have to worry about free will~
 "M::Teach me. 
 I think I need to know everything..."
 'R::Good that you are willing. 
@@ -129,17 +129,17 @@ He will be good.'
 "M::Which is what exactly?"
 *Rossin smiled*
 ~That of a father knowing their child was about to discover christmas~
-*He walked up to the front door, Martha followed*
+*He walked up to the front door, Martha followed.
+Then He paused*
 }
 {
-*He paused by the door*
 'R::Let me take over, I can run through a few examples.
 And you will be along for the ride - grab the qualia of this experience.'
 "M::Take over?"
 'R::Right, let me just...'
-~And it was there in her head, knowledge of a switch~
-~Not a literal one, but once flipped would swap her consciousness with Rossin's~
-~Martha paused, almost ready to flip that switch~
+~And it was there in her head, knowledge of a switch.
+Not a literal one, but once flipped would swap her consciousness with Rossin's.
+Martha paused, almost ready to flip that switch~
 "M::When will I get... 
 My body..."
 ~She really was considering~
@@ -149,33 +149,33 @@ My body..."
 *Rossin paused, thinking*
 'R::This should do: but there is no way I can make this particularly comfortable...
 You will be fine.'
-~And just like that the switch moved~
-~Instead of the vague idea, it was a solid pin attached to her consciousness~
-~A stabbing point she noticed just behind her right eye~
-~It started to fade, but she remained aware of it~
-~It was pinned to her consciousness, how could she not be~
-~But at least this way she wouldn't be trapped in~
+~And just like that the switch moved.
+Instead of the vague idea, it was a solid pin attached to her consciousness.
+A stabbing point she noticed just behind her right eye.
+It started to fade, but she remained aware of it.
+It was pinned to her consciousness, how could she not be.
+But at least this way she wouldn't be trapped in~
 'R::That should do.'
 ~She agreed~
 'R::It will get less painful, and it connects in...'
 }
 {
 mn:R
-~She flipped it, and felt a ripping sensation~
-~It stretched from down her forehead to her navel~
-~An unzipping sensation as her consciousness rolled in upon itself into a wheel~
-~Martha felt herself rolling through random electrical signals in her brain to where Rossin had just been~
-~He was making a similar journey himself~
-~With the feeling of a great stretch, she unfurled into a human shape again~
-~A room, her front hallway where she had just been standing- lay before her in a shaky ghostly image~
-~There was a cone of clear vision emanating from the entity at the center~
-~The center being herself: Rossin in her body~
-~Everything was distorted outside the cone of clear vision, wavy and disintegrating into darkness~
-~The process was like gushing waves of blackness flowing over the shape of all things remembered~
-~Slowly smothering them with time~
-~Even the clear vision was distorted~
-~Bowled in and fuzzy at the edges - no lines - seen or unseen were truly straight~
-~And perspectives did not converge~
+~She flipped it, and felt a ripping sensation.
+It stretched from down her forehead to her navel.
+An unzipping sensation as her consciousness rolled in upon itself into a wheel.
+Martha felt herself rolling through random electrical signals in her brain to where Rossin had just been.
+He was making a similar journey himself~
+~With the feeling of a great stretch, she unfurled into a human shape again.
+A room, her front hallway where she had just been standing- lay before her in a shaky ghostly image.
+There was a cone of clear vision emanating from the entity at the center.
+The center being herself: Rossin in her body~
+~Everything was distorted outside the cone of clear vision, wavy and disintegrating into darkness.
+The process was like gushing waves of blackness flowing over the shape of all things remembered.
+Slowly smothering them with time~
+~Even the clear vision was distorted.
+Bowled in and fuzzy at the edges - no lines - seen or unseen were truly straight.
+And perspectives did not converge~
 *She walked into the ghostly image and Rossin turned her body to see where her consciousness had entered*
 'M::You can see me?'
 "R::Aye, you are not physically where you are, just... 
@@ -184,10 +184,10 @@ Imagining yourself into existence from your own imagination which you put yourse
 {
 mn:M
 *She flipped the switch back*
-~Immediately feeling that ripping sensation~
-~She wondered exactly how this was working in her brain, or if this was real~
-*She looked down at her own hands*
-*She stretched*
+~Immediately feeling that ripping sensation.
+She wondered exactly how this was working in her brain, or if this was real~
+*She looked down at her own hands.
+She stretched*
 ~There was something off~
 *She stretched again*
 'There...'
@@ -198,9 +198,9 @@ mn:M
 }
 {
 *She opened the door, and walked over to her neighbor's house*
-~The one she liked less~
-~The one that had been pedantically complaining about trees blocking her view to the street~
-~The one that  even paid people to come on to her property and cut down those~
+~The one she liked less.
+The one that had been pedantically complaining about trees blocking her view to the street.
+The one that even paid people to come on to her property and cut down those~
 *Martha knocked on the door and flipped the switch*
 }
 {
@@ -208,8 +208,8 @@ mn:R
 ~After the ripping sensation subsided and Martha was again looking at Rossin in her body~
 *The door opened and Rossin spoke without words*
 `hooks.follow=>{~Self~}`
-*And proceeded to walk inside*
-*Martha as an ethereal entity followed*
+*And proceeded to walk inside.
+Martha as an ethereal entity followed*
 'M::What was that?'
 "R::So, everyone has hooks. 
 We, I mean, those in power, the awoken, put them there. 
@@ -261,24 +261,24 @@ The awoken are aware of it, and can visit and control it."
 }
 {
 *Martha paced*
-~She wasn't sure when she would break down, but nope: that was it~
-~A human can't process this large of a world change in what, an hour?~
-~Secret societies, borg-like hivemind internets, brain hooks~
-~The fact that she has a foreign entity in her head~
-~The fact that apparently she can make anyone be or do anything~
-~And that was at the bottom tier of the abilities she had~
-~But who was there to turn to?~
-~Anyone she could think of if she explained any of this: would lock her up: no~
-~She needed to sleep, in the morning everything would be fine~
-~She wasn't even in her own body at the moment~
+~She wasn't sure when she would break down, but nope: that was it.
+A human can't process this large of a world change in what, an hour?.
+Secret societies, borg-like hivemind internets, brain hooks.
+The fact that she has a foreign entity in her head.
+The fact that apparently she can make anyone be or do anything.
+And that was at the bottom tier of the abilities she had.
+~But who was there to turn to?
+Anyone she could think of if she explained any of this: would lock her up: no.
+She needed to sleep, in the morning everything would be fine.
+She wasn't even in her own body at the moment~
 *She continued to pace*
 "R::Martha... I know this is a lot to take in."
 'M::Oh you do, do you?!'
-~Her heart was racing~
-~Was it her heart?~
-~Was her physical body responding to her mental state anymore?~
-~She looked at Rossin, who seemed calm if concerned~
-~Not panicked~
+~Her heart was racing.
+Was it her heart?.
+Was her physical body responding to her mental state anymore?~
+~She looked at Rossin, who seemed calm if concerned.
+Not panicked~
 }
 {
 "R::Yes, I know this is a lot, and there's a lot more - but maybe sleep is in order...
@@ -295,18 +295,18 @@ Give me a minute.'
 {
 mn:M
 *She flipped the switch and was propelled back towards her body*
-~The shadow world she experienced turning into a wheel all around her~
-~Spinning her about until she was in her own skin~
-~It was not getting more comfortable - but more familiar~
-*She looked down at her hands, relieved to be back as she was*
-*Rossin was pacing around the room*
+~The shadow world she experienced turning into a wheel all around her.
+Spinning her about until she was in her own skin.
+It was not getting more comfortable - but more familiar~
+*She looked down at her hands, relieved to be back as she was.
+Rossin was pacing around the room*
 'R::Well that is mildly inconvenient, I did not have time to unhook. 
 I lost the connection. I...'
 *She stumbled over something. Martha looked down:*
 }
 {
-~Her neighbor sprawled at her feet, unmoving~
-~They laid face-up with a face twisted, frozen in horror and pain~
+~Her neighbor sprawled at her feet, unmoving.
+They laid face-up with a face twisted, frozen in horror and pain~
 *Martha backed away, hit her back against the wall and slid down*
 "M::I...
 I didn't."
@@ -319,9 +319,9 @@ Just do not do anything without letting me know first!'
 Just... 
 Do - not - do - anything',
 'Do nothing.']`
-~Martha's breathing slowed down~
-~Her muscles relaxed~
-~Nothing to be done now~
+~Martha's breathing slowed down.
+Her muscles relaxed.
+Nothing to be done now~
 *Rossin came up to her*
 'R::Not your fault, I should have warned you - if you break a connection like that...
 It is...
@@ -332,8 +332,8 @@ But it could be worse, he is only dead.'
 ~He inspected her unmoving face~
 'R::Martha?'
 *Waving his hand and getting no reaction he backed away*
-~Martha could see him, some part of her registered him~
-~He was saying something: empty assurances~
-~He was saying things - she was sure of it - she couldn't bring herself to care~
+~Martha could see him, some part of her registered him.
+He was saying something: empty assurances.
+He was saying things - she was sure of it - she couldn't bring herself to care~
 }
 ## [a-stone-walled-kink](a-stone-walled-kink.md)

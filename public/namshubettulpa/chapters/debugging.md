@@ -7,9 +7,9 @@ mn:M
 *Martha was falling*
 ~The rushing wind was all around her.
 It was deafening, yet she was in a pocket. 
-The island of cliff that sheared off the landscape shielded her from the wind~
-~The gravity lessened as she fell, returning to a relative normal~
-~She saw a darkness growing below the edge, racing towards her~
+The island of cliff that sheared off the landscape shielded her from the wind.
+The gravity lessened as she fell, returning to a relative normal.
+She saw a darkness growing below the edge, racing towards her~
 `
 ~Cliff~.reshape(^)...
 `
@@ -40,8 +40,8 @@ const ~orb~ = {
 `
 *Her shoe transformed in her hand, and she had to squint her eyes*
 ~The light was a bright blue, and was quickly growing hot~
-*She stood up and released it*
-*It floated into place ten feet above and behind her* 
+*She stood up and released it.
+It floated into place ten feet above and behind her* 
 ~The close wall was illuminated.
 It was a blur, rushing past her.
 The far wall was too dark to see from this distance~
@@ -54,12 +54,12 @@ The far wall was too dark to see from this distance~
 `
 ~Self~.~gravity~ = - ~Self~.~gravity~;
 `
-*Which sent her soaring away from the island of fallen cliff*
-*The tiny ball of light zipped up to match her speed, returning to its original orbit*
+*Which sent her soaring away from the island of fallen cliff.
+The tiny ball of light zipped up to match her speed, returning to its original orbit*
 ~A voice boomed through the cavern, coming from deep below.
 The cavern was miles across, and she could only see blackness across from her, even with the light...
-Martha had the sickening thought - the image of something talking through a straw - something so massive as to be impossible to comprehend~
-~And it was happy~
+Martha had the sickening thought - the image of something talking through a straw - something so massive as to be impossible to comprehend.
+And it was happy~
 "AT::Oh, there you are!"
 ~It rumbled the cliff side reverberating to the top~
 "AT::I've been looking for you, what are you doing here?"
@@ -123,8 +123,8 @@ Any expenditure of the shield's energy had to come from somewhere, that somewher
 ~The voices turned over each other, a waterfall of harmonizing rasps~
 "AT::Or are we going to chase through the solid dream?"
 "M::I have a proposition for you..."
-~She did not, but she just needed a breather to think~
-~The exit was somewhere up there, could she get there, or...~
+~She did not, but she just needed a breather to think.
+The exit was somewhere up there, could she get there, or...~
 'M::The exit was a mirror, somewhere on the ground above.
 This is a dream, so...'
 ~She took a breath an hoped she could do this~
@@ -243,8 +243,8 @@ It then moved to the corner and sat down, watching us*
 'J_R::If it can keep its distance.'
 ~We kept the creature at a safe distance during the decent. 
 Until eventually we reached the door at the bottom.
-The other end was camouflaged into the cliff face~
-~And in front of us, the Romanian forest, the night sky covered in storm clouds before their eruption~
+The other end was camouflaged into the cliff face.
+And in front of us, the Romanian forest, the night sky covered in storm clouds before their eruption~
 *The creature behind us darted forward*
 ~It paused briefly, turning back to wave with one paw, before disappearing into the forest~
 *We marched on, Dana followed*
@@ -257,8 +257,8 @@ She remembered what happened to the Nerium...~
 ~It clung to them, chilling them. 
 And while Lenny and Jochek in the bodies of locals were dressed for this weather, Ada was not.
 Her formal gown giving no protection to the cold.
-Dana was in the same situation~
-~They had a trek to town ahead of them~
+Dana was in the same situation.
+They had a trek to town ahead of them~
 
 }
 

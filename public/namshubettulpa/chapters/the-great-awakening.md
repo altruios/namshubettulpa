@@ -4,41 +4,41 @@
 
 mn:K
 ~Car alarms blared in the distance. 
-Echoing in the still air between buildings~
-~Acrid tire smoke filled the air~
+Echoing in the still air between buildings.
+Acrid tire smoke filled the air~
 *Kent moved the unconscious homeless clear of his path*
 ~He was hunched over the rolling bed, using his leg to adjust the bodies below~
 *He pulled the bed forward out of the alley*
-~Clearing a path through the alley was easier to do from the front~
-~Bodies below lay at unnatural angles.
-Clearly by having fell the wrong way~
-~The chemist lay unconscious on top of the bed~
+~Clearing a path through the alley was easier to do from the front.
+Bodies below lay at unnatural angles.
+Clearly by having fell the wrong way.
+The chemist lay unconscious on top of the bed~
 *The chemist rolled over, falling into the railing*
 ~A few uneven surfaces would have been troublesome without the bed's side guards~
 'K::They said you were in over your head, Kent...'
 ~Kent exited the alley approaching the street. 
-Then he saw the fires~
-~Cars were still running, but most had crashed.
+Then he saw the fires.
+Cars were still running, but most had crashed.
 Many had turned over on the sides of streets~
 'K::They were fucking right!'
 *Kent walked down the sidewalk, pushing the bed*
-~He listened~
-~There was no sound of life.
+~He listened.
+There was no sound of life.
 No screams, no yelling - no footfalls in the distance~
 'K::An air-raid siren would be appropriate...'
-~He passed a wreck - a car rolled upside down after some impact~
-~They were dead, he knew: the cabin had been crushed below human capacity~
-~It was a family, he saw that much before he looked away~
+~He passed a wreck - a car rolled upside down after some impact.
+They were dead, he knew: the cabin had been crushed below human capacity.
+It was a family, he saw that much before he looked away~
 "K::HELLO!"
-~It was screaming into the wind, but maybe~
-~Kent was only around the first corner - he continued on~
-~Behind him there was a whistle, loud and sharp: calling~
+~It was screaming into the wind, but maybe.
+Kent was only around the first corner - he continued on.
+Behind him there was a whistle, loud and sharp: calling~
 *Kent turned around*
 ~He didn't see the source~
 "K::HELLO?"
 ~He called out again~
-*A flowerpot burst through a window of a steakhouse*
-*Kent ducked behind a line of parked cars*
+*A flowerpot burst through a window of a steakhouse.
+Kent ducked behind a line of parked cars*
 "F::Over here!"
 ~He waited and saw Felix poke his head out of the broken window~
 'K::Why is he awake?'
@@ -108,11 +108,11 @@ Shouldn't we be going?"
 "F::Yes, but calories first."
 ~Kent heard screaming in the distance~
 *Felix turned his head*
-~Listening~
-~Kent felt something hit his leg by the ankle~
-~Felix had knocked over some people sitting together to get at their food~
-*Kent stood up*
-*He dodged a twitch of a fallen patron's leg*
+~Listening.
+Kent felt something hit his leg by the ankle.
+Felix had knocked over some people sitting together to get at their food~
+*Kent stood up.
+He dodged a twitch of a fallen patron's leg*
 'K::People are waking up...'
 *Kent looked around the room*
 ~He found movement everywhere~
@@ -136,13 +136,13 @@ Felix was unnaturally still, his body on automatic~
 Some were looking at him and the damage caused.
 Others were looking at their own hands~
 *Kent put Felix on the bed*
-~Next to the chemist~
-~He heard a commotion inside~
+~Next to the chemist.
+He heard a commotion inside~
 *He rolled them down the street*
 'K::Away from the broken glass.'
-~He took in a few breaths~
-~Around him people were examining the car crashes~
-~But there were others: roaming groups descending on the unsuspecting.
+~He took in a few breaths.
+Around him people were examining the car crashes.
+But there were others: roaming groups descending on the unsuspecting.
 It wasn't with guns, or knives or sticks: but words and pictures~
 *He pushed the bed down the street*
 ~It wasn't just one group absorbing another, but multiple each clawing for control of the people of the others. 
@@ -152,8 +152,8 @@ Together it was a chaos~
 'K::Okay Kent, where to?'
 ~He kept an eye out for anyone, any group, approaching him~
 'K::Where did Felix come from, Where did you first see him.'
-~He remembered seeing Felix walking in the park~
-~It was a guess, but...~ 
+~He remembered seeing Felix walking in the park.
+It was a guess, but...~ 
 'K::If Felix (and who he was) with was making a bee-line...'
 *Kent turned left*
 'K::Eh, close enough - he can tell me different when he wakes up.'
@@ -168,15 +168,15 @@ Shit is he still...'
 }
 {
 mn:M
-~It was cramped with seven people in the bubble~
-~Martha held tightly to the chair in the center~
-~They all were, due to the turbulence~
-~Martha didn't see anything outside the bubble, a blank void~
-~The bubble was shaking, as if unsure of it's position without any other points of reference~
-~A shaky memory, shifting every time it was examined~
+~It was cramped with seven people in the bubble.
+Martha held tightly to the chair in the center.
+They all were, due to the turbulence.
+Martha didn't see anything outside the bubble, a blank void.
+The bubble was shaking, as if unsure of it's position without any other points of reference.
+A shaky memory, shifting every time it was examined~
 "G::I have some bad news, it's worse than we thought."
-*Gerald pulled a lever up*
-*The ship calmed*
+*Gerald pulled a lever up.
+The ship calmed*
 "G::There's nothing out there, no where to go."
 ~A silence fell over them~
 "M::I might have a way."
@@ -189,8 +189,8 @@ mn:M
 *Alacira leaned over and looked at the unconscious Flanagan*
 "G::She'd have to go outside the bubble for that."
 "A::That's the easy part!"
-~Sonny was still weaving webs, the glowing sacks stuck to the walls~
-~Every addition making the bubble smaller - hotter~
+~Sonny was still weaving webs, the glowing sacks stuck to the walls.
+Every addition making the bubble smaller - hotter~
 "M::Does anyone have a better idea?"
 "G::Waiting it out is less than ideal: we don't know how long this will be..."
 *Martha looked around the room*
@@ -235,36 +235,36 @@ Up the rabbit hole to the real world."
 mn:AD
 }
 {
-~Ada walked through the halls of Șolomanță~
-~The palace she was in, had a particular quality:~
-~Everyone saw their own version of it~
-~Everyone knew it was underground the Romanian countryside, but...~
-~Were the walls red, or green, or plum?~
-~There were details rendered individually by the brains that saw it~
+~Ada walked through the halls of Șolomanță.
+The palace she was in, had a particular quality:.
+Everyone saw their own version of it.
+Everyone knew it was underground the Romanian countryside, but....
+Were the walls red, or green, or plum?.
+There were details rendered individually by the brains that saw it~
 `
 [looser details](/namshubettulpa/characters/lovelace/looser-details-fit-more-brains.md)`
-~Though many details were indeterminate there were some commonalities~
-~The floor was shades of copper, steel, iron, coal, tiled in a  [dragon curve](/namshubettulpa/world/dragon-curve.md), for one~
-~And rooms were all the same... 
+~Though many details were indeterminate there were some commonalities.
+The floor was shades of copper, steel, iron, coal, tiled in a  [dragon curve](/namshubettulpa/world/dragon-curve.md), for one.
+And rooms were all the same... 
 Well: mostly~
 'AD::What a golden opportunity.'
-~If she wanted she could peruse the library of  [memetic info-hazards](/namshubettulpa/world/memetic-info-hazard.md)~
-~It was to her left as she walked down the hall~
-~Her heels clacked on the floor and echoed down an otherwise eerie silence~
-~Above hung a sign, not of wood, or iron, as most chose to see it, but of fact~
+~If she wanted she could peruse the library of  [memetic info-hazards](/namshubettulpa/world/memetic-info-hazard.md).
+It was to her left as she walked down the hall.
+Her heels clacked on the floor and echoed down an otherwise eerie silence.
+Above hung a sign, not of wood, or iron, as most chose to see it, but of fact~
 *Dangerous!*
 'AD::Dangerous for a reason.'
 ~The doors had been opened~
 'AD::As long as I use the right filters.'
-*She looked in*
-*Naked facts hung everywhere*
-~Facts dangerous to understand, facts that could destroy minds~
-~But with the right filters of perception - looked at from only a particular viewpoint - they were safe to consume~
+*She looked in.
+Naked facts hung everywhere*
+~Facts dangerous to understand, facts that could destroy minds.
+But with the right filters of perception - looked at from only a particular viewpoint - they were safe to consume~
 'AD::Well... 
 Safe-ish...'
 *She continued on*
-~Part of her wanted to know - things other's have tried to understand only to have been brought to madness~
-~But she walked on, content in her brief encounter~
+~Part of her wanted to know - things other's have tried to understand only to have been brought to madness.
+But she walked on, content in her brief encounter~
 'AD::At least I get to enjoy this silence.'
 *She stepped over another body*
 ~All of which occasionally spasmed~
@@ -272,30 +272,30 @@ Safe-ish...'
 ~To the vault of infectious memes. 
 [The McCollough effect](/namshubettulpa/world/the-mccollough-effect.md) got out a few decades ago...~
 'AD::Or was it a few scores now...'
-~Time flew by so quickly the longer you lived~
-~It had led to some tools to make someone who was aware (but not awakened) very rich~
+~Time flew by so quickly the longer you lived.
+It had led to some tools to make someone who was aware (but not awakened) very rich~
 'AD::If I cared about making money, or if any of my friends did.'
 ~No, she decided - up the stairs~
 'AD::Onwards to the prize.'
 *She climbed them*
-~Upstairs was the sovereign's personal development environment~
-~Even most people at the gathering didn't know about this room~
+~Upstairs was the sovereign's personal development environment.
+Even most people at the gathering didn't know about this room~
 'AD::Hell, most people who did know about this chose to forget.'
 ~Not her though, she had to know, this and more~
 *She entered a room*
-~A bedroom - the bed was surrounded by a lake of water lined with mirror~
-~And another door: behind which was the most dangerous place in this reality~
-~As it edited this reality~
-~The truth she knew and chose to remember was that this reality was just a dream in the link~
-~A dream made solid by everyone's participation~
-~That there was nothing but the link~
-~That 'objective' reality was only a narrow part of the link~
-~Special, yes, but small~
-~And that narrow part kept minds bound to it~
-~And that room would edit not just that... but the link entire~
-~So of course she had to at least look inside~
-~She had to know~
-~She heard footsteps from below~
+~A bedroom - the bed was surrounded by a lake of water lined with mirror.
+And another door: behind which was the most dangerous place in this reality.
+As it edited this reality.
+The truth she knew and chose to remember was that this reality was just a dream in the link.
+A dream made solid by everyone's participation.
+That there was nothing but the link.
+That 'objective' reality was only a narrow part of the link.
+Special, yes, but small.
+And that narrow part kept minds bound to it.
+And that room would edit not just that... but the link entire.
+So of course she had to at least look inside.
+She had to know.
+She heard footsteps from below~
 "L::Hello!"
 ~The voice of a gruff carriage driver, one she didn't recognized~
 'AD::Quick peek, then get out of here.'
@@ -312,9 +312,9 @@ Safe-ish...'
 `
 ~Ada paused, a particular link formed  from a command line interface...~
 `true`
-~It was for emergencies - she kept enabled despite being told to server all open connections~
-~That was near impossible, to server all ties to the links~
-~But besides that one she had gotten close~
+~It was for emergencies - she kept enabled despite being told to server all open connections.
+That was near impossible, to server all ties to the links.
+But besides that one she had gotten close~
 *She closed the doors, and exited the room*
 ~Out in the hallway stood two people, old and frail and lumpy~
 "J::Awake, I win. 
@@ -324,11 +324,11 @@ Come on darling, much to catch up."
 "AD::Is the link safe?"
 ~Jochek and Lenny shook their heads~
 *Jochek embraced her, and Lenny shortly after*
-~Their bodies unaccustomed to hard riding; they were in need of a bath~
-~Still: Ada embraced them back~
+~Their bodies unaccustomed to hard riding; they were in need of a bath.
+Still: Ada embraced them back~
 "J::Physical link is fine."
-~And shorter than a heartbeat later Ada was one of three~
-~She felt the loss of self, to bring something greater into being~
+~And shorter than a heartbeat later Ada was one of three.
+She felt the loss of self, to bring something greater into being~
 }
 {
 mn:RX
@@ -338,19 +338,19 @@ mn:RX
 'AD::The Way Out is downstairs. 
 What gives with the unconscious?'
 *Footsteps fell on the stairs behind them*
-~Understanding flooded Ada - sharing a mind, sharing memories with the others she was both herself and not herself~
-~She was part of the  [egregore](/namshubettulap/world/egregore.md)  the Relux~
+~Understanding flooded Ada - sharing a mind, sharing memories with the others she was both herself and not herself.
+She was part of the  [egregore](/namshubettulap/world/egregore.md)  the Relux~
 'RX::Someone is awake!'
 'L::All of them...'
 ~Lenny, at the stairs, heard multiple sets of feet below~
 'RX::Hiding would be prudent.'
 ~They weren't supposed to be on this floor: none of the guests were~
 *Ada led them towards a door across the hall*
-~It led to a library for old dusty books~
-~Shelves lined the wall extending into the ceiling~
+~It led to a library for old dusty books.
+Shelves lined the wall extending into the ceiling~
 *Lenny locked the door*
-~They took a moment to rejoice: in their reunion ; their being one again~
-~A moment cut short by banging on the door~
+~They took a moment to rejoice: in their reunion ; their being one again.
+A moment cut short by banging on the door~
 }
 
 ## [consequences](consequences.md)

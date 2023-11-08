@@ -1,11 +1,11 @@
 # A STONE WALLED KINK
 {
 mn:K
-~Detective Kent Barbado watched the interrogation~
-~It was hilarious to him that Albert - normally so reserved - was getting as frustrated as he was with someone who wouldn't talk back~
+~Detective Kent Barbado watched the interrogation.
+It was hilarious to him that Albert - normally so reserved - was getting as frustrated as he was with someone who wouldn't talk back~
 *Kent watched Albert rise up, and lean over the table*
-~A feat by the measure of his belly pressed against the table~
-~If Kent's crux was coffee, Albert's was sugar - and carbohydrates in the form of croissants~
+~A feat by the measure of his belly pressed against the table.
+If Kent's crux was coffee, Albert's was sugar - and carbohydrates in the form of croissants~
 *He sipped his coffee*
 ~It was after 4am and he was on overtime~
 'K::Double time actually...'
@@ -13,18 +13,18 @@ mn:K
 }
 {
 *He scratched the matted back part of his hair, a nervous habit as he ran through the events as he sipped*
-~A phone call alerted them to the dead body~
-~He had been there~
-~Dead body by the center of the couch, no obvious markings, and sobbing relative, recently returning from a bar~
-~And a catatonic neighbor with a bloody shirt on~
+~A phone call alerted them to the dead bod.
+Kent had been there at the scene.
+Dead body by the center of the couch, no obvious markings, and sobbing relative, recently returning from a bar.
+And a catatonic neighbor with a bloody shirt on~
 'K::But not his blood...'
-~A quick blood type analysis showed that~
-~Type o negative, not b+~
-~They'd have a few hours, Maybe even a day or more for the toxicology report to run~
-~He wasn't sure how long the backlog was~
+~A quick blood type analysis showed that.
+Type o negative, not b+.
+They'd have a few hours, Maybe even a day or more for the toxicology report to run.
+He wasn't sure how long the backlog was~
 *Albert was shouting now, trying to provoke any response*
-*Kent sighed and made his way in the room - ushering Albert out*
-*He sat in the chair across from her: so far she hasn't responded*
+*Kent sighed and made his way in the room - ushering Albert out.
+He sat in the chair across from her: so far she hasn't responded*
 "K::Sorry about that, he usually has such a good temper."
 *He reached to his side and pulled out a small flashlight and waved it across her face*
 ~Pupils pulled in, as he scanned it across her face~
@@ -36,23 +36,23 @@ mn:K
 }
 {
 ~A thought crossed his mind~
-*Tapping his pencil across the book he considered* 
-*He took the pencil and pointed it directly at Martha's eye and pushed it forward*
+*Tapping his pencil across the book he considered.
+He took the pencil and pointed it directly at Martha's eye and pushed it forward*
 ~Like a slow homing dart~ 
 'K::God let me be right about this...' 
 *He inched it closer *
-~Letting the shape of things to come sink into her head~ 
-~He would stop it right before her eye, but would keep it moving at an even pace~
-~He was sure she was faking~
-~Or at least: she was in that blank stare somewhere~
+~Letting the shape of things to come sink into her head.
+He would stop it right before her eye, but would keep it moving at an even pace.
+He was sure she was faking.
+Or at least: she was in that blank stare somewhere~
 *He got less than an inch before her eye closed*
-~Just the one~
-~Her other eye continued to stare forward~
-~Not the dramatic reaction he was hoping for but something nonetheless~
-*He pulled the pencil back and her closed eye opened*
-*Then closed - with the other one*
-*She blinked in rapid succession and wobbled her head, slowly coming to focus on the desk, then around her - then at him* 
-*She tried to back away but was stopped by the handcuffs through the loop at the center of her edge of the table*
+~Just the one.
+Her other eye continued to stare forward.
+Not the dramatic reaction he was hoping for but something nonetheless~
+*He pulled the pencil back and her closed eye opened.
+Then closed - with the other one.
+She blinked in rapid succession and wobbled her head, slowly coming to focus on the desk, then around her - then at him.
+She tried to back away but was stopped by the handcuffs through the loop at the center of her edge of the table*
 "K::Awake now are we?"
 *He started writing down in his notebook*
 ~Well: Doodling actually~
@@ -89,8 +89,8 @@ Well, I wasn't moving, and you found my neighbor."
 *Kent took a sip from his coffee*
 "K::I see a lot of weird shit, it's 4am, how about you just tell me... 
 In your own words."
-*Martha paused*
-*Her eyes darted to the side*
+*Martha paused.
+Her eyes darted to the side*
 "M::No I won't do that."
 *Kent shifted forward*
 "K::Well if you aren't..."
@@ -102,8 +102,8 @@ I'll just...
 Look - this is not..."
 }
 {
-*A tapping came at the door, Kent looked up*
-*Another set of tapping*
+*A tapping came at the door, Kent looked up.
+Another set of tapping*
 ~A rhythmic knock he knew too well~
 "K::I'll be back, apparently there's something important."
 }
@@ -121,14 +121,14 @@ Look - this is not..."
 "K::Right, is that it?"
 *Tom nodded and walked away, turning his head over his shoulder*
 "T::I'm not doing special favors for you..."
-*Kent stood there, holding the folder*
-*Giving a small grunt as acknowledgement - he opened and read it while he walked back in the room*
+*Kent stood there, holding the folder. 
+Giving a small grunt as acknowledgement: he opened and read it while he walked back in the room*
 }
 {
 *Kent noticed Martha darted her head toward him*
 ~Her eyes showing a flash of panic which subsided, her mouth was half open~
-*Kent sat down, the folder open on the desk*
-*He leaned forward*
+*Kent sat down, the folder open on the desk.
+He leaned forward*
 "K::Tox report says clean..."
 *Kent looked up at Martha, who turned her head toward him*
 'She kept looking to my side...'
@@ -156,25 +156,25 @@ Fell..."
 "K::And he just... 
 Fell over?"
 *Martha nodded*
-*Kent paused*
+~Silence hung in the air~
 "K::What's so weird about that?"
-*Martha's eyes darted to the right again*
+*Martha's eyes darted to the right again.
+And she sighed*
 }
 {
-*And she sighed*
 "M::Fine."
 ~Kent waited and eventually Martha started talking - he couldn't quite hear the words - they weren't loud enough, but he couldn't make them out~
 "K::Is that... 
 Russian... 
 I don't -"
-*Martha's eyes went wide*
-*She spoke louder*'
-Well...
+*Martha's eyes went wide.
+She spoke louder*
+'K::Well...
 Was it speaking?'
 ~Sound was coming out - but it wasn't a language as far as he could tell: just random sounds~
 "K::Martha, what are you doing?"
-*She tapped her finger against her desk rapidly*
-*And she shuddered suddenly and the finger tapping stopped*
+*She tapped her finger against her desk rapidly.
+And she shuddered suddenly and the finger tapping stopped*
 }
 {
 "K::Martha?"
@@ -192,8 +192,8 @@ Or the social media..."
 No hooks in you..."
 "K::I mean...
 I'm not addicted to anything..."
-~Kent notice a lull, he thought she was going catatonic again for a moment~
-~But only for just a moment~
+~Kent notice a lull, he thought she was going catatonic again for a moment.
+But only for just a moment~
 "M::That's not what he means."
 "K::Who means?"
 *Martha breathed out*
@@ -211,10 +211,10 @@ No they really exist, just not a literal hook - you don't have any apparently."
 "K::There's nothing there."
 *Martha laughed*
 "M::Not for you."
-*Kent tilted his head*
+*Kent tilted his head.
+Martha sighed*
 }
 {
-*Martha sighed*
 "M::I'm sorry, I don't find this situation funny... 
 Not ha ha funny... 
 Just type 2 funny."
@@ -251,8 +251,8 @@ I don't quite know how to answer that..."
 But I don't think I killed her, not exactly..."
 ~Kent waited, but Martha said nothing further ~
 *Her head tilted slightly to the side*
-~He watched her, her eyes were following something~
-~Back and forth~
+~He watched her, her eyes were following something.
+Back and forth~
 "K::Connection?"
 "M::You don't have any hooks, he did."
 }

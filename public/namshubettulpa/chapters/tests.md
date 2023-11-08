@@ -5,9 +5,9 @@ mn:M
 "M::Seriously. 
 I just want to sleep now..."
 *Martha groaned as Rossin paced from the motel door entrance, to the bathroom*
-~It wasn't far~
-~They had gone to a nearby motel~
-~Not the closest - Rossin switched with her to have the manager hand over the keys~
+~It wasn't far.
+They had gone to a nearby motel.
+Not the closest, Rossin switched with her to have the manager hand over the keys~
 'R::There are a few things you need to know first, then you can sleep, I promise.'
 "M::Why are you pacing."
 *Rossin looked at her, still pacing*
@@ -67,9 +67,9 @@ He thinks you can use hooks successfully...
 But he does not know how.
 He will assume the visual link...'
 "M::He knows I killed someone..."
-~Martha realized And the thought of it still stung~
-~She just went along with killing another human~
-~Well, trading a human~
+~Martha realized And the thought of it still stung.
+She just went along with killing another human~
+'M::Well, trading a human'
 *She curled up*
 "M::That's what we did, I killed my neighbor, and we killed...
 Overwrote another human to take his place...
@@ -123,9 +123,9 @@ It is best that you are able to do these things without me being you.
 I can not do everything for you...
 But I can probably be of more help getting you up and running...
 But that is for when you wake...'
-~Martha realized that how tired she was, was in fact tied to Rossin's movement~
-~The more he moved, the more awake she felt~
-~But even with him moving: it was a stop gap against the inevitable force of sleep~
+~Martha realized that how tired she was, was in fact tied to Rossin's movement.
+The more he moved, the more awake she felt.
+But even with him moving: it was a stop gap against the inevitable force of sleep~
 'R::For now...
 I think that is everything. We will fix the people at the station, if anything even needs to be done...
 Maybe Felix noticed that detail...
@@ -155,10 +155,10 @@ Sleep deprivation is terrible and I live here now too, you know.'
 }
 {
 mn:K
-~Kent heard a ringing by his ear~
-~The much too loud kind~
-~The kind like his phone next to his ear~
-~The kind of ring he intentionally set far too loud to wake him up~
+~Kent heard a ringing by his ear.
+The much too loud kind.
+The kind like his phone next to his ear.
+The kind of ring he intentionally set far too loud to wake him up~
 *He groaned, bleary eyed*
 ~The clock next to his bed said 8:45 am~
 'Not even three hours.'
@@ -193,9 +193,9 @@ I'll be there in a little bit."
 *Kent squinted and reached over to closed the blinds next to his bed*
 "T::I'll heat up the coffee pot for you."
 "K::Don't do me any special favors."
-~He meant it~
-~It was nice and all~
-~But Tom's niceness felt like it had strings attached - strings he didn't want to pull~
+~He meant it.
+It was nice and all.
+But Tom's niceness felt like it had strings attached, strings he didn't want to pull~
 "T::It's coffee, from yesterday, fucking relax...
 Also..."
 ~There was a pause in the other line~
@@ -208,10 +208,9 @@ Well: you'll see when you get here."
 'K::Right...'
 ~It was by the door - he just sort of collapsed on his bed last night~
 'K::This morning.'
-~He corrected himself~
-~He realized he was still wearing his pants from last night~
-~He decided he would change them~
-~Another pause~
+~He corrected himself.
+He realized he was still wearing his pants from last night.
+He decided he would change them~
 "T::Well...
 I think...
 I don't know what I think. 
@@ -243,8 +242,8 @@ But...
 Well: just get down here..."
 "K::I'm on my way in..."
 *The phone clicked*
-~He needed coffee~
-~A lot of coffee~
+~He needed coffee.
+A lot of coffee~
 'K::Wallet, keys, phone...'
 ~Everything he needed besides coffee~
 }

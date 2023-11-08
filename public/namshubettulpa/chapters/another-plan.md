@@ -15,15 +15,15 @@ Instead they saw a blinding torrent of wind and snow and...~
 'RX::Something is wrong...'
 ~Ada caught a flicker out in the storm, accompanied by a sharp buzzing sound~
 'AD_R::What was that?'
-~Light was slowly breaking the through the snow, casting a blue glow to the trees, now just barely visible~
-~Ada caught a better look at an object flying by~
+~Light was slowly breaking the through the snow, casting a blue glow to the trees, now just barely visible.
+Ada caught a better look at an object flying by~
 'J__R::Oh shit...'
 ~It was a chainsaw~
 *A chainsaw flew into a tree.
 It split the tree in two, both parts melted into chainsaws.
 The upper part of the tree morphed into a chainsaw and flew away freely. 
-The lower half remained wedged in the ground: the chain spinning in the open air*
-*Ada pushed the others back deeper into the cave*
+The lower half remained wedged in the ground: the chain spinning in the open air.
+Ada pushed the others back deeper into the cave*
 ~It was only about twenty feet back~
 "D::That tree..."
 ~Dana was watching the opening of the cave in shock~
@@ -70,8 +70,8 @@ From where the chainsaw had bit in, rows of chains began to form~
 ~The infection spread along the wall~
 *Everyone pressed up against the back wall*
 ~The rows of chains seemed to melt away, growing the cave,
-What was actually happening: the chains spread the infection deeper into the cave wall, making a path back into the storm blocked by no wall~
-~These chainsaw wanted to fly, it was in their nature~
+What was actually happening: the chains spread the infection deeper into the cave wall, making a path back into the storm blocked by no wall.
+These chainsaw wanted to fly, it was in their nature~
 *The infection spread to the roof, then the other side of the cave.
 Chainsaws, starting at the lip and moving towards them - flying into the storm - blocking their path out*
 ~Both Lenny and Jochek were hard at work though~
@@ -86,8 +86,8 @@ The Chainsaws seemed to be following the storm, which was mostly blowing sideway
 ~The direction The Way Out was growing was towards the lip of the cave~
 "AD_R::Quickly now!"
 *Jochek threw the gas-mask toward the entrance of the cave.
-The Way Out grew to an orb, floating forward, growing larger as it did so*
-*Chainsaws that touched The Way Out fell inside out into nothing*
+The Way Out grew to an orb, floating forward, growing larger as it did so.
+Chainsaws that touched The Way Out fell inside out into nothing*
 ~The Way Out had grown to a size they could all fit behind comfortably~
 *The Way Out floated forward, slowing, then stopped next to the cave wall*
 ~It had expanded to half the width of the tunnel~
@@ -130,13 +130,13 @@ The Relux braced for the change~
 mn:RXD
 }
 {
-~Their memories merged, Ada's worry for Dana's past, Lenny's fondness, Jochek's desire, Dana's fear, blended together into something new~
 'RXD::Four in three, sustainable.'
+~Their memories merged, Ada's worry for Dana's past, Lenny's fondness, Jochek's desire, Dana's fear, blended together into something new~
 'D_D::Hello?
 Am I dead?'
 ~Dana saw though them, not having a body of her own, but seeing though each of their eyes.
-She watched her old body morph into a chainsaw and fly away~
-~It was disorienting, but three parts of us were used to it, and they could comfort the fourth~
+She watched her old body morph into a chainsaw and fly away.
+It was disorienting, but three parts of us were used to it, and they could comfort the fourth~
 *The three bodies huddled the four of them together for warmth*
 ~Aside The Way Out, chainsaws flew around them, but remained out of reach.
 Ada had concerns about the continued bombardment of the way out on it's orientation.
@@ -170,8 +170,8 @@ Same as you.'
 I only got rid of the boring stuff...
 Far as I can tell, anyway.'
 "A::So where is our dreamer, Dubai?"
-*Juan nodded*
-*Alacira held her hand to her head*
+*Juan nodded.
+Alacira held her hand to her head*
 "A::Wilbert, Sonny: take care of that."
 "RG__JL::They're fine, in a hospital."
 ~There was a scratching at the back of Martha's mind~
@@ -191,8 +191,8 @@ He's like a fish out of water..."
 *Alacira nodded*
 "A::Flanagan, do you have anything for Wilbert."
 'AT::You have a toy of mine, in you, time to wind it up a bit...'
-*Martha froze - then looked around*
-*Flanagan, on the sofa across from Martha waved them to the main entrance*
+*Martha froze - then looked around.
+Flanagan, on the sofa across from Martha waved them to the main entrance*
 "FL__F::Up the stairs, first door on the right: costumes."
 "M::We have a problem."
 *Rossin perked up at this*
@@ -220,20 +220,20 @@ Not for long anyway."
 *Martha slammed her arm into the coffee table*
 ~That wasn't her, she didn't do that~
 "M::That feels good."
-~Again, it wasn't her, she tried to stop her self but she was unable~
-~Thoughts that weren't hers entered her mind, a boiling tar of rage~
+~Again, it wasn't her, she tried to stop her self but she was unable.
+Thoughts that weren't hers entered her mind, a boiling tar of rage~
 *Martha stood up*
 ~Flanagan looked at her finally, remembering she was in the room~
 "FL__F::Martha?"
-*She charged him, aiming her strikes against his neck*
-*Martha fell halfway into her first throw, lost momentum and fell still*
+*She charged him, aiming her strikes against his neck.
+Martha fell halfway into her first throw, lost momentum and fell still*
 "K::She said it was talking to her."
 ~She still couldn't move, not even her lungs as her chest began to burn~
 *Rossin was fighting it*
 ~Somewhere in her mind, Rossin had gone to try keep it at bay~
 *He was losing*
 'M::He did say it would kill him...'
-~She couldn't turn her head to see everyone surrounding her~
-~Martha's vision faded around the edges, first to red, then to black~
+~She couldn't turn her head to see everyone surrounding her.
+Martha's vision faded around the edges, first to red, then to black~
 }
 # [giving up](giving-up.md)

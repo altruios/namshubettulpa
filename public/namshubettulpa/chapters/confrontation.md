@@ -2,9 +2,9 @@
 {
 mn:J
 "J::We would be together too..."
-~Jochek and Lenny had just arrived at the airport~
-~She was in the passenger seat~
-~They had no luggage~
+~Jochek and Lenny had just arrived at the airport.
+She was in the passenger seat.
+They had no luggage~
 "L::Flanagan said no link: means no link. 
 Besides, we can't move it through the link."
 *Jochek made a cutting motion with her hands*
@@ -30,11 +30,11 @@ We'll find some people close to her, put them in our bodies while we get back to
 "L::Talking is so faulty - so inefficient... 
 So many syllables..."
 "J::Then come here!"
-*She pulled him into a kiss*
-*Then into something deeper*
-~The creature humans are cells to~
-~It was and was the not Relux, with a missing third...~
-~Jochek and Lenny of the Lux slid in the Link~
+*She pulled him into a kiss.
+Then into something deeper*
+~The creature humans are cells to.
+It was and was the not Relux, with a missing third....
+Jochek and Lenny of the Lux slid in the Link~
 }
 
 {%%%%}
@@ -46,15 +46,15 @@ mn:K
 *Felix then placed his phone in their face*
 ~It was the 9th time~
 'K::Keep it cool Kent...'
-~Kent watched the stranger's eye twitch~
-~Felix using his phone irked Kent~
-~He had what happened to Tom still fresh in his mind~
+~Kent watched the stranger's eye twitch.
+Felix using his phone irked Kent.
+He had what happened to Tom still fresh in his mind~
 'K::It was earlier... 
 No, it was yesterday morning.'
 'K::How long have I been awake...'
-~Felix was just asking a question, and putting a memory of the thief's face in their brain~
-~A memory extracted from Felix - then encoded into his phone, and finally implanted into another brain~
-~It wasn't mind control~
+~Felix was just asking a question, and putting a memory of the thief's face in their brain.
+A memory extracted from Felix - then encoded into his phone, and finally implanted into another brain.
+It wasn't mind control~
 'K::Or so he tells me...'
 ~Kent silently fumed~
 'K::I had nothing better, it was this or blind searching.'
@@ -65,9 +65,9 @@ No, it was yesterday morning.'
 'K::How far can he go, he has a shopping cart...'
 *They walked around a corner, down another street*
 'K::All downhill...'
-~The cityscape looming above them~
-~They were directed into an alley~
-~There he was: leaning over his cart~
+~The cityscape looming above them.
+They were directed into an alley.
+There he was: leaning over his cart~
 *He pushed his shopping cart down the alley towards kent*
 ~He had just come out of some line - leading to a makeshift structure Kent had a poor view of~
 *Felix fiddled with his phone, then reached up to push it in the thief's face*
@@ -91,12 +91,12 @@ It's ain't a natural color."
 "K::Where's your chemist friend?"
 "HM::He's right back there: in the refrigerator boxes."
 *Kent leaned to his right to get a better view around the man*
-~Behind was a line of homeless, exchanging things at a window in the cardboard~
-~The cardboard structure was several dozen refrigerator-sized (or larger) boxes attached in a row~
-~The alley was bowed, and from the street looking in: it was near invisible~
+~Behind was a line of homeless, exchanging things at a window in the cardboard.
+The cardboard structure was several dozen refrigerator-sized (or larger) boxes attached in a row.
+The alley was bowed, and from the street looking in: it was near invisible~
 'K::The fuck am I looking at here.'
-~Kent looked closer at the window~
-~Everything and anything was being exchanged: for cash~
+~Kent looked closer at the window.
+Everything and anything was being exchanged: for cash~
 "HM::You want a cut of the billion dollars?"
 "K::How about you take us to your chemist, and we have a nice chat?"
 "HM::What you got ulterior motives or something, or you just want the syringe?"
@@ -107,40 +107,40 @@ It's ain't a natural color."
 *They entered the cardboard structure though a side 'door'*
 ~It was guarded~
 *Kent surrendered Felix's phone to his protest*
-~Inside, beyond piles of things, cardboard hallways, piles of cash, and several zoned out people, was the Chemist~
-~The chemist, a short balding man, sat in a yellow sofa in the back, watching things attached to a fan spin above him~
-~He was the only one in the room, which was filled with various household chemicals~
-~The floor was still asphalt, but it had a large rug, red and gold, covering most of the room~
+~Inside, beyond piles of things, cardboard hallways, piles of cash, and several zoned out people, was the Chemist.
+The chemist, a short balding man, sat in a yellow sofa in the back, watching things attached to a fan spin above him.
+He was the only one in the room, which was filled with various household chemicals.
+The floor was still asphalt, but it had a large rug, red and gold, covering most of the room~
 "HM::So these are the owners of that syringe - come to have a little chat, I'll just see myself out."
 *The homeless man turned his cart around and exited the way they came*
 "K::We'll be on our way shortly. 
 Once we have it back."
-~Kent looked more around the room~
-~Things he took for scrapes of metal and glass on the desk to the right were actually improvised beakers and distilling gear~
+~Kent looked more around the room.
+Things he took for scrapes of metal and glass on the desk to the right were actually improvised beakers and distilling gear~
 'K::Hm... all that cash and this...'
 ~A steel door in a brick building was one of the walls~
 *Felix walked up to the chemist*
-~The chemist lay there unmoving, staring at the spinning items on strings attached to the fan blades~
-~The glimmer caught Kent's eye~
-~It was the same glimmer he had seen before, that impossible color~
+~The chemist lay there unmoving, staring at the spinning items on strings attached to the fan blades.
+The glimmer caught Kent's eye.
+It was the same glimmer he had seen before, that impossible color~
 "K::There."
 *Kent pointed to the spinning fan*
 'K::Just take it and go?'
-*An alarm buzzed*
-*The Chemist jumped up and pulled the string to stop the fan*
+*An alarm buzzed.
+The Chemist jumped up and pulled the string to stop the fan*
 ~He noticed Kent and Felix~
 "C::Hello, what can I do you for?"
-*The Chemist plucked the vial of strange liquid and placed it on his desk*
-*He moved a prism and shown a light though both the vial and the prism*
-*He took notes in a pad to his right*
+*The Chemist plucked the vial of strange liquid and placed it on his desk.
+He moved a prism and shown a light though both the vial and the prism.
+He took notes in a pad to his right*
 "K::What you have there, is ours actually..."
 "C::Yours... 
 Interesting, Then you know what this stuff is?"
 *Felix raised his arm out to stop Kent*
 "F::What is it?"
 *The chemist held the vial up to them*
-~Kent looked around but did not see the original syringe~
-~A few cardboard boxes tall, a tower supported a desk fan - wet rags attached to the grill~
+~Kent looked around but did not see the original syringe.
+A few cardboard boxes tall, a tower supported a desk fan - wet rags attached to the grill~
 'K::Two fans, wait? a ceiling fan?!'
 ~The roof was cardboard~
 'K::How does it support the weight?'
@@ -170,10 +170,10 @@ And gets you a little high."
 ~He didn't feel different, not to himself at least~
 "C::Anyways - This stuff."
 *He held out a syringe*
-"C::This - is like the electron shell being around the wrong nucleus.   
-It's wrong but it still works, like there's something else balancing the scale."
+"C::This: it's giving off the wrong colors, ."
 ~Kent looked around the cardboard room~
-'K::He has to be bullshitting. 
+'K::I see a lot of cardboard...
+He has to be bullshitting. 
 Where is the equipment?'
 "K::And you can tell all this, how?"
 "C::So here..."
@@ -189,6 +189,7 @@ Instead a photon hits one of our photoreceptor, travels as an electrical signal 
 *The chemist leaned in*
 "C::And that signal - is color, it is our brain picking up a signal - and as you can see, it is the opposite of what we would expect.
 Where we expect dark there is light, expect a color and get the inversion."
+*As he spoke, the Chemist moved the prism over the vial, and the vial over the paper to demonstrate the effect*
 "K::That's definitive?"
 "C::I'll have results from the lab soon, I've only had this ten minutes."
 "F::Lab?"
@@ -221,8 +222,8 @@ I intend to stay that way."
 "C::We can both get what we intend."
 *Kent balled his hands and pushed his nails into his palms*
 ~Only to keep himself awake~
-*The chemist handed Felix the vial*
-*Felix nodded slowly*
+*The chemist handed Felix the vial.
+Felix nodded slowly*
 ~Kent's fingers loosened~
 "C::Now that that's done, shall we?"
 *The chemist pointed to his lab entrance*
@@ -255,15 +256,15 @@ Global.setTrigger(
 'M::Okay, is that it?'
 ~She went over everything in her head, again~
 'M::That should be it...'
-*She entered the clearing*
-*Flanagan was by her side*
-~In front of her was herself, reading a book, next to a woman~
-~The woman was ancient, crumpled by time, and a stranger to the sun~
+*She entered the clearing.
+Flanagan was by her side*
+~In front of her was herself, reading a book, next to a woman.
+The woman was ancient, crumpled by time, and a stranger to the sun~
 *As She and Flanagan stepped forward the woman vanished*
 ~Flanagan wore a frown~
 *Martha and Flanagan approached herself*
-~Herself was sitting at the corner window table~
-~As they drew near, the rest of Martha's view became an echo, a projected reflection of herself~
+~Herself was sitting at the corner window table.
+As they drew near, the rest of Martha's view became an echo, a projected reflection of herself~
 "FL::We're here at the edge, through here is our target."
 *Martha nodded and stepped forward*
 "M::Why is it here at all, at this book store, where I am?"
@@ -272,25 +273,25 @@ Global.setTrigger(
 `
 [the spider](/namshubettulpa/characters/spider/index.md)`
 *Which she stepped though, Flanagan holding her hand*
-~They were in the book store still, now outside of Martha's head~
-~The shelves shimmered softly - the shifting projections of minds looking at those books were in subtle conflict~
-~It was open currently, 7:30PM, and people were in the aisles~
-~Martha saw though their eyes, a projected map of the store.~
-~It was filled out with memories of what the rest looked like.~
-~Dreams of what it should look like~
-~All alined to make a landscape as solid as shifting scarves~
+~They were in the book store still, now outside of Martha's head.
+The shelves shimmered softly - the shifting projections of minds looking at those books were in subtle conflict.
+It was open currently, 7:30PM, and people were in the aisles.
+Martha saw though their eyes, a projected map of the store..
+It was filled out with memories of what the rest looked like..
+Dreams of what it should look like.
+All alined to make a landscape as solid as shifting scarves~
 *Martha waded through the floor, following Flanagan*
 'M::Too thick...'
-~She concentrated and iterations of the floor, the aisles, fell away~
-~She saw only what other's saw of the store~
-~And the floor was solid, but incomplete~
-~Instead of filling out the idea, patching an unseen bit of floor with a memory, there was nothing but a hole~
-~The hole from her childhood dreams~
+~She concentrated and iterations of the floor, the aisles, fell away.
+She saw only what other's saw of the store.
+And the floor was solid, but incomplete.
+Instead of filling out the idea, patching an unseen bit of floor with a memory, there was nothing but a hole.
+The hole from her childhood dreams~
 *A twisting, undulating mass slithered in the empty black*
 ~Both known and impossible to see~
 "M::I found it."
-~Flanagan was at her side, looking at the darkness~
-~They stood at a ledge into that void, a broken bit of floor and wall unseen in the corner~
+~Flanagan was at her side, looking at the darkness.
+They stood at a ledge into that void, a broken bit of floor and wall unseen in the corner~
 "FL::It hasn't seen us yet."
 ~Flanagan whispered~
 "FL::We can't assume we'll be lucky, at some point it will see us. 
@@ -300,22 +301,22 @@ You go around and poke it."
 'M::Here goes...'
 "FL::Quickly now."
 *Martha and Flanagan fell into darkness*
-~The instinctual part of her panicked - going from stability to this~
-~It wasn't merely a void - but an inevitably~
-~There was no hallway, no bookstore left, all directions pointed to al-tok~
+~The instinctual part of her panicked - going from stability to this.
+It wasn't merely a void - but an inevitably.
+There was no hallway, no bookstore left, all directions pointed to al-tok~
 *Flanagan and Martha fell some distance*
 ~Obeying strange laws of gravity, regardless of the direction they were falling - they were getting closer~
 *Flanagan nodded to her and shouted in the void*
 "FL::To your left, hurry!"
 *Martha pushed off of him and fell to her left*
-~Still falling towards Al-tok~
-~Flanagan grew more noticeable, brighter~
-~He was both behind her where she left him, and all around her - in some reflected pattern~
+~Still falling towards Al-tok.
+Flanagan grew more noticeable, brighter.
+He was both behind her where she left him, and all around her - in some reflected pattern~
 *Around her tentacles shot towards Flanagan*
 ~They were barbarous and leaking something corrosive~
 *He conjured lines of blinding yellow light*
-~Wrapping the tentacles together~
-~Martha kept as still as she could and silently fell towards her target~
+~Wrapping the tentacles together.
+Martha kept as still as she could and silently fell towards her target~
 *A tentacle nearly collided with her and forced her to move*
 ~As she twirled in the blackness she readied her spear~
 *A tentacle slammed into Flanagan - who screamed*
@@ -323,25 +324,25 @@ You go around and poke it."
 ~The yellow lines of light faded, then surged~
 *Flanagan was screaming, not in pain but in rage*
 ~The yellow lines started melting, coating the tentacles with a rubbery glue~
-*Martha took a breath. Aimed. Then threw her spear*
-*It flew forward - breaking into a fractal all around her as it did so*
+*Martha took a breath. Aimed. Then threw her spear.
+It flew forward - breaking into a fractal all around her as it did so*
 'M::Damn jet-pack would be convenient about now...'
 ~She was forming the grammar to summon one and saw Flanagan with out~
 'M::Or I could just give myself flying.'
 `~Self~.*Flying*=true`
-~It was what every dream said it would be, as such, she flew with years of dreamt precision~
-~She kept her eye on the descending spear~
-*A tentacle shot out in its path*
-*The spear glanced off at the ^collision, twisting off angle*
-~She felt the impact in her heart~
-~And her heart dropped, that was just a glancing blow - and in a second~
-*Martha faltered in time with Flanagan*
-*The spear slammed on it's side, bouncing uselessly against a thick carapace*
+~It was what every dream said it would be, as such, she flew with years of dreamt precision.
+She kept her eye on the descending spear~
+*A tentacle shot out in its path.
+The spear glanced off at the ^collision, twisting off angle*
+~She felt the impact in her heart.
+And her heart dropped, that was just a glancing blow - and in a second~
+*Martha faltered in time with Flanagan.
+The spear slammed on it's side, bouncing uselessly against a thick carapace*
 ~Martha knew Flanagan felt that impact~
 *She looked back at him*
 'M::He thinks it is only him.'
-~She couldn't affect the spear, out of her grasp - on the thing in front of her~
-~She had to get to that spear, she raced through some options in her mind~
+~She couldn't affect the spear, out of her grasp - on the thing in front of her.
+She had to get to that spear, she raced through some options in her mind~
 *She flew down to get it*
 'M::Okay, force-field, and something grabby!'
 ~She was almost there, having dodged every tentacle easily thus far~
@@ -350,16 +351,16 @@ You go around and poke it."
 *She paused just before touching the surface*
 ~All around her tentacles shifted like:~
 'M::Wiggling spaghetti...'
-~From this perspective everything in the horizon was al-tok, Flanagan a lonely figure in the distance~
-~Long strands stretched from all around her toward Flanagan, focused entirely on him~
+~From this perspective everything in the horizon was al-tok, Flanagan a lonely figure in the distance.
+Long strands stretched from all around her toward Flanagan, focused entirely on him~
 *She grabbed the spear, gripped the handle and stabbed down at the carapace*
-~A clink echoed throughout, reverberating a wave through the surface of al-tok~
-~It didn't penetrate~
+~A clink echoed throughout, reverberating a wave through the surface of al-tok.
+It didn't penetrate~
 'M::Shit...
 Okay, something tougher than super-sharp carbon-fiber...'
 *She took the spear and moved across the surface*
-~A short while later she noticed activity where she had been~
-~She was getting noticed~
+~A short while later she noticed activity where she had been.
+She was getting noticed~
 'M::Now or never!'
 
 `
@@ -384,8 +385,8 @@ cmb [
 ~Around her a faint hum started, and her vision was slightly clouded by blue~
 }
 {
-*Around her, tentacles started to shift*
-*She looked up*
+*Around her, tentacles started to shift.
+She looked up*
 ~Toward her, tentacles out of Flanagan's reach raced toward her~
 *She slammed the spear down*
 ~There was a terrible screeching sound~
@@ -407,47 +408,47 @@ cmb [
 ~She saw Flanagan fall on to some sort of ball - they were too far too see, but he didn't bounce~
 'M::Hamster ball?'
 *It was flying toward her, dodging the tentacles on it's way down*
-~But it wasn't going to make it in time~
-~She was half stuck in the tar-like fluid~
+~But it wasn't going to make it in time.
+She was half stuck in the tar-like fluid~
 *She stopped struggling*
-~It was heading directly for her~
-~As it drew closer she could see it was clear, and it held two men, one along the floor and one in the center piloting~
-~She recognized him, the Captain's first officer, Gerald~
+~It was heading directly for her.
+As it drew closer she could see it was clear, and it held two men, one along the floor and one in the center piloting.
+She recognized him, the Captain's first officer, Gerald~
 "M::Over here!"
 *The bubble was zipping toward her*
-~He sat in a chair in the center of the bubble, a victorian contraption attached him to the floor of the bubble~
-~That was the last she saw before she was engulfed~
+~He sat in a chair in the center of the bubble, a victorian contraption attached him to the floor of the bubble.
+That was the last she saw before she was engulfed~
 *She held her breath*
 ~Her rib seared in pain, like a burning knife was still stuck~
-*Something slithered around her ankle and pulled her down further*
-*Martha held her mouth and nose closed and sunk deeper*
-~She felt nothing against her skin directly~
-~Still, she didn't want to take the chance of anything getting in her lungs to a misplaced cough~
+*Something slithered around her ankle and pulled her down further.
+Martha held her mouth and nose closed and sunk deeper*
+~She felt nothing against her skin directly.
+Still, she didn't want to take the chance of anything getting in her lungs to a misplaced cough~
 'M::Anchor!'
 ~Martha still felt the slight tugging in her hand~
 'M::He is holding my hand...'
-~She thought of the bubble she saw him fall into~
-~She saw her hand disintegrate and that unraveling expanded to the rest of her~
+~She thought of the bubble she saw him fall into.
+She saw her hand disintegrate and that unraveling expanded to the rest of her~
 }
 {%%%%}
 {
-~The next thing she knew she was on the floor next to Flanagan, who was unconscious~
-~Her vision was still a faint blue, her shield still around her~
+~The next thing she knew she was on the floor next to Flanagan, who was unconscious.
+Her vision was still a faint blue, her shield still around her~
 "G::Good, I don't have to come get you."
 *Gerald pulled on a lever next to the seat he was in*
 ~She felt heavier as the gravity shifted~
 *A tentacle tried to impale the bubble, but it just spun*
 ~The interior platform Martha and Gerald were standing on stayed stationary~
 "G::None of that now."
-*Gerald pulled down on a lever next to him*
-*They shot outwards from al-tok*
-~Martha saw distant tentacles attached to different thoughts, ideas...~
-~It wasn't just in her book store, she saw... but it was attached to memories of libraries, and university studies~
-~She got the sense it was searching for something~
+*Gerald pulled down on a lever next to him.
+They shot outwards from al-tok*
+~Martha saw distant tentacles attached to different thoughts, ideas....
+It wasn't just in her book store, she saw... but it was attached to memories of libraries, and university studies.
+She got the sense it was searching for something~
 'M::It was doing this all while we were down there...'
 ~Flanagan was at her feet, wounded~
-*Martha tried to breath, instead she coughed*
-*She touched at her side*
+*Martha tried to breath, instead she coughed.
+She touched at her side*
 ~It was tender~
 `['Do I need to go to a hospital?', 'Am I an idea here, can I just fix myself?']`
 ~She tried~
@@ -463,12 +464,12 @@ cmb [
 `
 ~And it worked~
 *Her bones let out a snap as they bound together*
-~Heat rushed into her bruised rib, her stomach and her heart ~
-~It healed rapidly, but she was immediately hungry, worse... starving~
-~She was breathing rapidly~
-~She had not accounted for the energy use of healing, there's a reason people stay in bed for it~
-~She felt her skin as if it were fire~
-~Everything that could easily burn away for fuel was done so, at such a rapid pace martha started coughing up large bits of a dark grey matter~
+~Heat rushed into her bruised rib, her stomach and her heart .
+It healed rapidly, but she was immediately hungry, worse... starving.
+She was breathing rapidly.
+She had not accounted for the energy use of healing, there's a reason people stay in bed for it.
+She felt her skin as if it were fire.
+Everything that could easily burn away for fuel was done so, at such a rapid pace martha started coughing up large bits of a dark grey matter~
 *She stopped heaving and lay still for a while*
 ~Much thinner than what she had been, but now with a healed bone~
 "G::Are you alright?"
@@ -477,19 +478,19 @@ cmb [
 "G::Good excuse to lose some of this."
 ~He had a hand on his stomach~
 *He pushed down on the lever to his right and got out of the chair*
-~It seemed to be on some automatic setting~
-~Martha looked around and saw they were about to land on a familiar ship~
+~It seemed to be on some automatic setting.
+Martha looked around and saw they were about to land on a familiar ship~
 *Gerald took a knife*
 ~He spoke words and oddly, she didn't hear them~
 "G::I'm going to give you some of my fat: free energy."
 *Martha nodded her head*
 "G::Lower your shield."
-*She did so, and winced when he took the blade across his hand*
-*He made a small incision on her side and placed his hand there*
-~His arm rippled and bulged as did her side~
-~Each breath she took was a little easier, her thoughts clearer~
-*She sat up*
-*He wiped at his hand and the cut was gone, he did the same at her side to the same effect*
+*She did so, and winced when he took the blade across his hand.
+He made a small incision on her side and placed his hand there*
+~His arm rippled and bulged as did her side.
+Each breath she took was a little easier, her thoughts clearer~
+*She sat up.
+He wiped at his hand and the cut was gone, he did the same at her side to the same effect*
 "G::You've got a lot to learn. 
 But considering you started yesterday... 
 I'd say you're off to a good start."
