@@ -119,7 +119,7 @@ Right into Kent's legs~
 "L::And who might you be?"
 *Lenny walked over held out his hand*
 ~It was almost an afterthought, Kent could not take it before it dropped~
-*Lenny leaned over Martha and Kent*
+*Lenny leaned over Martha*
 "L::She got this Al-tok thing in her?"
 "A::No.
 It's related, but it's not Al-Tok."
@@ -568,7 +568,7 @@ You may be unable, or unwilling to change back to your former self."
 "O::In the link..."
 ~Erin didn't lower her hand, and Ozmind eventually continued~
 "O::Any state where you are not solidly in your self.
-So the link is the biggest example: any others?"
+So the link is the most obvious example: any others?"
 ~It was a question for the peanut gallery.
 Felix heard a few timid voices behind him~
 "S::Back of the mind?"
@@ -641,4 +641,4 @@ If he ever found the joke funny, he knew, he would be lost~
 *Felix ran*
 ~Out onto the streets; From his problems~
 }
-# turning of the tides
+# [turning of the tides](turning-of-the-tides.md)
