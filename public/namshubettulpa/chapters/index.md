@@ -1,8 +1,8 @@
 {`
-~date~:11/07/23 
+~date~:01/08/24
 
 ~status~: ~in progress~ {
-~estimated~: ~89% of first draft~    
+~estimated~: ~89.5% of first draft~    
 }
 chapters:{
 

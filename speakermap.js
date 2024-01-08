@@ -37,6 +37,7 @@ const speaker_map={
     T:"Tom Garland",
     U:"Uri Maca",
     W:"Wilbert",
+    WB:"Wilbert holmes Barley",
     __:function(key,key2){
         return this[key]+" of the "+this[key2]
     },

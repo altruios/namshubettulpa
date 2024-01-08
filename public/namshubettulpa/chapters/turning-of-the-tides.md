@@ -6,7 +6,7 @@ todo
 
 
   Narrator:"The Relux"
-    ~Al-tok~ attacks ~the Relux~
+    ~Al-tok~ attacks ~the Redlux~
       but being a hivemind - they stave it off.
   
   Narrator:"Martha"
@@ -28,6 +28,8 @@ todo
     ~Robert~ wants to use ~Al-tok~ 
       as a chip to renegotiation.
 
+    narrator:"Gerald" - the ship is gone
 `
 
 }
+# [interludes 3](interludes-3.md)
