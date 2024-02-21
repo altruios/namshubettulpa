@@ -531,9 +531,9 @@ Machete blows landed on his raised forearms*
 She looked back at the creature wearing her childhood nightmare's skin, who turned those black pool eyes toward her.
 She gulped.
 He started toward her: but was held back by that old man.
-The monk mouthed the words* 
+The monk mouthed the words:* 
 `>>--T("Fuggire":Italian) "Flee!"`
-*He finished his work by casually slicing at the monk's neck.
+*The nightmare finished its work by casually slicing at the monk's neck.
 The monk fell to his side in a silent gurgling gasping.
 The masked man marched onward at a steady pace*
 *Martha backed away, felt the window at her back.
